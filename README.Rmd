@@ -5,7 +5,7 @@
 
 # outbreaks: a compilation of disease outbreak data
 
-This package compiles a series of disease outbreak data.
+This package compiles a series of disease outbreak data, to be shared during Hackout 3.
 Data can be provided as R objects (loaded automatically when loading the package), text files distributed alongside the package, or functions generating a dataset.
 
 The following R datasets are currently available:
@@ -13,7 +13,7 @@ The following R datasets are currently available:
 data(package="outbreaks")
 ```
 
-# installing the package
+# Installing the package
 
 To install the devel version of the package, type:
 ```{r install, eval=FALSE}
@@ -28,7 +28,9 @@ Note that this requires the package *devtools* installed.
 ## Add your own data!
 
 ### How to add data?
-We may try to automate the procedure at a later stage, but for now the addition of new dataset is manual. Acceptable forms are:
+We will try to create a better repository and data submission system at a later stage.
+The purpose of the current package is only to share examplar datasets during the hackathon. 
+Acceptable forms are:
 - as a `.RData` files in the `data/` folder (recommended)
 - as a text file in the `inst/` folder
 - as a function loading/assembling/simulating a dataset
