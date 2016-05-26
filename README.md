@@ -14,9 +14,12 @@ The following R datasets are currently available:
 data(package="outbreaks")
 ```
 
-```
-## Error in find.package(package, lib.loc, verbose = verbose): there is no package called 'outbreaks'
-```
+
+
+|Item            |Title                    |
+|:---------------|:------------------------|
+|ebola.sim       |Simulated Ebola outbreak |
+|ebola.sim.clean |Simulated Ebola outbreak |
 
 # Installing the package
 
