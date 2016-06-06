@@ -1,4 +1,7 @@
-.Rproj.user
-.Rhistory
-.RData
 *~
+inst/doc
+.RData
+.Rhistory
+.Rproj.user
+.outbreaks.Rproj
+outbreaks.Rproj
