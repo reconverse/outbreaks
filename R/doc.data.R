@@ -14,12 +14,18 @@
 #' dataset, only dates of infection and onset have been set to 'NA'.
 #'
 #' @docType data
-#' @aliases sim.ebola sim.ebola.clean
 #'
-#' @author Data simulated by Pierre Nouvellet (\email{p.nouvellet@@imperial.ac.uk}).
+#' @export
+#'
+#' @rdname sim.ebola
+#'
+#' @author Data simulated by Pierre Nouvellet (\email{p.nouvellet@@imperial.ac.uk}). Transfer to R
+#' and documentation by Thibaut Jombart (\email{thibautjombart@@gmail.com}).
 #'
 #' @references
-#' WHO Ebola Response Team. 2014. Ebola virus disease in West Africa--the first 9 months of the epidemic and forward projections. The New England journal of medicine 371:1481–1495.
+#'
+#' WHO Ebola Response Team. 2014. Ebola virus disease in West Africa--the first 9 months
+#' of the epidemic and forward projections. The New England journal of medicine 371:1481–1495.
 #'
 #' WHO Ebola Response Team, J. Agua-Agum, A. Ariyarajah, B. Aylward, I. M. Blake, R. Brennan,
 #' A. Cori, C. A. Donnelly, I. Dorigatti, C. Dye, T. Eckmanns, N. M. Ferguson, P. Formenty,
@@ -39,3 +45,11 @@
 #' identical(sim.ebola.clean, sim.ebola[-mistakes, ])
 #'
 "sim.ebola"
+
+
+
+#' @rdname ebola.sim
+#' @aliases  sim.ebola.clean
+#' @export
+#'
+"sim.ebola.clean"

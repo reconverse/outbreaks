@@ -3,7 +3,6 @@
 \docType{data}
 \name{sim.ebola}
 \alias{sim.ebola}
-\alias{sim.ebola.clean}
 \title{Simulated Ebola outbreak}
 \format{An object of class \code{data.frame} with 5889 rows and 12 columns.}
 \usage{
@@ -35,10 +34,12 @@ identical(sim.ebola.clean, sim.ebola[-mistakes, ])
 
 }
 \author{
-Data simulated by Pierre Nouvellet (\email{p.nouvellet@imperial.ac.uk}).
+Data simulated by Pierre Nouvellet (\email{p.nouvellet@imperial.ac.uk}). Transfer to R
+and documentation by Thibaut Jombart (\email{thibautjombart@gmail.com}).
 }
 \references{
-WHO Ebola Response Team. 2014. Ebola virus disease in West Africa--the first 9 months of the epidemic and forward projections. The New England journal of medicine 371:1481–1495.
+WHO Ebola Response Team. 2014. Ebola virus disease in West Africa--the first 9 months
+of the epidemic and forward projections. The New England journal of medicine 371:1481–1495.
 
 WHO Ebola Response Team, J. Agua-Agum, A. Ariyarajah, B. Aylward, I. M. Blake, R. Brennan,
 A. Cori, C. A. Donnelly, I. Dorigatti, C. Dye, T. Eckmanns, N. M. Ferguson, P. Formenty,
