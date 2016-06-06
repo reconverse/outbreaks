@@ -17,6 +17,8 @@
 #'
 #' @rdname ebola.sim
 #'
+#' @aliases ebola.sim
+#'
 #' @author Data simulated by Pierre Nouvellet (\email{p.nouvellet@@imperial.ac.uk}). Transfer to R
 #' and documentation by Thibaut Jombart (\email{thibautjombart@@gmail.com}).
 #'
