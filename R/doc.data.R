@@ -31,7 +31,7 @@
 #'
 #' @examples
 #' ## identify mistakes in data entry (negative incubation period)
-#' mistakes <- which(sim.ebola$date.of.onset <= x$date.of.infection)
+#' mistakes <- which(sim.ebola$date.of.onset <= sim.ebola$date.of.infection)
 #' mistakes
 #' sim.ebola[mistakes]
 #'
