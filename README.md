@@ -1,14 +1,37 @@
+[![Travis-CI Build Status](https://travis-ci.org/Hackout3/outbreaks.svg?branch=master)](https://travis-ci.org/Hackout3/outbreaks)
+
+
 # outbreaks: a compilation of disease outbreak data
 
 This package compiles a series of disease outbreak data.
-The following datasets are currently available:
-- 
--
-- 
+Data can be provided as R objects (loaded automatically when loading the package), text files distributed alongside the package, or functions generating a dataset.
+
+The following R datasets are currently available:
+```{r datalist}
+data(package="outbreaks")
+```
 
 
 
-# Contributors (by alphabetic order):
+
+## Add your own data!
+
+### How to add data?
+We may try to automate the procedure at a later stage, but for now the addition of new dataset is manual. Acceptable forms are:
+- as a `.RData` files in the `data/` folder (recommended)
+- as a text file in the `inst/` folder
+- as a function loading/assembling/simulating a dataset
+
+### Naming Conventions
+We use the lower cases and dots to separate words for the files and dataset names, so that for a `RData` object, a new dataset woud look like: `my.new.data.RData'. Try using informative names, typically using the disease first. Whenever available, order fields as:
+   1. *disease*: mandatory
+   2. *location*: optional
+   3. *year*: optional
+   4. *sim*: mandatory if this is a simulated dataset; otherwise data is assume to be an actual outbreak
+   5. *other* (any other relevant information)
+
+
+### Contributors (by alphabetic order):
 - Thibaut Jombart
 - Pierre Nouvellet
 - Simon Frost
