@@ -1,9 +1,15 @@
 Package: outbreaks
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.3.0)
-License: What license is it under?
+Title: A Collection of Disease Outbreak Data
+Version: 1.0.0
+Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", role = c("aut", "cre")), 
+	   person("Addyour", "Namehere", email = "first.last@example.com", role = c("aut"))
+	   )
+Description: Empirical or simulated disease outbreak data, provided either as
+    RData or as text files.
+Depends:
+    R (>= 3.0.0)
+License: GPL (>=2)
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 5.0.1
+Suggests: testthat
