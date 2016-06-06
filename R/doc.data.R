@@ -17,7 +17,7 @@
 #'
 #' @export
 #'
-#' @rdname sim.ebola
+#' @rdname ebola.sim
 #'
 #' @author Data simulated by Pierre Nouvellet (\email{p.nouvellet@@imperial.ac.uk}). Transfer to R
 #' and documentation by Thibaut Jombart (\email{thibautjombart@@gmail.com}).
@@ -37,19 +37,19 @@
 #'
 #' @examples
 #' ## identify mistakes in data entry (negative incubation period)
-#' mistakes <- which(sim.ebola$date.of.onset <= sim.ebola$date.of.infection)
+#' mistakes <- which(ebola.sim$date.of.onset <= ebola.sim$date.of.infection)
 #' mistakes
-#' sim.ebola[mistakes, ]
+#' ebola.sim[mistakes, ]
 #'
-#' ## check that sim.ebola.clean is identical after removing mistakes
-#' identical(sim.ebola.clean, sim.ebola[-mistakes, ])
+#' ## check that ebola.sim.clean is identical after removing mistakes
+#' identical(ebola.sim.clean, ebola.sim[-mistakes, ])
 #'
-"sim.ebola"
+"ebola.sim"
 
 
 
 #' @rdname ebola.sim
-#' @aliases  sim.ebola.clean
+#' @aliases  ebola.sim.clean
 #' @export
 #'
-"sim.ebola.clean"
+"ebola.sim.clean"
