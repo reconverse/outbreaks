@@ -28,7 +28,7 @@ dataset, only dates of infection and onset have been set to 'NA'.
 ## identify mistakes in data entry (negative incubation period)
 mistakes <- which(sim.ebola$date.of.onset <= sim.ebola$date.of.infection)
 mistakes
-sim.ebola[mistakes]
+sim.ebola[mistakes, ]
 
 ## check that sim.ebola.clean is identical after removing mistakes
 identical(sim.ebola.clean, sim.ebola[-mistakes, ])
