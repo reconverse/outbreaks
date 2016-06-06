@@ -1,5 +1,7 @@
 [![Travis-CI Build Status](https://travis-ci.org/Hackout3/outbreaks.svg?branch=master)](https://travis-ci.org/Hackout3/outbreaks)
 
+[![Coverage Status](https://img.shields.io/codecov/c/github/Hackout3/outbreaks/master.svg)](https://codecov.io/github/Hackout3/outbreaks?branch=master)
+
 
 # outbreaks: a compilation of disease outbreak data
 
@@ -14,10 +16,10 @@ data(package="outbreaks")
 
 
 
-|Item            |Title                    |
-|:---------------|:------------------------|
-|sim.ebola       |Simulated Ebola outbreak |
-|sim.ebola.clean |Simulated Ebola outbreak |
+|Item            |Title |
+|:---------------|:-----|
+|ebola.sim.clean |      |
+|ebola.sim       |      |
 
 
 
