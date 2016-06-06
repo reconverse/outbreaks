@@ -16,10 +16,20 @@ data(package="outbreaks")
 
 
 
-|Item            |Title |
-|:---------------|:-----|
-|ebola.sim.clean |      |
-|ebola.sim       |      |
+|Item            |Title                    |
+|:---------------|:------------------------|
+|ebola.sim       |Simulated Ebola outbreak |
+|ebola.sim.clean |Simulated Ebola outbreak |
+
+# installing the package
+
+To install the devel version of the package, type:
+
+```r
+devtools::install_github("Hackout3/outbreaks")
+```
+
+Note that this requires the package *devtools* installed.
 
 
 
@@ -38,7 +48,7 @@ We use the lower cases and dots to separate words for the files and dataset name
    2. *location*: optional
    3. *year*: optional
    4. *sim*: mandatory if this is a simulated dataset; otherwise data is assume to be an actual outbreak
-   5. *other* (any other relevant information)
+   5. *other*: (any other relevant information)
 
 
 ### Contributors (by alphabetic order):
