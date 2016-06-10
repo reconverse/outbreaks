@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #' 
-#' @format A data frame with 136 rows and 7 columns
+#' @format A data frame with 136 rows and 8 columns
 #' 
 #' @rdname fluH7N9.china.2013
 #'
@@ -16,11 +16,11 @@
 #' @source \url{http://datadryad.org/resource/doi:10.5061/dryad.2g43n/1}
 #' 
 #' @references
-#' A. Kucharski, H. Mills, A. Pinsent, C. Fraser, M. Van Kerkhove, C. A. Donnelly, and S. Riley. 2014
+#' A. Kucharski, H. Mills, A. Pinsent, C. Fraser, M. Van Kerkhove, C. A. Donnelly, and S. Riley. 2014.
 #' Distinguishing between reservoir exposure and human-to-human transmission for emerging pathogens using case onset data.
 #' PLOS Currents Outbreaks. Mar 7, edition 1. doi: 10.1371/currents.outbreaks.e1473d9bfc99d080ca242139a06c455f.
 #' 
-#' #' A. Kucharski, H. Mills, A. Pinsent, C. Fraser, M. Van Kerkhove, C. A. Donnelly, and S. Riley. 2014
+#' A. Kucharski, H. Mills, A. Pinsent, C. Fraser, M. Van Kerkhove, C. A. Donnelly, and S. Riley. 2014.
 #' Data from: Distinguishing between reservoir exposure and human-to-human transmission for emerging pathogens using case onset data.
 #' Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.2g43n.
 #'
