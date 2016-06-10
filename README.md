@@ -10,16 +10,10 @@ Data can be provided as R objects (loaded automatically when loading the package
 
 The following R datasets are currently available:
 
+
 ```r
 data(package="outbreaks")
 ```
-
-
-
-|Item            |Title                    |
-|:---------------|:------------------------|
-|ebola.sim       |Simulated Ebola outbreak |
-|ebola.sim.clean |Simulated Ebola outbreak |
 
 # Installing the package
 
