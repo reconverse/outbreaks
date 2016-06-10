@@ -8,8 +8,6 @@
 #' 
 #' @rdname fluH7N9.china.2013
 #'
-#' @aliases fluH7N8.china.2013
-#'
 #' @author Data collated by Adam Kucharski et al. from ProMed, WHO, FluTrackers, news reports and research articles.
 #' Transfer to R and documentation by Simon Frost (\email{sdwfrost@@gmail.com}).
 #' 

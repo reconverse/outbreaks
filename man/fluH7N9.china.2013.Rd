@@ -2,7 +2,6 @@
 % Please edit documentation in R/fluH7N9.china.2013.R
 \docType{data}
 \name{fluH7N9.china.2013}
-\alias{fluH7N8.china.2013}
 \alias{fluH7N9.china.2013}
 \title{Influenza A H7N9 outbreak in China}
 \format{A data frame with 136 rows and 8 columns}
