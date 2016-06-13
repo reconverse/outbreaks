@@ -15,14 +15,14 @@ data(package="outbreaks")
 
 
 
-|Item                          |Title |
-|:-----------------------------|:-----|
-|ebola.sim.clean               |      |
-|ebola.sim                     |      |
-|fluH7N9.china.2013            |      |
-|influenza.england.1978.school |      |
-|sars.canada.2003              |      |
-|smallpox.abakaliki.1967       |      |
+|Item                          |Title                                             |
+|:-----------------------------|:-------------------------------------------------|
+|ebola.sim                     |Simulated Ebola outbreak                          |
+|ebola.sim.clean               |Simulated Ebola outbreak                          |
+|fluH7N9.china.2013            |Influenza A H7N9 outbreak in China                |
+|influenza.england.1978.school |Influenza in a boarding school in England, 1978   |
+|sars.canada.2003              |Severe Acute Respiratory Syndrome in Canada, 2003 |
+|smallpox.abakaliki.1967       |Smallpox cases in Abakaliki, Nigeria in 1967      |
 
 # Installing the package
 
