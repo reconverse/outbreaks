@@ -10,7 +10,7 @@
 #'   \item{cases.travel}{New cases attributed to travel}
 #'   \item{cases.household}{New cases attributed to household transmission}
 #'   \item{cases.healthcare}{New cases in a healthcare setting}
-#'   \item{cases.household}{Other new cases}
+#'   \item{cases.other}{Other new cases}
 #' }
 #'
 #' @rdname sars.canada.2003
