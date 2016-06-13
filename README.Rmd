@@ -1,8 +1,5 @@
 [![Travis-CI Build Status](https://travis-ci.org/Hackout3/outbreaks.svg?branch=master)](https://travis-ci.org/Hackout3/outbreaks)
 
-[![Coverage Status](https://img.shields.io/codecov/c/github/Hackout3/outbreaks/master.svg)](https://codecov.io/github/Hackout3/outbreaks?branch=master)
-
-
 # outbreaks: a compilation of disease outbreak data
 
 This package compiles a series of disease outbreak data, to be shared during Hackout 3.
