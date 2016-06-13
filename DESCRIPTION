@@ -1,8 +1,9 @@
 Package: outbreaks
 Title: A Collection of Disease Outbreak Data
 Version: 1.0.0
-Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", role = c("aut", "cre")), 
-	   person("Addyour", "Namehere", email = "first.last@example.com", role = c("aut"))
+Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", role = c("aut", "cre")),
+	   person("Simon", "Frost", role = c("aut")),
+	   person("Pierre", "Nouvellet", role = c("aut"))
 	   )
 Description: Empirical or simulated disease outbreak data, provided either as
     RData or as text files.
