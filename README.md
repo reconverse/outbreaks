@@ -48,8 +48,8 @@ We use the lower cases and dots to separate words for the files and dataset name
 
 
 ### Contributors (by alphabetic order):
-- Thibaut Jombart
+- Simon Frost (@sdwfrost)
+- Thibaut Jombart (@thibautjombart)
 - Pierre Nouvellet
-- Simon Frost
 
 Maintainer (temporary): Thibaut Jombart (thibautjombart@gmail.com)
