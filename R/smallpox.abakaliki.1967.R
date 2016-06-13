@@ -9,7 +9,7 @@
 #' @format A data frame with 32 rows and 8 columns
 #' \describe{
 #'   \item{case.ID}{Case identification number}
-#'   \item{data.of.onset}{Date of onset of symptoms}
+#'   \item{date.of.onset}{Date of onset of symptoms}
 #'   \item{age}{Age in years}
 #'   \item{gender}{Gender: female (f) or male (m) (factor)}
 #'   \item{vaccinated}{Previously vaccinated: no (n) or yes (y) (factor)}
