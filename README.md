@@ -11,9 +11,21 @@ Data can be provided as R objects (loaded automatically when loading the package
 The following R datasets are currently available:
 
 
+
 ```r
 data(package="outbreaks")
 ```
+
+
+
+|Item                          |Title |
+|:-----------------------------|:-----|
+|ebola.sim.clean               |      |
+|ebola.sim                     |      |
+|fluH7N9.china.2013            |      |
+|influenza.england.1978.school |      |
+|sars.canada.2003              |      |
+|smallpox.abakaliki.1967       |      |
 
 # Installing the package
 
