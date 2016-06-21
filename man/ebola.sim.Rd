@@ -5,7 +5,7 @@
 \alias{ebola.sim}
 \alias{ebola.sim.clean}
 \title{Simulated Ebola outbreak}
-\format{An object of class \code{data.frame} with 5889 rows and 12 columns.}
+\format{An object of class \code{data.frame} with 5889 rows and 11 columns.}
 \usage{
 ebola.sim
 
