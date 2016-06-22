@@ -37,12 +37,12 @@
 #'
 #' @examples
 #' ## identify mistakes in data entry (negative incubation period)
-#' mistakes <- which(ebola.sim$date.of.onset <= ebola.sim$date.of.infection)
+#' mistakes <- which(ebola.sim$linelist$date.of.onset <= ebola.sim$linelist$date.of.infection)
 #' mistakes
-#' ebola.sim[mistakes, ]
+#' ebola.sim$linelist[mistakes, ]
 #'
 #' ## check that ebola.sim.clean is identical after removing mistakes
-#' identical(ebola.sim.clean, ebola.sim[-mistakes, ])
+#' identical(ebola.sim.clean$linelist, ebola.sim$linelist[-mistakes, ])
 #'
 "ebola.sim"
 

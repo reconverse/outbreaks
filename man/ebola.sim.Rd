@@ -5,7 +5,7 @@
 \alias{ebola.sim}
 \alias{ebola.sim.clean}
 \title{Simulated Ebola outbreak}
-\format{An object of class \code{data.frame} with 5889 rows and 11 columns.}
+\format{An object of class \code{list} of length 2.}
 \usage{
 ebola.sim
 
@@ -28,12 +28,12 @@ dataset, only dates of infection and onset have been set to 'NA'.
 }
 \examples{
 ## identify mistakes in data entry (negative incubation period)
-mistakes <- which(ebola.sim$date.of.onset <= ebola.sim$date.of.infection)
+mistakes <- which(ebola.sim$linelist$date.of.onset <= ebola.sim$linelist$date.of.infection)
 mistakes
-ebola.sim[mistakes, ]
+ebola.sim$linelist[mistakes, ]
 
 ## check that ebola.sim.clean is identical after removing mistakes
-identical(ebola.sim.clean, ebola.sim[-mistakes, ])
+identical(ebola.sim.clean$linelist, ebola.sim$linelist[-mistakes, ])
 
 }
 \author{
