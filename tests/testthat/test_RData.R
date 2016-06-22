@@ -4,7 +4,7 @@ test_that("ebola.sim and ebola.sim.clean are OK", {
     ## dimensions
     expect_identical(ncol(ebola.sim$linelist), ncol(ebola.sim.clean$linelist))
     expect_equal(nrow(ebola.sim$linelist), 5888)
-    expect_equal(nrow(ebola.sim.clean$linelist), 5689)
+    expect_equal(nrow(ebola.sim.clean$linelist), 5829)
 
     ## names
     expect_identical(names(ebola.sim), names(ebola.sim.clean))
