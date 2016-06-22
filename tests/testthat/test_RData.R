@@ -3,7 +3,7 @@ context("RData objects distributed with the package")
 test_that("ebola.sim and ebola.sim.clean are OK", {
     ## dimensions
     expect_identical(ncol(ebola.sim$linelist), ncol(ebola.sim.clean$linelist))
-    expect_equal(nrow(ebola.sim$linelist), 5889)
+    expect_equal(nrow(ebola.sim$linelist), 5888)
     expect_equal(nrow(ebola.sim.clean$linelist), 5689)
 
     ## names
