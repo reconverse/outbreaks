@@ -7,6 +7,9 @@ Data can be provided as R objects (loaded automatically when loading the package
 
 The following R datasets are currently available:
 
+```
+## Loading required package: printr
+```
 
 
 ```r
@@ -31,7 +34,7 @@ data(package="outbreaks")
 To install the devel version of the package, type:
 
 ```r
-devtools::install_github("Hackout3/outbreaks")
+devtools::install_github("reconhub/outbreaks")
 ```
 
 Note that this requires the package *devtools* installed.
