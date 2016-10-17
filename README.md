@@ -1,4 +1,4 @@
-[![Travis-CI Build Status](https://travis-ci.org/Hackout3/outbreaks.svg?branch=master)](https://travis-ci.org/Hackout3/outbreaks)
+[![Travis-CI Build Status](https://travis-ci.org/reconhub/outbreaks.svg?branch=master)](https://travis-ci.org/reconhub/outbreaks)
 
 # outbreaks: a compilation of disease outbreak data
 
