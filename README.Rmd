@@ -46,8 +46,10 @@ We use the lower cases and dots to separate words for the files and dataset name
 
 
 ### Contributors (by alphabetic order):
+- Finlay Campbell
 - Simon Frost (@sdwfrost)
 - Thibaut Jombart (@thibautjombart)
 - Pierre Nouvellet
 
-Maintainer (temporary): Thibaut Jombart (thibautjombart@gmail.com)
+
+Maintainer: Finlay Campbell (f.campbell15@imperial.ac.uk)
