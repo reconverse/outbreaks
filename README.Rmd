@@ -46,7 +46,7 @@ We use the lower cases and dots to separate words for the files and dataset name
 
 
 ### Contributors (by alphabetic order):
-- Finlay Campbell
+- Finlay Campbell (@finlaycampbell)
 - Simon Frost (@sdwfrost)
 - Thibaut Jombart (@thibautjombart)
 - Pierre Nouvellet
