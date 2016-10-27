@@ -7,24 +7,24 @@ Data can be provided as R objects (loaded automatically when loading the package
 
 The following R datasets are currently available:
 
-```
-## Loading required package: printr
-```
-
-```
-## Warning in library(package, lib.loc = lib.loc, character.only = TRUE,
-## logical.return = TRUE, : there is no package called 'printr'
-```
-
-```
-## Warning: printr is not installed; displaying the content of 'data(...)' may
-## not work
-```
 
 
 ```r
 data(package="outbreaks")
 ```
+
+
+
+|Item                          |Title                                                   |
+|:-----------------------------|:-------------------------------------------------------|
+|ebola.kikwit.1995             |Ebola in Kikwit, Democratic Republic of the Congo, 1995 |
+|ebola.sim                     |Simulated Ebola outbreak                                |
+|ebola.sim.clean               |Simulated Ebola outbreak                                |
+|fluH7N9.china.2013            |Influenza A H7N9 outbreak in China                      |
+|influenza.england.1978.school |Influenza in a boarding school in England, 1978         |
+|measles.hagelloch.1861        |Measles in Hagelloch, Germany, 1861                     |
+|sars.canada.2003              |Severe Acute Respiratory Syndrome in Canada, 2003       |
+|smallpox.abakaliki.1967       |Smallpox cases in Abakaliki, Nigeria in 1967            |
 
 # Installing the package
 
