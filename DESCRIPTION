@@ -1,12 +1,11 @@
 Package: outbreaks
 Title: A Collection of Disease Outbreak Data
 Version: 1.0.0
-Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", role = c("aut", "cre")),
-	   person("Simon", "Frost", role = c("aut")),
-	   person("Pierre", "Nouvellet", role = c("aut")),
-	   person("Finlay", "Campbell", role=c("aut"))
+Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", role = c("aut")),
+	   person("Simon", "Frost", role = "aut"),
+	   person("Pierre", "Nouvellet", role = "aut"),
+	   person("Finlay", "Campbell", email = "f.campbell15@imperial.ac.uk", role=c("aut", "cre"))
 	   )
-Maintainer: Finlay Campbell (f.campbell15@imperial.ac.uk)
 Description: Empirical or simulated disease outbreak data, provided either as
     RData or as text files.
 Depends:
