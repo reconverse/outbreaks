@@ -5,7 +5,7 @@
 #' refused medical interventions.
 #'
 #' @docType data
-#' 
+#'
 #' @format A data frame with 32 rows and 8 columns
 #' \describe{
 #'   \item{case.ID}{Case identification number}
@@ -17,14 +17,15 @@
 #'   \item{ftc}{Member of the Faith Tabernacle: no (n) or yes (y) (factor)}
 #'   \item{compound}{Compound number (factor)}
 #' }
-#' 
+#'
 #' @rdname smallpox.abakaliki.1967
 #'
 #' @author Data from Thompson and Foege (1968).
-#' Transfer to R and documentation by Simon Frost (\email{sdwfrost@@gmail.com}).
-#' 
+#' Transfer to R and documentation by Simon Frost \cr
+#' (\email{sdwfrost@@gmail.com}).
+#'
 #' @source \url{http://apps.who.int/iris/bitstream/10665/67462/1/WHO_SE_68.3.pdf}
-#' 
+#'
 #' @references
 #' D. Thompson and W. Foege. 1968. Faith Tabernacle smallpox epidemic.
 #' Abakaliki, Nigeria. World Health Organization, 3:1–9

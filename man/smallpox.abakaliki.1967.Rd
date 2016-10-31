@@ -33,7 +33,8 @@ head(smallpox.abakaliki.1967)
 }
 \author{
 Data from Thompson and Foege (1968).
-Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
+Transfer to R and documentation by Simon Frost \cr
+(\email{sdwfrost@gmail.com}).
 }
 \references{
 D. Thompson and W. Foege. 1968. Faith Tabernacle smallpox epidemic.
