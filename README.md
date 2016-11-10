@@ -1,4 +1,5 @@
-[![Travis-CI Build Status](https://travis-ci.org/reconhub/outbreaks.svg?branch=master)](https://travis-ci.org/reconhub/outbreaks) [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/outbreaks)](http://cran.r-project.org/package=outbreaks)
+[![Travis-CI Build Status](https://travis-ci.org/reconhub/outbreaks.svg?branch=master)](https://travis-ci.org/reconhub/outbreaks) 
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/outbreaks)](http://cran.r-project.org/package=outbreaks)
 
 # outbreaks: a compilation of disease outbreak data
 
@@ -15,16 +16,16 @@ data(package="outbreaks")
 
 
 
-|Item                          |Title                                                   |
-|:-----------------------------|:-------------------------------------------------------|
-|ebola.kikwit.1995             |Ebola in Kikwit, Democratic Republic of the Congo, 1995 |
-|ebola.sim                     |Simulated Ebola outbreak                                |
-|ebola.sim.clean               |Simulated Ebola outbreak                                |
-|fluH7N9.china.2013            |Influenza A H7N9 outbreak in China                      |
-|influenza.england.1978.school |Influenza in a boarding school in England, 1978         |
-|measles.hagelloch.1861        |Measles in Hagelloch, Germany, 1861                     |
-|sars.canada.2003              |Severe Acute Respiratory Syndrome in Canada, 2003       |
-|smallpox.abakaliki.1967       |Smallpox cases in Abakaliki, Nigeria in 1967            |
+|Item                          |Title |
+|:-----------------------------|:-----|
+|ebola.kikwit.1995             |      |
+|ebola.sim.clean               |      |
+|ebola.sim                     |      |
+|fluH7N9.china.2013            |      |
+|influenza.england.1978.school |      |
+|measles.hagelloch.1861        |      |
+|sars.canada.2003              |      |
+|smallpox.abakaliki.1967       |      |
 
 # Installing the package
 
