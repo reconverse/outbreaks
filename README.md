@@ -25,6 +25,7 @@ data(package="outbreaks")
 |fluH7N9.china.2013            |      |
 |influenza.england.1978.school |      |
 |measles.hagelloch.1861        |      |
+|mers.korea.2015               |      |
 |sars.canada.2003              |      |
 |smallpox.abakaliki.1967       |      |
 
