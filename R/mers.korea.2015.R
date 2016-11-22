@@ -58,10 +58,10 @@
 ##'
 ##' @examples
 ##' ## show the line list describing MERS Co-V cases and their attributes
-##' head(mers.korea.2015[[1]])
+##' head(mers.korea.2015$linelist)
 ##'
 ##' ## show the relationships between MERS Co-V cases
-##' head(mers.korea.2015[[2]])
+##' head(mers.korea.2015$contacts)
 ##'
 "mers.korea.2015"
 
