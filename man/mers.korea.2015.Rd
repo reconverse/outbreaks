@@ -4,32 +4,34 @@
 \name{mers.korea.2015}
 \alias{mers.korea.2015}
 \title{2015 Middle East respiratory syndrome outbreak in South Korea}
-\format{A list of two dataframes
-  \item \code{mers.korea.2015[[1]]} A dataframe of MERS-CoV cases and their attributes
+\format{A list of two dataframes:
+\describe{
+  \item{code{mers.korea.2015$linelist}}{A dataframe of MERS-CoV cases and their attributes}
     \itemize{
-      \item id Unique identifier
-      \item age Age
-      \item age_class Age using 10-year groups
-      \item sex Sex
-      \item place_infect Probable region of infection
-      \item reporting_ctry Country reporting the case
-      \item loc_hosp Local hospital name where the case was hospitalized
-      \item dt_onset Date of onset of symptoms
-      \item dt_report Date of reporting
-      \item week_report Week number of date of reporting
-      \item dt_start_exp Date of first probable exposure to another MERS Co-V case
-      \item dt_end_exp Date of last probable exposure to another MERS Co-V case
-      \item dt_diag Date of MERS Co-V diagnosis
-      \item dt_death Date of death
+      \item id: Unique identifier
+      \item age: Age
+      \item age_class: Age using 10-year groups
+      \item sex: Sex
+      \item place_infect: Probable region of infection
+      \item reporting_ctry: Country reporting the case
+      \item loc_hosp: Local hospital name where the case was hospitalized
+      \item dt_onset: Date of onset of symptoms
+      \item dt_report: Date of reporting
+      \item week_report: Week number of date of reporting
+      \item dt_start_exp: Date of first probable exposure to another MERS Co-V case
+      \item dt_end_exp: Date of last probable exposure to another MERS Co-V case
+      \item dt_diag: Date of MERS Co-V diagnosis
+      \item dt_death: Date of death
     }
 
- \item \code{mers.korea.2015[[2]]} A dataframe describing the relationship between MERS Co-V cases
+ \item{\code{mers.korea.2015$contacts}}{A dataframe describing the relationship between MERS Co-V cases}
    \itemize{
-     \item from Unique identifier of the probably source patient
-     \item to Unique identifier of the secondary case
-     \item exposure Probable place of exposure
-     \item diff_dt_onset Time in days between two successive cases
-   }}
+     \item from: Unique identifier of the probably source patient
+     \item to: Unique identifier of the secondary case
+     \item exposure: Probable place of exposure
+     \item diff_dt_onset: Time in days between two successive cases
+   }
+}}
 \usage{
 mers.korea.2015
 }
