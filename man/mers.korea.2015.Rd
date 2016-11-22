@@ -5,8 +5,8 @@
 \alias{mers.korea.2015}
 \title{2015 Middle East respiratory syndrome outbreak in South Korea}
 \format{A list of two dataframes:
-\describe{
-  \item{code{mers.korea.2015$linelist}}{A dataframe of MERS-CoV cases and their attributes}
+
+  \code{$linelist}: A dataframe of MERS-CoV cases and their attributes
     \itemize{
       \item id: Unique identifier
       \item age: Age
@@ -21,17 +21,18 @@
       \item dt_start_exp: Date of first probable exposure to another MERS Co-V case
       \item dt_end_exp: Date of last probable exposure to another MERS Co-V case
       \item dt_diag: Date of MERS Co-V diagnosis
+      \item outcome: Outcome (alive or dead)
       \item dt_death: Date of death
     }
 
- \item{\code{mers.korea.2015$contacts}}{A dataframe describing the relationship between MERS Co-V cases}
+
+ \code{$contacts}: A dataframe describing the relationship between MERS Co-V cases
    \itemize{
      \item from: Unique identifier of the probably source patient
      \item to: Unique identifier of the secondary case
      \item exposure: Probable place of exposure
      \item diff_dt_onset: Time in days between two successive cases
-   }
-}}
+   }}
 \usage{
 mers.korea.2015
 }
@@ -43,7 +44,7 @@ These datasets correspond to the initial information collected by the Epidemic I
  available.
 }
 \details{
-This dataset is used for teaching purposes. This example represents neither the final outbreak investigation
+This dataset is meant for teaching purposes; it  represents neither the final outbreak investigation
  results nor a consolidated and complete description of the transmission chain.
 }
 \examples{
