@@ -2,6 +2,10 @@
 
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/outbreaks)](https://cran.r-project.org/package=outbreaks)
 
+
+<br>
+<br>
+
 # outbreaks: a compilation of disease outbreak data
 
 This package compiles a series of disease outbreak data, to be shared during Hackout 3.
@@ -29,9 +33,19 @@ data(package="outbreaks")
 |sars.canada.2003              |      |
 |smallpox.abakaliki.1967       |      |
 
+
+<br>
+<br>
+
 # Installing the package
 
-To install the devel version of the package, type:
+To install the current stable, CRAN version of the package, type:
+
+```r
+install.packages("outbreaks")
+```
+
+To benefit from the latest features and bug fixes, install the development, *github* version of the package using:
 
 ```r
 devtools::install_github("reconhub/outbreaks")
@@ -41,6 +55,8 @@ Note that this requires the package *devtools* installed.
 
 
 
+<br>
+<br>
 
 ## Add your own data!
 
@@ -61,11 +77,14 @@ We use the lower cases and dots to separate words for the files and dataset name
    5. *other*: (any other relevant information)
 
 
+<br>
+
 ### Contributors (by alphabetic order):
-- Finlay Campbell (@finlaycampbell)
-- Simon Frost (@sdwfrost)
-- Thibaut Jombart (@thibautjombart)
+- [Finlay Campbell](https://github.com/finlaycampbell)
+- [Simon Frost](https://github.com/sdwfrost)
+- [Thibaut Jombart](https://github.com/thibautjombart)
 - Pierre Nouvellet
+- Bertrand Sudre
 
 
 Maintainer: Finlay Campbell (f.campbell15@imperial.ac.uk)
