@@ -13,9 +13,6 @@ Data can be provided as R objects (loaded automatically when loading the package
 
 The following R datasets are currently available:
 
-```
-## Loading required package: printr
-```
 
 
 ```r
