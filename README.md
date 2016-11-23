@@ -1,6 +1,6 @@
 [![Travis-CI Build Status](https://travis-ci.org/reconhub/outbreaks.svg?branch=master)](https://travis-ci.org/reconhub/outbreaks)
 
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/outbreaks)](http://cran.r-project.org/package=outbreaks)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/outbreaks)](https://cran.r-project.org/package=outbreaks)
 
 # outbreaks: a compilation of disease outbreak data
 
@@ -46,7 +46,7 @@ Note that this requires the package *devtools* installed.
 
 ### How to add data?
 We will try to create a better repository and data submission system at a later stage.
-The purpose of the current package is only to share examplar datasets during the hackathon. 
+The purpose of the current package is only to share examplar datasets during the hackathon.
 Acceptable forms are:
 - as a `.RData` files in the `data/` folder (recommended)
 - as a text file in the `inst/` folder
