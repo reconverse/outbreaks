@@ -1,3 +1,15 @@
+outbreaks 1.1.01 (2016-11-26)
+==================
+
+### MINOR IMPROVEMENTS
+
+* Bertrand Sudre (bertrand.sudre@edc.europa.eu) added as the
+  contributor of the mers.korea.2015 dataset.
+
+
+<br>
+<br>
+
 outbreaks 1.1.0 (2016-11-24)
 ==================
 
