@@ -4,6 +4,9 @@
 
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/outbreaks)](https://cran.r-project.org/package=outbreaks)
 
+<br>
+<br>
+
 # outbreaks: a compilation of disease outbreak data
 
 This package compiles a series of disease outbreak data, to be shared during Hackout 3.
@@ -22,20 +25,31 @@ data(package="outbreaks")
 
 
 
-|Item                          |Title                                                   |
-|:-----------------------------|:-------------------------------------------------------|
-|ebola.kikwit.1995             |Ebola in Kikwit, Democratic Republic of the Congo, 1995 |
-|ebola.sim                     |Simulated Ebola outbreak                                |
-|ebola.sim.clean               |Simulated Ebola outbreak                                |
-|fluH7N9.china.2013            |Influenza A H7N9 outbreak in China                      |
-|influenza.england.1978.school |Influenza in a boarding school in England, 1978         |
-|measles.hagelloch.1861        |Measles in Hagelloch, Germany, 1861                     |
-|sars.canada.2003              |Severe Acute Respiratory Syndrome in Canada, 2003       |
-|smallpox.abakaliki.1967       |Smallpox cases in Abakaliki, Nigeria in 1967            |
+|Item                          |Title |
+|:-----------------------------|:-----|
+|ebola.kikwit.1995             |      |
+|ebola.sim.clean               |      |
+|ebola.sim                     |      |
+|fluH7N9.china.2013            |      |
+|influenza.england.1978.school |      |
+|measles.hagelloch.1861        |      |
+|mers.korea.2015               |      |
+|sars.canada.2003              |      |
+|smallpox.abakaliki.1967       |      |
+
+
+<br>
+<br>
 
 # Installing the package
 
-To install the devel version of the package, type:
+To install the current stable, CRAN version of the package, type:
+
+```r
+install.packages("outbreaks")
+```
+
+To benefit from the latest features and bug fixes, install the development, *github* version of the package using:
 
 ```r
 devtools::install_github("reconhub/outbreaks")
@@ -45,12 +59,14 @@ Note that this requires the package *devtools* installed.
 
 
 
+<br>
+<br>
 
 ## Add your own data!
 
 ### How to add data?
 We will try to create a better repository and data submission system at a later stage.
-The purpose of the current package is only to share examplar datasets during the hackathon. 
+The purpose of the current package is only to share examplar datasets during the hackathon.
 Acceptable forms are:
 - as a `.RData` files in the `data/` folder (recommended)
 - as a text file in the `inst/` folder
@@ -65,11 +81,14 @@ We use the lower cases and dots to separate words for the files and dataset name
    5. *other*: (any other relevant information)
 
 
+<br>
+
 ### Contributors (by alphabetic order):
-- Finlay Campbell (@finlaycampbell)
-- Simon Frost (@sdwfrost)
-- Thibaut Jombart (@thibautjombart)
+- [Finlay Campbell](https://github.com/finlaycampbell)
+- [Simon Frost](https://github.com/sdwfrost)
+- [Thibaut Jombart](https://github.com/thibautjombart)
 - Pierre Nouvellet
+- Bertrand Sudre
 
 
 Maintainer: Finlay Campbell (f.campbell15@imperial.ac.uk)
