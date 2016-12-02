@@ -13,7 +13,7 @@ This package compiles a series of disease outbreak data, to be shared during Hac
 Data can be provided as R objects (loaded automatically when loading the package), text files distributed alongside the package, or functions generating a dataset.
 
 The following R datasets are currently available:
-```{r hidden, echo=FALSE}
+```{r hidden, echo=FALSE, message=FALSE, results='hide'}
 if(!require(printr)) warning("printr is not installed; displaying the content of 'data(...)' may not work")
 ```
 
