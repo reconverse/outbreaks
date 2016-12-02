@@ -1,5 +1,9 @@
 [![Travis-CI Build Status](https://travis-ci.org/reconhub/outbreaks.svg?branch=master)](https://travis-ci.org/reconhub/outbreaks)
 
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/outbreaks)](https://cran.r-project.org/package=outbreaks)
+
+[![CRAN Downloads](https://cranlogs.r-pkg.org/badges/outbreaks)](https://cran.r-project.org/package=outbreaks)
+
 # outbreaks: a compilation of disease outbreak data
 
 This package compiles a series of disease outbreak data, to be shared during Hackout 3.
@@ -7,6 +11,9 @@ Data can be provided as R objects (loaded automatically when loading the package
 
 The following R datasets are currently available:
 
+```
+## Loading required package: printr
+```
 
 
 ```r
