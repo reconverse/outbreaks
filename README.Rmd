@@ -5,7 +5,6 @@
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/outbreaks)](https://cran.r-project.org/package=outbreaks)
 
 <br>
-<br>
 
 # outbreaks: a compilation of disease outbreak data
 
@@ -22,7 +21,6 @@ data(package="outbreaks")
 ```
 
 
-<br>
 <br>
 
 # Installing the package
@@ -41,7 +39,6 @@ Note that this requires the package *devtools* installed.
 
 
 
-<br>
 <br>
 
 ## Add your own data!
