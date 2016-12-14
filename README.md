@@ -23,16 +23,16 @@ data(package="outbreaks")
 
 |Item                             |Title |
 |:--------------------------------|:-----|
-|ebola_kikwit_1995                |      |
-|ebola_sim                        |      |
-|ebola_sim_clean                  |      |
-|fluH7N9_china_2013               |      |
-|influenza_england_1978_school    |      |
-|measles_hagelloch_1861           |      |
-|mers_korea_2015                  |      |
-|norovirus_derbyshire_2001_school |      |
-|sars_canada_2003                 |      |
-|smallpox_abakaliki_1967          |      |
+|ebola_kikwit_1995                | Ebola Kikwit, 1995     |
+|ebola_sim                        | Ebola Simulation     |
+|ebola_sim_clean                  | Ebola Simulation, Clean     |
+|fluH7N9_china_2013               | FluH7N9 China, 2013     |
+|influenza_england_1978_school    | Influenza England, 1978; School     |
+|measles_hagelloch_1861           | Measles Hagelloch, 1861     |
+|mers_korea_2015                  | Mers Korea, 2015     |
+|norovirus_derbyshire_2001_school | Norovirus Derbyshire, 2001; School     |
+|sars_canada_2003                 | SARS Canda, 2003     |
+|smallpox_abakaliki_1967          | Smallpox Abakaliki, 1967     |
 
 
 <br>
