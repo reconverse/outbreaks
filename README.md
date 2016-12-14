@@ -21,16 +21,18 @@ data(package="outbreaks")
 
 
 
-|Item                          |Title                                                   |
-|:-----------------------------|:-------------------------------------------------------|
-|ebola.kikwit.1995             |Ebola in Kikwit, Democratic Republic of the Congo, 1995 |
-|ebola.sim                     |Simulated Ebola outbreak                                |
-|ebola.sim.clean               |Simulated Ebola outbreak                                |
-|fluH7N9.china.2013            |Influenza A H7N9 outbreak in China                      |
-|influenza.england.1978.school |Influenza in a boarding school in England, 1978         |
-|measles.hagelloch.1861        |Measles in Hagelloch, Germany, 1861                     |
-|sars.canada.2003              |Severe Acute Respiratory Syndrome in Canada, 2003       |
-|smallpox.abakaliki.1967       |Smallpox cases in Abakaliki, Nigeria in 1967            |
+|Item                             |Title |
+|:--------------------------------|:-----|
+|ebola_kikwit_1995                |      |
+|ebola_sim                        |      |
+|ebola_sim_clean                  |      |
+|fluH7N9_china_2013               |      |
+|influenza_england_1978_school    |      |
+|measles_hagelloch_1861           |      |
+|mers_korea_2015                  |      |
+|norovirus_derbyshire_2001_school |      |
+|sars_canada_2003                 |      |
+|smallpox_abakaliki_1967          |      |
 
 
 <br>
@@ -66,7 +68,7 @@ Acceptable forms are:
 - as a function loading/assembling/simulating a dataset
 
 ### Naming Conventions
-We use the lower cases and dots to separate words for the files and dataset names, so that for a `RData` object, a new dataset woud look like: `my.new.data.RData'. Try using informative names, typically using the disease first. Whenever available, order fields as:
+We use the lower case throughout, and snake_case (using underscores) to separate words for the files and dataset names, so that for a `RData` object, a new dataset woud look like: `my_new_data_RData'. Try using informative names, typically using the disease first. Whenever available, order fields as:
    1. *disease*: mandatory
    2. *location*: optional
    3. *year*: optional

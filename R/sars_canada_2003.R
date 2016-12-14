@@ -7,13 +7,13 @@
 #' @format A data frame with 110 rows and 5 columns
 #' \describe{
 #'   \item{date}{Date}
-#'   \item{cases.travel}{New cases attributed to travel}
-#'   \item{cases.household}{New cases attributed to household transmission}
-#'   \item{cases.healthcare}{New cases in a healthcare setting}
-#'   \item{cases.other}{Other new cases}
+#'   \item{cases_travel}{New cases attributed to travel}
+#'   \item{cases_household}{New cases attributed to household transmission}
+#'   \item{cases_healthcare}{New cases in a healthcare setting}
+#'   \item{cases_other}{Other new cases}
 #' }
 #'
-#' @rdname sars.canada.2003
+#' @rdname sars_canada_2003
 #'
 #' @author Data from De Vries et al. (2006), based on original data from Health Canada.
 #' Transfer to R and documentation by Simon Frost (\email{sdwfrost@@gmail.com}).
@@ -28,6 +28,6 @@
 #'
 #' @examples
 #' ## show first few cases
-#' head(sars.canada.2003)
+#' head(sars_canada_2003)
 #'
-"sars.canada.2003"
+"sars_canada_2003"

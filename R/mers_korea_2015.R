@@ -42,9 +42,9 @@
 ##'    }
 ##'
 ##'
-##' @rdname mers.korea.2015
+##' @rdname mers_korea_2015
 ##'
-##' @aliases mers.korea.2015
+##' @aliases mers_korea_2015
 ##'
 ##' @author Data collected by the European Centre for Disease Prevention and Control (Epidemic
 ##' Intelligence and Response section, contact: Bertrand Sudre (\email{
@@ -58,11 +58,11 @@
 ##'
 ##' @examples
 ##' ## show the line list describing MERS Co-V cases and their attributes
-##' head(mers.korea.2015$linelist)
+##' head(mers_korea_2015$linelist)
 ##'
 ##' ## show the relationships between MERS Co-V cases
-##' head(mers.korea.2015$contacts)
+##' head(mers_korea_2015$contacts)
 ##'
-"mers.korea.2015"
+"mers_korea_2015"
 
 

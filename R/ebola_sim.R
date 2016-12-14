@@ -10,14 +10,14 @@
 #'
 #' Note that to ensure realism, some errors have been introduced in this dataset. These can be
 #' identified as negative incubation periods (delay from infection to onset of symptoms). See
-#' example for a simple way to identify these cases. The dataset \code{sim.ebola.clean} is the same
+#' example for a simple way to identify these cases. The dataset \code{ebola_sim_clean} is the same
 #' dataset, only dates of infection and onset have been set to 'NA'.
 #'
 #' @docType data
 #'
-#' @rdname ebola.sim
+#' @rdname ebola_sim
 #'
-#' @aliases ebola.sim
+#' @aliases ebola_sim
 #'
 #' @author Data simulated by Pierre Nouvellet (\email{p.nouvellet@@imperial.ac.uk}). Transfer to R
 #' and documentation by Thibaut Jombart (\email{thibautjombart@@gmail.com}).
@@ -37,18 +37,18 @@
 #'
 #' @examples
 #' ## identify mistakes in data entry (negative incubation period)
-#' mistakes <- which(ebola.sim$linelist$date.of.onset <= ebola.sim$linelist$date.of.infection)
+#' mistakes <- which(ebola_sim$linelist$date_of_onset <= ebola_sim$linelist$date_of_infection)
 #' mistakes
-#' ebola.sim$linelist[mistakes, ]
+#' ebola_sim$linelist[mistakes, ]
 #'
-#' ## check that ebola.sim.clean is identical after removing mistakes
-#' identical(ebola.sim.clean$linelist, ebola.sim$linelist[-mistakes, ])
+#' ## check that ebola_sim_clean is identical after removing mistakes
+#' identical(ebola_sim_clean$linelist, ebola_sim$linelist[-mistakes, ])
 #'
-"ebola.sim"
+"ebola_sim"
 
 
 
-#' @rdname ebola.sim
-#' @aliases  ebola.sim.clean
+#' @rdname ebola_sim
+#' @aliases  ebola_sim_clean
 #'
-"ebola.sim.clean"
+"ebola_sim_clean"

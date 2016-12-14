@@ -52,7 +52,7 @@ Acceptable forms are:
 - as a function loading/assembling/simulating a dataset
 
 ### Naming Conventions
-We use the lower cases and dots to separate words for the files and dataset names, so that for a `RData` object, a new dataset woud look like: `my.new.data.RData'. Try using informative names, typically using the disease first. Whenever available, order fields as:
+We use the lower case throughout, and snake_case (using underscores) to separate words for the files and dataset names, so that for a `RData` object, a new dataset woud look like: `my_new_data_RData'. Try using informative names, typically using the disease first. Whenever available, order fields as:
    1. *disease*: mandatory
    2. *location*: optional
    3. *year*: optional

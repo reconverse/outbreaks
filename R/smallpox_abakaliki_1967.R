@@ -8,8 +8,8 @@
 #'
 #' @format A data frame with 32 rows and 8 columns
 #' \describe{
-#'   \item{case.ID}{Case identification number}
-#'   \item{date.of.onset}{Date of onset of symptoms}
+#'   \item{case_ID}{Case identification number}
+#'   \item{date_of_onset}{Date of onset of symptoms}
 #'   \item{age}{Age in years}
 #'   \item{gender}{Gender: female (f) or male (m) (factor)}
 #'   \item{vaccinated}{Previously vaccinated: no (n) or yes (y) (factor)}
@@ -18,7 +18,7 @@
 #'   \item{compound}{Compound number (factor)}
 #' }
 #'
-#' @rdname smallpox.abakaliki.1967
+#' @rdname smallpox_abakaliki_1967
 #'
 #' @author Data from Thompson and Foege (1968).
 #' Transfer to R and documentation by Simon Frost \cr
@@ -32,6 +32,6 @@
 #'
 #' @examples
 #' ## show first few cases
-#' head(smallpox.abakaliki.1967)
+#' head(smallpox_abakaliki_1967)
 #'
-"smallpox.abakaliki.1967"
+"smallpox_abakaliki_1967"
