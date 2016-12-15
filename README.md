@@ -21,18 +21,18 @@ data(package="outbreaks")
 
 
 
-|Item                             |Title |
-|:--------------------------------|:-----|
-|ebola_kikwit_1995                | Ebola Kikwit, 1995     |
-|ebola_sim                        | Ebola Simulation     |
-|ebola_sim_clean                  | Ebola Simulation, Clean     |
-|fluH7N9_china_2013               | FluH7N9 China, 2013     |
-|influenza_england_1978_school    | Influenza England, 1978; School     |
-|measles_hagelloch_1861           | Measles Hagelloch, 1861     |
-|mers_korea_2015                  | Mers Korea, 2015     |
-|norovirus_derbyshire_2001_school | Norovirus Derbyshire, 2001; School     |
-|sars_canada_2003                 | SARS Canda, 2003     |
-|smallpox_abakaliki_1967          | Smallpox Abakaliki, 1967     |
+|Item                             |Title                                                         |
+|:--------------------------------|:-------------------------------------------------------------|
+|ebola_kikwit_1995                |Ebola in Kikwit, Democratic Republic of the Congo, 1995       |
+|ebola_sim                        |Simulated Ebola outbreak                                      |
+|ebola_sim_clean                  |Simulated Ebola outbreak                                      |
+|fluH7N9_china_2013               |Influenza A H7N9 outbreak in China                            |
+|influenza_england_1978_school    |Influenza in a boarding school in England, 1978               |
+|measles_hagelloch_1861           |Measles in Hagelloch, Germany, 1861                           |
+|mers_korea_2015                  |2015 Middle East respiratory syndrome outbreak in South Korea |
+|norovirus_derbyshire_2001_school |Norovirus in a primary school in Derbyshire, England, 2001    |
+|sars_canada_2003                 |Severe Acute Respiratory Syndrome in Canada, 2003             |
+|smallpox_abakaliki_1967          |Smallpox cases in Abakaliki, Nigeria in 1967                  |
 
 
 <br>
