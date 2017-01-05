@@ -8,7 +8,7 @@
 
 # outbreaks: a compilation of disease outbreak data
 
-This package compiles a series of disease outbreak data, to be shared during Hackout 3.
+This package compiles a series of publicly available disease outbreak data.
 Data can be provided as R objects (loaded automatically when loading the package), text files distributed alongside the package, or functions generating a dataset.
 
 The following R datasets are currently available:

@@ -8,7 +8,7 @@
 
 # outbreaks: a compilation of disease outbreak data
 
-This package compiles a series of disease outbreak data, to be shared during Hackout 3.
+This package compiles a series of publicly available disease outbreak data.
 Data can be provided as R objects (loaded automatically when loading the package), text files distributed alongside the package, or functions generating a dataset.
 
 The following R datasets are currently available:
@@ -33,6 +33,7 @@ data(package="outbreaks")
 |norovirus_derbyshire_2001_school |Norovirus in a primary school in Derbyshire, England, 2001    |
 |sars_canada_2003                 |Severe Acute Respiratory Syndrome in Canada, 2003             |
 |smallpox_abakaliki_1967          |Smallpox cases in Abakaliki, Nigeria in 1967                  |
+|zika_yap_2007                    |Zika on the Yap Main Islands, Micronesia, 2007                |
 
 
 <br>
