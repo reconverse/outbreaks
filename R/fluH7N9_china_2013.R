@@ -1,4 +1,4 @@
-#' Influenza A H7N9 outbreak in China
+#' Influenza A H7N9 in China, 2013
 #'
 #' These data comprise of 136 cases of influenza A H7N9 in China, analysed by Kucharski et al. (2014).
 #'

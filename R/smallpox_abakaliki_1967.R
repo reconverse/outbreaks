@@ -1,4 +1,4 @@
-#' Smallpox cases in Abakaliki, Nigeria in 1967
+#' Smallpox in Abakaliki, Nigeria, 1967
 #'
 #' These data comprise of 32 cases of smallpox in Abakaliki, Nigeria in 1967, first described
 #' by Thompson and Foege (1968), which occurred predominantly in a religious group that

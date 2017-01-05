@@ -3,7 +3,7 @@
 \docType{data}
 \name{mers_korea_2015}
 \alias{mers_korea_2015}
-\title{2015 Middle East respiratory syndrome outbreak in South Korea}
+\title{Middle East respiratory syndrome in South Korea, 2015}
 \format{A list of two dataframes:
 
   \code{$linelist}: A dataframe of MERS-CoV cases and their attributes

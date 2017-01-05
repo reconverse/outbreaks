@@ -3,7 +3,7 @@
 \docType{data}
 \name{smallpox_abakaliki_1967}
 \alias{smallpox_abakaliki_1967}
-\title{Smallpox cases in Abakaliki, Nigeria in 1967}
+\title{Smallpox in Abakaliki, Nigeria, 1967}
 \format{A data frame with 32 rows and 8 columns
 \describe{
   \item{case_ID}{Case identification number}

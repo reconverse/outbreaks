@@ -3,7 +3,7 @@
 \docType{data}
 \name{fluH7N9_china_2013}
 \alias{fluH7N9_china_2013}
-\title{Influenza A H7N9 outbreak in China}
+\title{Influenza A H7N9 in China, 2013}
 \format{A data frame with 136 rows and 8 columns}
 \source{
 \url{http://datadryad.org/resource/doi:10.5061/dryad.2g43n/1}

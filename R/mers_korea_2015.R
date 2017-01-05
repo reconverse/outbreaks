@@ -1,4 +1,4 @@
-##'  2015 Middle East respiratory syndrome outbreak in South Korea
+##'  Middle East respiratory syndrome in South Korea, 2015
 ##'
 ##'  These datasets correspond to the initial information collected by the Epidemic Intelligence
 ##'  group at European Centre for Disease Prevention and Control (ECDC) during the first weeks of the
