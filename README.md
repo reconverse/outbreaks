@@ -35,6 +35,8 @@ data(package="outbreaks")
 |norovirus_derbyshire_2001_school |Norovirus in a primary school in Derbyshire, England, 2001 |
 |sars_canada_2003                 |Severe Acute Respiratory Syndrome in Canada, 2003          |
 |smallpox_abakaliki_1967          |Smallpox in Abakaliki, Nigeria, 1967                       |
+|zika_girardot_2015               |Zika in Girardot, Colombia, 2015                           |
+|zika_sanandres_2015              |Zika in San Andres, Colombia, 2015                         |
 |zika_yap_2007                    |Zika on the Yap Main Islands, Micronesia, 2007             |
 
 

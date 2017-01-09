@@ -14,7 +14,7 @@ A data frame with 185 rows and 3 columns
 
 The data on Dengue incidence reported by Funk et al. (2016) cover the period
 from 2011-07-07 to 2012-04-12, over which time a total of 978 cases were
-reported among 7391 residents. Suspected dengue cases were identified by the
+reported among 7391 residents. Suspected Dengue cases were identified by the
 Yap Department of Health, using the WHO (2009) case definition. A small
 proportion of cases (9%) were reported on outer islands and included in the
 time series for the Yap Main Islands. Dengue virus serotype 2 was confirmed by
