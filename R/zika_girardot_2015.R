@@ -36,6 +36,9 @@
 #' 2016. Eurosurveillance, 21(28), 30283.
 #' http://doi.org/10.2807/1560-7917.ES.2016.21.28.30283
 #'
+#' These data were provided under a Creative Commons Attribution (CC BY 4.0)
+#' Licence (\url{http://creativecommons.org/licenses/by/4.0/}).
+#'
 #' @examples
 #' ## show first few days of Zika incidence
 #' head(zika_girardot_2015)
