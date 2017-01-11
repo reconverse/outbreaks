@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>All news â€¢ outbreaks</title>
+<title>Zika on the Yap Main Islands, Micronesia, 2007 — zika_yap_2007 â€¢ outbreaks</title>
 
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script>
@@ -34,7 +34,7 @@
   </head>
 
   <body>
-    <div class="container template-news">
+    <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
@@ -72,54 +72,75 @@
       </header>
 
       <div class="row">
-
-  <div class="col-md-9">
+  <div class="col-md-9 contents">
     <div class="page-header">
-      <h1>Change log <small>All releases</small></h1>
+    <h1>Zika on the Yap Main Islands, Micronesia, 2007</h1>
     </div>
 
-    <div class="contents">
-    <div id="outbreaks-1-1-01-2016-11-26" class="section level1">
-<h1 class="hasAnchor">
-<a href="#outbreaks-1-1-01-2016-11-26" class="anchor"> </a>outbreaks 1.1.01 (2016-11-26)</h1>
-<div id="minor-improvements" class="section level3">
-<h3 class="hasAnchor">
-<a href="#minor-improvements" class="anchor"> </a>MINOR IMPROVEMENTS</h3>
-<ul>
-<li>Bertrand Sudre (<a href="mailto:bertrand.sudre@edc.europa.eu">bertrand.sudre@edc.europa.eu</a>) added as the contributor of the mers.korea.2015 dataset.</li>
-</ul>
-<p><br><br></p>
-</div>
-</div>
-    <div id="outbreaks-1-1-0-2016-11-24" class="section level1">
-<h1 class="hasAnchor">
-<a href="#outbreaks-1-1-0-2016-11-24" class="anchor"> </a>outbreaks 1.1.0 (2016-11-24)</h1>
-<div id="new-features" class="section level3">
-<h3 class="hasAnchor">
-<a href="#new-features" class="anchor"> </a>NEW FEATURES</h3>
-<p>mers.korea.2015 has been added to the collection of outbreak datasets; this describes the initial information collected by the Epidemic Intelligence group at European Centre for Disease Prevention and Control (ECDC) during the first weeks of the outbreak of Middle East respiratory syndrome (MERS-CoV) outbreak (South Korea) in 2015.</p>
-<p><br><br></p>
-</div>
-</div>
-    <div id="outbreaks-1-0-0-2016-10-31" class="section level1">
-<h1 class="hasAnchor">
-<a href="#outbreaks-1-0-0-2016-10-31" class="anchor"> </a>outbreaks 1.0.0 (2016-10-31)</h1>
-<p>First release of the outbreaks package on CRAN!</p>
-</div>
-    </div>
+    
+    <p>These data describe weekly incidence of probable and confirmed cases of Zika virus
+on the Yap Main Islands, Micronesia.</p>
+    
+
+    <pre><span class='no'>zika_yap_2007</span></pre>
+        
+    <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
+
+    <p>A data frame with 29 rows and 3 columns
+<dl class='dl-horizontal'>
+  <dt>onset_date</dt><dd>Date</dd>
+  <dt>nr</dt><dd>Days after starting date</dd>
+  <dt>value</dt><dd>Number of cases per week</dd>
+</dl></p>
+    <p>The data on weekly cases reported by Funk et al. (2016) cover the period from
+2007-02-18 to 2007-09-02, over which time there were a total of 108 cases
+classified as probable (59) or confirmed (49) in a population of 7391. Cases
+were identified by a combination of prospective and retrospective
+surveillance at all health centres on Yap.</p>
+    
+    <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
+
+    <p>Funk et al. (2016)</p>
+    
+    <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
+
+    <p>S. Funk, et al. 2016. Comparative Analysis of Dengue and Zika Outbreaks Reveals
+Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
+e0005173. http://doi.org/10.1371/journal.pntd.0005173</p>
+    
+
+    <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
+    <pre class="examples"><div class='input'><span class='co'>## show first few weeks of Zika incidence</span>
+<span class='fu'>head</span>(<span class='no'>zika_yap_2007</span>)</div><div class='output co'>#&gt; # A tibble: 6 × 3
+#&gt;   onset_date    nr value
+#&gt;       &lt;date&gt; &lt;dbl&gt; &lt;dbl&gt;
+#&gt; 1 2007-02-18     7     0
+#&gt; 2 2007-02-25    14     0
+#&gt; 3 2007-03-04    21     0
+#&gt; 4 2007-03-11    28     0
+#&gt; 5 2007-03-18    35     0
+#&gt; 6 2007-03-25    42     0</div><div class='input'>
+</div></pre>
   </div>
-
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
-    <div id="tocnav">
-      <h2>Contents</h2>
-      <ul class="nav nav-pills nav-stacked">
-        <li><a href="#outbreaks-1-1-01-2016-11-26">1.1.01</a></li>
-        <li><a href="#outbreaks-1-1-0-2016-11-24">1.1.0</a></li>
-        <li><a href="#outbreaks-1-0-0-2016-10-31">1.0.0</a></li>
-      </ul>
-    </div>
-  </div>
+    <h2>Contents</h2>
+    <ul class="nav nav-pills nav-stacked">
+      
+      <li><a href="#format">Format</a></li>
 
+      <li><a href="#source">Source</a></li>
+
+      <li><a href="#references">References</a></li>
+      
+      <li><a href="#examples">Examples</a></li>
+    </ul>
+
+    <h2>Author</h2>
+    
+Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
+Transfer to R and documentation by Finlay Campbell (<a href='mailto:f.campbell15@imperial.ac.uk'>f.campbell15@imperial.ac.uk</a>).
+
+  </div>
 </div>
 
       <footer>

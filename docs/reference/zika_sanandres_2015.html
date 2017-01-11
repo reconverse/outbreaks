@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>All news • outbreaks</title>
+<title>Zika in San Andres, Colombia, 2015 � zika_sanandres_2015 • outbreaks</title>
 
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script>
@@ -34,7 +34,7 @@
   </head>
 
   <body>
-    <div class="container template-news">
+    <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
@@ -72,54 +72,78 @@
       </header>
 
       <div class="row">
-
-  <div class="col-md-9">
+  <div class="col-md-9 contents">
     <div class="page-header">
-      <h1>Change log <small>All releases</small></h1>
+    <h1>Zika in San Andres, Colombia, 2015</h1>
     </div>
 
-    <div class="contents">
-    <div id="outbreaks-1-1-01-2016-11-26" class="section level1">
-<h1 class="hasAnchor">
-<a href="#outbreaks-1-1-01-2016-11-26" class="anchor"> </a>outbreaks 1.1.01 (2016-11-26)</h1>
-<div id="minor-improvements" class="section level3">
-<h3 class="hasAnchor">
-<a href="#minor-improvements" class="anchor"> </a>MINOR IMPROVEMENTS</h3>
-<ul>
-<li>Bertrand Sudre (<a href="mailto:bertrand.sudre@edc.europa.eu">bertrand.sudre@edc.europa.eu</a>) added as the contributor of the mers.korea.2015 dataset.</li>
-</ul>
-<p><br><br></p>
-</div>
-</div>
-    <div id="outbreaks-1-1-0-2016-11-24" class="section level1">
-<h1 class="hasAnchor">
-<a href="#outbreaks-1-1-0-2016-11-24" class="anchor"> </a>outbreaks 1.1.0 (2016-11-24)</h1>
-<div id="new-features" class="section level3">
-<h3 class="hasAnchor">
-<a href="#new-features" class="anchor"> </a>NEW FEATURES</h3>
-<p>mers.korea.2015 has been added to the collection of outbreak datasets; this describes the initial information collected by the Epidemic Intelligence group at European Centre for Disease Prevention and Control (ECDC) during the first weeks of the outbreak of Middle East respiratory syndrome (MERS-CoV) outbreak (South Korea) in 2015.</p>
-<p><br><br></p>
-</div>
-</div>
-    <div id="outbreaks-1-0-0-2016-10-31" class="section level1">
-<h1 class="hasAnchor">
-<a href="#outbreaks-1-0-0-2016-10-31" class="anchor"> </a>outbreaks 1.0.0 (2016-10-31)</h1>
-<p>First release of the outbreaks package on CRAN!</p>
-</div>
-    </div>
+    
+    <p>These data describe the daily incidence of Zika virus disease in San Andres,
+Colombia.</p>
+    
+
+    <pre><span class='no'>zika_sanandres_2015</span></pre>
+        
+    <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
+
+    <p>A data frame with 101 rows and 2 columns
+<dl class='dl-horizontal'>
+  <dt>date</dt><dd>Date</dd>
+  <dt>cases</dt><dd>Daily incidence</dd>
+</dl></p>
+    <p>The data on Zika virus disease incidence reported by Rojas et al. (2016)
+cover the period from September 2015 to January 2016, over which time a total
+of 928 cases were reported to health authorities of San Andres (population of
+54,513). Suspected cases were confirmed by reverse transcription-polymerase
+chain reaction (RT-PCR) in the serum of acute cases within five days of
+symptom onset.</p>
+    
+    <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
+
+    <p>Rojas et al. (2016)</p>
+    
+    <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
+
+    <p>Rojas, D. P., Dean, N. E., Yang, Y., Kenah, E., Quintero, J., Tomasi, S., ...
+Eyrolle-Guignot, D. (2016). The epidemiology and transmissibility of Zika
+virus in Girardot and San Andres island, Colombia, September 2015 to January
+2016. Eurosurveillance, 21(28), 30283.
+http://doi.org/10.2807/1560-7917.ES.2016.21.28.30283</p>
+    <p>These data were provided under a Creative Commons Attribution (CC BY 4.0)
+Licence (<a href = 'http://creativecommons.org/licenses/by/4.0/'>http://creativecommons.org/licenses/by/4.0/</a>).</p>
+    
+
+    <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
+    <pre class="examples"><div class='input'><span class='co'>## show first few days of Zika incidence</span>
+<span class='fu'>head</span>(<span class='no'>zika_sanandres_2015</span>)</div><div class='output co'>#&gt;         date cases
+#&gt; 1 2015-09-06     1
+#&gt; 2 2015-09-07     1
+#&gt; 3 2015-09-08     1
+#&gt; 4 2015-09-13     1
+#&gt; 5 2015-09-15     4
+#&gt; 6 2015-09-19     1</div><div class='input'>
+</div></pre>
   </div>
-
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
-    <div id="tocnav">
-      <h2>Contents</h2>
-      <ul class="nav nav-pills nav-stacked">
-        <li><a href="#outbreaks-1-1-01-2016-11-26">1.1.01</a></li>
-        <li><a href="#outbreaks-1-1-0-2016-11-24">1.1.0</a></li>
-        <li><a href="#outbreaks-1-0-0-2016-10-31">1.0.0</a></li>
-      </ul>
-    </div>
-  </div>
+    <h2>Contents</h2>
+    <ul class="nav nav-pills nav-stacked">
+      
+      <li><a href="#format">Format</a></li>
 
+      <li><a href="#source">Source</a></li>
+
+      <li><a href="#references">References</a></li>
+      
+      <li><a href="#examples">Examples</a></li>
+    </ul>
+
+    <h2>Author</h2>
+    
+Data from Rojas et al. (2016), provided by Diana P. Rojas
+(<a href='mailto:dprojas@epi.ufl.edu'>dprojas@epi.ufl.edu</a>).  Transfer to R and documentation by
+Finlay Campbell (<a href='mailto:f.campbell15@imperial.ac.uk'>f.campbell15@imperial.ac.uk</a>).
+
+  </div>
 </div>
 
       <footer>

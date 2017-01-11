@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>All news • outbreaks</title>
+<title>Severe Acute Respiratory Syndrome in Canada, 2003 � sars_canada_2003 • outbreaks</title>
 
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script>
@@ -34,7 +34,7 @@
   </head>
 
   <body>
-    <div class="container template-news">
+    <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
@@ -72,54 +72,69 @@
       </header>
 
       <div class="row">
-
-  <div class="col-md-9">
+  <div class="col-md-9 contents">
     <div class="page-header">
-      <h1>Change log <small>All releases</small></h1>
+    <h1>Severe Acute Respiratory Syndrome in Canada, 2003</h1>
     </div>
 
-    <div class="contents">
-    <div id="outbreaks-1-1-01-2016-11-26" class="section level1">
-<h1 class="hasAnchor">
-<a href="#outbreaks-1-1-01-2016-11-26" class="anchor"> </a>outbreaks 1.1.01 (2016-11-26)</h1>
-<div id="minor-improvements" class="section level3">
-<h3 class="hasAnchor">
-<a href="#minor-improvements" class="anchor"> </a>MINOR IMPROVEMENTS</h3>
-<ul>
-<li>Bertrand Sudre (<a href="mailto:bertrand.sudre@edc.europa.eu">bertrand.sudre@edc.europa.eu</a>) added as the contributor of the mers.korea.2015 dataset.</li>
-</ul>
-<p><br><br></p>
-</div>
-</div>
-    <div id="outbreaks-1-1-0-2016-11-24" class="section level1">
-<h1 class="hasAnchor">
-<a href="#outbreaks-1-1-0-2016-11-24" class="anchor"> </a>outbreaks 1.1.0 (2016-11-24)</h1>
-<div id="new-features" class="section level3">
-<h3 class="hasAnchor">
-<a href="#new-features" class="anchor"> </a>NEW FEATURES</h3>
-<p>mers.korea.2015 has been added to the collection of outbreak datasets; this describes the initial information collected by the Epidemic Intelligence group at European Centre for Disease Prevention and Control (ECDC) during the first weeks of the outbreak of Middle East respiratory syndrome (MERS-CoV) outbreak (South Korea) in 2015.</p>
-<p><br><br></p>
-</div>
-</div>
-    <div id="outbreaks-1-0-0-2016-10-31" class="section level1">
-<h1 class="hasAnchor">
-<a href="#outbreaks-1-0-0-2016-10-31" class="anchor"> </a>outbreaks 1.0.0 (2016-10-31)</h1>
-<p>First release of the outbreaks package on CRAN!</p>
-</div>
-    </div>
+    
+    <p>These data comprise of new cases of SARS in Canada in 2003. These data are from Chapter 9 of De Vries et al. (1996).</p>
+    
+
+    <pre><span class='no'>sars_canada_2003</span></pre>
+        
+    <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
+
+    <p>A data frame with 110 rows and 5 columns
+<dl class='dl-horizontal'>
+  <dt>date</dt><dd>Date</dd>
+  <dt>cases_travel</dt><dd>New cases attributed to travel</dd>
+  <dt>cases_household</dt><dd>New cases attributed to household transmission</dd>
+  <dt>cases_healthcare</dt><dd>New cases in a healthcare setting</dd>
+  <dt>cases_other</dt><dd>Other new cases</dd>
+</dl></p>
+    
+    <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
+
+    <p>De Vries et al. (2006)</p>
+    
+    <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
+
+    <p>G. De Vries, T. Hillen, M. Lewis, J. Mueller, and B. Schoenfisch. 2006.
+A Course in Mathematical Biology: Quantitative Modeling with Mathematical and Computational Methods.
+Society for Industrial and Applied Mathematics.</p>
+    
+
+    <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
+    <pre class="examples"><div class='input'><span class='co'>## show first few cases</span>
+<span class='fu'>head</span>(<span class='no'>sars_canada_2003</span>)</div><div class='output co'>#&gt;         date cases_travel cases_household cases_healthcare cases_other
+#&gt; 1 2003-02-23            1               0                0           0
+#&gt; 2 2003-02-24            0               0                0           0
+#&gt; 3 2003-02-25            0               0                0           0
+#&gt; 4 2003-02-26            0               1                0           0
+#&gt; 5 2003-02-27            0               0                0           0
+#&gt; 6 2003-02-28            1               0                0           0</div><div class='input'>
+</div></pre>
   </div>
-
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
-    <div id="tocnav">
-      <h2>Contents</h2>
-      <ul class="nav nav-pills nav-stacked">
-        <li><a href="#outbreaks-1-1-01-2016-11-26">1.1.01</a></li>
-        <li><a href="#outbreaks-1-1-0-2016-11-24">1.1.0</a></li>
-        <li><a href="#outbreaks-1-0-0-2016-10-31">1.0.0</a></li>
-      </ul>
-    </div>
-  </div>
+    <h2>Contents</h2>
+    <ul class="nav nav-pills nav-stacked">
+      
+      <li><a href="#format">Format</a></li>
 
+      <li><a href="#source">Source</a></li>
+
+      <li><a href="#references">References</a></li>
+      
+      <li><a href="#examples">Examples</a></li>
+    </ul>
+
+    <h2>Author</h2>
+    
+Data from De Vries et al. (2006), based on original data from Health Canada.
+Transfer to R and documentation by Simon Frost (<a href='mailto:sdwfrost@gmail.com'>sdwfrost@gmail.com</a>).
+
+  </div>
 </div>
 
       <footer>
