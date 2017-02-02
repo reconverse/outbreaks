@@ -3,24 +3,25 @@ outbreaks 1.2.0 (2017-02-04)
 
 ### NEW FEATURES
 
-Several new datasets added:
-*dengue_fais_2011: Incidence of 157 clinical cases of Dengue fever on the island
-of Fais, Micronesia
-*dengue_yap_2011: Incidence of 978 clinical cases of Dengue fever on the Yap
-Main Islands, Micronesia
-*zika_girardot_2015: Incidence of 1936 clinical cases of Zika virus disease in
-Girardot, Colombia
-*zika_sanandres_2015: Incidence of 928 clinical cases of Zika virus disease in San
-Andres, Colombia
-*zika_yap_2007: Incidence of 108 clinical cases of Zika virus disease on the Yap
-Main Islands, Micronesia
+Several new datasets added:<br>
+
+* dengue_fais_2011: Incidence of 157 clinical cases of Dengue fever on the island
+  of Fais, Micronesia<br>
+* dengue_yap_2011: Incidence of 978 clinical cases of Dengue fever on the Yap
+  Main Islands, Micronesia<br>
+* zika_girardot_2015: Incidence of 1936 clinical cases of Zika virus disease in
+  Girardot, Colombia<br>
+* zika_sanandres_2015: Incidence of 928 clinical cases of Zika virus disease in San
+  Andres, Colombia<br>
+* zika_yap_2007: Incidence of 108 clinical cases of Zika virus disease on the Yap
+  Main Islands, Micronesia
 
 
 ### MINOR IMPROVEMENTS
 
-*Bertrand Sudre (bertrand.sudre@edc.europa.eu) added as the
-contributor of the mers.korea.2015 dataset
-*Now using snake_case throughout
+* Bertrand Sudre (bertrand.sudre@edc.europa.eu) added as the
+ contributor of the mers_korea_2015 dataset<br>
+* Now using snake_case throughout
 
 
 <br>
