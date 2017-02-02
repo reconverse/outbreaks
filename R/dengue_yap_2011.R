@@ -1,7 +1,7 @@
 #' Dengue on the Yap Main Islands, Micronesia, 2011
 #'
 #' These data describe incidence of clincal cases of Dengue
-#' on the island of Fais, Micronesia.
+#' on the Yap Main Islands, Micronesia.
 #'
 #' @docType data
 #'

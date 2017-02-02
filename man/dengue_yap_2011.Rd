@@ -30,7 +30,7 @@ dengue_yap_2011
 }
 \description{
 These data describe incidence of clincal cases of Dengue
-on the island of Fais, Micronesia.
+on the Yap Main Islands, Micronesia.
 }
 \examples{
 ## show first few weeks of Dengue incidence
