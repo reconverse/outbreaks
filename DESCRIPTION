@@ -5,7 +5,8 @@ Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", r
 	   person("Simon", "Frost", role = "aut"),
 	   person("Pierre", "Nouvellet", role = "aut"),
 	   person("Finlay", "Campbell", email = "f.campbell15@imperial.ac.uk", role=c("aut", "cre")),
-	   person("Bertrand", "Sudre", email = "bertrand.sudre@edc.europa.eu", role="aut")
+	   person("Bertrand", "Sudre", email = "bertrand.sudre@edc.europa.eu", role="aut"),
+	   person("Sang Woo", "Park", email = "parksw3@mcmaster.ca", role = "ctb")
 	   )
 Description: Empirical or simulated disease outbreak data, provided either as
     RData or as text files.
