@@ -42,12 +42,6 @@ re-analysed by Dr. Heike Oesterle (1992).
 head(measles_hagelloch_1861)
 
 }
-\author{
-This version of the data was formatted from \code{hagelloch.df} in the
-\code{surveillance} package, which in turn was provided by Niels Becker via Peter Neal.
-Formatting to fit in with the other datasets in the \code{outbreaks} package by Simon Frost
-(\email{sdwfrost@gmail.com}).
-}
 \references{
 Pfeilsticker, A. 1863. Beitr\enc{ä}{ae}ge zur Pathologie der Masern mit
 besonderer Ber\enc{ü}{ue}cksichtigung der statistischen Verh\enc{ä}{ae}ltnisse,
@@ -64,5 +58,10 @@ selection for the 1861 Hagelloch measles epidemic, Biostatistics 5(2):249-261.
 H\enc{ö}{oe}hle M. 2007. surveillance: An R package for the monitoring of
 infectious diseases. Computational Statistics, 22:571-582.
 }
+\author{
+This version of the data was formatted from \code{hagelloch.df} in the
+\code{surveillance} package, which in turn was provided by Niels Becker via Peter Neal.
+Formatting to fit in with the other datasets in the \code{outbreaks} package by Simon Frost
+(\email{sdwfrost@gmail.com}).
+}
 \keyword{datasets}
-

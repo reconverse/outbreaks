@@ -36,10 +36,6 @@ ebola_sim$linelist[mistakes, ]
 identical(ebola_sim_clean$linelist, ebola_sim$linelist[-mistakes, ])
 
 }
-\author{
-Data simulated by Pierre Nouvellet (\email{p.nouvellet@imperial.ac.uk}). Transfer to R
-and documentation by Thibaut Jombart (\email{thibautjombart@gmail.com}).
-}
 \references{
 WHO Ebola Response Team. 2014. Ebola virus disease in West Africa--the first 9 months
 of the epidemic and forward projections. The New England journal of medicine 371:1481–1495.
@@ -52,5 +48,8 @@ L. Pelletier, D. Perkins, S. Riley, M. Sagrado, J. Schnitzler, D. Schumacher, A.
 Kerkhove, O. Varsaneux, and N. Wijekoon Kannangarage. 2015. West African Ebola epidemic after one
 year--slowing but not yet under control. The New England journal of medicine 372:584–587.
 }
+\author{
+Data simulated by Pierre Nouvellet (\email{p.nouvellet@imperial.ac.uk}). Transfer to R
+and documentation by Thibaut Jombart (\email{thibautjombart@gmail.com}).
+}
 \keyword{datasets}
-

@@ -36,14 +36,13 @@ nursery in Derbyshire, England.
 head(norovirus_derbyshire_2001_school)
 
 }
+\references{
+O’Neill, P. D., & Marks, P. J. (2005). Bayesian model choice and infection route modelling
+in an outbreak of Norovirus. Statistics in Medicine, 24(13), 2011–24.
+}
 \author{
 Data from O'Neill and Marks (2005), provided by Philip O'Neill.
 Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}
 and Finlay Campbell (\email{f.campbell15@imperial.ac.uk})).
 }
-\references{
-O’Neill, P. D., & Marks, P. J. (2005). Bayesian model choice and infection route modelling
-in an outbreak of Norovirus. Statistics in Medicine, 24(13), 2011–24.
-}
 \keyword{datasets}
-

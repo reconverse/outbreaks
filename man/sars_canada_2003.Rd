@@ -26,14 +26,13 @@ These data comprise of new cases of SARS in Canada in 2003. These data are from 
 head(sars_canada_2003)
 
 }
-\author{
-Data from De Vries et al. (2006), based on original data from Health Canada.
-Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
-}
 \references{
 G. De Vries, T. Hillen, M. Lewis, J. Mueller, and B. Schoenfisch. 2006.
 A Course in Mathematical Biology: Quantitative Modeling with Mathematical and Computational Methods.
 Society for Industrial and Applied Mathematics.
 }
+\author{
+Data from De Vries et al. (2006), based on original data from Health Canada.
+Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
+}
 \keyword{datasets}
-

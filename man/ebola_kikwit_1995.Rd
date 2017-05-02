@@ -35,13 +35,12 @@ Democratic Republic of the Congo.
 head(ebola_kikwit_1995)
 
 }
-\author{
-Data from Khan et al. (1999), provided by T.J. McKinley.
-Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
-}
 \references{
 A.S. Khan, et al. 1999. The reemergence of Ebola hemorrhagic fever,
 Democratic Republic of the Congo, 1995. J Infect Dis 179:S76-S86.
 }
+\author{
+Data from Khan et al. (1999), provided by T.J. McKinley.
+Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
+}
 \keyword{datasets}
-
