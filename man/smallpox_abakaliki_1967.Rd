@@ -31,14 +31,13 @@ refused medical interventions.
 head(smallpox_abakaliki_1967)
 
 }
+\references{
+D. Thompson and W. Foege. 1968. Faith Tabernacle smallpox epidemic.
+Abakaliki, Nigeria. World Health Organization, 3:1–9
+}
 \author{
 Data from Thompson and Foege (1968).
 Transfer to R and documentation by Simon Frost \cr
 (\email{sdwfrost@gmail.com}).
 }
-\references{
-D. Thompson and W. Foege. 1968. Faith Tabernacle smallpox epidemic.
-Abakaliki, Nigeria. World Health Organization, 3:1–9
-}
 \keyword{datasets}
-

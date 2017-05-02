@@ -55,17 +55,16 @@ head(mers_korea_2015$linelist)
 head(mers_korea_2015$contacts)
 
 }
-\author{
-Data collected by the European Centre for Disease Prevention and Control (Epidemic
-Intelligence and Response section, contact: Bertrand Sudre (\email{
-bertrand.sudre@ecdc.europa.eu}) and Kaja Kaasik Aaslav(\email{Kaja.KaasikAaslav@ecdc.europa.eu}).
-Transfer to R and documentation by Bertrand Sudre (\email{ bertrand.sudre@ecdc.europa.eu}).
-}
 \references{
 More information on the intial stage of the outbreak in the following reference:
 Penttinen PM, Kaasik-Aaslav K, Friaux A, Donachie A, Sudre B, Amato-Gauci AJ, Memish ZA,
 Coulombier D. Taking stock of the first 133 MERS coronavirus cases globally--Is the epidemic
 changing?  Euro Surveill. 2013 Sep 26;18(39). pii: 20596. PubMed PMID: 24094061.
 }
+\author{
+Data collected by the European Centre for Disease Prevention and Control (Epidemic
+Intelligence and Response section, contact: Bertrand Sudre (\email{
+bertrand.sudre@ecdc.europa.eu}) and Kaja Kaasik Aaslav(\email{Kaja.KaasikAaslav@ecdc.europa.eu}).
+Transfer to R and documentation by Bertrand Sudre (\email{ bertrand.sudre@ecdc.europa.eu}).
+}
 \keyword{datasets}
-

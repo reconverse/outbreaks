@@ -37,14 +37,13 @@ on the Yap Main Islands, Micronesia.
 head(dengue_yap_2011)
 
 }
-\author{
-Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
-Transfer to R and documentation by Finlay Campbell (\email{f.campbell15@imperial.ac.uk}).
-}
 \references{
 S. Funk, et al. 2016. Comparative Analysis of Dengue and Zika Outbreaks Reveals
 Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
 e0005173. http://doi.org/10.1371/journal.pntd.0005173
 }
+\author{
+Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
+Transfer to R and documentation by Finlay Campbell (\email{f.campbell15@imperial.ac.uk}).
+}
 \keyword{datasets}
-

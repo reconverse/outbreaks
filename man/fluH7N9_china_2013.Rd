@@ -19,10 +19,6 @@ These data comprise of 136 cases of influenza A H7N9 in China, analysed by Kucha
 head(fluH7N9_china_2013)
 
 }
-\author{
-Data collated by Adam Kucharski et al. from ProMed, WHO, FluTrackers, news reports and research articles.
-Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
-}
 \references{
 A. Kucharski, H. Mills, A. Pinsent, C. Fraser, M. Van Kerkhove, C. A. Donnelly, and S. Riley. 2014.
 Distinguishing between reservoir exposure and human-to-human transmission for emerging pathogens using case onset data.
@@ -32,5 +28,8 @@ A. Kucharski, H. Mills, A. Pinsent, C. Fraser, M. Van Kerkhove, C. A. Donnelly, 
 Data from: Distinguishing between reservoir exposure and human-to-human transmission for emerging pathogens using case onset data.
 Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.2g43n.
 }
+\author{
+Data collated by Adam Kucharski et al. from ProMed, WHO, FluTrackers, news reports and research articles.
+Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
+}
 \keyword{datasets}
-

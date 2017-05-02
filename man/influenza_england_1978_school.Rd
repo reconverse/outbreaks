@@ -29,10 +29,6 @@ The index case was infected by 1978-01-10, and had febrile illness from 1978-01-
 head(influenza_england_1978_school)
 
 }
-\author{
-Data from De Vries et al. (2006), from the original Anonymous (1978) figure.
-Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
-}
 \references{
 Anonymous. 1978. Influenza in a boarding school. British Medical Journal 1:578.
 
@@ -40,5 +36,8 @@ G. De Vries, T. Hillen, M. Lewis, J. Mueller, and B. Schoenfisch. 2006.
 A Course in Mathematical Biology: Quantitative Modeling with Mathematical and Computational Methods.
 Society for Industrial and Applied Mathematics.
 }
+\author{
+Data from De Vries et al. (2006), from the original Anonymous (1978) figure.
+Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
+}
 \keyword{datasets}
-
