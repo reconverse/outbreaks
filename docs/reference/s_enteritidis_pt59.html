@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Authors • outbreaks</title>
+<title>Salmonella Enteritidis PT59 outbreak — s_enteritidis_pt59 • outbreaks</title>
 
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script>
@@ -20,9 +20,9 @@
 
 
 <!-- pkgdown -->
-<link href="pkgdown.css" rel="stylesheet">
-<script src="jquery.sticky-kit.min.js"></script>
-<script src="pkgdown.js"></script>
+<link href="../pkgdown.css" rel="stylesheet">
+<script src="../jquery.sticky-kit.min.js"></script>
+<script src="../pkgdown.js"></script>
 
 <!-- mathjax -->
 <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
@@ -34,7 +34,7 @@
   </head>
 
   <body>
-    <div class="container template-authors">
+    <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
@@ -44,15 +44,15 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">outbreaks</a>
+      <a class="navbar-brand" href="../index.html">outbreaks</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="reference/index.html">Reference</a>
+  <a href="../reference/index.html">Reference</a>
 </li>
 <li>
-  <a href="news/index.html">News</a>
+  <a href="../news/index.html">News</a>
 </li>
       </ul>
       
@@ -72,42 +72,63 @@
       </header>
 
       <div class="row">
-  <div class="contents col-md-12">
+  <div class="col-md-9 contents">
     <div class="page-header">
-      <h1>Authors</h1>
+    <h1>Salmonella Enteritidis PT59 outbreak</h1>
     </div>
 
-    <ul class="list-unstyled">
-      <li>
-        <p><strong>Thibaut Jombart</strong>. Author.
-        </p>
-      </li>
-      <li>
-        <p><strong>Simon Frost</strong>. Author.
-        </p>
-      </li>
-      <li>
-        <p><strong>Pierre Nouvellet</strong>. Author.
-        </p>
-      </li>
-      <li>
-        <p><strong>Finlay Campbell</strong>. Author, maintainer.
-        </p>
-      </li>
-      <li>
-        <p><strong>Bertrand Sudre</strong>. Author.
-        </p>
-      </li>
-      <li>
-        <p><strong>Sang Woo Park</strong>. Contributor.
-        </p>
-      </li>
-    </ul>
+    
+    <p>This dataset covers a food-borne outbreak of Salmonella Enteritidis PT59
+investigated by Public Health England. The data includes a distribution
+network, and genetic clusters of bacteria isolated in contaminated
+patients. The data is anonymised: identifiers of the food distribution
+network have been hashed. The object <code>s_enteritidis_pt59</code> is a list
+containing:</p>
+    
+
+    <pre><span class='no'>s_enteritidis_pt59</span></pre>
+        
+    <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
+
+    <p>An object of class <code>list</code> of length 2.</p>
+    
+    <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
+
+    <p>Multi-agency Salmonella Enteritidis PT59 Outbreak Control Team,
+chaired by Public Health England</p>
+    
+    <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
+
+    <p><ul>
+<li> <code>$graph</code>: a <code>data.frame</code> containing with two columns
+<code>from</code> and <code>to</code> specifying (directed) edges of the food
+distribution network, alongside reported cases (terminal branches, or &#39;tips&#39;).</p>
+    <p></li>
+<li> <code>$cluster</code>: a <code>factor</code> indicating the genetic cluster of
+named tips.</p>
+    <p></li>
+</ul></p>
+    
 
   </div>
+  <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
+    <h2>Contents</h2>
+    <ul class="nav nav-pills nav-stacked">
+      
+      <li><a href="#format">Format</a></li>
 
+      <li><a href="#source">Source</a></li>
+
+      <li><a href="#details">Details</a></li>
+          </ul>
+
+    <h2>Author</h2>
+    
+Thomas Inns <a href='mailto:Thomas.Inns@phe.gov.uk'>Thomas.Inns@phe.gov.uk</a>, Philip Ashton, Tim
+Dallman, Roberto Vivancos. Hashing and port to R by Thibaut Jombart.
+
+  </div>
 </div>
-
 
       <footer>
       <div class="copyright">

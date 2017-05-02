@@ -117,10 +117,189 @@ year--slowing but not yet under control. The New England journal of medicine 372
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'><span class='co'>## identify mistakes in data entry (negative incubation period)</span>
 <span class='no'>mistakes</span> <span class='kw'>&lt;-</span> <span class='fu'>which</span>(<span class='no'>ebola_sim</span>$<span class='no'>linelist</span>$<span class='no'>date_of_onset</span> <span class='kw'>&lt;=</span> <span class='no'>ebola_sim</span>$<span class='no'>linelist</span>$<span class='no'>date_of_infection</span>)
-<span class='no'>mistakes</span></div><div class='output co'>#&gt; integer(0)</div><div class='input'><span class='no'>ebola_sim</span>$<span class='no'>linelist</span>[<span class='no'>mistakes</span>, ]</div><div class='output co'>#&gt; [1] case.id                 generation              date.of.infection      
-#&gt; [4] date.of.onset           date.of.hospitalisation date.of.outcome        
-#&gt; [7] outcome                 gender                  hospital               
-#&gt; &lt;0 rows&gt; (or 0-length row.names)</div><div class='input'>
+<span class='no'>mistakes</span></div><div class='output co'>#&gt;  [1]   46   63  110  219  326  364  385  469  694  708  721  728  748  769  919
+#&gt; [16]  998 1097 1119 1216 1267 1305 1395 1469 1514 1597 1663 1692 1744 1766 1808
+#&gt; [31] 1959 2133 2241 2315 2855 2859 2941 3306 3642 3659 3699 3704 3730 3754 3787
+#&gt; [46] 3946 3994 4203 4262 4273 4686 4772 4881 4916 4993 5031 5097 5311 5815</div><div class='input'><span class='no'>ebola_sim</span>$<span class='no'>linelist</span>[<span class='no'>mistakes</span>, ]</div><div class='output co'>#&gt;      case_id generation date_of_infection date_of_onset date_of_hospitalisation
+#&gt; 46    3f1aaf          4        2014-05-18    2014-05-18              2014-05-25
+#&gt; 63    ce9c02          5        2014-05-27    2014-05-27              2014-05-29
+#&gt; 110   700e84          6        2014-06-10    2014-06-10              2014-06-16
+#&gt; 219   8bd1e8          8        2014-07-10    2014-07-10              2014-07-11
+#&gt; 326   085bd1          8        2014-07-14    2014-07-14              2014-07-27
+#&gt; 364   5dc1e2          6        2014-07-29    2014-07-29              2014-07-31
+#&gt; 385   9c1ae9          9        2014-08-01    2014-08-01              2014-08-02
+#&gt; 469   6be0c7         11        2014-08-05    2014-08-05              2014-08-08
+#&gt; 694   78e5b6         10        2014-08-14    2014-08-14              2014-08-24
+#&gt; 708   228e8b         11        2014-08-21    2014-08-21              2014-08-24
+#&gt; 721   899d6c         10        2014-08-20    2014-08-20              2014-08-25
+#&gt; 728   2be2fa         13        2014-08-22    2014-08-22              2014-08-25
+#&gt; 748   137b57         10        2014-08-23    2014-08-23              2014-08-26
+#&gt; 769   9f2e47         10        2014-08-23    2014-08-23              2014-08-27
+#&gt; 919   9bdd46         10        2014-08-30    2014-08-30              2014-09-03
+#&gt; 998   2816f0         13        2014-09-03    2014-09-03              2014-09-05
+#&gt; 1097  1c1e91         14        2014-09-05    2014-09-05              2014-09-09
+#&gt; 1119  f461ef         12        2014-08-31    2014-08-31              2014-09-10
+#&gt; 1216  1cc5e0         13        2014-09-11    2014-09-11              2014-09-12
+#&gt; 1267  dfe4f5         12        2014-09-09    2014-09-09              2014-09-14
+#&gt; 1305  aee2e3         13        2014-09-12    2014-09-12              2014-09-15
+#&gt; 1395  34f7ac         12        2014-09-15    2014-09-15              2014-09-17
+#&gt; 1469  f90b8b         12        2014-09-18    2014-09-18              2014-09-18
+#&gt; 1514  dc0798         16        2014-09-19    2014-09-19              2014-09-19
+#&gt; 1597  898509         14        2014-09-20    2014-09-20              2014-09-21
+#&gt; 1663  1306c1         17        2014-09-22    2014-09-22              2014-09-22
+#&gt; 1692  7e1951         14        2014-09-21    2014-09-21              2014-09-23
+#&gt; 1744  893b3a         20        2014-09-22    2014-09-22              2014-09-24
+#&gt; 1766  1d1c7d         15        2014-09-21    2014-09-21              2014-09-25
+#&gt; 1808  922899         11        2014-09-20    2014-09-20              2014-09-26
+#&gt; 1959  737799         17        2014-09-26    2014-09-26              2014-09-29
+#&gt; 2133  01e6cd         14        2014-10-02    2014-10-02              2014-10-02
+#&gt; 2241  e8a743         12        2014-10-04    2014-10-04              2014-10-05
+#&gt; 2315  eeecde         15        2014-10-06    2014-10-06              2014-10-06
+#&gt; 2855  4e8443         13        2014-10-19    2014-10-19              2014-10-20
+#&gt; 2859  5993d0         20        2014-10-19    2014-10-19              2014-10-20
+#&gt; 2941  657aa1         11        2014-10-20    2014-10-20              2014-10-23
+#&gt; 3306  b1b620         21        2014-11-01    2014-11-01              2014-11-01
+#&gt; 3642  baa1e5         19        2014-11-09    2014-11-09              2014-11-12
+#&gt; 3659  e41a89         17        2014-11-07    2014-11-07              2014-11-13
+#&gt; 3699  8d591b         16        2014-11-13    2014-11-13              2014-11-14
+#&gt; 3704  2cbe04         19        2014-11-13    2014-11-13              2014-11-14
+#&gt; 3730  f1551b         18        2014-11-14    2014-11-14              2014-11-15
+#&gt; 3754  8bd6eb         15        2014-11-15    2014-11-15              2014-11-16
+#&gt; 3787  00031d         18        2014-11-17    2014-11-17              2014-11-17
+#&gt; 3946  03d33a         20        2014-11-23    2014-11-23              2014-11-25
+#&gt; 3994  32af98         20        2014-11-25    2014-11-25              2014-11-26
+#&gt; 4204  9db989         21        2014-12-04    2014-12-04              2014-12-06
+#&gt; 4263  c1a29b         21        2014-12-06    2014-12-06              2014-12-09
+#&gt; 4274  ab2d3f         22        2014-12-08    2014-12-08              2014-12-09
+#&gt; 4687  7375d2         23        2015-01-01    2015-01-01              2015-01-02
+#&gt; 4773  b69258         19        2015-01-07    2015-01-07              2015-01-08
+#&gt; 4882  25e201         22        2015-01-13    2015-01-13              2015-01-16
+#&gt; 4917  1873c3         22        2015-01-17    2015-01-17              2015-01-18
+#&gt; 4994  ef70cd         21        2015-01-22    2015-01-22              2015-01-24
+#&gt; 5032  ca9ec0         26        2015-01-25    2015-01-25              2015-01-26
+#&gt; 5098  0ee1ae         20        2015-01-29    2015-01-29              2015-02-01
+#&gt; 5312  b51296         23        2015-02-19    2015-02-19              2015-02-20
+#&gt; 5816  87be9a         30        2015-04-18    2015-04-18              2015-04-19
+#&gt;      date_of_outcome outcome gender
+#&gt; 46        2014-05-25    &lt;NA&gt;      f
+#&gt; 63        2014-06-17   Death      m
+#&gt; 110       2014-06-28    &lt;NA&gt;      m
+#&gt; 219       2014-07-16    &lt;NA&gt;      m
+#&gt; 326       2014-07-30    &lt;NA&gt;      m
+#&gt; 364       2014-08-02   Death      f
+#&gt; 385       2014-08-23    &lt;NA&gt;      f
+#&gt; 469             &lt;NA&gt; Recover      m
+#&gt; 694       2014-08-27    &lt;NA&gt;      f
+#&gt; 708       2014-08-30    &lt;NA&gt;      m
+#&gt; 721       2014-08-26    &lt;NA&gt;      f
+#&gt; 728             &lt;NA&gt;    &lt;NA&gt;      m
+#&gt; 748       2014-09-21 Recover      m
+#&gt; 769       2014-09-03 Recover      f
+#&gt; 919       2014-09-11 Recover      m
+#&gt; 998       2014-09-19    &lt;NA&gt;      m
+#&gt; 1097      2014-09-10    &lt;NA&gt;      m
+#&gt; 1119      2014-08-22 Recover      m
+#&gt; 1216      2014-09-22   Death      f
+#&gt; 1267      2014-09-26   Death      m
+#&gt; 1305      2014-09-27 Recover      f
+#&gt; 1395      2014-09-23 Recover      f
+#&gt; 1469      2014-09-13 Recover      m
+#&gt; 1514      2014-10-17    &lt;NA&gt;      f
+#&gt; 1597      2014-10-12 Recover      f
+#&gt; 1663      2014-09-29 Recover      f
+#&gt; 1692      2014-10-01 Recover      m
+#&gt; 1744      2014-10-04    &lt;NA&gt;      m
+#&gt; 1766      2014-10-02   Death      m
+#&gt; 1808      2014-10-01   Death      m
+#&gt; 1959      2014-10-11 Recover      m
+#&gt; 2133      2014-10-11    &lt;NA&gt;      f
+#&gt; 2241      2014-09-29   Death      f
+#&gt; 2315      2014-10-14   Death      f
+#&gt; 2855      2014-10-27 Recover      m
+#&gt; 2859      2014-11-01    &lt;NA&gt;      m
+#&gt; 2941      2014-11-06   Death      m
+#&gt; 3306      2014-12-08 Recover      m
+#&gt; 3642      2014-11-19    &lt;NA&gt;      f
+#&gt; 3659            &lt;NA&gt; Recover      f
+#&gt; 3699            &lt;NA&gt;    &lt;NA&gt;      f
+#&gt; 3704      2014-11-15   Death      f
+#&gt; 3730            &lt;NA&gt; Recover      f
+#&gt; 3754      2014-12-07   Death      f
+#&gt; 3787      2014-11-24   Death      f
+#&gt; 3946      2014-12-13 Recover      f
+#&gt; 3994      2014-12-08 Recover      m
+#&gt; 4204      2014-12-12   Death      m
+#&gt; 4263      2014-12-13 Recover      m
+#&gt; 4274      2014-12-16   Death      f
+#&gt; 4687      2015-01-03   Death      m
+#&gt; 4773            &lt;NA&gt;   Death      m
+#&gt; 4882            &lt;NA&gt;    &lt;NA&gt;      m
+#&gt; 4917      2015-01-29   Death      f
+#&gt; 4994      2015-01-25   Death      f
+#&gt; 5032      2015-02-05    &lt;NA&gt;      f
+#&gt; 5098      2015-02-08    &lt;NA&gt;      m
+#&gt; 5312      2015-02-25    &lt;NA&gt;      m
+#&gt; 5816      2015-05-11 Recover      f
+#&gt;                                          hospital
+#&gt; 46                             Connaught Hospital
+#&gt; 63                             Connaught Hospital
+#&gt; 110                            Connaught Hospital
+#&gt; 219                                          &lt;NA&gt;
+#&gt; 326                            Connaught Hospital
+#&gt; 364                             Military Hospital
+#&gt; 385                               Rokupa Hospital
+#&gt; 469                                         other
+#&gt; 694                            Connaught Hospital
+#&gt; 708                            Connaught Hospital
+#&gt; 721                                          &lt;NA&gt;
+#&gt; 728                            Connaught Hospital
+#&gt; 748                            Connaught Hospital
+#&gt; 769                            Connaught Hospital
+#&gt; 919                                          &lt;NA&gt;
+#&gt; 998                            Connaught Hospital
+#&gt; 1097                                        other
+#&gt; 1119                           Connaught Hospital
+#&gt; 1216                           Connaught Hospital
+#&gt; 1267                                        other
+#&gt; 1305                           Connaught Hospital
+#&gt; 1395                           Connaught Hospital
+#&gt; 1469                              Rokupa Hospital
+#&gt; 1514                           Connaught Hospital
+#&gt; 1597                                        other
+#&gt; 1663                           Connaught Hospital
+#&gt; 1692                                        other
+#&gt; 1744                           Connaught Hospital
+#&gt; 1766                                         &lt;NA&gt;
+#&gt; 1808                                         &lt;NA&gt;
+#&gt; 1959                            Mitylira Hospital
+#&gt; 2133                            Military Hospital
+#&gt; 2241                            Military Hospital
+#&gt; 2315                           Connaught Hospital
+#&gt; 2855                                        other
+#&gt; 2859                              Rokupa Hospital
+#&gt; 2941                            Mitylira Hospital
+#&gt; 3306                           Connaught Hospital
+#&gt; 3642                                         &lt;NA&gt;
+#&gt; 3659                           Connaught Hospital
+#&gt; 3699                            Military Hospital
+#&gt; 3704 Princess Christian Maternity Hospital (PCMH)
+#&gt; 3730                                        other
+#&gt; 3754                            Military Hospital
+#&gt; 3787                                         &lt;NA&gt;
+#&gt; 3946                           Connaught Hospital
+#&gt; 3994                           Connaught Hospital
+#&gt; 4204                                         &lt;NA&gt;
+#&gt; 4263                                        other
+#&gt; 4274                           Connaught Hospital
+#&gt; 4687                                         &lt;NA&gt;
+#&gt; 4773 Princess Christian Maternity Hospital (PCMH)
+#&gt; 4882                                         &lt;NA&gt;
+#&gt; 4917                                         &lt;NA&gt;
+#&gt; 4994                           Connaught Hospital
+#&gt; 5032                                         &lt;NA&gt;
+#&gt; 5098                                         &lt;NA&gt;
+#&gt; 5312                           Connaught Hospital
+#&gt; 5816                                        other</div><div class='input'>
 <span class='co'>## check that ebola_sim_clean is identical after removing mistakes</span>
 <span class='fu'>identical</span>(<span class='no'>ebola_sim_clean</span>$<span class='no'>linelist</span>, <span class='no'>ebola_sim</span>$<span class='no'>linelist</span>[-<span class='no'>mistakes</span>, ])</div><div class='output co'>#&gt; [1] FALSE</div><div class='input'>
 </div></pre>
