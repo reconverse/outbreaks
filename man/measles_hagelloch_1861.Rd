@@ -57,6 +57,10 @@ selection for the 1861 Hagelloch measles epidemic, Biostatistics 5(2):249-261.
 
 H\enc{ö}{oe}hle M. 2007. surveillance: An R package for the monitoring of
 infectious diseases. Computational Statistics, 22:571-582.
+
+Meyer, S., Held, L., & H\enc{ö}{oe}hle, M. 2017. Spatio-Temporal Analysis of
+Epidemic Phenomena Using the R Package surveillance. Journal of Statistical
+Software, 77(11), 1 - 55.
 }
 \author{
 This version of the data was formatted from \code{hagelloch.df} in the

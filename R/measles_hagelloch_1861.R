@@ -54,6 +54,10 @@
 #' H\enc{ö}{oe}hle M. 2007. surveillance: An R package for the monitoring of
 #' infectious diseases. Computational Statistics, 22:571-582.
 #'
+#' Meyer, S., Held, L., & H\enc{ö}{oe}hle, M. 2017. Spatio-Temporal Analysis of
+#' Epidemic Phenomena Using the R Package surveillance. Journal of Statistical
+#' Software, 77(11), 1 - 55.
+#'
 #' @examples
 #' ## show first few cases
 #' head(measles_hagelloch_1861)
