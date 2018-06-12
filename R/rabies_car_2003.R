@@ -1,0 +1,56 @@
+#' Dog Rabies in Central African Republic, 2003-2012
+#'
+#' These data document a dog rabies epidemic from 2003 to 2012 in Bangui,
+#' Central African Republic, and its surroundings. Data comprise dates and
+#' locations of the cases, as well as viral sequences of the pathogen for most
+#' cases.
+#'
+#' @docType data
+#'
+#' @format {
+#' 
+#' A list comprising a \code{data.frame} (\code{$linelist}) and a \code{DNAbin}
+#' \code{matrix} (\code{$dna}). \code{$linelist} contains the following
+#' variables:
+#' 
+#' \itemize{
+#' 
+#' \item \code{$index}: numeric identifier of the case 
+#'
+#' \item \code{$date}: date of case reporting
+#' 
+#' \item \code{$latitude}: the latitude of the collection point 
+#' 
+#' \item \code{$longitude}: the longitude of the collection point
+#' 
+#' \item \code{$has_dna}: a logical indicating of the case has a matching
+#' pathogen sequence in \code{$dna}
+#' 
+#' }
+#'
+#' \code{$dna} is a \code{DNAbin} \code{matrix} whose labels are to be matched
+#' against \code{$linelist$index}.
+#' 
+#' }
+#'
+#' @author Data from Transfer to R and documentation by Thibaut Jombart.
+#'
+#' @source The data were provided by the Institut Pasteur de Bangui, Bangui,
+#'   République Centrafricaine, and the Institut Pasteur, Unit Lyssavirus
+#'   Dynamics and Host Adaptation, WHO Collaborating Centre for Reference and
+#'   Research on Rabies, Paris, France.
+#'
+#' @references Cori et al. (submitted) A graph-based evidence synthesis approach
+#'   to detecting outbreak clusters: an application to dog rabies.
+#' 
+#' @examples
+#'
+#' if (require(incidence) && require(ape)) {
+#'   i <- incidence(rabies_car_2003$linelist$date, 28L)
+#'   plot(i)
+#' 
+#'   tre <- nj(dist.dna(rabies_car_2003$dna))
+#'   plot(tre, main = "Neighbour-Joining tree")
+#'
+#' }
+"rabies_car_2003"

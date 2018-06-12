@@ -1,3 +1,15 @@
+outbreaks 1.4.0
+===============
+
+### NEW FEATURES
+
+* `rabies_car_2003`: dog rabies in Central African Republic, 2003-2012; data
+comprise dates and locations of the cases, as well as viral sequences of the
+pathogen for most cases
+
+
+
+
 outbreaks 1.3.0 (2017-05-13)
 ==================
 
