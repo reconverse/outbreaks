@@ -1,3 +1,13 @@
+outbreaks 1.5.0 (2018-12-15)
+==================
+
+### NEW FEATURES
+
+One new dataset added:<br>
+
+* `nipah_malaysia`: human cases of Nipah virus in Malaysia and Singapore, 1997-1999; data are weekly case counts, stratified by state / country
+
+
 outbreaks 1.4.0
 ===============
 
@@ -6,7 +16,6 @@ outbreaks 1.4.0
 * `rabies_car_2003`: dog rabies in Central African Republic, 2003-2012; data
 comprise dates and locations of the cases, as well as viral sequences of the
 pathogen for most cases
-
 
 
 
