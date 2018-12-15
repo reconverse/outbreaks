@@ -25,7 +25,9 @@
 #' also 11 cases reported among abbatoir workers in Singapor. The data, as published
 #' in Pulliam _et al_. (2011), include all 257 clinical cases recorded in humans from
 #' 1997-01-11 to 1999-04-14, when the outbreak ended following large-scale
-#' depopulation of pig farms.
+#' depopulation of pig farms. Human cases represent zoonotic infections, with little
+#' or no human-to-human transmission. Thus, the epidemic curve reflects transmission
+#' and spatial spread within pigs.
 #'
 #' }
 #' @rdname nipah_malaysia
