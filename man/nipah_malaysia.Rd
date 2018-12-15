@@ -8,7 +8,6 @@
 A data frame with 49 rows and 5 columns
 \describe{
   \item{date}{Onset date (weekly)}
-  \item{isoweek}{Week of onset (weeks as defined in ISO 8601)}
   \item{perak}{Number of cases (Perak State, Malaysia)}
   \item{negeri_sembilan}{Number of cases (Negeri Sembilan State, Malaysia)}
   \item{selangor}{Number of cases (Selangor State, Malaysia)}
@@ -42,6 +41,12 @@ in Malaysia and Singapore from January 1997 through April 1999.
 \examples{
 ## show first few weeks of Dengue incidence
 head(nipah_malaysia)
+## convert data to incidence object and plot epicurve using the incidence package
+library(incidence)
+cases <- subset(nipah_malaysia, select = c("perak", "negeri_sembilan", "selangor",
+ "singapore"))
+i <- as.incidence(cases, dates = nipah_malaysia$date, interval = 7L)
+plot(i)
 
 }
 \references{
