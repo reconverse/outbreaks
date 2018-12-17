@@ -6,7 +6,8 @@ Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", r
 	   person("Pierre", "Nouvellet", role = "aut"),
 	   person("Finlay", "Campbell", email = "f.campbell15@imperial.ac.uk", role=c("aut", "cre")),
 	   person("Bertrand", "Sudre", email = "bertrand.sudre@edc.europa.eu", role="aut"),
-	   person("Sang Woo", "Park", email = "parksw3@mcmaster.ca", role = "ctb")
+	   person("Sang Woo", "Park", email = "parksw3@mcmaster.ca", role = "ctb"),
+	   person("Juliet R.C.", "Pulliam", email = "pulliam@sun.ac.za", role = "ctb")
 	   )
 Description: Empirical or simulated disease outbreak data, provided either as
     RData or as text files.
@@ -15,7 +16,7 @@ Depends:
 License: GPL (>=2)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.0
 Suggests: testthat, covr, ape, incidence
 URL: https://github.com/reconhub/outbreaks
 BugReports: https://github.com/reconhub/outbreaks/issues
