@@ -67,6 +67,8 @@ We use the lower case throughout, and snake_case (using underscores) to separate
 - [Simon Frost](https://github.com/sdwfrost)
 - [Thibaut Jombart](https://github.com/thibautjombart)
 - Pierre Nouvellet
+- Sang Woo Park
+- [Juliet R.C. Pulliam](https://github.com/jrcpulliam)
 - Bertrand Sudre
 
 
