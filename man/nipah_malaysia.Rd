@@ -41,6 +41,7 @@ in Malaysia and Singapore from January 1997 through April 1999.
 \examples{
 ## show first few weeks of Dengue incidence
 head(nipah_malaysia)
+
 ## convert data to incidence object and plot epicurve using the incidence package
 library(incidence)
 cases <- subset(nipah_malaysia, select = c("perak", "negeri_sembilan", "selangor",
