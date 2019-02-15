@@ -15,8 +15,8 @@ Simulated varicella outbreak
 
 This dataset simulates an outbreak of varicella in german centers for foreigners. It is loosely based on
 the situation in 2015, when the numbers of foreigners seeking asylum exeded the available places
-in the center for foreigners. Varicella was the most frequent disease in these centers comparable
-with kindergartens and other shelters.
+in the center for foreigners. Varicella was the most frequent disease in these centers at that time.
+comparable with kindergartens and other shelters.
 
 The data is useful to compute incidence rates.
 }
@@ -31,8 +31,8 @@ library(randomNames) # load name generator package
 
 # Adjustable variables
 cohortSize = 500
-startDate = as.numeric(as.Date("2015-01-01", origing = "1970-01-01"))
-endDate = as.numeric(as.Date("2015-12-31", origing = "1970-01-01"))
+startDate = as.numeric(as.Date("2015-01-01", origin = "1970-01-01"))
+endDate = as.numeric(as.Date("2015-12-31", origin = "1970-01-01"))
 centerNames = c("Oranienburger Str", "Buchholzerstr", "Platz der Luftbruecke", "Bizetstr")
 meanStay = 50
 probVacc = 0.3 # The percentage of people vaccinated
@@ -74,12 +74,12 @@ data$arrival2 <- as.Date(data$arrival2, origin = "1970-01-01")
 data$leave2 <- as.Date(data$leave2, origin = "1970-01-01")
 
 }
-# saving as RData file
-varicella_sim_berlin <- data
-save(varicella_sim_berlin, file = "data/varicella_sim_berlin.RData")
 }
 
 \examples{
+
+varicella_sim_berlin
+
 
 }
 \references{

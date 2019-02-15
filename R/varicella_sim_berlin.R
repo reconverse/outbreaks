@@ -71,50 +71,12 @@
 #'
 #' @examples
 #'
+#'varicella_sim_berlin
+#'
+#'
 #' @rdname varicella_sim_berlin
 #'
 "varicella_sim_berlin"
 
 
-library(dplyr)
-load("data/varicella_sim_berlin.RData")
-data <- varicella_sim_berlin
-
-data <- head(data[!is.na(data$onset),],50)
-
-
-rm(timespan)
-timespan <- data.frame(dates = as.Date(min(data$arrival1):max(data$leave2), origin = "1970-01-01"))
-
-myfunction <- function(x){
- da <- data[x,]
- timespan$name <- da$name.first_name
- timespan$center <- ifelse(
-   timespan$dates > da$arrival1 & timespan$dates < da$leave1,
-   da$center1,
-   NA)
- timespan$center <- ifelse(
-   timespan$dates > da$arrival2 & timespan$dates < da$leave2,
-   da$center2,
-   NA)
- timespan$diseased <- ifelse(
-   timespan$dates > da$onset & timespan$dates < (da$onset + 14),
-   "diseased",
-   NA)
- timespan$infectable <- ifelse(
-   timespan$dates > da$onset,
-   "uninfectable",
-   "infectable")
-
- newdata <- rbind(newdata, timespan)
- newdata
-}
-
-
-
-newdata <- data.frame(NULL)
-
-for (i in 1:10) {
-  newdata <- rbind(newdata,myfunction(i))
-}
 
