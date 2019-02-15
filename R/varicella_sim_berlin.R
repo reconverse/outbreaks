@@ -118,8 +118,3 @@ for (i in 1:10) {
   newdata <- rbind(newdata,myfunction(i))
 }
 
-
-newdata[newdata$]
-
-newdata %>%
-  filter()
