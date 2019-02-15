@@ -32,7 +32,9 @@ data(package="outbreaks")
 |influenza_england_1978_school    |Influenza in a boarding school in England, 1978            |
 |measles_hagelloch_1861           |Measles in Hagelloch, Germany, 1861                        |
 |mers_korea_2015                  |Middle East respiratory syndrome in South Korea, 2015      |
+|nipah_malaysia                   |Nipah in Malaysia and Sinagapore, 1997-1999                |
 |norovirus_derbyshire_2001_school |Norovirus in a primary school in Derbyshire, England, 2001 |
+|rabies_car_2003                  |Dog Rabies in Central African Republic, 2003-2012          |
 |s_enteritidis_pt59               |Salmonella Enteritidis PT59 outbreak                       |
 |sars_canada_2003                 |Severe Acute Respiratory Syndrome in Canada, 2003          |
 |smallpox_abakaliki_1967          |Smallpox in Abakaliki, Nigeria, 1967                       |
