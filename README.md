@@ -36,6 +36,7 @@ data(package="outbreaks")
 |s_enteritidis_pt59               |Salmonella Enteritidis PT59 outbreak                       |
 |sars_canada_2003                 |Severe Acute Respiratory Syndrome in Canada, 2003          |
 |smallpox_abakaliki_1967          |Smallpox in Abakaliki, Nigeria, 1967                       |
+|varicella_sim_berlin             |Simulated varicella outbreak in centers for foreigners     |
 |zika_girardot_2015               |Zika in Girardot, Colombia, 2015                           |
 |zika_sanandres_2015              |Zika in San Andres, Colombia, 2015                         |
 |zika_yap_2007                    |Zika on the Yap Main Islands, Micronesia, 2007             |
@@ -58,7 +59,6 @@ devtools::install_github("reconhub/outbreaks")
 ```
 
 Note that this requires the package *devtools* installed.
-
 
 
 <br>
@@ -85,13 +85,13 @@ We use the lower case throughout, and snake_case (using underscores) to separate
 <br>
 
 ### Contributors (by alphabetic order):
+- Bertrand Sudre
 - [Finlay Campbell](https://github.com/finlaycampbell)
-- [Simon Frost](https://github.com/sdwfrost)
-- [Thibaut Jombart](https://github.com/thibautjombart)
+- [Jakob Schumacher](https://github.com/jakobschumacher)
+- [Juliet R.C. Pulliam](https://github.com/jrcpulliam)
 - Pierre Nouvellet
 - Sang Woo Park
-- [Juliet R.C. Pulliam](https://github.com/jrcpulliam)
-- Bertrand Sudre
-
+- [Simon Frost](https://github.com/sdwfrost)
+- [Thibaut Jombart](https://github.com/thibautjombart)
 
 Maintainer: Finlay Campbell (f.campbell15@imperial.ac.uk)
