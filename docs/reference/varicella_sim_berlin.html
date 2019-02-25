@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Zika in San Andres, Colombia, 2015 — zika_sanandres_2015 • outbreaks</title>
+<title>Simulated Varicella outbreak — varicella_sim_berlin • outbreaks</title>
 
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script>
@@ -30,10 +30,9 @@
 
 
 
-<meta property="og:title" content="Zika in San Andres, Colombia, 2015 — zika_sanandres_2015" />
+<meta property="og:title" content="Simulated Varicella outbreak — varicella_sim_berlin" />
 
-<meta property="og:description" content="These data describe the daily incidence of Zika virus disease in San Andres,
-Colombia." />
+<meta property="og:description" content="Simulated Varicella outbreak" />
 <meta name="twitter:card" content="summary" />
 
 
@@ -101,58 +100,71 @@ Colombia." />
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Zika in San Andres, Colombia, 2015</h1>
-    <small class="dont-index">Source: <a href='https://github.com/reconhub/outbreaks/blob/master/R/zika_sanandres_2015.R'><code>R/zika_sanandres_2015.R</code></a></small>
-    <div class="hidden name"><code>zika_sanandres_2015.Rd</code></div>
+    <h1>Simulated Varicella outbreak</h1>
+    <small class="dont-index">Source: <a href='https://github.com/reconhub/outbreaks/blob/master/R/varicella_sim_berlin.R'><code>R/varicella_sim_berlin.R</code></a></small>
+    <div class="hidden name"><code>varicella_sim_berlin.Rd</code></div>
     </div>
 
     <div class="ref-description">
     
-    <p>These data describe the daily incidence of Zika virus disease in San Andres,
-Colombia.</p>
+    <p>Simulated Varicella outbreak</p>
     
     </div>
 
-    <pre class="usage"><span class='no'>zika_sanandres_2015</span></pre>
+    <pre class="usage"><span class='no'>varicella_sim_berlin</span></pre>
         
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
-    <p>A data frame with 101 rows and 2 columns
+    <p>A data frame with 500 rows and 13 columns
 <dl class='dl-horizontal'>
-  <dt>date</dt><dd><p>Date</p></dd>
-  <dt>cases</dt><dd><p>Daily incidence</p></dd>
-</dl>
-    The data on Zika virus disease incidence reported by Rojas et al. (2016)
-cover the period from September 2015 to January 2016, over which time a total
-of 928 cases were reported to health authorities of San Andres (population of
-54,513). Suspected cases were confirmed by reverse transcription-polymerase
-chain reaction (RT-PCR) in the serum of acute cases within five days of
-symptom onset.</p>
+  <dt>sex</dt><dd><p>The gender of the simulated persons</p></dd>
+  <dt>ethnicity</dt><dd><p>Simulated ethnical origin</p></dd>
+  <dt>firstname</dt><dd><p>First names of the simulated persons</p></dd>
+  <dt>lastname</dt><dd><p>Last names of the simulated persons</p></dd>
+  <dt>age</dt><dd><p>Age of the simulated persons</p></dd>
+  <dt>center1</dt><dd><p>Name of the first center where the simulated persons stay</p></dd>
+  <dt>arrival1</dt><dd><p>Date of arrival at the first center</p></dd>
+  <dt>leave1</dt><dd><p>Date of departure at the first center</p></dd>
+  <dt>center2</dt><dd><p>Name of the second center where the simulated persons stay</p></dd>
+  <dt>arrival2</dt><dd><p>Date of arrival at the second center</p></dd>
+  <dt>leave2</dt><dd><p>Date of departure at the second center</p></dd>
+  <dt>onset</dt><dd><p>Date of onset of the disease</p></dd>
+  <dt>disease</dt><dd><p>Name of the disease</p></dd>
+</dl></p>
     
-    <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
+    <h2 class="hasAnchor" id="background"><a class="anchor" href="#background"></a>Background</h2>
 
-    <p>Rojas et al. (2016)</p>
     
-    <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
-
-    <p>Rojas, D. P., Dean, N. E., Yang, Y., Kenah, E., Quintero, J., Tomasi, S., ...
-Eyrolle-Guignot, D. (2016). The epidemiology and transmissibility of Zika
-virus in Girardot and San Andres island, Colombia, September 2015 to January
-2016. Eurosurveillance, 21(28), 30283.
-http://doi.org/10.2807/1560-7917.ES.2016.21.28.30283</p>
-<p>These data were provided under a Creative Commons Attribution (CC BY 4.0)
-Licence (<a href='http://creativecommons.org/licenses/by/4.0/'>http://creativecommons.org/licenses/by/4.0/</a>).</p>
+    <p>This dataset is useful to compute incidence rates.</p>
+<p>This dataset simulates an outbreak of varicella in german centers for
+foreigners. It is loosely based on the situation in 2015, when the numbers of
+foreigners seeking asylum exeded the available places in the center for
+foreigners. Varicella was the most frequent disease in these centers at that
+time.  comparable with kindergartens and other shelters.</p>
+<p>Description of infectious diseases in people seeking asylum in Germany in
+2017 of Robert Koch-Institute, Berlin, Germany:
+https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GesundAZ/Content/A/Asylsuchende/Asylsuchende.html</p>
+<p>The dataset was created by the package outbreakcreator
+https://github.com/jakobschumacher/outbreakcreator/.</p>
     
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='co'>## show first few days of Zika incidence</span>
-<span class='fu'>head</span>(<span class='no'>zika_sanandres_2015</span>)</div><div class='output co'>#&gt;         date cases
-#&gt; 1 2015-09-06     1
-#&gt; 2 2015-09-07     1
-#&gt; 3 2015-09-08     1
-#&gt; 4 2015-09-13     1
-#&gt; 5 2015-09-15     4
-#&gt; 6 2015-09-19     1</div><div class='input'>
+    <pre class="examples"><div class='input'>
+<span class='fu'>head</span>(<span class='no'>varicella_sim_berlin</span>)</div><div class='output co'>#&gt;      sex ethnicity     firstname  lastname age               center1   arrival1
+#&gt; 1 female    arabic       Saleema al-Ismael  16     Oranienburger Str 2015-05-06
+#&gt; 2   male  hispanic       Domonic Jaramillo  25 Platz der Luftbruecke 2015-01-19
+#&gt; 3 female    arabic       Haaniya  el-Mitri  34 Platz der Luftbruecke 2015-04-11
+#&gt; 4 female     asian         Erica   Tanghal  11 Platz der Luftbruecke 2015-01-20
+#&gt; 5   male     asian Fermin Joshua   Kikuchi  34 Platz der Luftbruecke 2015-06-15
+#&gt; 6   male    arabic        Muslim al-Moussa   5              Bizetstr 2014-11-18
+#&gt;       leave1               center2   arrival2     leave2      onset   disease
+#&gt; 1 2015-06-20              Bizetstr 2015-06-27 2015-08-19       &lt;NA&gt;      &lt;NA&gt;
+#&gt; 2 2015-01-21              Bizetstr 2015-01-30 2015-03-02       &lt;NA&gt;      &lt;NA&gt;
+#&gt; 3 2015-07-09 Platz der Luftbruecke 2015-07-18 2015-10-03 2015-07-06 varicella
+#&gt; 4 2015-03-30     Oranienburger Str 2015-04-08 2015-07-13 2015-08-20 varicella
+#&gt; 5 2015-08-17 Platz der Luftbruecke 2015-08-22 2015-11-01       &lt;NA&gt;      &lt;NA&gt;
+#&gt; 6 2015-02-03 Platz der Luftbruecke 2015-02-17 2015-04-27       &lt;NA&gt;      &lt;NA&gt;</div><div class='input'>
+
 </div></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
@@ -161,18 +173,14 @@ Licence (<a href='http://creativecommons.org/licenses/by/4.0/'>http://creativeco
       
       <li><a href="#format">Format</a></li>
 
-      <li><a href="#source">Source</a></li>
-
-      <li><a href="#references">References</a></li>
+      <li><a href="#background">Background</a></li>
       
       <li><a href="#examples">Examples</a></li>
     </ul>
 
     <h2>Author</h2>
     
-Data from Rojas et al. (2016), provided by Diana P. Rojas
-(<a href='mailto:dprojas@epi.ufl.edu'>dprojas@epi.ufl.edu</a>).  Transfer to R and documentation by
-Finlay Campbell (<a href='mailto:f.campbell15@imperial.ac.uk'>f.campbell15@imperial.ac.uk</a>).
+Data simulated by Jakob Schumacher (<a href='mailto:jakob.schumacher@web.de'>jakob.schumacher@web.de</a>).
 
   </div>
 </div>

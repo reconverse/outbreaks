@@ -1,3 +1,14 @@
+outbreaks 1.6.0 (2019-02-25)
+==================
+
+### NEW FEATURES
+
+One new dataset added:<br>
+
+* `varicella_sim_berlin`: a simulated dataset of an outbreak of Varicella in
+  german centers for foreigners
+
+
 outbreaks 1.5.0 (2018-12-15)
 ==================
 
@@ -26,7 +37,7 @@ outbreaks 1.3.0 (2017-05-13)
 
 One new dataset added:<br>
 
-* s_enteritidis_pt59: Distribution network and genetic clusters of a food-borne
+* `s_enteritidis_pt59`: Distribution network and genetic clusters of a food-borne
      outbreak of Salmonella Enteritidis PT59 (98 cases)
 
 

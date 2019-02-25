@@ -1,13 +1,14 @@
 Package: outbreaks
 Title: A Collection of Disease Outbreak Data
-Version: 1.5.0
+Version: 1.6.0
 Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", role = "aut"),
 	   person("Simon", "Frost", role = "aut"),
 	   person("Pierre", "Nouvellet", role = "aut"),
 	   person("Finlay", "Campbell", email = "f.campbell15@imperial.ac.uk", role=c("aut", "cre")),
 	   person("Bertrand", "Sudre", email = "bertrand.sudre@edc.europa.eu", role="aut"),
 	   person("Sang Woo", "Park", email = "parksw3@mcmaster.ca", role = "ctb"),
-	   person("Juliet R.C.", "Pulliam", email = "pulliam@sun.ac.za", role = "ctb")
+	   person("Juliet R.C.", "Pulliam", email = "pulliam@sun.ac.za", role = "ctb"),
+	   person("Jakob", "Schumacher", email = "jakob.schumacher@web.de", role = "ctb")
 	   )
 Description: Empirical or simulated disease outbreak data, provided either as
     RData or as text files.
