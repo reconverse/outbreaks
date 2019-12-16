@@ -26,6 +26,7 @@ data(package="outbreaks")
 |dengue_fais_2011                 |Dengue on the island of Fais, Micronesia, 2011             |
 |dengue_yap_2011                  |Dengue on the Yap Main Islands, Micronesia, 2011           |
 |ebola_kikwit_1995                |Ebola in Kikwit, Democratic Republic of the Congo, 1995    |
+|ebola_sierraleone_2014           |Ebola in Sierra Leone, 2014                                |
 |ebola_sim                        |Simulated Ebola outbreak                                   |
 |ebola_sim_clean                  |Simulated Ebola outbreak                                   |
 |fluH7N9_china_2013               |Influenza A H7N9 in China, 2013                            |
