@@ -1,4 +1,13 @@
-outbreaks 1.6.0 (2019-02-25)
+outbreaks 1.7.0 (2019-12-16)
+==================
+
+### NEW FEATURES
+
+One new dataset added:<br>
+
+* `ebola_sierraleone_2014`: a dataset of confirmed and suspected cases of Ebola
+  haemorrhagic fever in Sierra Leone from 2014 to 2015
+
 ==================
 
 ### NEW FEATURES
@@ -16,7 +25,8 @@ outbreaks 1.5.0 (2018-12-15)
 
 One new dataset added:<br>
 
-* `nipah_malaysia`: human cases of Nipah virus in Malaysia and Singapore, 1997-1999; data are weekly case counts, stratified by state / country
+* `nipah_malaysia`: human cases of Nipah virus in Malaysia and Singapore,
+  1997-1999; data are weekly case counts, stratified by state / country
 
 
 outbreaks 1.4.0

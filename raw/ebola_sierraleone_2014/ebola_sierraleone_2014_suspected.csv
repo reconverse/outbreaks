@@ -1,0 +1,3546 @@
+ID,Name,Age,Sex,Date of symptom onset ,Date of sample tested,District,Chiefdom
+1,*****,29,F,23-May-14,28-May-14,Western Urban,Freetowm
+2,*****,43,F,24-May-14,29-May-14,Kailahun,Penguia
+3,*****,,F,24-May-14,29-May-14,Western Urban,Freetowm
+4,*****,36,F,26-May-14,31-May-14,Bombali,Bombali Sebora
+5,*****,35,F,26-May-14,31-May-14,Kailahun,Kissi Tonge
+6,*****,3,F,26-May-14,31-May-14,Kailahun,Kissi Tonge
+7,*****,20,F,26-May-14,31-May-14,Kailahun,Kissi Tonge
+8,*****,19,M,26-May-14,31-May-14,Kailahun,Kissi Tonge
+9,*****,3,F,26-May-14,31-May-14,Bo,Kakua
+10,*****,2,M,26-May-14,31-May-14,Bo,Tikonko
+11,*****,62,M,26-May-14,31-May-14,Western Urban,Freetowm
+12,*****,26,F,26-May-14,31-May-14,Western Urban,Freetowm
+13,*****,45,F,27-May-14,31-May-14,Kenema,Nongowa
+14,*****,1.8,F,27-May-14,1-Jun-14,Kailahun,Dea
+15,*****,29,M,27-May-14,1-Jun-14,Kailahun,Jawie
+16,*****,30,F,27-May-14,1-Jun-14,Kailahun,Jawie
+17,*****,16,F,27-May-14,1-Jun-14,Kailahun,Jawie
+18,*****,29,M,28-May-14,1-Jun-14,Kenema,Simbaru
+19,*****,,M,28-May-14,2-Jun-14,Kailahun,Jawie
+20,*****,35,F,29-May-14,3-Jun-14,Kailahun,Luawa
+21,*****,41,M,29-May-14,3-Jun-14,Kailahun,Jawie
+22,*****,40,M,29-May-14,3-Jun-14,Western Urban,Freetowm
+23,*****,42,F,29-May-14,3-Jun-14,Western Urban,Freetowm
+24,*****,28,F,29-May-14,3-Jun-14,Kailahun,Njaluahun
+25,*****,3,M,12-Jul-14,16-Jul-14,Kailahun,Jawie
+26,*****,23,F,18-Jul-14,22-Jul-14,Kenema,Nongowa
+27,*****,30,F,20-Jul-14,23-Jul-14,Kenema,Lower Bambara
+28,*****,65,M,23-Jul-14,14-Aug-14,Kenema,Nongowa
+29,*****,,M,25-Jul-14,30-Jul-14,Kono,Gbense
+30,*****,33,M,25-Jul-14,30-Jul-14,Kono,Gbense
+31,*****,19,M,25-Jul-14,30-Jul-14,Kono,Gbense
+32,*****,13,F,25-Jul-14,30-Jul-14,Kono,Gbense
+33,*****,15,M,25-Jul-14,30-Jul-14,Kono,Gbense
+34,*****,35,F,25-Jul-14,30-Jul-14,Kono,Gbense
+35,*****,34,M,25-Jul-14,30-Jul-14,Kono,Gbense
+36,*****,37,M,25-Jul-14,30-Jul-14,Kono,Gbense
+37,*****,6,F,25-Jul-14,30-Jul-14,Kono,Gbense
+38,*****,23,M,25-Jul-14,30-Jul-14,Kono,Gbense
+39,*****,16,F,25-Jul-14,30-Jul-14,Kono,Gbense
+40,*****,,F,25-Jul-14,30-Jul-14,Kono,Gbense
+41,*****,7,F,25-Jul-14,30-Jul-14,Kono,Gbense
+42,*****,,F,25-Jul-14,30-Jul-14,Kono,Gbense
+43,*****,62,F,25-Jul-14,30-Jul-14,Kono,Gbense
+44,*****,40,M,25-Jul-14,30-Jul-14,Kono,Gbense
+45,*****,35,M,25-Jul-14,30-Jul-14,Kono,Gbense
+46,*****,45,F,25-Jul-14,30-Jul-14,Kono,Gbense
+47,*****,20,F,25-Jul-14,30-Jul-14,Kono,Gbense
+48,*****,20,F,25-Jul-14,30-Jul-14,Kono,Gbense
+49,*****,23,M,25-Jul-14,30-Jul-14,Kono,Gbense
+50,*****,19,M,25-Jul-14,30-Jul-14,Kono,Gbense
+51,*****,26,M,25-Jul-14,30-Jul-14,Kono,Gbense
+52,*****,32,F,25-Jul-14,30-Jul-14,Kono,Gbense
+53,*****,35,F,25-Jul-14,30-Jul-14,Kono,Gbense
+54,*****,10,M,25-Jul-14,30-Jul-14,Kono,Gbense
+55,*****,13,F,25-Jul-14,30-Jul-14,Kono,Gbense
+56,*****,3,M,25-Jul-14,30-Jul-14,Kono,Gbense
+57,*****,15,F,25-Jul-14,30-Jul-14,Kono,Gbense
+58,*****,36,M,25-Jul-14,30-Jul-14,Kono,Gbense
+59,*****,65,F,25-Jul-14,30-Jul-14,Kono,Gbense
+60,*****,42,F,25-Jul-14,30-Jul-14,Kono,Gbense
+61,*****,18,M,25-Jul-14,30-Jul-14,Kono,Gbense
+62,*****,34,,5-Aug-14,20-Sep-14,Kenema,Nongowa
+63,*****,35,M,9-Aug-14,14-Aug-14,Bombali,Sanda Loko
+64,*****,5,M,9-Aug-14,14-Aug-14,Kenema,Nongowa
+65,*****,2,F,10-Aug-14,14-Aug-14,Kenema,Kandu Leppiama
+66,*****,34,F,10-Aug-14,14-Aug-14,Western Urban,Freetowm
+67,*****,52,M,10-Aug-14,14-Aug-14,Kenema,Nongowa
+68,*****,35,M,10-Aug-14,14-Aug-14,Kenema,Nongowa
+69,*****,5,F,10-Aug-14,14-Aug-14,Kenema,Nongowa
+70,*****,35,F,10-Aug-14,14-Aug-14,Kenema,Nongowa
+71,*****,73,M,10-Aug-14,14-Aug-14,Kenema,Nongowa
+72,*****,40,M,11-Aug-14,14-Aug-14,Kenema,Nongowa
+73,*****,40,M,11-Aug-14,13-Aug-14,Kenema,Gorama Mende
+74,*****,20,F,11-Aug-14,14-Aug-14,Kenema,Nongowa
+75,*****,40,F,12-Aug-14,14-Aug-14,Kenema,Malegohun
+76,*****,,F,12-Aug-14,14-Aug-14,Kenema,Nongowa
+77,*****,16,F,12-Aug-14,14-Aug-14,Western Urban,Freetowm
+78,*****,21,M,12-Aug-14,14-Aug-14,Western Rural,Waterloo
+79,*****,69,M,13-Aug-14,14-Aug-14,Kenema,Nongowa
+80,*****,85,F,13-Aug-14,14-Aug-14,Kenema,Nongowa
+81,*****,28,,14-Aug-14,30-Aug-14,Port Loko,Marampa
+82,*****,60,F,14-Aug-14,14-Aug-14,Kenema,Nongowa
+83,*****,38,,15-Aug-14,28-Aug-14,Bombali,Safroko Limba
+84,*****,39,,18-Aug-14,27-Aug-14,Kenema,Nongowa
+85,*****,30,,18-Aug-14,23-Aug-14,Kenema,Nongowa
+86,*****,34,,19-Aug-14,24-Aug-14,Kenema,Nongowa
+87,*****,72,,19-Aug-14,25-Aug-14,Port Loko,Kaffu Bullom
+88,*****,44,,20-Aug-14,17-Sep-14,Moyamba,Fakunya
+89,*****,17,,20-Aug-14,23-Aug-14,Port Loko,Marampa
+90,*****,31,,20-Aug-14,24-Aug-14,Western Urban,Freetowm
+91,*****,21,,20-Aug-14,24-Aug-14,Bo,Kakua
+92,*****,14,,20-Aug-14,25-Aug-14,Kenema,Nongowa
+93,*****,9,,20-Aug-14,25-Aug-14,Western Urban,Freetowm
+94,*****,23,,20-Aug-14,25-Aug-14,Western Urban,Freetowm
+95,*****,53,,20-Aug-14,30-Aug-14,Bombali,Makari Gbanti
+96,*****,29,,20-Aug-14,29-Aug-14,Koinadugu,Wara Wara Yagala
+97,*****,22,,21-Aug-14,24-Aug-14,Kono,Gbense
+98,*****,49,,21-Aug-14,24-Aug-14,Kambia,Mambolo
+99,*****,60,,21-Aug-14,31-Aug-14,Western Rural,Waterloo
+100,*****,15,,22-Aug-14,23-Aug-14,Kenema,Nongowa
+101,*****,57,,22-Aug-14,25-Aug-14,Tonkolili,Kholifa
+102,*****,20,,22-Aug-14,23-Aug-14,Kenema,Nongowa
+103,*****,70,,22-Aug-14,31-Aug-14,Bombali,Bombali Sebora
+104,*****,27,,23-Aug-14,30-Aug-14,Western Urban,Freetowm
+105,*****,6,,23-Aug-14,28-Aug-14,Bombali,Makari Gbanti
+106,*****,,,24-Aug-14,29-Aug-14,Kenema,Nongowa
+107,*****,22,,24-Aug-14,29-Aug-14,Bo,Baoma
+108,*****,27,,24-Aug-14,29-Aug-14,Kenema,Lower Bambara
+109,*****,27,,25-Aug-14,30-Aug-14,Western Urban,Freetowm
+110,*****,26,,26-Aug-14,27-Aug-14,Kenema,Nongowa
+111,*****,35,,27-Aug-14,1-Sep-14,Kono,Nimiyama
+112,*****,30,,27-Aug-14,1-Sep-14,Pujehun,Makpele
+113,*****,26,,28-Aug-14,2-Sep-14,Kenema,Lower Bambara
+114,*****,,,28-Aug-14,2-Sep-14,Port Loko,Buya Romende
+115,*****,39,,28-Aug-14,6-Sep-14,Port Loko,Marampa
+116,*****,26,,29-Aug-14,3-Sep-14,Kenema,Koya
+117,*****,19,,29-Aug-14,3-Sep-14,Kenema,Nongowa
+118,*****,34,,30-Aug-14,4-Sep-14,Bo,Kakua
+119,*****,30,,30-Aug-14,4-Sep-14,Bo,Kakua
+120,*****,,,30-Aug-14,3-Sep-14,Kono,Nimiyama
+121,*****,45,,30-Aug-14,21-Sep-14,Port Loko,Lokomasam
+122,*****,31,,31-Aug-14,9-Sep-14,Port Loko,Marampa
+123,*****,55,,31-Aug-14,21-Sep-14,Port Loko,Maforki
+124,*****,15,,1-Sep-14,4-Sep-14,Moyamba,Fakunya
+125,*****,,,1-Sep-14,6-Sep-14,Kenema,Nongowa
+126,*****,38,,1-Sep-14,9-Sep-14,Bombali,Gbanti-Kamaranka
+127,*****,60,,2-Sep-14,4-Sep-14,Kenema,Nongowa
+128,*****,27,,2-Sep-14,7-Sep-14,Pujehun,Makpele
+129,*****,23,,2-Sep-14,10-Sep-14,Western Urban,Freetowm
+130,*****,27,,3-Sep-14,7-Sep-14,Bo,Kakua
+131,*****,32,,3-Sep-14,7-Sep-14,Western Urban,Freetowm
+132,*****,38,,4-Sep-14,6-Sep-14,Western Urban,Freetowm
+133,*****,35,,4-Sep-14,9-Sep-14,Kenema,Nongowa
+134,*****,19,,4-Sep-14,4-Sep-14,Kenema,Nongowa
+135,*****,7,,4-Sep-14,10-Sep-14,Western Rural,Waterloo
+136,*****,40,,5-Sep-14,9-Sep-14,Kono,Nimikoro
+137,*****,50,,6-Sep-14,11-Sep-14,Kono,Gbense
+138,*****,26,,6-Sep-14,11-Sep-14,Kono,Gbense
+139,*****,28,,6-Sep-14,11-Sep-14,Kenema,Nongowa
+140,*****,35,,6-Sep-14,11-Sep-14,Moyamba,Fakunya
+141,*****,30,,6-Sep-14,11-Sep-14,Bo,Kakua
+142,*****,,,6-Sep-14,12-Sep-14,Bombali,Bombali Sebora
+143,*****,18,,6-Sep-14,11-Sep-14,Tonkolili,Kholifa
+144,*****,50,,7-Sep-14,9-Sep-14,Kono,Nimikoro
+145,*****,40,,7-Sep-14,11-Sep-14,Bo,Kakua
+146,*****,54,,7-Sep-14,12-Sep-14,Western Rural,Waterloo
+147,*****,37,,8-Sep-14,9-Sep-14,Kono,Gbense
+148,*****,32,,8-Sep-14,10-Sep-14,Kenema,Nongowa
+149,*****,3,,8-Sep-14,11-Sep-14,Kono,Gbense
+150,*****,25,,8-Sep-14,12-Sep-14,Kenema,Small Bo
+151,*****,50,,8-Sep-14,13-Sep-14,Kenema,Nongowa
+152,*****,23,,8-Sep-14,13-Sep-14,Kenema,Nongowa
+153,*****,28,,8-Sep-14,13-Sep-14,Kenema,Nongowa
+154,*****,,,8-Sep-14,13-Sep-14,Bombali,Bombali Sebora
+155,*****,18,,8-Sep-14,16-Sep-14,Bo,Jaiama Bongor
+156,*****,18,,8-Sep-14,23-Sep-14,Western Rural,Waterloo
+157,*****,68,,9-Sep-14,10-Sep-14,Kenema,Lower Bambara
+158,*****,8,,9-Sep-14,11-Sep-14,Kenema,Lower Bambara
+159,*****,35,,9-Sep-14,12-Sep-14,Bo,Kakua
+160,*****,,,9-Sep-14,13-Sep-14,Kenema,Lower Bambara
+161,*****,73,,9-Sep-14,15-Sep-14,Western Rural,Waterloo
+162,*****,40,,10-Sep-14,10-Sep-14,Kenema,Nongowa
+163,*****,10,,10-Sep-14,13-Sep-14,Kenema,Nongowa
+164,*****,53,,10-Sep-14,17-Sep-14,Moyamba,Kori
+165,*****,19,,10-Sep-14,16-Sep-14,Bonthe,Sogbini
+166,*****,25,,10-Sep-14,15-Sep-14,Western Rural,Waterloo
+167,*****,30,,11-Sep-14,16-Sep-14,Kenema,Nongowa
+168,*****,30,,11-Sep-14,16-Sep-14,Kenema,Nongowa
+169,*****,3,,11-Sep-14,17-Sep-14,Western Urban,Freetowm
+170,*****,23,,12-Sep-14,15-Sep-14,Kono,Gbense
+171,*****,45,,12-Sep-14,14-Sep-14,Kenema,Lower Bambara
+172,*****,2,,12-Sep-14,17-Sep-14,Bombali,Bombali Sebora
+173,*****,24,,12-Sep-14,18-Sep-14,Western Urban,Freetowm
+174,*****,55,,13-Sep-14,18-Sep-14,Kenema,Nongowa
+175,*****,25,,13-Sep-14,17-Sep-14,Western Urban,Freetowm
+176,*****,63,,14-Sep-14,28-Sep-14,Kono,Gbense
+177,*****,35,,14-Sep-14,20-Sep-14,Bombali,Bombali Sebora
+178,*****,48,,14-Sep-14,21-Sep-14,Port Loko,Marampa
+179,*****,24,,14-Sep-14,23-Sep-14,Western Rural,Waterloo
+180,*****,52,,15-Sep-14,20-Sep-14,Kenema,Nongowa
+181,*****,,,15-Sep-14,20-Sep-14,Kenema,Nongowa
+182,*****,35,,15-Sep-14,20-Sep-14,Kenema,Nongowa
+183,*****,24,,15-Sep-14,20-Sep-14,Bombali,Bombali Sebora
+184,*****,17,,15-Sep-14,21-Sep-14,Bombali,Paki Masabong
+185,*****,45,,15-Sep-14,23-Sep-14,Port Loko,Bkm
+186,*****,54,,15-Sep-14,21-Sep-14,Western Urban,Freetowm
+187,*****,32,,15-Sep-14,21-Sep-14,Western Urban,Freetowm
+188,*****,50,,16-Sep-14,20-Sep-14,Moyamba,Fakunya
+189,*****,22,,16-Sep-14,20-Sep-14,Kenema,Nongowa
+190,*****,47,,16-Sep-14,21-Sep-14,Kenema,Nongowa
+191,*****,35,,16-Sep-14,21-Sep-14,Kenema,Nongowa
+192,*****,25,,16-Sep-14,21-Sep-14,Kenema,Nongowa
+193,*****,17,,16-Sep-14,22-Sep-14,Moyamba,Kaiyamba
+194,*****,47,,16-Sep-14,20-Sep-14,Bombali,Bombali Sebora
+195,*****,55,,16-Sep-14,23-Sep-14,Port Loko,Bkm
+196,*****,27,,16-Sep-14,6-Oct-14,Western Rural,Waterloo
+197,*****,88,,16-Sep-14,23-Sep-14,Western Urban,Freetowm
+198,*****,13,,17-Sep-14,19-Sep-14,Kenema,Nongowa
+199,*****,56,,17-Sep-14,20-Sep-14,Kono,Tankoro
+200,*****,17,,17-Sep-14,24-Sep-14,Port Loko,Buya Romende
+201,*****,19,,17-Sep-14,22-Sep-14,Bombali,Bombali Sebora
+202,*****,45,,17-Sep-14,22-Sep-14,Tonkolili,Konike Sanda
+203,*****,44,,17-Sep-14,24-Sep-14,Western Urban,Freetowm
+204,*****,38,,17-Sep-14,24-Sep-14,Western Rural,Waterloo
+205,*****,4,,17-Sep-14,2-Oct-14,Western Urban,Freetowm
+206,*****,32,,18-Sep-14,23-Sep-14,Kenema,Nongowa
+207,*****,13,,18-Sep-14,23-Sep-14,Bombali,Bombali Sebora
+208,*****,42,,18-Sep-14,23-Sep-14,Bombali,Bombali Sebora
+209,*****,18,,18-Sep-14,23-Sep-14,Bombali,Bombali Sebora
+210,*****,30,,18-Sep-14,23-Sep-14,Kenema,Lower Bambara
+211,*****,24,,19-Sep-14,22-Sep-14,Moyamba,Fakunya
+212,*****,9,,19-Sep-14,22-Sep-14,Moyamba,Fakunya
+213,*****,26,,19-Sep-14,22-Sep-14,Moyamba,Fakunya
+214,*****,30,,19-Sep-14,22-Sep-14,Moyamba,Fakunya
+215,*****,14,,19-Sep-14,22-Sep-14,Moyamba,Fakunya
+216,*****,19,,19-Sep-14,25-Sep-14,Moyamba,Fakunya
+217,*****,28,,19-Sep-14,29-Sep-14,Western Urban,Freetowm
+218,*****,,,19-Sep-14,24-Sep-14,Bombali,Bombali Sebora
+219,*****,15,,19-Sep-14,24-Sep-14,Kambia,Tonko Limba
+220,*****,55,,20-Sep-14,24-Sep-14,Kenema,Nongowa
+221,*****,29,,20-Sep-14,23-Sep-14,Kono,Kamara
+222,*****,49,,20-Sep-14,24-Sep-14,Kenema,Kandu Leppiama
+223,*****,26,,20-Sep-14,23-Sep-14,Kenema,Nongowa
+224,*****,2,,20-Sep-14,29-Sep-14,Western Urban,Freetowm
+225,*****,0,,20-Sep-14,29-Sep-14,Western Urban,Freetowm
+226,*****,9,,20-Sep-14,29-Sep-14,Western Urban,Freetowm
+227,*****,28,,20-Sep-14,23-Sep-14,Port Loko,Bkm
+228,*****,48,,20-Sep-14,26-Sep-14,Bombali,Makari Gbanti
+229,*****,17,,20-Sep-14,28-Sep-14,Bombali,Makari Gbanti
+230,*****,46,,20-Sep-14,21-Sep-14,Western Urban,Freetowm
+231,*****,14,,20-Sep-14,21-Sep-14,Western Rural,Waterloo
+232,*****,35,,20-Sep-14,28-Sep-14,Western Rural,Waterloo
+233,*****,,,21-Sep-14,26-Sep-14,Kenema,Gorama Mende
+234,*****,30,,21-Sep-14,29-Sep-14,Western Urban,Freetowm
+235,*****,,,21-Sep-14,26-Sep-14,Bombali,Bombali Sebora
+236,*****,,,21-Sep-14,26-Sep-14,Kenema,Gorama Mende
+237,*****,27,,22-Sep-14,29-Sep-14,Port Loko,Kaffu Bullom
+238,*****,22,,22-Sep-14,28-Sep-14,Tonkolili,Yoni
+239,*****,30,,22-Sep-14,29-Sep-14,Western Urban,Freetowm
+240,*****,18,,22-Sep-14,2-Oct-14,Moyamba,Kaiyamba
+241,*****,22,,22-Sep-14,28-Sep-14,Western Urban,Freetowm
+242,*****,,,22-Sep-14,28-Sep-14,Western Urban,Freetowm
+243,*****,16,,23-Sep-14,28-Sep-14,Tonkolili,Kholifa
+244,*****,22,,23-Sep-14,28-Sep-14,Tonkolili,Tane
+245,*****,42,,23-Sep-14,28-Sep-14,Tonkolili,Tane
+246,*****,27,,23-Sep-14,29-Sep-14,Western Urban,Freetowm
+247,*****,19,,23-Sep-14,29-Sep-14,Western Rural,Waterloo
+248,*****,,,23-Sep-14,29-Sep-14,Western Urban,Freetowm
+249,*****,65,,23-Sep-14,1-Oct-14,Port Loko,Koya
+250,*****,42,,24-Sep-14,29-Sep-14,Port Loko,Kaffu Bullom
+251,*****,,,24-Sep-14,26-Sep-14,Kenema,Nongowa
+252,*****,3,,24-Sep-14,26-Sep-14,Moyamba,Kaiyamba
+253,*****,19,,24-Sep-14,26-Sep-14,Moyamba,Kaiyamba
+254,*****,,,24-Sep-14,26-Sep-14,Port Loko,Bkm
+255,*****,33,,24-Sep-14,29-Sep-14,Kono,Gbense
+256,*****,26,,24-Sep-14,26-Oct-14,Pujehun,Malen
+257,*****,15,,24-Sep-14,29-Sep-14,Western Urban,Freetowm
+258,*****,15,,24-Sep-14,29-Sep-14,Western Urban,Freetowm
+259,*****,30,,24-Sep-14,29-Sep-14,Western Urban,Freetowm
+260,*****,27,,24-Sep-14,1-Nov-14,Bombali,Bombali Sebora
+261,*****,10,,24-Sep-14,7-Oct-14,Western Urban,Freetowm
+262,*****,33,,24-Sep-14,30-Sep-14,Western Urban,Freetowm
+263,*****,29,,25-Sep-14,26-Sep-14,Moyamba,Kaiyamba
+264,*****,60,,25-Sep-14,2-Oct-14,Moyamba,Fakunya
+265,*****,20,,25-Sep-14,2-Oct-14,Bo,Kakua
+266,*****,36,,25-Sep-14,2-Oct-14,Kenema,Nongowa
+267,*****,11,,25-Sep-14,2-Oct-14,Moyamba,Fakunya
+268,*****,26,,25-Sep-14,14-Oct-14,Port Loko,Marampa
+269,*****,20,,25-Sep-14,28-Sep-14,Western Urban,Freetowm
+270,*****,10,,25-Sep-14,3-Oct-14,Western Rural,Waterloo
+271,*****,45,,26-Sep-14,29-Sep-14,Tonkolili,Tane
+272,*****,41,,26-Sep-14,30-Sep-14,Bo,Baoma
+273,*****,55,,26-Sep-14,1-Oct-14,Kono,Nimikoro
+274,*****,48,,26-Sep-14,2-Oct-14,Moyamba,Bagruwa
+275,*****,34,,26-Sep-14,2-Oct-14,Kenema,Nongowa
+276,*****,27,,26-Sep-14,1-Oct-14,Kenema,Nongowa
+277,*****,33,,26-Sep-14,1-Oct-14,Kenema,Lower Bambara
+278,*****,43,,26-Sep-14,30-Sep-14,Kenema,Nongowa
+279,*****,30,,26-Sep-14,1-Oct-14,Western Rural,Waterloo
+280,*****,20,,26-Sep-14,3-Oct-14,Bombali,Bombali Sebora
+281,*****,40,,26-Sep-14,4-Oct-14,Bombali,Bombali Sebora
+282,*****,32,,26-Sep-14,7-Oct-14,Port Loko,Dibia
+283,*****,65,,26-Sep-14,2-Oct-14,Western Rural,Waterloo
+284,*****,65,,26-Sep-14,2-Oct-14,Western Rural,Waterloo
+285,*****,43,,26-Sep-14,2-Oct-14,Western Urban,Freetowm
+286,*****,19,,27-Sep-14,28-Sep-14,Kenema,Nongowa
+287,*****,22,,27-Sep-14,28-Sep-14,Kenema,Nongowa
+288,*****,42,,27-Sep-14,1-Oct-14,Kono,Tankoro
+289,*****,55,,27-Sep-14,2-Oct-14,Kenema,Nongowa
+290,*****,20,,27-Sep-14,2-Oct-14,Moyamba,Kaiyamba
+291,*****,6,,27-Sep-14,6-Oct-14,Bombali,Bombali Sebora
+292,*****,76,,27-Sep-14,3-Oct-14,Western Urban,Freetowm
+293,*****,30,,27-Sep-14,3-Oct-14,Western Rural,Waterloo
+294,*****,22,,27-Sep-14,4-Oct-14,Western Urban,Freetowm
+295,*****,36,,27-Sep-14,4-Oct-14,Western Rural,Waterloo
+296,*****,43,,28-Sep-14,29-Sep-14,Kenema,Nongowa
+297,*****,24,,28-Sep-14,1-Oct-14,Bo,Kakua
+298,*****,49,,28-Sep-14,15-Oct-14,Bo,Kakua
+299,*****,16,,28-Sep-14,5-Oct-14,Port Loko,Masimera
+300,*****,8,,29-Sep-14,2-Oct-14,Tonkolili,Konike Barina
+301,*****,39,,29-Sep-14,2-Oct-14,Tonkolili,Kholifa
+302,*****,,,29-Sep-14,2-Oct-14,Kenema,Nongowa
+303,*****,45,,29-Sep-14,2-Oct-14,Moyamba,Kaiyamba
+304,*****,,,29-Sep-14,4-Oct-14,Kenema,Nongowa
+305,*****,6,,29-Sep-14,4-Oct-14,Port Loko,Maforki
+306,*****,,,29-Sep-14,3-Oct-14,Kenema,Wandor
+307,*****,,,29-Sep-14,4-Oct-14,Kenema,Nongowa
+308,*****,35,,29-Sep-14,1-Oct-14,Western Urban,Freetowm
+309,*****,31,,29-Sep-14,10-Oct-14,Western Urban,Freetowm
+310,*****,35,,29-Sep-14,6-Oct-14,Bombali,Ngowahun
+311,*****,,,29-Sep-14,5-Oct-14,Western Urban,Freetowm
+312,*****,,,29-Sep-14,5-Oct-14,Western Urban,Freetowm
+313,*****,43,,30-Sep-14,2-Oct-14,Kenema,Nongowa
+314,*****,13,,30-Sep-14,5-Oct-14,Pujehun,Makpele
+315,*****,25,,30-Sep-14,7-Oct-14,Bombali,Bombali Sebora
+316,*****,7,,30-Sep-14,5-Oct-14,Western Urban,Freetowm
+317,*****,60,,30-Sep-14,5-Oct-14,Western Urban,Freetowm
+318,*****,2,,30-Sep-14,5-Oct-14,Western Urban,Freetowm
+319,*****,13,,1-Oct-14,2-Oct-14,Pujehun,Makpele
+320,*****,50,,1-Oct-14,5-Oct-14,Kenema,Nongowa
+321,*****,40,,1-Oct-14,11-Oct-14,Port Loko,Koya
+322,*****,7,,1-Oct-14,8-Nov-14,Kambia,Samu
+323,*****,25,,2-Oct-14,7-Nov-14,Bo,Selenga
+324,*****,26,,2-Oct-14,7-Oct-14,Tonkolili,Tane
+325,*****,11,,2-Oct-14,7-Oct-14,Tonkolili,Tane
+326,*****,2,,2-Oct-14,7-Oct-14,Tonkolili,Tane
+327,*****,36,,2-Oct-14,7-Oct-14,Tonkolili,Tane
+328,*****,55,,2-Oct-14,6-Oct-14,Western Rural,Waterloo
+329,*****,56,,2-Oct-14,8-Oct-14,Western Urban,Freetowm
+330,*****,14,,2-Oct-14,8-Oct-14,Western Rural,Waterloo
+331,*****,35,,3-Oct-14,7-Oct-14,Moyamba,Kamajei
+332,*****,5,,3-Oct-14,8-Oct-14,Western Rural,Waterloo
+333,*****,65,,4-Oct-14,7-Oct-14,Bo,Bumpe Ngawo
+334,*****,25,,4-Oct-14,8-Oct-14,Bo,Kakua
+335,*****,24,,4-Oct-14,9-Oct-14,Western Rural,Waterloo
+336,*****,24,,4-Oct-14,9-Oct-14,Western Urban,Freetowm
+337,*****,33,,4-Oct-14,9-Oct-14,Western Urban,Freetowm
+338,*****,47,,4-Oct-14,11-Oct-14,Western Urban,Freetowm
+339,*****,2,,5-Oct-14,9-Oct-14,Bombali,Bombali Sebora
+340,*****,4,,5-Oct-14,9-Oct-14,Bombali,Bombali Sebora
+341,*****,75,,5-Oct-14,8-Oct-14,Kono,Gbense
+342,*****,38,,5-Oct-14,9-Oct-14,Bombali,Bombali Sebora
+343,*****,42,,5-Oct-14,8-Oct-14,Moyamba,Kaiyamba
+344,*****,28,,5-Oct-14,12-Oct-14,Bombali,Bombali Sebora
+345,*****,24,,5-Oct-14,14-Oct-14,Bombali,Bombali Sebora
+346,*****,30,,5-Oct-14,11-Oct-14,Tonkolili,Gbonkolenken
+347,*****,7,,5-Oct-14,11-Oct-14,Tonkolili,Gbonkolenken
+348,*****,17,,5-Oct-14,11-Oct-14,Tonkolili,Konike Sanda
+349,*****,27,,5-Oct-14,11-Oct-14,Tonkolili,Tane
+350,*****,65,,5-Oct-14,11-Oct-14,Tonkolili,Yoni
+351,*****,37,,5-Oct-14,14-Oct-14,Bombali,Makari Gbanti
+352,*****,19,,5-Oct-14,7-Oct-14,Western Urban,Freetowm
+353,*****,6,,5-Oct-14,7-Oct-14,Bombali,Bombali Sebora
+354,*****,52,,5-Oct-14,7-Oct-14,Bombali,Bombali Sebora
+355,*****,1,,5-Oct-14,7-Oct-14,Bombali,Bombali Sebora
+356,*****,7,,5-Oct-14,11-Oct-14,Western Urban,Freetowm
+357,*****,31,,5-Oct-14,10-Oct-14,Western Urban,Freetowm
+358,*****,2,,5-Oct-14,11-Oct-14,Western Rural,Waterloo
+359,*****,23,,5-Oct-14,11-Oct-14,Western Rural,Waterloo
+360,*****,50,,5-Oct-14,11-Oct-14,Western Urban,Freetowm
+361,*****,56,,6-Oct-14,11-Oct-14,Moyamba,Fakunya
+362,*****,50,,6-Oct-14,9-Oct-14,Bombali,Bombali Sebora
+363,*****,34,,6-Oct-14,9-Oct-14,Bombali,Bombali Sebora
+364,*****,40,,6-Oct-14,11-Oct-14,Bombali,Bombali Sebora
+365,*****,37,,6-Oct-14,11-Oct-14,Bombali,Bombali Sebora
+366,*****,,,6-Oct-14,8-Oct-14,Kono,Gbense
+367,*****,35,,6-Oct-14,11-Oct-14,Bo,Baoma
+368,*****,19,,6-Oct-14,11-Oct-14,Bo,Baoma
+369,*****,,,6-Oct-14,11-Oct-14,Kenema,Lower Bambara
+370,*****,22,,6-Oct-14,12-Oct-14,Bombali,Bombali Sebora
+371,*****,15,,6-Oct-14,12-Oct-14,Bombali,Bombali Sebora
+372,*****,34,,6-Oct-14,10-Oct-14,Port Loko,Buya Romende
+373,*****,24,,6-Oct-14,12-Oct-14,Western Urban,Freetowm
+374,*****,35,,7-Oct-14,8-Oct-14,Bo,Kakua
+375,*****,2,,7-Oct-14,11-Oct-14,Bombali,Bombali Sebora
+376,*****,19,,7-Oct-14,11-Oct-14,Bombali,Bombali Sebora
+377,*****,38,,7-Oct-14,11-Oct-14,Bombali,Makari Gbanti
+378,*****,17,,7-Oct-14,11-Oct-14,Bombali,Bombali Sebora
+379,*****,72,,7-Oct-14,11-Oct-14,Bombali,Bombali Sebora
+380,*****,,,7-Oct-14,12-Oct-14,Kenema,Lower Bambara
+381,*****,,,7-Oct-14,12-Oct-14,Kenema,Lower Bambara
+382,*****,,,7-Oct-14,12-Oct-14,Kenema,Lower Bambara
+383,*****,11,,7-Oct-14,9-Oct-14,Western Urban,Freetowm
+384,*****,2,,7-Oct-14,28-Oct-14,Western Urban,Freetowm
+385,*****,40,,7-Oct-14,13-Oct-14,Western Rural,Waterloo
+386,*****,24,,7-Oct-14,14-Oct-14,Western Urban,Freetowm
+387,*****,38,,8-Oct-14,11-Oct-14,Bo,Baoma
+388,*****,35,,8-Oct-14,11-Oct-14,Moyamba,Fakunya
+389,*****,53,,8-Oct-14,11-Oct-14,Kono,Nimiyama
+390,*****,40,,8-Oct-14,12-Oct-14,Kenema,Lower Bambara
+391,*****,28,,9-Oct-14,10-Oct-14,Bo,Tikonko
+392,*****,18,,9-Oct-14,5-Nov-14,Bo,Jaiama Bongor
+393,*****,62,,9-Oct-14,19-Oct-14,Koinadugu,Kasonko
+394,*****,33,,10-Oct-14,11-Oct-14,Kono,Nimiyama
+395,*****,35,,10-Oct-14,11-Oct-14,Bo,Kakua
+396,*****,1,,10-Oct-14,15-Oct-14,Moyamba,Fakunya
+397,*****,28,,10-Oct-14,15-Oct-14,Kono,Tankoro
+398,*****,78,,10-Oct-14,19-Oct-14,Western Urban,Freetowm
+399,*****,28,,10-Oct-14,14-Oct-14,Bo,Kakua
+400,*****,40,,10-Oct-14,14-Oct-14,Bo,Jaiama Bongor
+401,*****,27,,10-Oct-14,15-Oct-14,Bo,Bumpe Ngawo
+402,*****,60,,10-Oct-14,20-Oct-14,Koinadugu,Neini
+403,*****,61,,10-Oct-14,11-Oct-14,Western Rural,Waterloo
+404,*****,7,,11-Oct-14,14-Oct-14,Bombali,Bombali Sebora
+405,*****,15,,11-Oct-14,14-Oct-14,Bo,Tikonko
+406,*****,18,,11-Oct-14,19-Oct-14,Moyamba,Bagruwa
+407,*****,20,,11-Oct-14,19-Oct-14,Moyamba,Kaiyamba
+408,*****,,,11-Oct-14,17-Oct-14,Kenema,Lower Bambara
+409,*****,5,,11-Oct-14,17-Oct-14,Kenema,Gaura
+410,*****,25,,11-Oct-14,15-Nov-14,Port Loko,Buya Romende
+411,*****,45,,12-Oct-14,14-Oct-14,Pujehun,Kpanga Kabonde
+412,*****,43,,12-Oct-14,14-Oct-14,Pujehun,Kpanga Kabonde
+413,*****,7,,12-Oct-14,16-Oct-14,Bo,Kakua
+414,*****,35,,12-Oct-14,17-Oct-14,Kenema,Nongowa
+415,*****,18,,12-Oct-14,17-Oct-14,Kenema,Small Bo
+416,*****,1,,12-Oct-14,17-Oct-14,Kenema,Small Bo
+417,*****,17,,12-Oct-14,17-Oct-14,Kenema,Lower Bambara
+418,*****,44,,12-Oct-14,14-Oct-14,Western Urban,Freetowm
+419,*****,29,,13-Oct-14,14-Oct-14,Bo,Kakua
+420,*****,38,,13-Oct-14,19-Oct-14,Koinadugu,Neini
+421,*****,57,,13-Oct-14,14-Oct-14,Western Rural,Waterloo
+422,*****,50,,13-Oct-14,14-Oct-14,Western Rural,Waterloo
+423,*****,,,13-Oct-14,14-Oct-14,Western Rural,Waterloo
+424,*****,30,,14-Oct-14,19-Oct-14,Western Urban,Freetowm
+425,*****,33,,14-Oct-14,19-Oct-14,Western Urban,Freetowm
+426,*****,65,,14-Oct-14,19-Oct-14,Western Rural,Waterloo
+427,*****,,,14-Oct-14,19-Oct-14,Western Urban,Freetowm
+428,*****,5,,14-Oct-14,28-Oct-14,Western Urban,Freetowm
+429,*****,50,,15-Oct-14,27-Oct-14,Kenema,Lower Bambara
+430,*****,,,15-Oct-14,20-Oct-14,Kenema,Nongowa
+431,*****,36,,16-Oct-14,19-Oct-14,Western Urban,Freetowm
+432,*****,48,,16-Oct-14,19-Oct-14,Bo,Tikonko
+433,*****,50,,16-Oct-14,22-Oct-14,Bo,Kakua
+434,*****,27,,16-Oct-14,12-Nov-14,Western Urban,Freetowm
+435,*****,35,,16-Oct-14,28-Oct-14,Port Loko,Koya
+436,*****,30,,17-Oct-14,19-Oct-14,Kenema,Nongowa
+437,*****,2,,17-Oct-14,20-Oct-14,Kenema,Nongowa
+438,*****,56,,17-Oct-14,22-Oct-14,Tonkolili,Gbonkolenken
+439,*****,25,,17-Oct-14,24-Oct-14,Bombali,Bombali Sebora
+440,*****,65,,17-Oct-14,21-Oct-14,Port Loko,Bkm
+441,*****,30,,18-Oct-14,20-Oct-14,Tonkolili,Konike Sanda
+442,*****,4,,18-Oct-14,20-Oct-14,Bombali,Bombali Sebora
+443,*****,1,,18-Oct-14,20-Oct-14,Kenema,Nongowa
+444,*****,30,,18-Oct-14,20-Oct-14,Kenema,Lower Bambara
+445,*****,54,,18-Oct-14,21-Oct-14,Kenema,Nongowa
+446,*****,21,,18-Oct-14,28-Oct-14,Western Rural,Waterloo
+447,*****,25,,19-Oct-14,20-Oct-14,Pujehun,Kpanga Kabonde
+448,*****,42,,19-Oct-14,21-Oct-14,Kenema,Gorama Mende
+449,*****,32,,19-Oct-14,22-Oct-14,Kenema,Lower Bambara
+450,*****,64,,19-Oct-14,22-Oct-14,Kenema,Lower Bambara
+451,*****,60,,19-Oct-14,23-Oct-14,Kono,Tankoro
+452,*****,25,,19-Oct-14,25-Oct-14,Tonkolili,Konike Sanda
+453,*****,56,,19-Oct-14,24-Oct-14,Tonkolili,Konike Sanda
+454,*****,20,,19-Oct-14,25-Oct-14,Moyamba,Kaiyamba
+455,*****,13,,19-Oct-14,28-Oct-14,Western Urban,Freetowm
+456,*****,48,,19-Oct-14,28-Oct-14,Western Urban,Freetowm
+457,*****,29,,19-Oct-14,28-Oct-14,Western Urban,Freetowm
+458,*****,29,,20-Oct-14,22-Oct-14,Tonkolili,Kafe Simiria
+459,*****,41,,20-Oct-14,22-Oct-14,Tonkolili,Kholifa
+460,*****,27,,20-Oct-14,25-Oct-14,Bo,Kakua
+461,*****,18,,20-Oct-14,25-Oct-14,Tonkolili,Konike Sanda
+462,*****,56,,20-Oct-14,26-Oct-14,Western Rural,Waterloo
+463,*****,20,,20-Oct-14,24-Oct-14,Kono,Nimiyama
+464,*****,2,,20-Oct-14,24-Oct-14,Kenema,Nongowa
+465,*****,,,20-Oct-14,25-Oct-14,Kenema,Nongowa
+466,*****,7,,20-Oct-14,27-Oct-14,Western Urban,Freetowm
+467,*****,30,,20-Oct-14,30-Oct-14,Kenema,Lower Bambara
+468,*****,,,20-Oct-14,26-Oct-14,Moyamba,Ribbi
+469,*****,18,,20-Oct-14,12-Nov-14,Western Urban,Freetowm
+470,*****,12,,21-Oct-14,23-Oct-14,Bo,Tikonko
+471,*****,20,,21-Oct-14,25-Oct-14,Tonkolili,Konike Sanda
+472,*****,1,,21-Oct-14,27-Oct-14,Western Urban,Freetowm
+473,*****,35,,22-Oct-14,23-Oct-14,Pujehun,Kpanga Kabonde
+474,*****,9,,22-Oct-14,26-Oct-14,Koinadugu,Neini
+475,*****,21,,22-Oct-14,28-Oct-14,Koinadugu,Wara Wara Yagala
+476,*****,30,,22-Oct-14,1-Nov-14,Bo,Tikonko
+477,*****,4,,22-Oct-14,27-Oct-14,Kenema,Lower Bambara
+478,*****,14,,23-Oct-14,26-Oct-14,Tonkolili,Konike Sanda
+479,*****,30,,23-Oct-14,26-Oct-14,Tonkolili,Konike Sanda
+480,*****,17,,23-Oct-14,26-Oct-14,Tonkolili,Konike Sanda
+481,*****,22,,23-Oct-14,23-Oct-14,Western Urban,Freetowm
+482,*****,80,,23-Oct-14,28-Oct-14,Western Urban,Freetowm
+483,*****,,,23-Oct-14,28-Oct-14,Western Urban,Freetowm
+484,*****,35,,23-Oct-14,28-Oct-14,Western Urban,Freetowm
+485,*****,32,,24-Oct-14,31-Oct-14,Bombali,Makari Gbanti
+486,*****,32,,24-Oct-14,26-Oct-14,Pujehun,Soro-Gbeima
+487,*****,18,,24-Oct-14,28-Oct-14,Moyamba,Ribbi
+488,*****,30,,24-Oct-14,30-Oct-14,Bo,Kakua
+489,*****,19,,24-Oct-14,25-Oct-14,Bo,Kakua
+490,*****,21,,24-Oct-14,28-Oct-14,Pujehun,Soro-Gbeima
+491,*****,45,,24-Oct-14,28-Oct-14,Koinadugu,Wara Wara Yagala
+492,*****,51,,24-Oct-14,28-Oct-14,Koinadugu,Neini
+493,*****,29,,24-Oct-14,30-Oct-14,Bo,Kakua
+494,*****,27,,24-Oct-14,27-Oct-14,Kono,Tankoro
+495,*****,8,,24-Oct-14,8-Nov-14,Western Rural,Waterloo
+496,*****,30,,24-Oct-14,8-Nov-14,Port Loko,Maforki
+497,*****,,,24-Oct-14,8-Nov-14,Western Rural,Waterloo
+498,*****,38,,25-Oct-14,26-Oct-14,Moyamba,Kamajei
+499,*****,80,,25-Oct-14,27-Oct-14,Kenema,Lower Bambara
+500,*****,6,,25-Oct-14,27-Oct-14,Kenema,Lower Bambara
+501,*****,35,,25-Oct-14,28-Oct-14,Koinadugu,Neini
+502,*****,35,,25-Oct-14,15-Nov-14,Western Rural,Waterloo
+503,*****,35,,25-Oct-14,8-Nov-14,Port Loko,Masimera
+504,*****,32,,26-Oct-14,26-Oct-14,Bo,Kakua
+505,*****,25,,26-Oct-14,27-Oct-14,Bo,Kakua
+506,*****,25,,26-Oct-14,28-Oct-14,Kenema,Gaura
+507,*****,1,,26-Oct-14,28-Oct-14,Kenema,Gaura
+508,*****,32,,26-Oct-14,28-Oct-14,Bo,Kakua
+509,*****,25,,26-Oct-14,29-Oct-14,Bo,Kakua
+510,*****,,,26-Oct-14,30-Oct-14,Bombali,Bombali Sebora
+511,*****,18,,26-Oct-14,28-Oct-14,Bo,Kakua
+512,*****,27,,26-Oct-14,5-Nov-14,Koinadugu,Neini
+513,*****,,,26-Oct-14,1-Nov-14,Moyamba,Fakunya
+514,*****,40,,26-Oct-14,12-Nov-14,Western Urban,Freetowm
+515,*****,7,,26-Oct-14,10-Nov-14,Western Urban,Freetowm
+516,*****,20,,27-Oct-14,28-Oct-14,Moyamba,Fakunya
+517,*****,1,,27-Oct-14,30-Oct-14,Bombali,Makari Gbanti
+518,*****,55,,27-Oct-14,30-Oct-14,Bo,Bumpe Ngawo
+519,*****,35,,27-Oct-14,1-Nov-14,Bo,Kakua
+520,*****,27,,27-Oct-14,5-Nov-14,Koinadugu,Neini
+521,*****,4,,27-Oct-14,31-Oct-14,Kenema,Nongowa
+522,*****,1,,27-Oct-14,1-Nov-14,Koinadugu,Neini
+523,*****,39,,27-Oct-14,2-Nov-14,Kenema,Lower Bambara
+524,*****,20,,27-Oct-14,31-Oct-14,Western Rural,Waterloo
+525,*****,0,,28-Oct-14,30-Oct-14,Bombali,Bombali Sebora
+526,*****,1,,28-Oct-14,31-Oct-14,Kenema,Nongowa
+527,*****,60,,28-Oct-14,2-Nov-14,Kono,Nimiyama
+528,*****,,,28-Oct-14,2-Nov-14,Kono,Tankoro
+529,*****,59,,28-Oct-14,14-Nov-14,Western Urban,Freetowm
+530,*****,65,,28-Oct-14,8-Nov-14,Port Loko,Masimera
+531,*****,26,,29-Oct-14,30-Oct-14,Kenema,Lower Bambara
+532,*****,45,,29-Oct-14,7-Nov-14,Bombali,Makari Gbanti
+533,*****,55,,29-Oct-14,3-Nov-14,Kenema,Lower Bambara
+534,*****,42,,29-Oct-14,30-Oct-14,Western Urban,Freetowm
+535,*****,,,29-Oct-14,30-Oct-14,Western Urban,Freetowm
+536,*****,80,,29-Oct-14,30-Oct-14,Western Rural,Waterloo
+537,*****,65,,29-Oct-14,30-Oct-14,Western Rural,Waterloo
+538,*****,21,,29-Oct-14,17-Nov-14,Western Rural,Waterloo
+539,*****,60,,30-Oct-14,31-Oct-14,Kenema,Lower Bambara
+540,*****,29,,30-Oct-14,31-Oct-14,Bo,Niawa Lenga
+541,*****,40,,30-Oct-14,1-Nov-14,Bo,Kakua
+542,*****,38,,30-Oct-14,3-Nov-14,Bo,Kakua
+543,*****,40,,30-Oct-14,1-Nov-14,Western Rural,Waterloo
+544,*****,18,,30-Oct-14,19-Nov-14,Western Urban,Freetowm
+545,*****,20,,31-Oct-14,1-Nov-14,Kenema,Lower Bambara
+546,*****,10,,31-Oct-14,6-Nov-14,Koinadugu,Neini
+547,*****,8,,31-Oct-14,2-Nov-14,Western Rural,Waterloo
+548,*****,,,31-Oct-14,3-Nov-14,Western Urban,Freetowm
+549,*****,35,,31-Oct-14,4-Nov-14,Kambia,Mambolo
+550,*****,39,,1-Nov-14,19-Nov-14,Bo,Kakua
+551,*****,24,,1-Nov-14,6-Nov-14,Western Urban,Freetowm
+552,*****,35,,2-Nov-14,3-Nov-14,Kenema,Nongowa
+553,*****,24,,2-Nov-14,5-Nov-14,Moyamba,Bumpeh
+554,*****,34,,2-Nov-14,4-Nov-14,Kambia,Tonko Limba
+555,*****,32,,2-Nov-14,15-Nov-14,Western Urban,Freetowm
+556,*****,23,,2-Nov-14,14-Nov-14,Western Urban,Freetowm
+557,*****,68,,3-Nov-14,6-Nov-14,Kenema,Lower Bambara
+558,*****,10,,3-Nov-14,7-Nov-14,Western Rural,Waterloo
+559,*****,25,,3-Nov-14,7-Nov-14,Port Loko,Koya
+560,*****,,,3-Nov-14,8-Nov-14,Tonkolili,Kholifa
+561,*****,29,,4-Nov-14,5-Nov-14,Bo,Bumpe Ngawo
+562,*****,19,,4-Nov-14,8-Nov-14,Tonkolili,Yoni
+563,*****,23,,4-Nov-14,7-Dec-14,Tonkolili,Kholifa
+564,*****,35,,4-Nov-14,13-Nov-14,Port Loko,Maforki
+565,*****,45,,4-Nov-14,14-Nov-14,Port Loko,Koya
+566,*****,78,,4-Nov-14,8-Nov-14,Western Urban,Freetowm
+567,*****,55,,4-Nov-14,7-Dec-14,Port Loko,Masimera
+568,*****,55,,5-Nov-14,7-Nov-14,Moyamba,Fakunya
+569,*****,43,,5-Nov-14,8-Nov-14,Tonkolili,Malal Mara
+570,*****,32,,5-Nov-14,6-Nov-14,Western Urban,Freetowm
+571,*****,30,,5-Nov-14,7-Nov-14,Western Urban,Freetowm
+572,*****,18,,6-Nov-14,8-Nov-14,Tonkolili,Yoni
+573,*****,35,,6-Nov-14,8-Nov-14,Moyamba,Fakunya
+574,*****,35,,6-Nov-14,7-Nov-14,Koinadugu,Neini
+575,*****,4,,6-Nov-14,11-Nov-14,Kenema,Gaura
+576,*****,44,,6-Nov-14,6-Nov-14,Western Urban,Freetowm
+577,*****,39,,6-Nov-14,6-Nov-14,Port Loko,Koya
+578,*****,78,,6-Nov-14,7-Nov-14,Western Urban,Freetowm
+579,*****,42,,6-Nov-14,8-Nov-14,Western Urban,Freetowm
+580,*****,25,,6-Nov-14,13-Nov-14,Port Loko,Maforki
+581,*****,55,,6-Nov-14,8-Nov-14,Western Urban,Freetowm
+582,*****,37,,6-Nov-14,18-Nov-14,Western Urban,Freetowm
+583,*****,37,,6-Nov-14,18-Nov-14,Western Urban,Freetowm
+584,*****,4,,7-Nov-14,10-Nov-14,Bo,Kakua
+585,*****,25,,7-Nov-14,9-Nov-14,Bo,Kakua
+586,*****,25,,7-Nov-14,11-Nov-14,Bo,Kakua
+587,*****,4,,7-Nov-14,11-Nov-14,Bo,Kakua
+588,*****,65,,7-Nov-14,8-Nov-14,Western Urban,Freetowm
+589,*****,7,,7-Nov-14,10-Nov-14,Western Urban,Freetowm
+590,*****,20,,7-Nov-14,10-Nov-14,Western Urban,Freetowm
+591,*****,53,,7-Nov-14,10-Nov-14,Western Urban,Freetowm
+592,*****,2,,7-Nov-14,18-Nov-14,Western Urban,Freetowm
+593,*****,52,,8-Nov-14,12-Nov-14,Western Urban,Freetowm
+594,*****,59,,8-Nov-14,14-Nov-14,Western Rural,Waterloo
+595,*****,28,,8-Nov-14,15-Nov-14,Port Loko,Bkm
+596,*****,35,,9-Nov-14,10-Nov-14,Tonkolili,Kholifa
+597,*****,80,,9-Nov-14,14-Nov-14,Moyamba,Fakunya
+598,*****,18,,9-Nov-14,11-Nov-14,Western Rural,Waterloo
+599,*****,61,,9-Nov-14,12-Nov-14,Western Rural,Waterloo
+600,*****,2,,9-Nov-14,13-Nov-14,Port Loko,Koya
+601,*****,10,,9-Nov-14,15-Nov-14,Port Loko,Tms
+602,*****,48,,9-Nov-14,18-Nov-14,Western Rural,Waterloo
+603,*****,3,,10-Nov-14,11-Nov-14,Bo,Kakua
+604,*****,42,,10-Nov-14,13-Nov-14,Koinadugu,Neini
+605,*****,5,,10-Nov-14,13-Nov-14,Tonkolili,Kholifa
+606,*****,3,,10-Nov-14,14-Nov-14,Koinadugu,Neini
+607,*****,1,,10-Nov-14,14-Nov-14,Koinadugu,Neini
+608,*****,4,,10-Nov-14,15-Nov-14,Kenema,Gaura
+609,*****,27,,10-Nov-14,11-Nov-14,Port Loko,Maforki
+610,*****,37,,10-Nov-14,10-Dec-14,Western Urban,Freetowm
+611,*****,0,,10-Nov-14,12-Nov-14,Western Urban,Freetowm
+612,*****,5,,10-Nov-14,12-Nov-14,Western Rural,Waterloo
+613,*****,62,,10-Nov-14,12-Nov-14,Western Rural,Waterloo
+614,*****,35,,10-Nov-14,14-Nov-14,Western Urban,Freetowm
+615,*****,42,,10-Nov-14,19-Nov-14,Western Urban,Freetowm
+616,*****,36,,10-Nov-14,25-Nov-14,Western Urban,Freetowm
+617,*****,2,,10-Nov-14,9-Dec-14,Western Rural,Waterloo
+618,*****,7,,11-Nov-14,12-Nov-14,Bo,Kakua
+619,*****,17,,11-Nov-14,12-Nov-14,Moyamba,Fakunya
+620,*****,0,,11-Nov-14,13-Nov-14,Tonkolili,Kholifa
+621,*****,,,11-Nov-14,13-Nov-14,Tonkolili,Kholifa
+622,*****,23,,11-Nov-14,14-Nov-14,Kono,Gbense
+623,*****,16,,11-Nov-14,14-Nov-14,Tonkolili,Kholifa
+624,*****,0,,11-Nov-14,15-Nov-14,Moyamba,Fakunya
+625,*****,15,,11-Nov-14,11-Nov-14,Koinadugu,Neini
+626,*****,10,,11-Nov-14,11-Nov-14,Koinadugu,Neini
+627,*****,42,,11-Nov-14,12-Nov-14,Western Urban,Freetowm
+628,*****,20,,11-Nov-14,26-Nov-14,Western Rural,Waterloo
+629,*****,18,,12-Nov-14,14-Nov-14,Moyamba,Kaiyamba
+630,*****,32,,12-Nov-14,8-Dec-14,Port Loko,Marampa
+631,*****,45,,13-Nov-14,14-Nov-14,Tonkolili,Gbonkolenken
+632,*****,35,,13-Nov-14,14-Nov-14,Tonkolili,Gbonkolenken
+633,*****,32,,13-Nov-14,14-Nov-14,Tonkolili,Gbonkolenken
+634,*****,14,,13-Nov-14,14-Nov-14,Tonkolili,Gbonkolenken
+635,*****,6,,13-Nov-14,14-Nov-14,Tonkolili,Gbonkolenken
+636,*****,48,,13-Nov-14,16-Nov-14,Port Loko,Koya
+637,*****,1,,13-Nov-14,16-Nov-14,Tonkolili,Gbonkolenken
+638,*****,1,,13-Nov-14,16-Nov-14,Tonkolili,Gbonkolenken
+639,*****,7,,13-Nov-14,16-Nov-14,Tonkolili,Gbonkolenken
+640,*****,2,,13-Nov-14,16-Nov-14,Tonkolili,Gbonkolenken
+641,*****,4,,13-Nov-14,18-Nov-14,Kenema,Gaura
+642,*****,0,,13-Nov-14,14-Nov-14,Western Urban,Freetowm
+643,*****,8,,13-Nov-14,18-Nov-14,Western Urban,Freetowm
+644,*****,1,,13-Nov-14,18-Nov-14,Western Urban,Freetowm
+645,*****,26,,14-Nov-14,16-Nov-14,Tonkolili,Konike Barina
+646,*****,44,,14-Nov-14,17-Nov-14,Western Urban,Freetowm
+647,*****,20,,14-Nov-14,19-Nov-14,Bombali,Bombali Sebora
+648,*****,30,,14-Nov-14,20-Nov-14,Bombali,Biriwa
+649,*****,43,,14-Nov-14,22-Nov-14,Koinadugu,Neini
+650,*****,47,,14-Nov-14,19-Nov-14,Western Urban,Freetowm
+651,*****,25,,14-Nov-14,7-Dec-14,Western Urban,Freetowm
+652,*****,20,,15-Nov-14,17-Nov-14,Bo,Kakua
+653,*****,35,,15-Nov-14,17-Nov-14,Bo,Tikonko
+654,*****,22,,15-Nov-14,19-Nov-14,Bombali,Makari Gbanti
+655,*****,40,,15-Nov-14,18-Nov-14,Moyamba,Kaiyamba
+656,*****,36,,15-Nov-14,20-Nov-14,Western Urban,Freetowm
+657,*****,51,,15-Nov-14,19-Nov-14,Western Rural,Waterloo
+658,*****,1,,15-Nov-14,9-Dec-14,Western Urban,Freetowm
+659,*****,9,,16-Nov-14,18-Nov-14,Bo,Tikonko
+660,*****,36,,16-Nov-14,20-Nov-14,Kono,Tankoro
+661,*****,24,,16-Nov-14,20-Nov-14,Kono,Gbense
+662,*****,32,,16-Nov-14,17-Dec-14,Western Rural,Waterloo
+663,*****,,,16-Nov-14,20-Nov-14,Western Urban,Freetowm
+664,*****,20,,16-Nov-14,18-Nov-14,Western Urban,Freetowm
+665,*****,14,,16-Nov-14,5-Dec-14,Western Urban,Freetowm
+666,*****,,,17-Nov-14,19-Nov-14,Tonkolili,Yoni
+667,*****,37,,17-Nov-14,19-Nov-14,Moyamba,Fakunya
+668,*****,48,,17-Nov-14,20-Nov-14,Bombali,Sella Limba
+669,*****,27,,17-Nov-14,20-Nov-14,Kono,Gbense
+670,*****,27,,17-Nov-14,20-Nov-14,Bo,Kakua
+671,*****,53,,17-Nov-14,23-Nov-14,Kenema,Kandu Leppiama
+672,*****,60,,17-Nov-14,25-Nov-14,Bombali,Sella Limba
+673,*****,30,,18-Nov-14,20-Nov-14,Kenema,Nongowa
+674,*****,24,,18-Nov-14,20-Nov-14,Kono,Gbense
+675,*****,35,,18-Nov-14,23-Nov-14,Kono,Gbense
+676,*****,65,,18-Nov-14,21-Nov-14,Bombali,Bombali Sebora
+677,*****,35,,18-Nov-14,21-Nov-14,Moyamba,Kori
+678,*****,28,,18-Nov-14,23-Nov-14,Bo,Niawa Lenga
+679,*****,25,,18-Nov-14,23-Nov-14,Kono,Gbense
+680,*****,38,,18-Nov-14,22-Nov-14,Western Rural,Waterloo
+681,*****,75,,18-Nov-14,22-Nov-14,Western Rural,Waterloo
+682,*****,75,,18-Nov-14,23-Nov-14,Port Loko,Koya
+683,*****,,,18-Nov-14,23-Nov-14,Port Loko,Koya
+684,*****,4,,18-Nov-14,23-Nov-14,Port Loko,Kaffu Bullom
+685,*****,1,,18-Nov-14,23-Nov-14,Port Loko,Koya
+686,*****,68,,18-Nov-14,23-Nov-14,Port Loko,Dibia
+687,*****,5,,18-Nov-14,24-Nov-14,Port Loko,Buya Romende
+688,*****,65,,18-Nov-14,24-Nov-14,Port Loko,Dibia
+689,*****,1,,18-Nov-14,25-Nov-14,Port Loko,Marampa
+690,*****,32,,18-Nov-14,25-Nov-14,Port Loko,Marampa
+691,*****,12,,18-Nov-14,25-Nov-14,Port Loko,Marampa
+692,*****,6,,18-Nov-14,25-Nov-14,Port Loko,Marampa
+693,*****,18,,18-Nov-14,25-Nov-14,Port Loko,Koya
+694,*****,45,,18-Nov-14,25-Nov-14,Port Loko,Kaffu Bullom
+695,*****,28,,18-Nov-14,25-Nov-14,Port Loko,Buya Romende
+696,*****,35,,18-Nov-14,25-Nov-14,Port Loko,Maforki
+697,*****,19,,18-Nov-14,25-Nov-14,Port Loko,Masimera
+698,*****,,,18-Nov-14,25-Nov-14,Port Loko,Buya Romende
+699,*****,35,,18-Nov-14,25-Nov-14,Port Loko,Maforki
+700,*****,32,,19-Nov-14,22-Nov-14,Bo,Kakua
+701,*****,36,,19-Nov-14,22-Nov-14,Bo,Kakua
+702,*****,4,,19-Nov-14,24-Nov-14,Kenema,Nongowa
+703,*****,20,,19-Nov-14,24-Nov-14,Kenema,Nongowa
+704,*****,32,,19-Nov-14,24-Nov-14,Kenema,Nongowa
+705,*****,9,,19-Nov-14,22-Nov-14,Western Rural,Waterloo
+706,*****,1,,19-Nov-14,22-Nov-14,Western Urban,Freetowm
+707,*****,5,,19-Nov-14,22-Nov-14,Western Urban,Freetowm
+708,*****,1,,19-Nov-14,23-Nov-14,Kambia,Gbinle-Dixing
+709,*****,45,,19-Nov-14,25-Nov-14,Port Loko,Lokomasam
+710,*****,60,,19-Nov-14,25-Nov-14,Port Loko,Masimera
+711,*****,65,,19-Nov-14,25-Nov-14,Port Loko,Koya
+712,*****,7,,19-Nov-14,25-Nov-14,Port Loko,Masimera
+713,*****,55,,19-Nov-14,25-Nov-14,Port Loko,Lokomasam
+714,*****,8,,19-Nov-14,25-Nov-14,Port Loko,Masimera
+715,*****,1,,19-Nov-14,26-Nov-14,Port Loko,Masimera
+716,*****,4,,19-Nov-14,26-Nov-14,Port Loko,Buya Romende
+717,*****,37,,19-Nov-14,17-Dec-14,Western Urban,Freetowm
+718,*****,54,,20-Nov-14,28-Nov-14,Kono,Gbense
+719,*****,23,,20-Nov-14,22-Nov-14,Bombali,Bombali Sebora
+720,*****,4,,20-Nov-14,23-Nov-14,Bo,Gbo
+721,*****,28,,20-Nov-14,24-Nov-14,Bo,Kakua
+722,*****,19,,20-Nov-14,22-Nov-14,Western Urban,Freetowm
+723,*****,1,,20-Nov-14,22-Nov-14,Western Rural,Waterloo
+724,*****,14,,20-Nov-14,22-Nov-14,Western Rural,Waterloo
+725,*****,0,,20-Nov-14,22-Nov-14,Western Rural,Waterloo
+726,*****,2,,20-Nov-14,24-Nov-14,Western Rural,Waterloo
+727,*****,,,20-Nov-14,27-Nov-14,Western Urban,Freetowm
+728,*****,45,,20-Nov-14,24-Nov-14,Port Loko,Marampa
+729,*****,9,,20-Nov-14,24-Nov-14,Port Loko,Koya
+730,*****,18,,20-Nov-14,24-Nov-14,Port Loko,Maforki
+731,*****,30,,20-Nov-14,24-Nov-14,Port Loko,Maforki
+732,*****,12,,20-Nov-14,24-Nov-14,Port Loko,Koya
+733,*****,39,,20-Nov-14,24-Nov-14,Port Loko,Maforki
+734,*****,6,,20-Nov-14,24-Nov-14,Port Loko,Koya
+735,*****,30,,20-Nov-14,24-Nov-14,Port Loko,Kaffu Bullom
+736,*****,22,,20-Nov-14,24-Nov-14,Port Loko,Koya
+737,*****,40,,20-Nov-14,24-Nov-14,Port Loko,Koya
+738,*****,21,,20-Nov-14,24-Nov-14,Port Loko,Marampa
+739,*****,16,,20-Nov-14,24-Nov-14,Port Loko,Marampa
+740,*****,13,,20-Nov-14,25-Nov-14,Port Loko,Lokomasam
+741,*****,47,,20-Nov-14,25-Nov-14,Port Loko,Kaffu Bullom
+742,*****,,,20-Nov-14,26-Nov-14,Port Loko,Lokomasam
+743,*****,4,,21-Nov-14,23-Nov-14,Bo,Gbo
+744,*****,45,,21-Nov-14,25-Nov-14,Koinadugu,Neini
+745,*****,13,,21-Nov-14,24-Nov-14,Bo,Gbo
+746,*****,,,21-Nov-14,24-Nov-14,Western Rural,Waterloo
+747,*****,9,,21-Nov-14,24-Nov-14,Western Rural,Waterloo
+748,*****,63,,21-Nov-14,24-Nov-14,Western Urban,Freetowm
+749,*****,,,21-Nov-14,24-Nov-14,Western Rural,Waterloo
+750,*****,3,,21-Nov-14,24-Nov-14,Western Rural,Waterloo
+751,*****,2,,21-Nov-14,24-Nov-14,Western Urban,Freetowm
+752,*****,2,,21-Nov-14,25-Nov-14,Western Rural,Waterloo
+753,*****,36,,21-Nov-14,25-Nov-14,Western Rural,Waterloo
+754,*****,30,,21-Nov-14,25-Nov-14,Western Rural,Waterloo
+755,*****,35,,21-Nov-14,24-Nov-14,Kambia,Tonko Limba
+756,*****,27,,21-Nov-14,26-Nov-14,Port Loko,Maforki
+757,*****,,,22-Nov-14,25-Nov-14,Pujehun,Makpele
+758,*****,50,,22-Nov-14,26-Nov-14,Bombali,Bombali Sebora
+759,*****,17,,22-Nov-14,24-Nov-14,Kenema,Nongowa
+760,*****,50,,22-Nov-14,25-Nov-14,Koinadugu,Neini
+761,*****,15,,22-Nov-14,25-Nov-14,Pujehun,Kpaka
+762,*****,4,,22-Nov-14,27-Nov-14,Kenema,Gaura
+763,*****,19,,22-Nov-14,23-Nov-14,Kambia,Magbema
+764,*****,31,,22-Nov-14,24-Nov-14,Western Urban,Freetowm
+765,*****,5,,22-Nov-14,25-Nov-14,Western Urban,Freetowm
+766,*****,0,,22-Nov-14,25-Nov-14,Western Rural,Waterloo
+767,*****,0,,22-Nov-14,23-Nov-14,Western Rural,Waterloo
+768,*****,2,,22-Nov-14,27-Nov-14,Western Urban,Freetowm
+769,*****,24,,22-Nov-14,30-Nov-14,Western Urban,Freetowm
+770,*****,8,,22-Nov-14,2-Dec-14,Kenema,Koya
+771,*****,,,22-Nov-14,28-Nov-14,Western Rural,Waterloo
+772,*****,1,,22-Nov-14,30-Nov-14,Port Loko,Maforki
+773,*****,57,,22-Nov-14,30-Nov-14,Port Loko,Koya
+774,*****,23,,23-Nov-14,24-Nov-14,Kenema,Nongowa
+775,*****,36,,23-Nov-14,26-Nov-14,Moyamba,Kamajei
+776,*****,80,,23-Nov-14,26-Nov-14,Moyamba,Dasse
+777,*****,1,,23-Nov-14,26-Nov-14,Moyamba,Kori
+778,*****,40,,23-Nov-14,28-Nov-14,Kono,Tankoro
+779,*****,24,,23-Nov-14,25-Nov-14,Kenema,Nongowa
+780,*****,60,,23-Nov-14,27-Nov-14,Bombali,Bombali Sebora
+781,*****,34,,23-Nov-14,25-Nov-14,Western Urban,Freetowm
+782,*****,23,,23-Nov-14,25-Nov-14,Western Urban,Freetowm
+783,*****,38,,23-Nov-14,25-Nov-14,Western Rural,Waterloo
+784,*****,90,,23-Nov-14,25-Nov-14,Western Rural,Waterloo
+785,*****,1,,23-Nov-14,25-Nov-14,Western Urban,Freetowm
+786,*****,29,,23-Nov-14,25-Nov-14,Western Urban,Freetowm
+787,*****,7,,23-Nov-14,25-Nov-14,Western Urban,Freetowm
+788,*****,0,,23-Nov-14,25-Nov-14,Western Urban,Freetowm
+789,*****,34,,23-Nov-14,26-Nov-14,Western Rural,Waterloo
+790,*****,29,,23-Nov-14,26-Nov-14,Western Urban,Freetowm
+791,*****,30,,23-Nov-14,28-Nov-14,Western Urban,Freetowm
+792,*****,24,,23-Nov-14,27-Nov-14,Western Urban,Freetowm
+793,*****,,,23-Nov-14,28-Nov-14,Western Urban,Freetowm
+794,*****,13,,23-Nov-14,30-Nov-14,Port Loko,Marampa
+795,*****,8,,23-Nov-14,30-Nov-14,Port Loko,Marampa
+796,*****,3,,24-Nov-14,27-Nov-14,Bombali,Bombali Sebora
+797,*****,60,,24-Nov-14,26-Nov-14,Kenema,Lower Bambara
+798,*****,54,,24-Nov-14,26-Nov-14,Moyamba,Kaiyamba
+799,*****,21,,24-Nov-14,27-Nov-14,Pujehun,Sowa
+800,*****,55,,24-Nov-14,28-Nov-14,Kono,Tankoro
+801,*****,1,,24-Nov-14,28-Nov-14,Kono,Gbense
+802,*****,65,,24-Nov-14,27-Nov-14,Moyamba,Bagruwa
+803,*****,50,,24-Nov-14,3-Dec-14,Port Loko,Masimera
+804,*****,25,,24-Nov-14,28-Nov-14,Western Urban,Freetowm
+805,*****,28,,24-Nov-14,29-Nov-14,Port Loko,Tms
+806,*****,30,,24-Nov-14,29-Nov-14,Port Loko,Marampa
+807,*****,11,,24-Nov-14,29-Nov-14,Port Loko,Koya
+808,*****,8,,24-Nov-14,29-Nov-14,Port Loko,Buya Romende
+809,*****,45,,24-Nov-14,29-Nov-14,Port Loko,Tms
+810,*****,37,,24-Nov-14,29-Nov-14,Port Loko,Maforki
+811,*****,55,,24-Nov-14,29-Nov-14,Port Loko,Koya
+812,*****,10,,24-Nov-14,29-Nov-14,Port Loko,Lokomasam
+813,*****,7,,24-Nov-14,1-Dec-14,Port Loko,Masimera
+814,*****,1,,24-Nov-14,1-Dec-14,Port Loko,Buya Romende
+815,*****,83,,24-Nov-14,1-Dec-14,Port Loko,Maforki
+816,*****,4,,24-Nov-14,1-Dec-14,Port Loko,Marampa
+817,*****,8,,24-Nov-14,1-Dec-14,Port Loko,Buya Romende
+818,*****,45,,24-Nov-14,1-Dec-14,Port Loko,Tms
+819,*****,60,,25-Nov-14,27-Nov-14,Bombali,Bombali Sebora
+820,*****,6,,25-Nov-14,28-Nov-14,Kono,Gbense
+821,*****,11,,25-Nov-14,28-Nov-14,Kono,Gbense
+822,*****,32,,25-Nov-14,27-Nov-14,Kenema,Lower Bambara
+823,*****,41,,25-Nov-14,29-Nov-14,Tonkolili,Gbonkolenken
+824,*****,26,,25-Nov-14,30-Nov-14,Western Urban,Freetowm
+825,*****,35,,25-Nov-14,3-Dec-14,Kambia,Tonko Limba
+826,*****,40,,25-Nov-14,28-Nov-14,Western Urban,Freetowm
+827,*****,15,,25-Nov-14,29-Nov-14,Port Loko,Marampa
+828,*****,28,,25-Nov-14,29-Nov-14,Port Loko,Maforki
+829,*****,62,,25-Nov-14,30-Nov-14,Port Loko,Maforki
+830,*****,19,,25-Nov-14,30-Nov-14,Port Loko,Maforki
+831,*****,,,25-Nov-14,30-Nov-14,Port Loko,Lokomasam
+832,*****,1,,25-Nov-14,1-Dec-14,Port Loko,Masimera
+833,*****,36,,25-Nov-14,1-Dec-14,Port Loko,Dibia
+834,*****,4,,25-Nov-14,1-Dec-14,Port Loko,Marampa
+835,*****,75,,25-Nov-14,6-Dec-14,Port Loko,Buya Romende
+836,*****,14,,26-Nov-14,27-Nov-14,Koinadugu,Neini
+837,*****,60,,26-Nov-14,1-Dec-14,Bo,Wunde
+838,*****,1,,26-Nov-14,28-Nov-14,Western Urban,Freetowm
+839,*****,41,,26-Nov-14,29-Nov-14,Western Urban,Freetowm
+840,*****,1,,26-Nov-14,2-Dec-14,Western Rural,Waterloo
+841,*****,0,,26-Nov-14,1-Dec-14,Western Urban,Freetowm
+842,*****,37,,27-Nov-14,27-Nov-14,Koinadugu,Neini
+843,*****,56,,27-Nov-14,29-Nov-14,Tonkolili,Malal Mara
+844,*****,3,,27-Nov-14,29-Nov-14,Moyamba,Kaiyamba
+845,*****,6,,27-Nov-14,29-Nov-14,Moyamba,Kaiyamba
+846,*****,22,,27-Nov-14,29-Nov-14,Moyamba,Kaiyamba
+847,*****,27,,27-Nov-14,1-Dec-14,Tonkolili,Yoni
+848,*****,17,,27-Nov-14,29-Nov-14,Western Rural,Waterloo
+849,*****,30,,27-Nov-14,29-Nov-14,Western Urban,Freetowm
+850,*****,21,,27-Nov-14,2-Dec-14,Kambia,Samu
+851,*****,21,,27-Nov-14,2-Dec-14,Western Urban,Freetowm
+852,*****,0,,27-Nov-14,2-Dec-14,Western Urban,Freetowm
+853,*****,70,,27-Nov-14,6-Dec-14,Port Loko,Masimera
+854,*****,68,,27-Nov-14,6-Dec-14,Port Loko,Masimera
+855,*****,16,,28-Nov-14,28-Nov-14,Bo,Kakua
+856,*****,27,,28-Nov-14,30-Nov-14,Bombali,Bombali Sebora
+857,*****,22,,28-Nov-14,29-Nov-14,Western Urban,Freetowm
+858,*****,25,,28-Nov-14,29-Nov-14,Western Urban,Freetowm
+859,*****,27,,28-Nov-14,1-Dec-14,Western Urban,Freetowm
+860,*****,49,,28-Nov-14,29-Nov-14,Western Urban,Freetowm
+861,*****,,,28-Nov-14,30-Nov-14,Western Urban,Freetowm
+862,*****,52,,28-Nov-14,7-Dec-14,Western Urban,Freetowm
+863,*****,55,,29-Nov-14,2-Dec-14,Kenema,Gorama Mende
+864,*****,45,,29-Nov-14,2-Dec-14,Western Urban,Freetowm
+865,*****,4,,29-Nov-14,1-Dec-14,Western Rural,Waterloo
+866,*****,11,,29-Nov-14,2-Dec-14,Western Urban,Freetowm
+867,*****,28,,29-Nov-14,1-Dec-14,Western Rural,Waterloo
+868,*****,15,,29-Nov-14,14-Dec-14,Western Urban,Freetowm
+869,*****,13,,29-Nov-14,31-Dec-14,Kambia,Masungbala
+870,*****,6,,30-Nov-14,2-Dec-14,Tonkolili,Gbonkolenken
+871,*****,8,,30-Nov-14,2-Dec-14,Tonkolili,Gbonkolenken
+872,*****,1,,30-Nov-14,2-Dec-14,Bo,Tikonko
+873,*****,35,,30-Nov-14,2-Dec-14,Western Urban,Freetowm
+874,*****,32,,30-Nov-14,2-Dec-14,Western Urban,Freetowm
+875,*****,2,,30-Nov-14,2-Dec-14,Port Loko,Kaffu Bullom
+876,*****,36,,30-Nov-14,2-Dec-14,Port Loko,Lokomasam
+877,*****,69,,30-Nov-14,7-Dec-14,Port Loko,Maforki
+878,*****,32,,1-Dec-14,2-Dec-14,Moyamba,Fakunya
+879,*****,50,F,1-Dec-14,9-Jan-15,Kono,Tankoro
+880,*****,15,,1-Dec-14,2-Dec-14,Western Urban,Freetowm
+881,*****,19,,1-Dec-14,3-Dec-14,Western Rural,Waterloo
+882,*****,30,,1-Dec-14,3-Dec-14,Western Urban,Freetowm
+883,*****,24,,1-Dec-14,3-Dec-14,Western Rural,Waterloo
+884,*****,17,,1-Dec-14,3-Dec-14,Western Urban,Freetowm
+885,*****,42,,1-Dec-14,3-Dec-14,Western Rural,Waterloo
+886,*****,20,,1-Dec-14,3-Dec-14,Western Rural,Waterloo
+887,*****,43,,1-Dec-14,4-Dec-14,Western Rural,Waterloo
+888,*****,32,,1-Dec-14,2-Dec-14,Western Urban,Freetowm
+889,*****,43,,1-Dec-14,5-Dec-14,Western Rural,Waterloo
+890,*****,49,,1-Dec-14,4-Dec-14,Western Urban,Freetowm
+891,*****,42,,1-Dec-14,6-Dec-14,Western Urban,Freetowm
+892,*****,9,,1-Dec-14,6-Dec-14,Western Urban,Freetowm
+893,*****,54,,1-Dec-14,15-Dec-14,Port Loko,Marampa
+894,*****,20,,1-Dec-14,6-Dec-14,Port Loko,Koya
+895,*****,23,,1-Dec-14,6-Dec-14,Port Loko,Dibia
+896,*****,27,,2-Dec-14,7-Dec-14,Kono,Gbense
+897,*****,0,,2-Dec-14,5-Dec-14,Western Urban,Freetowm
+898,*****,35,,2-Dec-14,5-Dec-14,Western Rural,Waterloo
+899,*****,2,,2-Dec-14,5-Dec-14,Western Rural,Waterloo
+900,*****,,,2-Dec-14,4-Dec-14,Western Rural,Waterloo
+901,*****,43,,2-Dec-14,5-Dec-14,Western Rural,Waterloo
+902,*****,52,,2-Dec-14,5-Dec-14,Western Rural,Waterloo
+903,*****,23,,2-Dec-14,6-Dec-14,Western Urban,Freetowm
+904,*****,70,,2-Dec-14,6-Dec-14,Western Urban,Freetowm
+905,*****,37,,2-Dec-14,6-Dec-14,Western Urban,Freetowm
+906,*****,1,,2-Dec-14,6-Dec-14,Western Urban,Freetowm
+907,*****,55,,2-Dec-14,6-Dec-14,Western Urban,Freetowm
+908,*****,25,,2-Dec-14,6-Dec-14,Western Urban,Freetowm
+909,*****,73,,2-Dec-14,6-Dec-14,Port Loko,Koya
+910,*****,4,,3-Dec-14,6-Dec-14,Moyamba,Fakunya
+911,*****,35,,3-Dec-14,6-Dec-14,Moyamba,Bagruwa
+912,*****,35,,3-Dec-14,6-Dec-14,Bombali,Makari Gbanti
+913,*****,13,,3-Dec-14,5-Dec-14,Western Urban,Freetowm
+914,*****,7,,3-Dec-14,5-Dec-14,Western Urban,Freetowm
+915,*****,25,,3-Dec-14,7-Dec-14,Western Urban,Freetowm
+916,*****,3,,3-Dec-14,7-Dec-14,Western Urban,Freetowm
+917,*****,50,F,3-Dec-14,9-Jan-15,Bombali,Paki Masabong
+918,*****,86,,3-Dec-14,7-Dec-14,Port Loko,Maforki
+919,*****,70,,4-Dec-14,7-Dec-14,Tonkolili,Kholifa Mabang
+920,*****,45,,4-Dec-14,7-Dec-14,Western Urban,Freetowm
+921,*****,,,4-Dec-14,5-Dec-14,Western Rural,Waterloo
+922,*****,34,,4-Dec-14,7-Dec-14,Western Urban,Freetowm
+923,*****,25,,4-Dec-14,5-Dec-14,Western Rural,Waterloo
+924,*****,37,,4-Dec-14,5-Dec-14,Western Urban,Freetowm
+925,*****,39,,4-Dec-14,5-Dec-14,Western Urban,Freetowm
+926,*****,7,,4-Dec-14,7-Dec-14,Western Rural,Waterloo
+927,*****,80,,4-Dec-14,6-Dec-14,Western Rural,Waterloo
+928,*****,22,,4-Dec-14,19-Dec-14,Western Rural,Waterloo
+929,*****,35,,4-Dec-14,7-Dec-14,Western Urban,Freetowm
+930,*****,38,,4-Dec-14,9-Dec-14,Western Rural,Waterloo
+931,*****,0,,4-Dec-14,9-Dec-14,Western Rural,Waterloo
+932,*****,,,4-Dec-14,13-Dec-14,Port Loko,Kaffu Bullom
+933,*****,1,,5-Dec-14,6-Dec-14,Tonkolili,Kholifa
+934,*****,38,,5-Dec-14,7-Dec-14,Kono,Gbense
+935,*****,24,,5-Dec-14,7-Dec-14,Kenema,Lower Bambara
+936,*****,48,,5-Dec-14,8-Dec-14,Moyamba,Fakunya
+937,*****,26,,5-Dec-14,9-Dec-14,Bo,Kakua
+938,*****,6,,5-Dec-14,7-Dec-14,Western Urban,Freetowm
+939,*****,,,5-Dec-14,7-Dec-14,Western Rural,Waterloo
+940,*****,6,,5-Dec-14,7-Dec-14,Western Rural,Waterloo
+941,*****,83,,5-Dec-14,8-Dec-14,Western Urban,Freetowm
+942,*****,24,,5-Dec-14,8-Dec-14,Western Rural,Waterloo
+943,*****,12,,5-Dec-14,5-Dec-14,Western Rural,Waterloo
+944,*****,22,,5-Dec-14,9-Dec-14,Western Urban,Freetowm
+945,*****,50,,5-Dec-14,9-Dec-14,Western Urban,Freetowm
+946,*****,28,,5-Dec-14,9-Dec-14,Western Urban,Freetowm
+947,*****,35,,5-Dec-14,9-Dec-14,Western Urban,Freetowm
+948,*****,35,,5-Dec-14,10-Dec-14,Port Loko,Lokomasam
+949,*****,33,,6-Dec-14,8-Dec-14,Tonkolili,Yoni
+950,*****,30,,6-Dec-14,8-Dec-14,Western Urban,Freetowm
+951,*****,9,,6-Dec-14,8-Dec-14,Western Urban,Freetowm
+952,*****,35,,6-Dec-14,8-Dec-14,Western Rural,Waterloo
+953,*****,14,,6-Dec-14,14-Dec-14,Western Rural,Waterloo
+954,*****,29,,6-Dec-14,18-Dec-14,Tonkolili,Yoni
+955,*****,19,,6-Dec-14,10-Dec-14,Western Rural,Waterloo
+956,*****,13,,6-Dec-14,9-Dec-14,Western Urban,Freetowm
+957,*****,32,,6-Dec-14,10-Dec-14,Western Urban,Freetowm
+958,*****,80,,6-Dec-14,10-Dec-14,Western Urban,Freetowm
+959,*****,7,,6-Dec-14,10-Dec-14,Kambia,Magbema
+960,*****,18,,6-Dec-14,7-Dec-14,Port Loko,Masimera
+961,*****,62,,6-Dec-14,13-Dec-14,Port Loko,Masimera
+962,*****,55,F,6-Dec-14,4-Jan-15,Port Loko,Bkm
+963,*****,90,F,6-Dec-14,22-Jan-15,Kambia,Magbema
+964,*****,26,,7-Dec-14,10-Dec-14,Bo,Kakua
+965,*****,33,,7-Dec-14,10-Dec-14,Western Urban,Freetowm
+966,*****,,,7-Dec-14,10-Dec-14,Western Urban,Freetowm
+967,*****,,,7-Dec-14,8-Dec-14,Western Urban,Freetowm
+968,*****,5,,7-Dec-14,11-Dec-14,Western Rural,Waterloo
+969,*****,49,,7-Dec-14,18-Dec-14,Tonkolili,Gbonkolenken
+970,*****,90,,7-Dec-14,9-Dec-14,Western Rural,Waterloo
+971,*****,72,,7-Dec-14,9-Dec-14,Western Rural,Waterloo
+972,*****,65,,7-Dec-14,22-Dec-14,Western Rural,Waterloo
+973,*****,90,M,7-Dec-14,22-Jan-15,Kambia,Mambolo
+974,*****,14,,8-Dec-14,9-Dec-14,Western Urban,Freetowm
+975,*****,25,,8-Dec-14,9-Dec-14,Western Urban,Freetowm
+976,*****,0,,8-Dec-14,9-Dec-14,Western Urban,Freetowm
+977,*****,52,,8-Dec-14,11-Dec-14,Western Rural,Waterloo
+978,*****,42,,8-Dec-14,12-Dec-14,Western Rural,Waterloo
+979,*****,40,,8-Dec-14,18-Dec-14,Tonkolili,Gbonkolenken
+980,*****,19,,8-Dec-14,14-Dec-14,Bombali,Makari Gbanti
+981,*****,37,,8-Dec-14,14-Dec-14,Port Loko,Maforki
+982,*****,35,,8-Dec-14,14-Dec-14,Port Loko,Lokomasam
+983,*****,8,,9-Dec-14,11-Dec-14,Bo,Kakua
+984,*****,60,,9-Dec-14,11-Dec-14,Bo,Kakua
+985,*****,24,,9-Dec-14,14-Dec-14,Bo,Kakua
+986,*****,21,,9-Dec-14,11-Dec-14,Western Urban,Freetowm
+987,*****,29,M,9-Dec-14,20-Dec-14,Western Urban,Freetowm
+988,*****,19,,9-Dec-14,14-Dec-14,Western Rural,Waterloo
+989,*****,0,,9-Dec-14,14-Dec-14,Western Rural,Waterloo
+990,*****,35,,9-Dec-14,20-Dec-14,Bombali,Sanda Tendaren
+991,*****,1,,9-Dec-14,12-Dec-14,Port Loko,Masimera
+992,*****,58,,9-Dec-14,14-Dec-14,Port Loko,Kaffu Bullom
+993,*****,6,,9-Dec-14,14-Dec-14,Port Loko,Kaffu Bullom
+994,*****,50,F,9-Dec-14,22-Jan-15,Kambia,Tonko Limba
+995,*****,14,,9-Dec-14,14-Dec-14,Port Loko,Kaffu Bullom
+996,*****,1,,9-Dec-14,15-Dec-14,Port Loko,Marampa
+997,*****,42,,10-Dec-14,11-Dec-14,Bo,Kakua
+998,*****,24,,10-Dec-14,13-Dec-14,Bo,Kakua
+999,*****,60,F,10-Dec-14,25-Dec-14,Western Urban,Freetowm
+1000,*****,4,,10-Dec-14,14-Dec-14,Western Urban,Freetowm
+1001,*****,26,,10-Dec-14,19-Dec-14,Kenema,Nongowa
+1002,*****,81,,10-Dec-14,13-Dec-14,Port Loko,Koya
+1003,*****,,,10-Dec-14,14-Dec-14,Port Loko,Masimera
+1004,*****,,F,10-Dec-14,22-Jan-15,Kambia,Tonko Limba
+1005,*****,62,,11-Dec-14,15-Dec-14,Kono,Kamara
+1006,*****,16,,11-Dec-14,15-Dec-14,Western Urban,Freetowm
+1007,*****,32,,11-Dec-14,15-Dec-14,Western Urban,Freetowm
+1008,*****,80,,11-Dec-14,17-Dec-14,Western Urban,Freetowm
+1009,*****,87,,11-Dec-14,17-Dec-14,Western Urban,Freetowm
+1010,*****,0,,11-Dec-14,18-Dec-14,Western Urban,Freetowm
+1011,*****,55,,11-Dec-14,16-Dec-14,Kambia,Tonko Limba
+1012,*****,45,,12-Dec-14,17-Dec-14,Kono,Nimiyama
+1013,*****,8,,12-Dec-14,17-Dec-14,Kono,Nimiyama
+1014,*****,45,,12-Dec-14,16-Dec-14,Kono,Nimiyama
+1015,*****,,,12-Dec-14,16-Dec-14,Kono,Gbense
+1016,*****,23,,12-Dec-14,15-Dec-14,Western Rural,Waterloo
+1017,*****,0,,12-Dec-14,14-Dec-14,Western Rural,Waterloo
+1018,*****,56,,12-Dec-14,17-Dec-14,Western Urban,Freetowm
+1019,*****,,,12-Dec-14,16-Dec-14,Western Urban,Freetowm
+1020,*****,35,,12-Dec-14,14-Dec-14,Port Loko,Masimera
+1021,*****,55,,12-Dec-14,14-Dec-14,Port Loko,Masimera
+1022,*****,58,,12-Dec-14,14-Dec-14,Port Loko,Maforki
+1023,*****,47,F,12-Dec-14,22-Jan-15,Port Loko,Sanda Magbolontor
+1024,*****,40,,13-Dec-14,14-Dec-14,Tonkolili,Kholifa
+1025,*****,30,,13-Dec-14,17-Dec-14,Kono,Gbense
+1026,*****,,,13-Dec-14,17-Dec-14,Kono,Nimiyama
+1027,*****,40,,13-Dec-14,18-Dec-14,Tonkolili,Yoni
+1028,*****,40,,13-Dec-14,17-Dec-14,Western Urban,Freetowm
+1029,*****,2,,13-Dec-14,18-Dec-14,Western Urban,Freetowm
+1030,*****,16,,13-Dec-14,19-Dec-14,Western Urban,Freetowm
+1031,*****,,,13-Dec-14,18-Dec-14,Western Urban,Freetowm
+1032,*****,81,,13-Dec-14,16-Dec-14,Bombali,Makari Gbanti
+1033,*****,2,,13-Dec-14,20-Dec-14,Bombali,Sanda Tendaren
+1034,*****,6,,14-Dec-14,17-Dec-14,Kono,Nimiyama
+1035,*****,,,14-Dec-14,19-Dec-14,Kenema,Kandu Leppiama
+1036,*****,6,F,14-Dec-14,19-Dec-14,Kenema,Nongowa
+1037,*****,48,,14-Dec-14,17-Dec-14,Western Urban,Freetowm
+1038,*****,22,,14-Dec-14,17-Dec-14,Western Rural,Waterloo
+1039,*****,60,M,14-Dec-14,18-Dec-14,Western Urban,Freetowm
+1040,*****,1,,14-Dec-14,16-Dec-14,Western Rural,Waterloo
+1041,*****,29,,14-Dec-14,16-Dec-14,Western Rural,Waterloo
+1042,*****,44,,14-Dec-14,18-Dec-14,Western Rural,Waterloo
+1043,*****,23,,14-Dec-14,19-Dec-14,Western Rural,Waterloo
+1044,*****,52,,15-Dec-14,15-Dec-14,Bo,Kakua
+1045,*****,24,F,15-Dec-14,18-Dec-14,Moyamba,Bagruwa
+1046,*****,25,,15-Dec-14,17-Dec-14,Western Urban,Freetowm
+1047,*****,45,F,15-Dec-14,19-Dec-14,Western Urban,Freetowm
+1048,*****,60,F,15-Dec-14,19-Dec-14,Western Rural,Waterloo
+1049,*****,45,F,15-Dec-14,19-Dec-14,Western Urban,Freetowm
+1050,*****,43,M,15-Dec-14,19-Dec-14,Western Rural,Waterloo
+1051,*****,25,F,15-Dec-14,19-Dec-14,Tonkolili,Gbonkolenken
+1052,*****,86,,15-Dec-14,17-Dec-14,Western Urban,Freetowm
+1053,*****,17,,15-Dec-14,18-Dec-14,Western Urban,Freetowm
+1054,*****,22,,15-Dec-14,18-Dec-14,Western Urban,Freetowm
+1055,*****,5,,15-Dec-14,19-Dec-14,Western Urban,Freetowm
+1056,*****,8,,15-Dec-14,20-Dec-14,Kambia,Mambolo
+1057,*****,31,,15-Dec-14,22-Dec-14,Port Loko,Tms
+1058,*****,7,F,15-Dec-14,22-Dec-14,Port Loko,Marampa
+1059,*****,14,M,15-Dec-14,23-Dec-14,Kambia,Masungbala
+1060,*****,90,F,15-Dec-14,22-Dec-14,Port Loko,Koya
+1061,*****,43,M,16-Dec-14,18-Dec-14,Bo,Baoma
+1062,*****,42,M,16-Dec-14,18-Dec-14,Kono,Tankoro
+1063,*****,31,F,16-Dec-14,22-Dec-14,Koinadugu,Wara Wara Yagala
+1064,*****,18,M,16-Dec-14,20-Dec-14,Kono,Gbense
+1065,*****,25,M,16-Dec-14,20-Dec-14,Kono,Nimiyama
+1066,*****,38,M,16-Dec-14,21-Dec-14,Kono,Gbense
+1067,*****,3,F,16-Dec-14,19-Dec-14,Western Urban,Freetowm
+1068,*****,28,F,16-Dec-14,19-Dec-14,Western Rural,Waterloo
+1069,*****,40,F,16-Dec-14,19-Dec-14,Port Loko,Kaffu Bullom
+1070,*****,20,F,16-Dec-14,22-Dec-14,Western Urban,Freetowm
+1071,*****,15,,16-Dec-14,18-Dec-14,Western Urban,Freetowm
+1072,*****,10,,16-Dec-14,18-Dec-14,Western Urban,Freetowm
+1073,*****,35,,16-Dec-14,18-Dec-14,Western Urban,Freetowm
+1074,*****,14,M,16-Dec-14,23-Dec-14,Western Urban,Freetowm
+1075,*****,17,M,16-Dec-14,24-Dec-14,Western Rural,Waterloo
+1076,*****,,,16-Dec-14,17-Dec-14,Port Loko,Kaffu Bullom
+1077,*****,1,,16-Dec-14,19-Dec-14,Port Loko,Masimera
+1078,*****,35,,16-Dec-14,21-Dec-14,Port Loko,Lokomasam
+1079,*****,9,M,16-Dec-14,24-Dec-14,Port Loko,Kaffu Bullom
+1080,*****,1,,16-Dec-14,20-Dec-14,Port Loko,Maforki
+1081,*****,30,F,17-Dec-14,21-Dec-14,Western Urban,Freetowm
+1082,*****,17,M,17-Dec-14,21-Dec-14,Western Rural,Waterloo
+1083,*****,23,F,17-Dec-14,18-Dec-14,Western Urban,Freetowm
+1084,*****,29,M,17-Dec-14,18-Dec-14,Western Urban,Freetowm
+1085,*****,25,M,17-Dec-14,18-Dec-14,Western Urban,Freetowm
+1086,*****,20,M,17-Dec-14,18-Dec-14,Western Urban,Freetowm
+1087,*****,23,F,17-Dec-14,20-Dec-14,Western Urban,Freetowm
+1088,*****,,,17-Dec-14,21-Dec-14,Western Urban,Freetowm
+1089,*****,25,F,17-Dec-14,22-Dec-14,Port Loko,Lokomasam
+1090,*****,10,F,17-Dec-14,22-Dec-14,Kambia,Mambolo
+1091,*****,21,F,18-Dec-14,20-Dec-14,Kono,Gbense
+1092,*****,30,M,18-Dec-14,20-Dec-14,Koinadugu,Neini
+1093,*****,25,M,18-Dec-14,22-Dec-14,Kono,Nimiyama
+1094,*****,42,,18-Dec-14,22-Dec-14,Kono,Tankoro
+1095,*****,20,F,18-Dec-14,22-Dec-14,Bo,Kakua
+1096,*****,6,F,18-Dec-14,23-Dec-14,Kenema,Nongowa
+1097,*****,24,M,18-Dec-14,21-Dec-14,Western Urban,Freetowm
+1098,*****,17,M,18-Dec-14,21-Dec-14,Western Rural,Waterloo
+1099,*****,34,F,18-Dec-14,22-Dec-14,Western Urban,Freetowm
+1100,*****,17,M,18-Dec-14,24-Dec-14,Western Rural,Waterloo
+1101,*****,82,,18-Dec-14,23-Dec-14,Kambia,Mambolo
+1102,*****,1,F,18-Dec-14,23-Dec-14,Kambia,Tonko Limba
+1103,*****,2,F,18-Dec-14,27-Dec-14,Port Loko,Buya Romende
+1104,*****,27,M,18-Dec-14,23-Dec-14,Port Loko,Kaffu Bullom
+1105,*****,70,M,19-Dec-14,19-Dec-14,Bo,Baoma
+1106,*****,20,M,19-Dec-14,20-Dec-14,Bo,Kakua
+1107,*****,48,M,19-Dec-14,20-Dec-14,Bo,Kakua
+1108,*****,15,F,19-Dec-14,21-Dec-14,Moyamba,Dasse
+1109,*****,4,M,19-Dec-14,21-Dec-14,Bo,Kakua
+1110,*****,5,F,19-Dec-14,21-Dec-14,Bo,Kakua
+1111,*****,43,M,19-Dec-14,22-Dec-14,Kenema,Lower Bambara
+1112,*****,20,F,19-Dec-14,20-Dec-14,Western Urban,Freetowm
+1113,*****,36,M,19-Dec-14,20-Dec-14,Western Urban,Freetowm
+1114,*****,70,M,19-Dec-14,22-Dec-14,Western Rural,Waterloo
+1115,*****,35,F,19-Dec-14,24-Dec-14,Port Loko,Koya
+1116,*****,45,M,19-Dec-14,24-Dec-14,Port Loko,Dibia
+1117,*****,2,F,19-Dec-14,25-Dec-14,Port Loko,Buya Romende
+1118,*****,2,F,19-Dec-14,25-Dec-14,Port Loko,Tms
+1119,*****,1,,19-Dec-14,25-Dec-14,Port Loko,Koya
+1120,*****,25,F,20-Dec-14,25-Dec-14,Kenema,Lower Bambara
+1121,*****,25,F,20-Dec-14,26-Dec-14,Koinadugu,Neini
+1122,*****,35,M,20-Dec-14,23-Dec-14,Western Urban,Freetowm
+1123,*****,20,M,20-Dec-14,23-Dec-14,Western Urban,Freetowm
+1124,*****,25,F,20-Dec-14,24-Dec-14,Western Urban,Freetowm
+1125,*****,88,F,20-Dec-14,24-Dec-14,Western Urban,Freetowm
+1126,*****,1,F,20-Dec-14,4-Jan-15,Port Loko,Marampa
+1127,*****,90,M,20-Dec-14,23-Dec-14,Kambia,Gbinle-Dixing
+1128,*****,56,F,20-Dec-14,25-Dec-14,Port Loko,Kaffu Bullom
+1129,*****,56,M,21-Dec-14,21-Dec-14,Bo,Selenga
+1130,*****,27,M,21-Dec-14,24-Dec-14,Moyamba,Kaiyamba
+1131,*****,29,M,21-Dec-14,25-Dec-14,Kono,Gbense
+1132,*****,65,M,21-Dec-14,24-Dec-14,Western Urban,Freetowm
+1133,*****,5,M,21-Dec-14,25-Dec-14,Bombali,Makari Gbanti
+1134,*****,25,F,21-Dec-14,26-Dec-14,Bombali,Bombali Sebora
+1135,*****,43,F,21-Dec-14,2-Jan-15,Bombali,Ngowahun
+1136,*****,42,M,22-Dec-14,22-Dec-14,Koinadugu,Wara Wara Yagala
+1137,*****,25,F,22-Dec-14,29-Dec-14,Koinadugu,Neini
+1138,*****,32,M,22-Dec-14,24-Dec-14,Western Urban,Freetowm
+1139,*****,26,F,22-Dec-14,26-Dec-14,Western Urban,Freetowm
+1140,*****,11,F,22-Dec-14,24-Dec-14,Tonkolili,Gbonkolenken
+1141,*****,30,F,22-Dec-14,24-Dec-14,Western Urban,Freetowm
+1142,*****,22,M,22-Dec-14,2-Jan-15,Western Urban,Freetowm
+1143,*****,25,F,22-Dec-14,1-Jan-15,Western Rural,Waterloo
+1144,*****,3,F,22-Dec-14,1-Jan-15,Western Rural,Waterloo
+1145,*****,8,F,22-Dec-14,1-Jan-15,Western Rural,Waterloo
+1146,*****,0,M,22-Dec-14,24-Dec-14,Port Loko,Marampa
+1147,*****,90,M,22-Dec-14,24-Dec-14,Port Loko,Koya
+1148,*****,29,M,23-Dec-14,30-Dec-14,Koinadugu,Neini
+1149,*****,50,F,23-Dec-14,30-Dec-14,Koinadugu,Neini
+1150,*****,5,F,23-Dec-14,30-Dec-14,Koinadugu,Neini
+1151,*****,56,M,23-Dec-14,23-Dec-14,Western Urban,Freetowm
+1152,*****,35,F,23-Dec-14,23-Dec-14,Western Rural,Waterloo
+1153,*****,40,F,23-Dec-14,28-Dec-14,Western Urban,Freetowm
+1154,*****,1,F,23-Dec-14,1-Jan-15,Western Rural,Waterloo
+1155,*****,0,F,23-Dec-14,27-Dec-14,Western Urban,Freetowm
+1156,*****,44,,23-Dec-14,1-Jan-15,Western Urban,Freetowm
+1157,*****,3,M,24-Dec-14,25-Dec-14,Kono,Nimikoro
+1158,*****,73,M,24-Dec-14,26-Dec-14,Kono,Gbense
+1159,*****,3,M,24-Dec-14,27-Dec-14,Kono,Nimikoro
+1160,*****,84,M,24-Dec-14,30-Dec-14,Kono,Tankoro
+1161,*****,,M,24-Dec-14,30-Dec-14,Kono,Soa
+1162,*****,32,M,24-Dec-14,27-Dec-14,Western Urban,Freetowm
+1163,*****,60,F,24-Dec-14,29-Dec-14,Western Rural,Waterloo
+1164,*****,19,F,24-Dec-14,28-Dec-14,Western Urban,Freetowm
+1165,*****,35,M,24-Dec-14,28-Dec-14,Western Urban,Freetowm
+1166,*****,50,M,24-Dec-14,1-Jan-15,Western Rural,Waterloo
+1167,*****,32,,24-Dec-14,28-Dec-14,Western Urban,Freetowm
+1168,*****,34,F,24-Dec-14,25-Dec-14,Port Loko,Kaffu Bullom
+1169,*****,60,F,25-Dec-14,26-Dec-14,Kono,Nimikoro
+1170,*****,5,F,25-Dec-14,26-Dec-14,Koinadugu,Neini
+1171,*****,38,F,25-Dec-14,29-Dec-14,Kono,Gbense
+1172,*****,30,F,25-Dec-14,27-Dec-14,Moyamba,Ribbi
+1173,*****,5,F,25-Dec-14,29-Dec-14,Koinadugu,Neini
+1174,*****,37,M,25-Dec-14,30-Dec-14,Kenema,Tunkia
+1175,*****,26,,25-Dec-14,30-Dec-14,Kono,Tankoro
+1176,*****,39,M,25-Dec-14,30-Dec-14,Kono,Tankoro
+1177,*****,21,M,25-Dec-14,30-Dec-14,Kono,Tankoro
+1178,*****,21,M,25-Dec-14,31-Dec-14,Kenema,Nongowa
+1179,*****,55,F,25-Dec-14,31-Dec-14,Kenema,Nongowa
+1180,*****,45,F,25-Dec-14,31-Dec-14,Koinadugu,Neini
+1181,*****,1,F,25-Dec-14,29-Dec-14,Western Urban,Freetowm
+1182,*****,50,F,25-Dec-14,27-Dec-14,Port Loko,Kaffu Bullom
+1183,*****,35,M,25-Dec-14,29-Dec-14,Port Loko,Marampa
+1184,*****,60,M,25-Dec-14,11-Jan-15,Kambia,Magbema
+1185,*****,2,M,25-Dec-14,30-Dec-14,Port Loko,Marampa
+1186,*****,26,F,26-Dec-14,29-Dec-14,Kono,Gbense
+1187,*****,54,M,26-Dec-14,30-Dec-14,Moyamba,Ribbi
+1188,*****,42,M,26-Dec-14,31-Dec-14,Kono,Tankoro
+1189,*****,70,M,26-Dec-14,30-Dec-14,Western Urban,Freetowm
+1190,*****,46,M,26-Dec-14,15-Jan-15,Western Urban,Freetowm
+1191,*****,40,F,26-Dec-14,30-Dec-14,Western Rural,Waterloo
+1192,*****,33,F,26-Dec-14,30-Dec-14,Western Rural,Waterloo
+1193,*****,17,F,26-Dec-14,30-Dec-14,Western Rural,Waterloo
+1194,*****,2,,26-Dec-14,29-Dec-14,Western Urban,Freetowm
+1195,*****,42,M,26-Dec-14,1-Jan-15,Western Rural,Waterloo
+1196,*****,1,M,26-Dec-14,29-Dec-14,Western Urban,Freetowm
+1197,*****,80,F,26-Dec-14,1-Jan-15,Western Urban,Freetowm
+1198,*****,46,F,26-Dec-14,29-Dec-14,Bombali,Tambakka
+1199,*****,20,F,26-Dec-14,28-Dec-14,Port Loko,Marampa
+1200,*****,4,F,26-Dec-14,5-Jan-15,Kambia,Gbinle-Dixing
+1201,*****,,M,26-Dec-14,24-Jan-15,Kambia,Tonko Limba
+1202,*****,33,F,27-Dec-14,29-Dec-14,Kono,Tankoro
+1203,*****,52,F,27-Dec-14,29-Dec-14,Western Rural,Waterloo
+1204,*****,6,F,27-Dec-14,29-Dec-14,Western Rural,Waterloo
+1205,*****,16,M,27-Dec-14,29-Dec-14,Western Rural,Waterloo
+1206,*****,2,M,27-Dec-14,29-Dec-14,Western Urban,Freetowm
+1207,*****,21,M,27-Dec-14,1-Jan-15,Western Urban,Freetowm
+1208,*****,60,M,27-Dec-14,30-Dec-14,Western Urban,Freetowm
+1209,*****,18,M,27-Dec-14,1-Jan-15,Western Urban,Freetowm
+1210,*****,,M,27-Dec-14,30-Jan-15,Kono,Nimiyama
+1211,*****,16,F,27-Dec-14,30-Dec-14,Western Urban,Freetowm
+1212,*****,20,M,27-Dec-14,31-Dec-14,Western Rural,Waterloo
+1213,*****,18,,27-Dec-14,31-Dec-14,Western Rural,Waterloo
+1214,*****,63,,27-Dec-14,31-Dec-14,Western Rural,Waterloo
+1215,*****,70,M,27-Dec-14,31-Dec-14,Western Rural,Waterloo
+1216,*****,25,M,27-Dec-14,31-Dec-14,Western Rural,Waterloo
+1217,*****,26,M,27-Dec-14,31-Dec-14,Western Rural,Waterloo
+1218,*****,28,F,27-Dec-14,31-Dec-14,Western Rural,Waterloo
+1219,*****,7,F,27-Dec-14,31-Dec-14,Western Rural,Waterloo
+1220,*****,16,F,27-Dec-14,1-Jan-15,Bombali,Bombali Sebora
+1221,*****,28,F,27-Dec-14,2-Jan-15,Western Urban,Freetowm
+1222,*****,63,M,27-Dec-14,28-Dec-14,Port Loko,Kaffu Bullom
+1223,*****,18,M,27-Dec-14,1-Jan-15,Port Loko,Marampa
+1224,*****,60,F,28-Dec-14,29-Dec-14,Kono,Nimikoro
+1225,*****,45,M,28-Dec-14,29-Dec-14,Bo,Tikonko
+1226,*****,35,F,28-Dec-14,6-Jan-15,Kono,Nimikoro
+1227,*****,27,M,28-Dec-14,29-Dec-14,Western Urban,Freetowm
+1228,*****,18,F,28-Dec-14,29-Dec-14,Western Urban,Freetowm
+1229,*****,25,F,28-Dec-14,1-Jan-15,Western Rural,Waterloo
+1230,*****,1,,28-Dec-14,3-Jan-15,Western Urban,Freetowm
+1231,*****,45,M,28-Dec-14,4-Jan-15,Western Rural,Waterloo
+1232,*****,37,,28-Dec-14,1-Jan-15,Western Rural,Waterloo
+1233,*****,,F,28-Dec-14,2-Jan-15,Western Rural,Waterloo
+1234,*****,,,28-Dec-14,2-Jan-15,Port Loko,Kaffu Bullom
+1235,*****,70,,28-Dec-14,1-Jan-15,Kambia,Magbema
+1236,*****,2,F,29-Dec-14,3-Jan-15,Koinadugu,Folasaba Dembelia
+1237,*****,26,F,29-Dec-14,3-Jan-15,Koinadugu,Folasaba Dembelia
+1238,*****,35,M,29-Dec-14,1-Jan-15,Moyamba,Fakunya
+1239,*****,14,M,29-Dec-14,30-Dec-14,Western Urban,Freetowm
+1240,*****,19,F,29-Dec-14,1-Jan-15,Western Urban,Freetowm
+1241,*****,47,M,29-Dec-14,1-Jan-15,Western Rural,Waterloo
+1242,*****,2,F,29-Dec-14,2-Jan-15,Western Rural,Waterloo
+1243,*****,4,M,29-Dec-14,2-Jan-15,Western Rural,Waterloo
+1244,*****,2,M,29-Dec-14,2-Jan-15,Western Rural,Waterloo
+1245,*****,20,M,29-Dec-14,2-Jan-15,Western Rural,Waterloo
+1246,*****,31,F,29-Dec-14,2-Jan-15,Western Rural,Waterloo
+1247,*****,36,M,29-Dec-14,2-Jan-15,Western Rural,Waterloo
+1248,*****,18,F,29-Dec-14,2-Jan-15,Western Rural,Waterloo
+1249,*****,42,F,29-Dec-14,2-Jan-15,Western Rural,Waterloo
+1250,*****,50,M,29-Dec-14,2-Jan-15,Western Rural,Waterloo
+1251,*****,27,M,29-Dec-14,2-Jan-15,Western Rural,Waterloo
+1252,*****,1,,29-Dec-14,1-Jan-15,Western Urban,Freetowm
+1253,*****,1,M,29-Dec-14,3-Jan-15,Western Urban,Freetowm
+1254,*****,56,M,29-Dec-14,3-Jan-15,Bombali,Bombali Sebora
+1255,*****,58,M,29-Dec-14,4-Jan-15,Port Loko,Lokomasam
+1256,*****,35,M,30-Dec-14,6-Jan-15,Koinadugu,Neini
+1257,*****,25,F,30-Dec-14,1-Jan-15,Western Rural,Waterloo
+1258,*****,24,F,30-Dec-14,1-Jan-15,Western Rural,Waterloo
+1259,*****,60,M,30-Dec-14,1-Jan-15,Western Urban,Freetowm
+1260,*****,21,F,30-Dec-14,3-Jan-15,Western Rural,Waterloo
+1261,*****,29,M,30-Dec-14,2-Jan-15,Western Urban,Freetowm
+1262,*****,27,M,30-Dec-14,2-Jan-15,Western Urban,Freetowm
+1263,*****,18,M,30-Dec-14,3-Jan-15,Western Rural,Waterloo
+1264,*****,32,F,30-Dec-14,3-Jan-15,Western Rural,Waterloo
+1265,*****,7,M,30-Dec-14,3-Jan-15,Western Rural,Waterloo
+1266,*****,34,F,30-Dec-14,3-Jan-15,Western Rural,Waterloo
+1267,*****,43,M,30-Dec-14,3-Jan-15,Western Rural,Waterloo
+1268,*****,16,F,30-Dec-14,3-Jan-15,Western Urban,Freetowm
+1269,*****,2,M,30-Dec-14,6-Jan-15,Western Urban,Freetowm
+1270,*****,70,,30-Dec-14,31-Dec-14,Kambia,Magbema
+1271,*****,0,M,30-Dec-14,2-Jan-15,Port Loko,Maforki
+1272,*****,1,F,30-Dec-14,4-Jan-15,Port Loko,Dibia
+1273,*****,55,M,30-Dec-14,4-Jan-15,Port Loko,Tms
+1274,*****,21,M,31-Dec-14,3-Jan-15,Kono,Gbense
+1275,*****,35,M,31-Dec-14,7-Jan-15,Moyamba,Kaiyamba
+1276,*****,32,M,31-Dec-14,6-Jan-15,Kono,Tankoro
+1277,*****,1,M,31-Dec-14,7-Jan-15,Moyamba,Ribbi
+1278,*****,2,M,31-Dec-14,4-Jan-15,Bo,Bumpe Ngawo
+1279,*****,43,M,31-Dec-14,3-Jan-15,Western Rural,Waterloo
+1280,*****,43,M,31-Dec-14,3-Jan-15,Western Urban,Freetowm
+1281,*****,10,F,31-Dec-14,3-Jan-15,Western Urban,Freetowm
+1282,*****,43,M,31-Dec-14,5-Jan-15,Western Rural,Waterloo
+1283,*****,32,M,31-Dec-14,4-Jan-15,Western Urban,Freetowm
+1284,*****,59,M,31-Dec-14,31-Jan-15,Kono,Gbense
+1285,*****,18,M,31-Dec-14,4-Jan-15,Western Rural,Waterloo
+1286,*****,60,M,31-Dec-14,4-Jan-15,Western Rural,Waterloo
+1287,*****,2,M,31-Dec-14,3-Jan-15,Western Urban,Freetowm
+1288,*****,75,M,31-Dec-14,2-Jan-15,Port Loko,Bkm
+1289,*****,,,31-Dec-14,2-Jan-15,Port Loko,Marampa
+1290,*****,3,F,31-Dec-14,4-Jan-15,Port Loko,Marampa
+1291,*****,,F,31-Dec-14,4-Jan-15,Port Loko,Marampa
+1292,*****,36,F,31-Dec-14,3-Jan-15,Kambia,Magbema
+1293,*****,2,M,1-Jan-15,3-Jan-15,Bo,Bumpe Ngawo
+1294,*****,51,M,1-Jan-15,4-Jan-15,Moyamba,Fakunya
+1295,*****,30,F,1-Jan-15,29-Jan-15,Bo,Kakua
+1296,*****,35,M,1-Jan-15,8-Jan-15,Koinadugu,Neini
+1297,*****,0,M,1-Jan-15,4-Jan-15,Western Rural,Waterloo
+1298,*****,10,F,1-Jan-15,4-Jan-15,Western Urban,Freetowm
+1299,*****,28,M,1-Jan-15,4-Jan-15,Western Urban,Freetowm
+1300,*****,58,M,1-Jan-15,15-Jan-15,Western Rural,Waterloo
+1301,*****,32,M,1-Jan-15,4-Jan-15,Western Urban,Freetowm
+1302,*****,30,M,1-Jan-15,4-Jan-15,Western Urban,Freetowm
+1303,*****,50,F,1-Jan-15,6-Jan-15,Western Rural,Waterloo
+1304,*****,38,M,1-Jan-15,6-Jan-15,Western Rural,Waterloo
+1305,*****,0,M,1-Jan-15,3-Jan-15,Western Urban,Freetowm
+1306,*****,0,M,1-Jan-15,3-Jan-15,Western Urban,Freetowm
+1307,*****,2,F,1-Jan-15,4-Jan-15,Western Urban,Freetowm
+1308,*****,34,M,1-Jan-15,4-Jan-15,Bombali,Paki Masabong
+1309,*****,80,M,1-Jan-15,4-Jan-15,Port Loko,Dibia
+1310,*****,22,M,1-Jan-15,5-Jan-15,Kambia,Mambolo
+1311,*****,2,,1-Jan-15,10-Jan-15,Port Loko,Marampa
+1312,*****,35,M,2-Jan-15,4-Jan-15,Bo,Kakua
+1313,*****,45,M,2-Jan-15,4-Jan-15,Kono,Nimikoro
+1314,*****,36,M,2-Jan-15,3-Jan-15,Western Urban,Freetowm
+1315,*****,70,F,2-Jan-15,4-Jan-15,Western Urban,Freetowm
+1316,*****,6,M,2-Jan-15,4-Jan-15,Western Rural,Waterloo
+1317,*****,0,F,2-Jan-15,4-Jan-15,Western Rural,Waterloo
+1318,*****,0,M,2-Jan-15,4-Jan-15,Western Rural,Waterloo
+1319,*****,22,F,2-Jan-15,4-Jan-15,Western Urban,Freetowm
+1320,*****,56,M,2-Jan-15,23-Jan-15,Kono,Sandor
+1321,*****,22,F,2-Jan-15,6-Jan-15,Western Rural,Waterloo
+1322,*****,3,F,2-Jan-15,4-Jan-15,Port Loko,Kaffu Bullom
+1323,*****,1,M,2-Jan-15,4-Jan-15,Port Loko,Kaffu Bullom
+1324,*****,0,,2-Jan-15,4-Jan-15,Port Loko,Kaffu Bullom
+1325,*****,19,M,2-Jan-15,4-Jan-15,Port Loko,Kaffu Bullom
+1326,*****,0,F,2-Jan-15,4-Jan-15,Port Loko,Marampa
+1327,*****,26,F,2-Jan-15,4-Jan-15,Port Loko,Marampa
+1328,*****,45,M,2-Jan-15,7-Jan-15,Port Loko,Kaffu Bullom
+1329,*****,80,F,2-Jan-15,12-Jan-15,Port Loko,Masimera
+1330,*****,50,M,2-Jan-15,19-Jan-15,Kambia,Masungbala
+1331,*****,65,M,2-Jan-15,22-Jan-15,Kambia,Magbema
+1332,*****,25,M,2-Jan-15,31-Jan-15,Kambia,Samu
+1333,*****,,F,2-Jan-15,5-Jan-15,Kambia,Magbema
+1334,*****,3,F,3-Jan-15,4-Jan-15,Bo,Kakua
+1335,*****,55,M,3-Jan-15,8-Jan-15,Kono,Tankoro
+1336,*****,30,M,3-Jan-15,7-Jan-15,Western Rural,Waterloo
+1337,*****,23,M,3-Jan-15,7-Jan-15,Western Rural,Waterloo
+1338,*****,45,F,3-Jan-15,12-Jan-15,Port Loko,Bkm
+1339,*****,86,M,3-Jan-15,15-Jan-15,Port Loko,Marampa
+1340,*****,1,,3-Jan-15,12-Jan-15,Port Loko,Kaffu Bullom
+1341,*****,65,M,4-Jan-15,9-Jan-15,Bo,Kakua
+1342,*****,2,M,4-Jan-15,5-Jan-15,Western Urban,Freetowm
+1343,*****,,M,4-Jan-15,5-Jan-15,Western Rural,Waterloo
+1344,*****,,M,4-Jan-15,6-Jan-15,Western Urban,Freetowm
+1345,*****,34,M,4-Jan-15,6-Jan-15,Western Urban,Freetowm
+1346,*****,25,M,4-Jan-15,6-Jan-15,Western Urban,Freetowm
+1347,*****,35,F,4-Jan-15,6-Jan-15,Western Urban,Freetowm
+1348,*****,21,M,4-Jan-15,7-Jan-15,Western Urban,Freetowm
+1349,*****,75,F,4-Jan-15,7-Jan-15,Western Urban,Freetowm
+1350,*****,21,F,4-Jan-15,7-Jan-15,Western Urban,Freetowm
+1351,*****,20,M,4-Jan-15,7-Jan-15,Western Urban,Freetowm
+1352,*****,25,M,4-Jan-15,8-Jan-15,Western Urban,Freetowm
+1353,*****,32,M,4-Jan-15,8-Jan-15,Western Rural,Waterloo
+1354,*****,24,M,4-Jan-15,8-Jan-15,Western Rural,Waterloo
+1355,*****,0,M,4-Jan-15,5-Jan-15,Western Rural,Waterloo
+1356,*****,67,M,4-Jan-15,6-Jan-15,Port Loko,Lokomasam
+1357,*****,1,,4-Jan-15,6-Jan-15,Port Loko,Koya
+1358,*****,16,F,4-Jan-15,6-Jan-15,Port Loko,Koya
+1359,*****,1,F,4-Jan-15,12-Jan-15,Port Loko,Masimera
+1360,*****,8,F,4-Jan-15,12-Jan-15,Port Loko,Masimera
+1361,*****,1,M,4-Jan-15,12-Jan-15,Port Loko,Masimera
+1362,*****,3,M,4-Jan-15,12-Jan-15,Port Loko,Masimera
+1363,*****,81,M,4-Jan-15,12-Jan-15,Port Loko,Buya Romende
+1364,*****,70,F,4-Jan-15,31-Jan-15,Kambia,Masungbala
+1365,*****,2,F,4-Jan-15,11-Jan-15,Port Loko,Marampa
+1366,*****,49,F,5-Jan-15,7-Jan-15,Bo,Gbo
+1367,*****,,F,5-Jan-15,9-Jan-15,Kono,Gbense
+1368,*****,50,M,5-Jan-15,9-Jan-15,Kono,Nimikoro
+1369,*****,38,M,5-Jan-15,10-Jan-15,Kono,Nimiyama
+1370,*****,35,F,5-Jan-15,5-Jan-15,Western Rural,Waterloo
+1371,*****,41,M,5-Jan-15,5-Jan-15,Western Urban,Freetowm
+1372,*****,27,M,5-Jan-15,7-Jan-15,Western Urban,Freetowm
+1373,*****,35,F,5-Jan-15,6-Jan-15,Western Urban,Freetowm
+1374,*****,27,M,5-Jan-15,7-Jan-15,Western Urban,Freetowm
+1375,*****,10,M,5-Jan-15,7-Jan-15,Western Urban,Freetowm
+1376,*****,42,F,5-Jan-15,9-Jan-15,Western Rural,Waterloo
+1377,*****,27,F,5-Jan-15,22-Jan-15,Kambia,Tonko Limba
+1378,*****,27,M,6-Jan-15,7-Jan-15,Kono,Gbense
+1379,*****,60,M,6-Jan-15,8-Jan-15,Kono,Fiama
+1380,*****,3,M,6-Jan-15,9-Jan-15,Kono,Sandor
+1381,*****,1,F,6-Jan-15,9-Jan-15,Kono,Gbense
+1382,*****,,M,6-Jan-15,9-Jan-15,Kono,Soa
+1383,*****,3,M,6-Jan-15,9-Jan-15,Kono,Gbane Kandor
+1384,*****,39,F,6-Jan-15,7-Jan-15,Western Urban,Freetowm
+1385,*****,45,M,6-Jan-15,7-Jan-15,Western Rural,Waterloo
+1386,*****,9,F,6-Jan-15,6-Jan-15,Western Urban,Freetowm
+1387,*****,24,F,6-Jan-15,8-Jan-15,Western Urban,Freetowm
+1388,*****,6,F,6-Jan-15,8-Jan-15,Western Urban,Freetowm
+1389,*****,18,F,6-Jan-15,11-Jan-15,Western Rural,Waterloo
+1390,*****,40,F,6-Jan-15,15-Jan-15,Western Rural,Waterloo
+1391,*****,23,F,6-Jan-15,8-Jan-15,Western Rural,Waterloo
+1392,*****,35,F,6-Jan-15,16-Jan-15,Port Loko,Lokomasam
+1393,*****,,F,6-Jan-15,31-Jan-15,Kambia,Magbema
+1394,*****,84,F,6-Jan-15,2-Feb-15,Port Loko,Tms
+1395,*****,35,,6-Jan-15,11-Jan-15,Port Loko,Maforki
+1396,*****,,,7-Jan-15,9-Jan-15,Kono,Tankoro
+1397,*****,32,,7-Jan-15,9-Jan-15,Kono,Gbense
+1398,*****,32,M,7-Jan-15,9-Jan-15,Kono,Gbense
+1399,*****,12,F,7-Jan-15,8-Jan-15,Western Urban,Freetowm
+1400,*****,29,M,7-Jan-15,10-Jan-15,Western Urban,Freetowm
+1401,*****,42,M,7-Jan-15,10-Jan-15,Western Urban,Freetowm
+1402,*****,28,M,7-Jan-15,11-Jan-15,Western Rural,Waterloo
+1403,*****,39,M,7-Jan-15,9-Jan-15,Port Loko,Kaffu Bullom
+1404,*****,1,M,7-Jan-15,11-Jan-15,Kambia,Magbema
+1405,*****,12,M,7-Jan-15,13-Jan-15,Kambia,Magbema
+1406,*****,1,F,7-Jan-15,12-Jan-15,Port Loko,Maforki
+1407,*****,90,M,7-Jan-15,23-Jan-15,Port Loko,Lokomasam
+1408,*****,,M,7-Jan-15,12-Jan-15,Port Loko,Kaffu Bullom
+1409,*****,,,7-Jan-15,12-Jan-15,Port Loko,Koya
+1410,*****,,F,7-Jan-15,13-Jan-15,Port Loko,Kaffu Bullom
+1411,*****,28,F,8-Jan-15,8-Jan-15,Bo,Tikonko
+1412,*****,28,F,8-Jan-15,9-Jan-15,Bo,Kakua
+1413,*****,35,M,8-Jan-15,10-Jan-15,Moyamba,Ribbi
+1414,*****,19,M,8-Jan-15,11-Jan-15,Kono,Nimikoro
+1415,*****,25,M,8-Jan-15,12-Jan-15,Kono,Nimiyama
+1416,*****,45,M,8-Jan-15,12-Jan-15,Kono,Nimikoro
+1417,*****,70,F,8-Jan-15,12-Jan-15,Bo,Tikonko
+1418,*****,20,F,8-Jan-15,9-Jan-15,Western Urban,Freetowm
+1419,*****,10,F,8-Jan-15,9-Jan-15,Western Urban,Freetowm
+1420,*****,34,F,8-Jan-15,10-Jan-15,Western Urban,Freetowm
+1421,*****,60,M,8-Jan-15,11-Jan-15,Western Urban,Freetowm
+1422,*****,5,M,8-Jan-15,11-Jan-15,Western Urban,Freetowm
+1423,*****,25,F,8-Jan-15,12-Jan-15,Western Rural,Waterloo
+1424,*****,29,M,8-Jan-15,12-Jan-15,Western Rural,Waterloo
+1425,*****,,F,8-Jan-15,26-Jan-15,Koinadugu,Wara Wara Yagala
+1426,*****,52,M,8-Jan-15,12-Jan-15,Port Loko,Buya Romende
+1427,*****,8,M,8-Jan-15,12-Jan-15,Port Loko,Masimera
+1428,*****,2,F,8-Jan-15,12-Jan-15,Port Loko,Buya Romende
+1429,*****,1,,8-Jan-15,14-Jan-15,Kambia,Magbema
+1430,*****,7,F,8-Jan-15,18-Jan-15,Kambia,Magbema
+1431,*****,25,M,9-Jan-15,14-Jan-15,Kono,Nimikoro
+1432,*****,22,M,9-Jan-15,9-Jan-15,Western Urban,Freetowm
+1433,*****,44,M,9-Jan-15,10-Jan-15,Western Urban,Freetowm
+1434,*****,17,M,9-Jan-15,11-Jan-15,Western Urban,Freetowm
+1435,*****,26,M,9-Jan-15,13-Jan-15,Western Rural,Waterloo
+1436,*****,75,M,9-Jan-15,12-Jan-15,Port Loko,Lokomasam
+1437,*****,7,M,9-Jan-15,14-Jan-15,Kambia,Magbema
+1438,*****,52,M,10-Jan-15,10-Jan-15,Bo,Kakua
+1439,*****,52,M,10-Jan-15,11-Jan-15,Bo,Kakua
+1440,*****,40,M,10-Jan-15,12-Jan-15,Western Rural,Waterloo
+1441,*****,35,F,10-Jan-15,14-Jan-15,Western Urban,Freetowm
+1442,*****,5,F,10-Jan-15,14-Jan-15,Western Urban,Freetowm
+1443,*****,30,F,10-Jan-15,14-Jan-15,Western Urban,Freetowm
+1444,*****,42,M,10-Jan-15,14-Jan-15,Western Urban,Freetowm
+1445,*****,45,F,10-Jan-15,3-Feb-15,Kambia,Samu
+1446,*****,60,M,10-Jan-15,5-Feb-15,Port Loko,Maforki
+1447,*****,4,M,10-Jan-15,12-Jan-15,Port Loko,Masimera
+1448,*****,10,,10-Jan-15,13-Jan-15,Port Loko,Maforki
+1449,*****,40,M,10-Jan-15,16-Jan-15,Port Loko,Sanda Magbolontor
+1450,*****,2,F,10-Jan-15,19-Jan-15,Port Loko,Maforki
+1451,*****,40,F,10-Jan-15,21-Jan-15,Port Loko,Buya Romende
+1452,*****,28,M,11-Jan-15,15-Jan-15,Western Urban,Freetowm
+1453,*****,19,F,11-Jan-15,14-Jan-15,Western Urban,Freetowm
+1454,*****,27,F,11-Jan-15,14-Jan-15,Western Urban,Freetowm
+1455,*****,90,M,11-Jan-15,19-Jan-15,Kono,Nimiyama
+1456,*****,4,M,11-Jan-15,15-Jan-15,Western Rural,Waterloo
+1457,*****,50,F,11-Jan-15,14-Jan-15,Western Urban,Freetowm
+1458,*****,19,F,11-Jan-15,16-Jan-15,Western Urban,Freetowm
+1459,*****,19,M,11-Jan-15,17-Jan-15,Bombali,Bombali Sebora
+1460,*****,,F,11-Jan-15,12-Jan-15,Port Loko,Marampa
+1461,*****,0,F,11-Jan-15,12-Jan-15,Port Loko,Kaffu Bullom
+1462,*****,3,M,11-Jan-15,12-Jan-15,Port Loko,Kaffu Bullom
+1463,*****,1,F,11-Jan-15,12-Jan-15,Port Loko,Maforki
+1464,*****,90,M,11-Jan-15,16-Jan-15,Port Loko,Sanda Magbolontor
+1465,*****,50,M,11-Jan-15,17-Jan-15,Port Loko,Maforki
+1466,*****,11,M,11-Jan-15,18-Jan-15,Port Loko,Lokomasam
+1467,*****,53,,11-Jan-15,19-Jan-15,Kambia,Magbema
+1468,*****,3,F,11-Jan-15,27-Jan-15,Port Loko,Tms
+1469,*****,,F,11-Jan-15,29-Jan-15,Kambia,Magbema
+1470,*****,24,F,11-Jan-15,15-Jan-15,Port Loko,Lokomasam
+1471,*****,54,M,11-Jan-15,15-Jan-15,Port Loko,Lokomasam
+1472,*****,85,F,11-Jan-15,17-Jan-15,Port Loko,Sanda Magbolontor
+1473,*****,12,F,12-Jan-15,13-Jan-15,Bo,Bumpe Ngawo
+1474,*****,58,M,12-Jan-15,15-Jan-15,Kenema,Lower Bambara
+1475,*****,42,F,12-Jan-15,14-Jan-15,Western Urban,Freetowm
+1476,*****,6,M,12-Jan-15,15-Jan-15,Western Urban,Freetowm
+1477,*****,13,F,12-Jan-15,15-Jan-15,Western Urban,Freetowm
+1478,*****,22,F,12-Jan-15,14-Jan-15,Western Urban,Freetowm
+1479,*****,62,M,12-Jan-15,14-Jan-15,Western Urban,Freetowm
+1480,*****,43,M,12-Jan-15,16-Jan-15,Western Urban,Freetowm
+1481,*****,5,F,12-Jan-15,16-Jan-15,Western Urban,Freetowm
+1482,*****,0,F,12-Jan-15,17-Jan-15,Kono,Tankoro
+1483,*****,82,M,12-Jan-15,17-Jan-15,Kono,Sandor
+1484,*****,42,M,12-Jan-15,15-Jan-15,Western Rural,Waterloo
+1485,*****,35,F,12-Jan-15,15-Jan-15,Western Rural,Waterloo
+1486,*****,5,M,12-Jan-15,15-Jan-15,Western Rural,Waterloo
+1487,*****,13,M,12-Jan-15,15-Jan-15,Western Rural,Waterloo
+1488,*****,3,F,12-Jan-15,15-Jan-15,Western Rural,Waterloo
+1489,*****,28,M,12-Jan-15,15-Jan-15,Western Urban,Freetowm
+1490,*****,28,F,12-Jan-15,15-Jan-15,Western Urban,Freetowm
+1491,*****,17,M,12-Jan-15,15-Jan-15,Western Urban,Freetowm
+1492,*****,54,M,12-Jan-15,16-Jan-15,Bombali,Bombali Sebora
+1493,*****,49,M,12-Jan-15,17-Jan-15,Bombali,Bombali Sebora
+1494,*****,55,F,12-Jan-15,17-Jan-15,Bombali,Sanda Tendaren
+1495,*****,,M,12-Jan-15,12-Jan-15,Port Loko,Maforki
+1496,*****,0,M,12-Jan-15,16-Jan-15,Port Loko,Koya
+1497,*****,22,M,12-Jan-15,16-Jan-15,Port Loko,Masimera
+1498,*****,2,F,12-Jan-15,16-Jan-15,Port Loko,Masimera
+1499,*****,,M,12-Jan-15,17-Jan-15,Port Loko,Lokomasam
+1500,*****,45,F,12-Jan-15,18-Jan-15,Port Loko,Marampa
+1501,*****,43,M,12-Jan-15,17-Jan-15,Port Loko,Kaffu Bullom
+1502,*****,8,F,13-Jan-15,18-Jan-15,Bo,Wunde
+1503,*****,23,F,13-Jan-15,14-Jan-15,Western Urban,Freetowm
+1504,*****,34,M,13-Jan-15,15-Jan-15,Western Urban,Freetowm
+1505,*****,19,F,13-Jan-15,15-Jan-15,Western Urban,Freetowm
+1506,*****,6,F,13-Jan-15,15-Jan-15,Western Urban,Freetowm
+1507,*****,6,,13-Jan-15,19-Jan-15,Kono,Gbense
+1508,*****,,M,13-Jan-15,19-Jan-15,Kono,Gbense
+1509,*****,,F,13-Jan-15,19-Jan-15,Kono,Gbense
+1510,*****,70,F,13-Jan-15,16-Jan-15,Western Urban,Freetowm
+1511,*****,26,M,13-Jan-15,16-Jan-15,Western Urban,Freetowm
+1512,*****,38,M,13-Jan-15,16-Jan-15,Western Urban,Freetowm
+1513,*****,1,M,13-Jan-15,15-Jan-15,Moyamba,Ribbi
+1514,*****,2,M,13-Jan-15,16-Jan-15,Bombali,Bombali Sebora
+1515,*****,15,M,13-Jan-15,17-Jan-15,Bombali,Bombali Sebora
+1516,*****,0,M,13-Jan-15,16-Jan-15,Port Loko,Maforki
+1517,*****,2,F,13-Jan-15,16-Jan-15,Kambia,Magbema
+1518,*****,45,M,13-Jan-15,17-Jan-15,Port Loko,Marampa
+1519,*****,26,,13-Jan-15,17-Jan-15,Port Loko,Maforki
+1520,*****,30,F,13-Jan-15,18-Jan-15,Port Loko,Lokomasam
+1521,*****,32,M,13-Jan-15,25-Jan-15,Port Loko,Buya Romende
+1522,*****,65,M,13-Jan-15,27-Jan-15,Port Loko,Maforki
+1523,*****,36,M,13-Jan-15,17-Jan-15,Port Loko,Maforki
+1524,*****,44,M,13-Jan-15,17-Jan-15,Port Loko,Buya Romende
+1525,*****,32,F,13-Jan-15,17-Jan-15,Port Loko,Marampa
+1526,*****,1,F,13-Jan-15,17-Jan-15,Port Loko,Lokomasam
+1527,*****,4,M,13-Jan-15,17-Jan-15,Port Loko,Marampa
+1528,*****,57,M,14-Jan-15,15-Jan-15,Kenema,Small Bo
+1529,*****,49,M,14-Jan-15,18-Jan-15,Bo,Lugbu
+1530,*****,32,M,14-Jan-15,15-Jan-15,Western Urban,Freetowm
+1531,*****,16,F,14-Jan-15,18-Jan-15,Western Urban,Freetowm
+1532,*****,60,M,14-Jan-15,15-Feb-15,Kenema,Nongowa
+1533,*****,13,F,14-Jan-15,15-Jan-15,Kono,Nimikoro
+1534,*****,19,F,14-Jan-15,15-Jan-15,Kono,Nimikoro
+1535,*****,65,M,14-Jan-15,19-Jan-15,Kono,Nimikoro
+1536,*****,,M,14-Jan-15,19-Jan-15,Kono,Nimiyama
+1537,*****,35,F,14-Jan-15,15-Jan-15,Western Urban,Freetowm
+1538,*****,12,F,14-Jan-15,15-Jan-15,Western Urban,Freetowm
+1539,*****,35,F,14-Jan-15,17-Jan-15,Western Urban,Freetowm
+1540,*****,35,F,14-Jan-15,17-Jan-15,Western Urban,Freetowm
+1541,*****,1,M,14-Jan-15,26-Jan-15,Western Rural,Waterloo
+1542,*****,50,F,14-Jan-15,15-Jan-15,Port Loko,Masimera
+1543,*****,,F,14-Jan-15,17-Jan-15,Port Loko,Lokomasam
+1544,*****,0,M,14-Jan-15,18-Jan-15,Kambia,Magbema
+1545,*****,40,M,14-Jan-15,28-Jan-15,Port Loko,Dibia
+1546,*****,40,M,14-Jan-15,20-Jan-15,Port Loko,Kaffu Bullom
+1547,*****,20,M,15-Jan-15,16-Jan-15,Bo,Kakua
+1548,*****,22,F,15-Jan-15,16-Jan-15,Bo,Kakua
+1549,*****,30,F,15-Jan-15,24-Jan-15,Bo,Kakua
+1550,*****,25,F,15-Jan-15,19-Jan-15,Western Rural,Waterloo
+1551,*****,45,M,15-Jan-15,19-Jan-15,Western Urban,Freetowm
+1552,*****,,M,15-Jan-15,18-Jan-15,Western Urban,Freetowm
+1553,*****,35,M,15-Jan-15,18-Jan-15,Western Rural,Waterloo
+1554,*****,10,M,15-Jan-15,31-Jan-15,Western Urban,Freetowm
+1555,*****,0,M,15-Jan-15,20-Jan-15,Western Rural,Waterloo
+1556,*****,47,M,15-Jan-15,22-Jan-15,Kono,Gbense
+1557,*****,80,M,15-Jan-15,22-Jan-15,Kono,Nimiyama
+1558,*****,13,M,15-Jan-15,16-Jan-15,Western Urban,Freetowm
+1559,*****,85,M,15-Jan-15,17-Jan-15,Moyamba,Ribbi
+1560,*****,20,M,15-Jan-15,17-Jan-15,Moyamba,Ribbi
+1561,*****,35,F,15-Jan-15,17-Jan-15,Moyamba,Ribbi
+1562,*****,32,M,15-Jan-15,17-Jan-15,Bombali,Makari Gbanti
+1563,*****,,F,15-Jan-15,17-Jan-15,Bombali,Makari Gbanti
+1564,*****,42,M,15-Jan-15,9-Feb-15,Kambia,Magbema
+1565,*****,31,M,15-Jan-15,19-Jan-15,Port Loko,Kaffu Bullom
+1566,*****,3,M,15-Jan-15,15-Jan-15,Port Loko,Maforki
+1567,*****,86,F,15-Jan-15,17-Jan-15,Port Loko,Lokomasam
+1568,*****,22,F,15-Jan-15,17-Jan-15,Port Loko,Lokomasam
+1569,*****,36,F,15-Jan-15,17-Jan-15,Port Loko,Lokomasam
+1570,*****,32,F,15-Jan-15,18-Jan-15,Kambia,Samu
+1571,*****,22,F,15-Jan-15,18-Jan-15,Kambia,Tonko Limba
+1572,*****,75,M,15-Jan-15,18-Jan-15,Port Loko,Maforki
+1573,*****,85,F,15-Jan-15,19-Jan-15,Kambia,Masungbala
+1574,*****,10,M,15-Jan-15,22-Jan-15,Kambia,Samu
+1575,*****,3,M,15-Jan-15,22-Jan-15,Kambia,Magbema
+1576,*****,1,M,15-Jan-15,24-Jan-15,Kambia,Magbema
+1577,*****,,,15-Jan-15,24-Jan-15,Western Rural,Waterloo
+1578,*****,,,15-Jan-15,24-Jan-15,Western Rural,Waterloo
+1579,*****,1,M,15-Jan-15,21-Jan-15,Port Loko,Kaffu Bullom
+1580,*****,16,F,16-Jan-15,17-Jan-15,Western Urban,Freetowm
+1581,*****,3,M,16-Jan-15,17-Jan-15,Western Urban,Freetowm
+1582,*****,10,M,16-Jan-15,17-Jan-15,Western Urban,Freetowm
+1583,*****,28,M,16-Jan-15,20-Jan-15,Western Urban,Freetowm
+1584,*****,24,,16-Jan-15,17-Jan-15,Kono,Nimikoro
+1585,*****,35,M,16-Jan-15,20-Jan-15,Kono,Nimikoro
+1586,*****,35,M,16-Jan-15,23-Jan-15,Western Rural,Waterloo
+1587,*****,8,M,16-Jan-15,17-Jan-15,Port Loko,Kaffu Bullom
+1588,*****,10,M,16-Jan-15,17-Jan-15,Port Loko,Kaffu Bullom
+1589,*****,,F,16-Jan-15,17-Jan-15,Port Loko,Tms
+1590,*****,,,16-Jan-15,17-Jan-15,Port Loko,Kaffu Bullom
+1591,*****,58,,16-Jan-15,17-Jan-15,Port Loko,Kaffu Bullom
+1592,*****,2,M,16-Jan-15,17-Jan-15,Port Loko,Kaffu Bullom
+1593,*****,5,F,16-Jan-15,19-Jan-15,Port Loko,Buya Romende
+1594,*****,24,F,16-Jan-15,24-Jan-15,Western Rural,Waterloo
+1595,*****,90,F,16-Jan-15,28-Jan-15,Kambia,Mambolo
+1596,*****,18,F,17-Jan-15,21-Jan-15,Bo,Kakua
+1597,*****,35,M,17-Jan-15,18-Jan-15,Western Urban,Freetowm
+1598,*****,25,M,17-Jan-15,22-Jan-15,Kono,Nimiyama
+1599,*****,,F,17-Jan-15,22-Jan-15,Kambia,Magbema
+1600,*****,80,M,17-Jan-15,22-Jan-15,Kambia,Magbema
+1601,*****,35,M,17-Jan-15,20-Jan-15,Port Loko,Koya
+1602,*****,42,M,17-Jan-15,20-Jan-15,Port Loko,Masimera
+1603,*****,91,,17-Jan-15,19-Jan-15,Port Loko,Kaffu Bullom
+1604,*****,2,,17-Jan-15,19-Jan-15,Port Loko,Kaffu Bullom
+1605,*****,42,M,17-Jan-15,19-Jan-15,Port Loko,Masimera
+1606,*****,1,M,17-Jan-15,19-Jan-15,Port Loko,Koya
+1607,*****,60,F,17-Jan-15,28-Jan-15,Kambia,Tonko Limba
+1608,*****,3,M,17-Jan-15,20-Jan-15,Kambia,Mambolo
+1609,*****,15,F,17-Jan-15,20-Jan-15,Kambia,Magbema
+1610,*****,18,F,17-Jan-15,20-Jan-15,Kambia,Tonko Limba
+1611,*****,70,F,17-Jan-15,20-Jan-15,Kambia,Tonko Limba
+1612,*****,,M,17-Jan-15,20-Jan-15,Kambia,Tonko Limba
+1613,*****,6,,17-Jan-15,20-Jan-15,Kambia,Tonko Limba
+1614,*****,1,M,17-Jan-15,22-Jan-15,Port Loko,Maforki
+1615,*****,18,F,18-Jan-15,21-Jan-15,Bo,Kakua
+1616,*****,43,,18-Jan-15,24-Jan-15,Pujehun,Soro-Gbeima
+1617,*****,75,M,18-Jan-15,19-Jan-15,Western Urban,Freetowm
+1618,*****,3,F,18-Jan-15,19-Jan-15,Western Urban,Freetowm
+1619,*****,3,F,18-Jan-15,20-Jan-15,Western Urban,Freetowm
+1620,*****,43,M,18-Jan-15,19-Jan-15,Western Urban,Freetowm
+1621,*****,48,M,18-Jan-15,22-Jan-15,Western Rural,Waterloo
+1622,*****,27,M,18-Jan-15,20-Jan-15,Kono,Nimiyama
+1623,*****,50,F,18-Jan-15,20-Jan-15,Kono,Sandor
+1624,*****,42,F,18-Jan-15,22-Jan-15,Kono,Gbense
+1625,*****,40,M,18-Jan-15,22-Jan-15,Kono,Nimiyama
+1626,*****,30,F,18-Jan-15,22-Jan-15,Kono,Tankoro
+1627,*****,60,M,18-Jan-15,22-Jan-15,Kono,Gbense
+1628,*****,1,M,18-Jan-15,22-Jan-15,Kono,Gbane Kandor
+1629,*****,66,F,18-Jan-15,23-Jan-15,Western Rural,Waterloo
+1630,*****,70,M,18-Jan-15,19-Jan-15,Port Loko,Kaffu Bullom
+1631,*****,0,F,18-Jan-15,19-Jan-15,Port Loko,Kaffu Bullom
+1632,*****,1,M,18-Jan-15,19-Jan-15,Port Loko,Koya
+1633,*****,1,M,18-Jan-15,22-Jan-15,Kambia,Gbinle-Dixing
+1634,*****,25,F,18-Jan-15,22-Jan-15,Kambia,Mambolo
+1635,*****,70,M,18-Jan-15,22-Jan-15,Kambia,Magbema
+1636,*****,35,M,18-Jan-15,26-Jan-15,Kambia,Magbema
+1637,*****,20,M,19-Jan-15,21-Jan-15,Bo,Kakua
+1638,*****,,F,19-Jan-15,22-Jan-15,Kenema,Nongowa
+1639,*****,1,M,19-Jan-15,20-Jan-15,Western Rural,Waterloo
+1640,*****,28,M,19-Jan-15,21-Jan-15,Western Rural,Waterloo
+1641,*****,8,F,19-Jan-15,21-Jan-15,Western Urban,Freetowm
+1642,*****,,F,19-Jan-15,2-Feb-15,Kono,Tankoro
+1643,*****,38,M,19-Jan-15,23-Jan-15,Kono,Gorama Kono
+1644,*****,10,F,19-Jan-15,24-Jan-15,Kono,Gbense
+1645,*****,19,F,19-Jan-15,27-Jan-15,Western Urban,Freetowm
+1646,*****,60,M,19-Jan-15,24-Jan-15,Kambia,Tonko Limba
+1647,*****,85,M,19-Jan-15,19-Jan-15,Port Loko,Kaffu Bullom
+1648,*****,0,F,19-Jan-15,22-Jan-15,Kambia,Magbema
+1649,*****,1,F,19-Jan-15,22-Jan-15,Port Loko,Maforki
+1650,*****,32,M,19-Jan-15,23-Jan-15,Port Loko,Bkm
+1651,*****,25,F,19-Jan-15,26-Jan-15,Kambia,Tonko Limba
+1652,*****,58,F,19-Jan-15,31-Jan-15,Kambia,Gbinle-Dixing
+1653,*****,4,M,20-Jan-15,21-Jan-15,Western Urban,Freetowm
+1654,*****,52,F,20-Jan-15,23-Jan-15,Western Urban,Freetowm
+1655,*****,40,M,20-Jan-15,24-Jan-15,Western Urban,Freetowm
+1656,*****,56,M,20-Jan-15,24-Jan-15,Kono,Nimiyama
+1657,*****,13,F,20-Jan-15,22-Jan-15,Port Loko,Kaffu Bullom
+1658,*****,57,F,20-Jan-15,22-Jan-15,Port Loko,Kaffu Bullom
+1659,*****,70,M,20-Jan-15,22-Jan-15,Kambia,Magbema
+1660,*****,70,M,20-Jan-15,22-Jan-15,Kambia,Magbema
+1661,*****,42,M,20-Jan-15,22-Jan-15,Kambia,Magbema
+1662,*****,25,F,20-Jan-15,24-Jan-15,Kambia,Mambolo
+1663,*****,35,M,20-Jan-15,24-Jan-15,Kambia,Samu
+1664,*****,29,M,20-Jan-15,24-Jan-15,Western Urban,Freetowm
+1665,*****,21,F,20-Jan-15,24-Jan-15,Port Loko,Koya
+1666,*****,1,M,20-Jan-15,26-Jan-15,Kambia,Masungbala
+1667,*****,25,M,21-Jan-15,23-Jan-15,Bo,Kakua
+1668,*****,18,M,21-Jan-15,25-Jan-15,Bonthe,Jong
+1669,*****,65,M,21-Jan-15,22-Jan-15,Western Urban,Freetowm
+1670,*****,40,F,21-Jan-15,23-Jan-15,Western Urban,Freetowm
+1671,*****,48,M,21-Jan-15,28-Jan-15,Kono,Gbense
+1672,*****,30,M,21-Jan-15,25-Jan-15,Kono,Nimikoro
+1673,*****,32,F,21-Jan-15,28-Jan-15,Kono,Tankoro
+1674,*****,41,F,21-Jan-15,28-Jan-15,Kono,Sandor
+1675,*****,51,M,21-Jan-15,23-Jan-15,Western Rural,Waterloo
+1676,*****,12,F,21-Jan-15,23-Jan-15,Western Rural,Waterloo
+1677,*****,2,F,21-Jan-15,24-Jan-15,Kambia,Tonko Limba
+1678,*****,35,F,21-Jan-15,24-Jan-15,Kambia,Magbema
+1679,*****,50,,21-Jan-15,24-Jan-15,Western Rural,Waterloo
+1680,*****,25,M,21-Jan-15,24-Jan-15,Port Loko,Koya
+1681,*****,20,F,22-Jan-15,29-Jan-15,Kenema,Simbaru
+1682,*****,80,F,22-Jan-15,25-Jan-15,Western Urban,Freetowm
+1683,*****,60,F,22-Jan-15,24-Jan-15,Western Urban,Freetowm
+1684,*****,46,F,22-Jan-15,26-Jan-15,Western Rural,Waterloo
+1685,*****,32,F,22-Jan-15,27-Jan-15,Kono,Tankoro
+1686,*****,0,M,22-Jan-15,28-Jan-15,Kono,Tankoro
+1687,*****,30,M,22-Jan-15,15-Feb-15,Moyamba,Kaiyamba
+1688,*****,35,M,22-Jan-15,24-Jan-15,Port Loko,Marampa
+1689,*****,0,M,22-Jan-15,24-Jan-15,Kambia,Magbema
+1690,*****,,F,23-Jan-15,24-Jan-15,Bo,Kakua
+1691,*****,27,M,23-Jan-15,25-Jan-15,Bo,Kakua
+1692,*****,50,M,23-Jan-15,25-Jan-15,Bo,Kakua
+1693,*****,20,F,23-Jan-15,25-Jan-15,Western Urban,Freetowm
+1694,*****,21,M,23-Jan-15,25-Jan-15,Western Urban,Freetowm
+1695,*****,3,F,23-Jan-15,26-Jan-15,Western Urban,Freetowm
+1696,*****,60,F,23-Jan-15,27-Jan-15,Kono,Nimiyama
+1697,*****,,M,23-Jan-15,27-Jan-15,Kono,Gbense
+1698,*****,18,F,23-Jan-15,28-Jan-15,Kono,Gbense
+1699,*****,15,F,23-Jan-15,29-Jan-15,Kono,Sandor
+1700,*****,72,,23-Jan-15,27-Jan-15,Port Loko,Maforki
+1701,*****,0,F,23-Jan-15,27-Jan-15,Port Loko,Lokomasam
+1702,*****,1,M,24-Jan-15,29-Jan-15,Kono,Tankoro
+1703,*****,0,F,24-Jan-15,30-Jan-15,Kenema,Simbaru
+1704,*****,39,M,24-Jan-15,29-Jan-15,Western Rural,Waterloo
+1705,*****,,,24-Jan-15,27-Jan-15,Kono,Nimikoro
+1706,*****,30,F,24-Jan-15,27-Jan-15,Kono,Sandor
+1707,*****,35,M,24-Jan-15,28-Jan-15,Kono,Gbense
+1708,*****,55,M,24-Jan-15,28-Jan-15,Kono,Gbense
+1709,*****,20,M,24-Jan-15,27-Jan-15,Kono,Soa
+1710,*****,0,,24-Jan-15,29-Jan-15,Kono,Gbense
+1711,*****,28,F,24-Jan-15,28-Jan-15,Western Rural,Waterloo
+1712,*****,1,M,24-Jan-15,25-Jan-15,Western Rural,Waterloo
+1713,*****,18,,24-Jan-15,26-Jan-15,Western Rural,Waterloo
+1714,*****,1,M,24-Jan-15,28-Jan-15,Bombali,Sella Limba
+1715,*****,0,F,24-Jan-15,27-Jan-15,Port Loko,Kaffu Bullom
+1716,*****,37,,24-Jan-15,27-Jan-15,Western Urban,Freetowm
+1717,*****,22,M,25-Jan-15,26-Jan-15,Bo,Kakua
+1718,*****,1,F,25-Jan-15,28-Jan-15,Western Urban,Freetowm
+1719,*****,45,M,25-Jan-15,29-Jan-15,Western Rural,Waterloo
+1720,*****,40,F,25-Jan-15,28-Jan-15,Kono,Nimiyama
+1721,*****,47,M,25-Jan-15,29-Jan-15,Kono,Gbense
+1722,*****,57,M,25-Jan-15,29-Jan-15,Kono,Nimikoro
+1723,*****,31,M,25-Jan-15,31-Jan-15,Kono,Mafindor
+1724,*****,40,M,25-Jan-15,7-Feb-15,Kambia,Magbema
+1725,*****,63,M,25-Jan-15,17-Feb-15,Kambia,Masungbala
+1726,*****,38,F,25-Jan-15,28-Jan-15,Port Loko,Kaffu Bullom
+1727,*****,32,M,25-Jan-15,31-Jan-15,Kambia,Magbema
+1728,*****,27,M,26-Jan-15,26-Jan-15,Bo,Kakua
+1729,*****,21,M,26-Jan-15,30-Jan-15,Bo,Kakua
+1730,*****,2,F,26-Jan-15,27-Jan-15,Western Urban,Freetowm
+1731,*****,62,F,26-Jan-15,29-Jan-15,Western Rural,Waterloo
+1732,*****,16,M,26-Jan-15,29-Jan-15,Western Rural,Waterloo
+1733,*****,0,M,26-Jan-15,28-Jan-15,Kono,Sandor
+1734,*****,2,F,26-Jan-15,28-Jan-15,Kono,Fiama
+1735,*****,75,M,26-Jan-15,29-Jan-15,Kono,Nimiyama
+1736,*****,27,F,26-Jan-15,31-Jan-15,Kono,Gbense
+1737,*****,32,F,26-Jan-15,29-Jan-15,Western Rural,Waterloo
+1738,*****,15,F,26-Jan-15,29-Jan-15,Western Rural,Waterloo
+1739,*****,1,,26-Jan-15,2-Feb-15,Bombali,Gbanti-Kamaranka
+1740,*****,30,F,26-Jan-15,30-Jan-15,Port Loko,Lokomasam
+1741,*****,26,M,26-Jan-15,30-Jan-15,Port Loko,Koya
+1742,*****,72,F,27-Jan-15,3-Feb-15,Bonthe,Jong
+1743,*****,30,M,27-Jan-15,29-Jan-15,Western Urban,Freetowm
+1744,*****,13,F,27-Jan-15,29-Jan-15,Western Rural,Waterloo
+1745,*****,38,F,27-Jan-15,29-Jan-15,Western Rural,Waterloo
+1746,*****,15,F,27-Jan-15,29-Jan-15,Western Urban,Freetowm
+1747,*****,0,M,27-Jan-15,2-Feb-15,Kono,Nimikoro
+1748,*****,61,F,27-Jan-15,28-Jan-15,Kono,Nimiyama
+1749,*****,18,F,27-Jan-15,29-Jan-15,Kono,Gbense
+1750,*****,54,F,27-Jan-15,2-Feb-15,Bombali,Ngowahun
+1751,*****,50,F,27-Jan-15,2-Feb-15,Kambia,Samu
+1752,*****,50,,27-Jan-15,5-Feb-15,Kambia,Samu
+1753,*****,1,M,27-Jan-15,1-Feb-15,Port Loko,Marampa
+1754,*****,80,F,27-Jan-15,31-Jan-15,Port Loko,Lokomasam
+1755,*****,45,F,27-Jan-15,1-Feb-15,Kambia,Mambolo
+1756,*****,38,F,28-Jan-15,31-Jan-15,Western Urban,Freetowm
+1757,*****,44,M,28-Jan-15,31-Jan-15,Kono,Sandor
+1758,*****,18,F,28-Jan-15,3-Feb-15,Western Urban,Freetowm
+1759,*****,3,M,28-Jan-15,30-Jan-15,Western Rural,Waterloo
+1760,*****,35,F,28-Jan-15,2-Feb-15,Kambia,Gbinle-Dixing
+1761,*****,87,,28-Jan-15,1-Feb-15,Kambia,Tonko Limba
+1762,*****,0,,29-Jan-15,31-Jan-15,Bo,Jaiama Bongor
+1763,*****,1,F,29-Jan-15,1-Feb-15,Western Urban,Freetowm
+1764,*****,0,M,29-Jan-15,1-Feb-15,Western Urban,Freetowm
+1765,*****,38,F,29-Jan-15,1-Feb-15,Western Urban,Freetowm
+1766,*****,30,M,29-Jan-15,30-Jan-15,Western Urban,Freetowm
+1767,*****,17,M,29-Jan-15,31-Jan-15,Western Rural,Waterloo
+1768,*****,10,M,29-Jan-15,3-Feb-15,Kono,Gbense
+1769,*****,38,M,29-Jan-15,29-Jan-15,Kono,Nimiyama
+1770,*****,7,M,29-Jan-15,31-Jan-15,Kono,Sandor
+1771,*****,27,F,29-Jan-15,31-Jan-15,Kono,Lei
+1772,*****,14,M,29-Jan-15,31-Jan-15,Kono,Sandor
+1773,*****,17,F,29-Jan-15,1-Feb-15,Western Rural,Waterloo
+1774,*****,25,M,29-Jan-15,31-Jan-15,Western Urban,Freetowm
+1775,*****,5,M,29-Jan-15,31-Jan-15,Western Urban,Freetowm
+1776,*****,80,M,29-Jan-15,3-Feb-15,Port Loko,Lokomasam
+1777,*****,,F,29-Jan-15,15-Feb-15,Kambia,Tonko Limba
+1778,*****,1,M,29-Jan-15,5-Feb-15,Port Loko,Koya
+1779,*****,22,M,29-Jan-15,31-Jan-15,Kambia,Mambolo
+1780,*****,36,M,30-Jan-15,1-Feb-15,Bo,Kakua
+1781,*****,46,M,30-Jan-15,1-Feb-15,Western Urban,Freetowm
+1782,*****,45,M,30-Jan-15,1-Feb-15,Western Urban,Freetowm
+1783,*****,28,M,30-Jan-15,1-Feb-15,Western Urban,Freetowm
+1784,*****,52,M,30-Jan-15,2-Feb-15,Western Urban,Freetowm
+1785,*****,28,F,30-Jan-15,31-Jan-15,Western Rural,Waterloo
+1786,*****,51,M,30-Jan-15,31-Jan-15,Kono,Nimiyama
+1787,*****,3,F,30-Jan-15,31-Jan-15,Kono,Gbense
+1788,*****,58,M,30-Jan-15,13-Feb-15,Kono,Nimiyama
+1789,*****,40,M,30-Jan-15,13-Feb-15,Kono,Nimikoro
+1790,*****,1,M,30-Jan-15,1-Feb-15,Western Urban,Freetowm
+1791,*****,1,M,30-Jan-15,1-Feb-15,Western Urban,Freetowm
+1792,*****,1,M,30-Jan-15,1-Feb-15,Western Urban,Freetowm
+1793,*****,1,M,30-Jan-15,31-Jan-15,Western Rural,Waterloo
+1794,*****,33,M,30-Jan-15,4-Feb-15,Port Loko,Lokomasam
+1795,*****,17,F,30-Jan-15,5-Feb-15,Kambia,Tonko Limba
+1796,*****,3,F,30-Jan-15,2-Feb-15,Kambia,Mambolo
+1797,*****,1,F,30-Jan-15,2-Feb-15,Port Loko,Maforki
+1798,*****,52,M,31-Jan-15,2-Feb-15,Bo,Kakua
+1799,*****,0,M,31-Jan-15,1-Feb-15,Western Urban,Freetowm
+1800,*****,,M,31-Jan-15,3-Feb-15,Kono,Nimikoro
+1801,*****,,,31-Jan-15,5-Feb-15,Kono,Sandor
+1802,*****,,M,31-Jan-15,1-Feb-15,Western Urban,Freetowm
+1803,*****,17,F,31-Jan-15,4-Feb-15,Kambia,Tonko Limba
+1804,*****,46,F,31-Jan-15,5-Feb-15,Western Rural,Waterloo
+1805,*****,24,,1-Feb-15,2-Feb-15,Kenema,Nongowa
+1806,*****,45,M,1-Feb-15,8-Feb-15,Port Loko,Kaffu Bullom
+1807,*****,,M,1-Feb-15,17-Feb-15,Port Loko,Kaffu Bullom
+1808,*****,31,F,1-Feb-15,5-Feb-15,Kambia,Tonko Limba
+1809,*****,31,F,1-Feb-15,6-Feb-15,Kambia,Tonko Limba
+1810,*****,29,F,1-Feb-15,6-Feb-15,Port Loko,Buya Romende
+1811,*****,60,,2-Feb-15,4-Feb-15,Pujehun,Kpanga Kabonde
+1812,*****,,,2-Feb-15,13-Feb-15,Pujehun,Kpanga Kabonde
+1813,*****,78,M,2-Feb-15,5-Feb-15,Western Urban,Freetowm
+1814,*****,36,M,2-Feb-15,5-Feb-15,Western Urban,Freetowm
+1815,*****,35,M,2-Feb-15,4-Mar-15,Western Urban,Freetowm
+1816,*****,15,F,2-Feb-15,7-Feb-15,Kambia,Mambolo
+1817,*****,44,M,2-Feb-15,10-Feb-15,Port Loko,Maforki
+1818,*****,,M,2-Feb-15,12-Feb-15,Port Loko,Kaffu Bullom
+1819,*****,,M,2-Feb-15,12-Feb-15,Port Loko,Kaffu Bullom
+1820,*****,85,F,2-Feb-15,21-Feb-15,Kambia,Gbinle-Dixing
+1821,*****,70,M,2-Feb-15,7-Feb-15,Kambia,Samu
+1822,*****,,,2-Feb-15,7-Feb-15,Port Loko,Kaffu Bullom
+1823,*****,85,M,3-Feb-15,5-Feb-15,Western Urban,Freetowm
+1824,*****,70,M,3-Feb-15,5-Feb-15,Western Urban,Freetowm
+1825,*****,36,M,3-Feb-15,6-Feb-15,Western Urban,Freetowm
+1826,*****,42,M,3-Feb-15,7-Feb-15,Western Rural,Waterloo
+1827,*****,,F,3-Feb-15,7-Feb-15,Kono,Tankoro
+1828,*****,75,F,3-Feb-15,5-Feb-15,Moyamba,Kargboro
+1829,*****,52,M,3-Feb-15,5-Feb-15,Moyamba,Ribbi
+1830,*****,,M,3-Feb-15,10-Feb-15,Port Loko,Koya
+1831,*****,29,F,3-Feb-15,8-Feb-15,Port Loko,Kaffu Bullom
+1832,*****,40,F,3-Feb-15,8-Feb-15,Port Loko,Lokomasam
+1833,*****,,F,3-Feb-15,9-Feb-15,Port Loko,Kaffu Bullom
+1834,*****,18,M,4-Feb-15,6-Feb-15,Western Urban,Freetowm
+1835,*****,19,M,4-Feb-15,8-Feb-15,Western Rural,Waterloo
+1836,*****,,M,4-Feb-15,5-Feb-15,Kono,Gbense
+1837,*****,76,M,4-Feb-15,5-Feb-15,Kono,Kamara
+1838,*****,,M,4-Feb-15,9-Feb-15,Kono,Soa
+1839,*****,65,M,4-Feb-15,9-Feb-15,Kono,Sandor
+1840,*****,,,4-Feb-15,9-Feb-15,Kono,Kamara
+1841,*****,42,M,4-Feb-15,5-Feb-15,Moyamba,Ribbi
+1842,*****,4,M,4-Feb-15,5-Feb-15,Port Loko,Tms
+1843,*****,40,M,4-Feb-15,9-Feb-15,Port Loko,Dibia
+1844,*****,,F,4-Feb-15,8-Feb-15,Kambia,Mambolo
+1845,*****,35,M,4-Feb-15,10-Feb-15,Port Loko,Koya
+1846,*****,1,F,4-Feb-15,10-Feb-15,Port Loko,Koya
+1847,*****,35,M,5-Feb-15,6-Feb-15,Western Rural,Waterloo
+1848,*****,,,5-Feb-15,10-Feb-15,Kono,Tankoro
+1849,*****,2,F,5-Feb-15,8-Feb-15,Port Loko,Koya
+1850,*****,2,M,5-Feb-15,8-Feb-15,Port Loko,Koya
+1851,*****,1,M,5-Feb-15,9-Feb-15,Port Loko,Maforki
+1852,*****,1,F,5-Feb-15,10-Feb-15,Port Loko,Koya
+1853,*****,80,M,5-Feb-15,21-Feb-15,Kambia,Magbema
+1854,*****,75,F,5-Feb-15,22-Feb-15,Kambia,Tonko Limba
+1855,*****,15,F,6-Feb-15,6-Feb-15,Western Urban,Freetowm
+1856,*****,11,M,6-Feb-15,7-Feb-15,Western Urban,Freetowm
+1857,*****,2,F,6-Feb-15,7-Feb-15,Western Urban,Freetowm
+1858,*****,6,M,6-Feb-15,8-Feb-15,Western Rural,Waterloo
+1859,*****,,F,6-Feb-15,8-Feb-15,Moyamba,Fakunya
+1860,*****,,M,6-Feb-15,8-Feb-15,Bombali,Bombali Sebora
+1861,*****,20,M,6-Feb-15,8-Feb-15,Port Loko,Tms
+1862,*****,15,F,6-Feb-15,9-Feb-15,Kambia,Mambolo
+1863,*****,22,F,6-Feb-15,13-Feb-15,Port Loko,Kaffu Bullom
+1864,*****,45,M,6-Feb-15,21-Feb-15,Port Loko,Kaffu Bullom
+1865,*****,2,M,7-Feb-15,3-Mar-15,Bo,Kakua
+1866,*****,40,M,7-Feb-15,12-Feb-15,Kailahun,Luawa
+1867,*****,28,F,7-Feb-15,9-Feb-15,Kono,Gbense
+1868,*****,35,M,7-Feb-15,11-Feb-15,Western Rural,Waterloo
+1869,*****,40,F,7-Feb-15,9-Feb-15,Port Loko,Maforki
+1870,*****,,M,7-Feb-15,9-Feb-15,Port Loko,Maforki
+1871,*****,22,M,8-Feb-15,9-Feb-15,Western Rural,Waterloo
+1872,*****,24,M,8-Feb-15,9-Feb-15,Western Urban,Freetowm
+1873,*****,48,M,8-Feb-15,10-Feb-15,Western Urban,Freetowm
+1874,*****,62,F,8-Feb-15,13-Feb-15,Kono,Tankoro
+1875,*****,10,M,8-Feb-15,11-Feb-15,Kono,Mafindor
+1876,*****,,M,8-Feb-15,13-Feb-15,Kono,Tankoro
+1877,*****,34,F,8-Feb-15,13-Feb-15,Kono,Sandor
+1878,*****,2,M,8-Feb-15,10-Feb-15,Port Loko,Lokomasam
+1879,*****,85,M,8-Feb-15,10-Feb-15,Port Loko,Lokomasam
+1880,*****,9,M,8-Feb-15,10-Feb-15,Western Urban,Freetowm
+1881,*****,,F,8-Feb-15,12-Feb-15,Port Loko,Kaffu Bullom
+1882,*****,78,M,8-Feb-15,20-Feb-15,Kambia,Samu
+1883,*****,58,M,8-Feb-15,22-Feb-15,Kambia,Tonko Limba
+1884,*****,,M,8-Feb-15,12-Feb-15,Port Loko,Maforki
+1885,*****,,M,8-Feb-15,12-Feb-15,Port Loko,Koya
+1886,*****,18,F,8-Feb-15,12-Feb-15,Port Loko,Kaffu Bullom
+1887,*****,42,M,8-Feb-15,12-Feb-15,Port Loko,Kaffu Bullom
+1888,*****,31,M,8-Feb-15,13-Feb-15,Port Loko,Maforki
+1889,*****,35,F,8-Feb-15,13-Feb-15,Port Loko,Koya
+1890,*****,24,M,9-Feb-15,10-Feb-15,Bo,Kakua
+1891,*****,28,M,9-Feb-15,10-Feb-15,Western Rural,Waterloo
+1892,*****,1,F,9-Feb-15,14-Feb-15,Kono,Soa
+1893,*****,45,M,9-Feb-15,13-Feb-15,Kono,Nimiyama
+1894,*****,0,M,9-Feb-15,14-Feb-15,Kono,Gbane
+1895,*****,5,F,9-Feb-15,12-Feb-15,Western Urban,Freetowm
+1896,*****,1,F,9-Feb-15,12-Feb-15,Port Loko,Masimera
+1897,*****,40,F,9-Feb-15,14-Feb-15,Port Loko,Koya
+1898,*****,1,,9-Feb-15,15-Feb-15,Port Loko,Koya
+1899,*****,,M,10-Feb-15,12-Feb-15,Western Rural,Waterloo
+1900,*****,43,F,10-Feb-15,14-Feb-15,Kono,Gorama Kono
+1901,*****,35,M,10-Feb-15,30-Mar-15,Western Rural,Waterloo
+1902,*****,65,M,10-Feb-15,13-Feb-15,Western Urban,Freetowm
+1903,*****,30,M,10-Feb-15,19-Feb-15,Kambia,Magbema
+1904,*****,35,F,10-Feb-15,22-Feb-15,Kambia,Magbema
+1905,*****,37,M,10-Feb-15,23-Feb-15,Kambia,Magbema
+1906,*****,55,M,10-Feb-15,15-Feb-15,Port Loko,Lokomasam
+1907,*****,45,M,10-Feb-15,15-Feb-15,Port Loko,Masimera
+1908,*****,,M,11-Feb-15,12-Feb-15,Bo,Kakua
+1909,*****,51,M,11-Feb-15,11-Feb-15,Western Rural,Waterloo
+1910,*****,1,M,11-Feb-15,14-Feb-15,Kono,Fiama
+1911,*****,17,M,11-Feb-15,15-Feb-15,Port Loko,Buya Romende
+1912,*****,35,F,11-Feb-15,19-Feb-15,Port Loko,Kaffu Bullom
+1913,*****,70,M,11-Feb-15,20-Mar-15,Kambia,Tonko Limba
+1914,*****,26,M,12-Feb-15,14-Feb-15,Kailahun,Luawa
+1915,*****,64,F,12-Feb-15,17-Feb-15,Bo,Tikonko
+1916,*****,2,M,12-Feb-15,13-Feb-15,Western Urban,Freetowm
+1917,*****,18,M,12-Feb-15,13-Feb-15,Western Rural,Waterloo
+1918,*****,51,M,12-Feb-15,14-Feb-15,Western Rural,Waterloo
+1919,*****,89,M,12-Feb-15,14-Feb-15,Port Loko,Koya
+1920,*****,70,M,13-Feb-15,15-Feb-15,Bo,Kakua
+1921,*****,43,M,13-Feb-15,13-Feb-15,Western Urban,Freetowm
+1922,*****,35,F,13-Feb-15,15-Feb-15,Western Urban,Freetowm
+1923,*****,32,M,13-Feb-15,17-Feb-15,Western Urban,Freetowm
+1924,*****,2,M,13-Feb-15,14-Feb-15,Western Urban,Freetowm
+1925,*****,,F,13-Feb-15,18-Feb-15,Tonkolili,Yoni
+1926,*****,5,M,13-Feb-15,17-Feb-15,Kambia,Tonko Limba
+1927,*****,55,F,13-Feb-15,19-Feb-15,Kambia,Samu
+1928,*****,24,M,14-Feb-15,17-Feb-15,Bo,Tikonko
+1929,*****,83,F,14-Feb-15,2-Apr-15,Bonthe,Imperi
+1930,*****,38,F,14-Feb-15,15-Feb-15,Western Urban,Freetowm
+1931,*****,22,M,14-Feb-15,16-Feb-15,Western Urban,Freetowm
+1932,*****,12,M,14-Feb-15,18-Feb-15,Western Rural,Waterloo
+1933,*****,,M,14-Feb-15,16-Feb-15,Western Urban,Freetowm
+1934,*****,,F,14-Feb-15,17-Feb-15,Western Rural,Waterloo
+1935,*****,40,F,14-Feb-15,20-Feb-15,Bombali,Sella Limba
+1936,*****,20,F,15-Feb-15,15-Feb-15,Bo,Kakua
+1937,*****,26,,15-Feb-15,17-Feb-15,Pujehun,Kpanga Kabonde
+1938,*****,46,M,15-Feb-15,19-Feb-15,Kono,Fiama
+1939,*****,51,M,15-Feb-15,27-Feb-15,Kono,Tankoro
+1940,*****,70,F,15-Feb-15,6-Mar-15,Kono,Sandor
+1941,*****,1,,15-Feb-15,18-Feb-15,Kono,Mafindor
+1942,*****,25,F,15-Feb-15,27-Feb-15,Western Rural,Waterloo
+1943,*****,10,F,15-Feb-15,20-Feb-15,Kambia,Gbinle-Dixing
+1944,*****,80,M,15-Feb-15,20-Feb-15,Kambia,Magbema
+1945,*****,1,F,15-Feb-15,21-Feb-15,Port Loko,Kaffu Bullom
+1946,*****,,M,15-Feb-15,21-Feb-15,Port Loko,Kaffu Bullom
+1947,*****,27,F,15-Feb-15,22-Feb-15,Kambia,Magbema
+1948,*****,18,F,15-Feb-15,27-Feb-15,Kambia,Samu
+1949,*****,68,F,15-Feb-15,20-Feb-15,Port Loko,Marampa
+1950,*****,31,M,16-Feb-15,17-Feb-15,Kenema,Nongowa
+1951,*****,35,M,16-Feb-15,19-Feb-15,Western Urban,Freetowm
+1952,*****,82,F,16-Feb-15,19-Feb-15,Western Urban,Freetowm
+1953,*****,27,M,16-Feb-15,19-Feb-15,Western Urban,Freetowm
+1954,*****,23,F,16-Feb-15,17-Feb-15,Western Urban,Freetowm
+1955,*****,70,F,16-Feb-15,21-Feb-15,Port Loko,Kaffu Bullom
+1956,*****,2,,16-Feb-15,22-Feb-15,Port Loko,Buya Romende
+1957,*****,80,M,16-Feb-15,23-Feb-15,Kambia,Samu
+1958,*****,5,F,16-Feb-15,25-Feb-15,Port Loko,Kaffu Bullom
+1959,*****,,F,17-Feb-15,18-Feb-15,Western Rural,Waterloo
+1960,*****,32,F,17-Feb-15,19-Feb-15,Western Rural,Waterloo
+1961,*****,32,F,17-Feb-15,19-Feb-15,Kono,Toli
+1962,*****,28,F,17-Feb-15,21-Feb-15,Kambia,Magbema
+1963,*****,40,M,17-Feb-15,22-Feb-15,Kambia,Tonko Limba
+1964,*****,15,M,17-Feb-15,23-Feb-15,Kambia,Magbema
+1965,*****,88,F,17-Feb-15,21-Feb-15,Port Loko,Kaffu Bullom
+1966,*****,20,M,18-Feb-15,19-Feb-15,Western Urban,Freetowm
+1967,*****,80,M,18-Feb-15,20-Feb-15,Western Urban,Freetowm
+1968,*****,21,M,18-Feb-15,10-Mar-15,Western Urban,Freetowm
+1969,*****,10,F,18-Feb-15,21-Feb-15,Kambia,Gbinle-Dixing
+1970,*****,1,F,18-Feb-15,21-Feb-15,Port Loko,Kaffu Bullom
+1971,*****,35,F,18-Feb-15,22-Feb-15,Kambia,Samu
+1972,*****,,M,18-Feb-15,23-Feb-15,Port Loko,Kaffu Bullom
+1973,*****,,F,18-Feb-15,23-Feb-15,Port Loko,Buya Romende
+1974,*****,85,M,19-Feb-15,2-Apr-15,Bonthe,Imperi
+1975,*****,11,M,19-Feb-15,20-Feb-15,Western Rural,Waterloo
+1976,*****,49,M,19-Feb-15,20-Feb-15,Western Urban,Freetowm
+1977,*****,13,M,19-Feb-15,21-Feb-15,Western Urban,Freetowm
+1978,*****,21,M,19-Feb-15,21-Feb-15,Western Rural,Waterloo
+1979,*****,,M,19-Feb-15,23-Feb-15,Kono,Sandor
+1980,*****,90,F,19-Feb-15,20-Feb-15,Bombali,Biriwa
+1981,*****,15,F,19-Feb-15,21-Feb-15,Kambia,Gbinle-Dixing
+1982,*****,30,M,19-Feb-15,23-Feb-15,Port Loko,Marampa
+1983,*****,32,M,20-Feb-15,20-Feb-15,Western Urban,Freetowm
+1984,*****,28,M,20-Feb-15,21-Feb-15,Western Urban,Freetowm
+1985,*****,8,F,20-Feb-15,21-Feb-15,Western Urban,Freetowm
+1986,*****,12,M,20-Feb-15,22-Feb-15,Western Urban,Freetowm
+1987,*****,43,M,20-Feb-15,22-Feb-15,Western Urban,Freetowm
+1988,*****,55,M,20-Feb-15,11-Mar-15,Western Urban,Freetowm
+1989,*****,42,M,20-Feb-15,25-Feb-15,Western Rural,Waterloo
+1990,*****,70,F,20-Feb-15,22-Feb-15,Port Loko,Lokomasam
+1991,*****,1,F,20-Feb-15,22-Feb-15,Port Loko,Marampa
+1992,*****,1,F,20-Feb-15,22-Feb-15,Port Loko,Marampa
+1993,*****,,F,20-Feb-15,22-Feb-15,Kambia,Masungbala
+1994,*****,,M,20-Feb-15,23-Feb-15,Kambia,Magbema
+1995,*****,,F,20-Feb-15,23-Feb-15,Port Loko,Marampa
+1996,*****,,M,20-Feb-15,23-Feb-15,Port Loko,Maforki
+1997,*****,4,M,20-Feb-15,23-Feb-15,Kambia,Samu
+1998,*****,27,F,20-Feb-15,23-Feb-15,Port Loko,Koya
+1999,*****,6,M,20-Feb-15,25-Feb-15,Kambia,Masungbala
+2000,*****,68,M,21-Feb-15,5-Mar-15,Bo,Kakua
+2001,*****,35,M,21-Feb-15,23-Feb-15,Western Urban,Freetowm
+2002,*****,51,M,21-Feb-15,23-Feb-15,Western Urban,Freetowm
+2003,*****,47,F,21-Feb-15,23-Feb-15,Kono,Tankoro
+2004,*****,1,M,21-Feb-15,23-Feb-15,Kambia,Masungbala
+2005,*****,51,F,21-Feb-15,26-Feb-15,Kambia,Gbinle-Dixing
+2006,*****,35,M,21-Feb-15,26-Feb-15,Kambia,Magbema
+2007,*****,60,F,22-Feb-15,23-Feb-15,Bo,Kakua
+2008,*****,14,M,22-Feb-15,22-Feb-15,Western Urban,Freetowm
+2009,*****,61,M,22-Feb-15,25-Feb-15,Western Urban,Freetowm
+2010,*****,76,M,22-Feb-15,8-Mar-15,Western Urban,Freetowm
+2011,*****,75,F,22-Feb-15,28-Feb-15,Moyamba,Kargboro
+2012,*****,1,M,22-Feb-15,25-Feb-15,Port Loko,Kaffu Bullom
+2013,*****,1,M,22-Feb-15,26-Feb-15,Kambia,Bramaia
+2014,*****,23,M,22-Feb-15,26-Feb-15,Kambia,Magbema
+2015,*****,13,M,23-Feb-15,26-Feb-15,Western Urban,Freetowm
+2016,*****,30,M,23-Feb-15,26-Feb-15,Western Urban,Freetowm
+2017,*****,44,M,23-Feb-15,26-Feb-15,Western Urban,Freetowm
+2018,*****,5,F,23-Feb-15,22-Mar-15,Western Urban,Freetowm
+2019,*****,86,M,23-Feb-15,26-Feb-15,Western Urban,Freetowm
+2020,*****,1,M,23-Feb-15,26-Feb-15,Kambia,Samu
+2021,*****,15,M,23-Feb-15,26-Feb-15,Kambia,Masungbala
+2022,*****,1,M,24-Feb-15,27-Feb-15,Kono,Gbense
+2023,*****,30,F,24-Feb-15,26-Feb-15,Western Rural,Waterloo
+2024,*****,25,F,24-Feb-15,26-Feb-15,Western Urban,Freetowm
+2025,*****,60,M,24-Feb-15,10-Mar-15,Western Urban,Freetowm
+2026,*****,19,F,24-Feb-15,26-Feb-15,Kambia,Tonko Limba
+2027,*****,4,M,24-Feb-15,26-Feb-15,Kambia,Magbema
+2028,*****,2,F,24-Feb-15,27-Feb-15,Port Loko,Maforki
+2029,*****,27,M,25-Feb-15,26-Feb-15,Western Rural,Waterloo
+2030,*****,30,F,25-Feb-15,27-Feb-15,Bo,Tikonko
+2031,*****,13,M,25-Feb-15,27-Feb-15,Western Urban,Freetowm
+2032,*****,46,F,25-Feb-15,1-Mar-15,Western Urban,Freetowm
+2033,*****,75,M,25-Feb-15,27-Feb-15,Kono,Sandor
+2034,*****,25,F,25-Feb-15,5-Mar-15,Western Rural,Waterloo
+2035,*****,62,M,25-Feb-15,28-Feb-15,Western Urban,Freetowm
+2036,*****,,M,25-Feb-15,27-Feb-15,Western Urban,Freetowm
+2037,*****,12,F,25-Feb-15,2-Mar-15,Western Urban,Freetowm
+2038,*****,58,M,25-Feb-15,3-Mar-15,Koinadugu,Neini
+2039,*****,89,M,25-Feb-15,28-Feb-15,Port Loko,Marampa
+2040,*****,65,M,26-Feb-15,27-Feb-15,Bo,Gbo
+2041,*****,20,M,26-Feb-15,27-Feb-15,Western Urban,Freetowm
+2042,*****,26,M,26-Feb-15,28-Feb-15,Western Rural,Waterloo
+2043,*****,24,M,26-Feb-15,28-Feb-15,Western Urban,Freetowm
+2044,*****,35,F,26-Feb-15,2-Mar-15,Western Urban,Freetowm
+2045,*****,,,26-Feb-15,3-Mar-15,Western Urban,Freetowm
+2046,*****,65,,26-Feb-15,19-Mar-15,Western Urban,Freetowm
+2047,*****,,M,26-Feb-15,27-Feb-15,Western Urban,Freetowm
+2048,*****,20,F,27-Feb-15,27-Feb-15,Kenema,Lower Bambara
+2049,*****,19,F,27-Feb-15,2-Mar-15,Kenema,Lower Bambara
+2050,*****,20,F,27-Feb-15,14-Mar-15,Western Rural,Waterloo
+2051,*****,25,,27-Feb-15,3-Mar-15,Kono,Sandor
+2052,*****,20,M,27-Feb-15,3-Mar-15,Western Urban,Freetowm
+2053,*****,38,,27-Feb-15,19-Mar-15,Western Urban,Freetowm
+2054,*****,1,F,27-Feb-15,1-Mar-15,Western Rural,Waterloo
+2055,*****,1,F,27-Feb-15,28-Feb-15,Port Loko,Kaffu Bullom
+2056,*****,70,M,28-Feb-15,5-Mar-15,Bo,Valunia
+2057,*****,30,F,28-Feb-15,1-Mar-15,Kenema,Lower Bambara
+2058,*****,,,28-Feb-15,4-Mar-15,Bonthe,Sogbini
+2059,*****,33,M,28-Feb-15,13-Mar-15,Western Urban,Freetowm
+2060,*****,28,F,28-Feb-15,17-Mar-15,Western Urban,Freetowm
+2061,*****,48,F,1-Mar-15,2-Mar-15,Bo,Tikonko
+2062,*****,20,M,1-Mar-15,3-Mar-15,Western Urban,Freetowm
+2063,*****,48,F,1-Mar-15,3-Mar-15,Western Rural,Waterloo
+2064,*****,27,F,1-Mar-15,5-Mar-15,Western Urban,Freetowm
+2065,*****,42,F,2-Mar-15,4-Mar-15,Kenema,Lower Bambara
+2066,*****,15,M,2-Mar-15,2-Mar-15,Western Urban,Freetowm
+2067,*****,60,F,2-Mar-15,4-Mar-15,Western Rural,Waterloo
+2068,*****,,,2-Mar-15,6-Mar-15,Western Urban,Freetowm
+2069,*****,33,F,2-Mar-15,6-Mar-15,Western Rural,Waterloo
+2070,*****,50,F,2-Mar-15,17-Mar-15,Kono,Gbense
+2071,*****,36,F,2-Mar-15,5-Mar-15,Western Urban,Freetowm
+2072,*****,57,M,2-Mar-15,7-Mar-15,Western Urban,Freetowm
+2073,*****,18,F,2-Mar-15,10-Mar-15,Western Urban,Freetowm
+2074,*****,42,M,2-Mar-15,23-Mar-15,Western Urban,Freetowm
+2075,*****,30,F,2-Mar-15,6-Mar-15,Western Rural,Waterloo
+2076,*****,26,M,3-Mar-15,4-Mar-15,Kenema,Lower Bambara
+2077,*****,45,F,3-Mar-15,4-Mar-15,Bo,Gbo
+2078,*****,31,M,3-Mar-15,5-Mar-15,Western Rural,Waterloo
+2079,*****,30,M,3-Mar-15,6-Mar-15,Western Urban,Freetowm
+2080,*****,80,F,3-Mar-15,6-Mar-15,Western Urban,Freetowm
+2081,*****,75,M,3-Mar-15,8-Mar-15,Kono,Lei
+2082,*****,,F,3-Mar-15,8-Mar-15,Kono,Nimiyama
+2083,*****,56,M,3-Mar-15,8-Mar-15,Western Urban,Freetowm
+2084,*****,32,F,3-Mar-15,13-Mar-15,Western Urban,Freetowm
+2085,*****,41,F,3-Mar-15,7-Mar-15,Western Rural,Waterloo
+2086,*****,22,M,3-Mar-15,7-Mar-15,Western Rural,Waterloo
+2087,*****,,F,4-Mar-15,12-Mar-15,Bonthe,Dema
+2088,*****,48,M,4-Mar-15,5-Mar-15,Bonthe,Imperi
+2089,*****,22,M,4-Mar-15,6-Mar-15,Western Urban,Freetowm
+2090,*****,39,M,4-Mar-15,6-Mar-15,Western Rural,Waterloo
+2091,*****,57,F,4-Mar-15,6-Mar-15,Western Rural,Waterloo
+2092,*****,86,F,4-Mar-15,8-Mar-15,Western Urban,Freetowm
+2093,*****,5,M,4-Mar-15,25-Mar-15,Western Urban,Freetowm
+2094,*****,5,M,4-Mar-15,8-Mar-15,Western Urban,Freetowm
+2095,*****,35,F,5-Mar-15,6-Mar-15,Western Urban,Freetowm
+2096,*****,35,F,5-Mar-15,7-Mar-15,Western Urban,Freetowm
+2097,*****,60,M,5-Mar-15,10-Mar-15,Kono,Gbense
+2098,*****,10,F,5-Mar-15,9-Mar-15,Western Urban,Freetowm
+2099,*****,,M,5-Mar-15,8-Mar-15,Western Urban,Freetowm
+2100,*****,70,M,5-Mar-15,16-Mar-15,Port Loko,Marampa
+2101,*****,13,M,5-Mar-15,31-Mar-15,Kambia,Tonko Limba
+2102,*****,30,M,6-Mar-15,7-Mar-15,Kenema,Lower Bambara
+2103,*****,70,F,6-Mar-15,8-Mar-15,Kenema,Lower Bambara
+2104,*****,30,M,6-Mar-15,9-Mar-15,Bo,Lugbu
+2105,*****,75,M,6-Mar-15,9-Mar-15,Kenema,Lower Bambara
+2106,*****,1,M,6-Mar-15,12-Mar-15,Pujehun,Mano-Sakrim
+2107,*****,35,M,6-Mar-15,7-Mar-15,Western Urban,Freetowm
+2108,*****,33,M,6-Mar-15,8-Mar-15,Western Urban,Freetowm
+2109,*****,80,,6-Mar-15,10-Mar-15,Western Urban,Freetowm
+2110,*****,22,F,6-Mar-15,15-Mar-15,Western Urban,Freetowm
+2111,*****,40,F,6-Mar-15,15-Mar-15,Western Urban,Freetowm
+2112,*****,39,M,6-Mar-15,9-Mar-15,Western Rural,Waterloo
+2113,*****,58,F,6-Mar-15,14-Mar-15,Western Urban,Freetowm
+2114,*****,,M,7-Mar-15,7-Mar-15,Western Rural,Waterloo
+2115,*****,11,M,7-Mar-15,9-Mar-15,Western Rural,Waterloo
+2116,*****,35,M,7-Mar-15,9-Mar-15,Western Urban,Freetowm
+2117,*****,75,F,7-Mar-15,11-Mar-15,Western Urban,Freetowm
+2118,*****,67,F,7-Mar-15,11-Mar-15,Western Urban,Freetowm
+2119,*****,,F,7-Mar-15,8-Mar-15,Western Urban,Freetowm
+2120,*****,92,M,7-Mar-15,10-Mar-15,Western Urban,Freetowm
+2121,*****,86,M,8-Mar-15,13-Mar-15,Bo,Gbo
+2122,*****,65,M,8-Mar-15,10-Mar-15,Bo,Tikonko
+2123,*****,,F,8-Mar-15,11-Mar-15,Western Urban,Freetowm
+2124,*****,75,F,8-Mar-15,13-Mar-15,Western Urban,Freetowm
+2125,*****,48,M,8-Mar-15,11-Mar-15,Western Urban,Freetowm
+2126,*****,18,F,8-Mar-15,11-Mar-15,Western Urban,Freetowm
+2127,*****,28,F,8-Mar-15,10-Mar-15,Western Urban,Freetowm
+2128,*****,25,M,9-Mar-15,10-Mar-15,Bo,Kakua
+2129,*****,25,M,9-Mar-15,11-Mar-15,Bo,Kakua
+2130,*****,35,M,9-Mar-15,10-Mar-15,Western Urban,Freetowm
+2131,*****,10,F,9-Mar-15,14-Mar-15,Western Urban,Freetowm
+2132,*****,,M,9-Mar-15,11-Mar-15,Western Urban,Freetowm
+2133,*****,5,M,9-Mar-15,12-Mar-15,Western Urban,Freetowm
+2134,*****,1,F,9-Mar-15,2-Apr-15,Western Urban,Freetowm
+2135,*****,48,M,9-Mar-15,13-Mar-15,Western Urban,Freetowm
+2136,*****,74,F,9-Mar-15,13-Mar-15,Western Urban,Freetowm
+2137,*****,70,F,9-Mar-15,14-Mar-15,Western Urban,Freetowm
+2138,*****,4,F,9-Mar-15,10-Mar-15,Bombali,Bombali Sebora
+2139,*****,,M,9-Mar-15,12-Mar-15,Bombali,Gbanti-Kamaranka
+2140,*****,43,M,10-Mar-15,13-Mar-15,Kenema,Lower Bambara
+2141,*****,83,F,10-Mar-15,11-Apr-15,Kenema,Nongowa
+2142,*****,22,F,10-Mar-15,11-Mar-15,Western Urban,Freetowm
+2143,*****,22,M,10-Mar-15,12-Mar-15,Western Urban,Freetowm
+2144,*****,42,M,10-Mar-15,14-Mar-15,Western Rural,Waterloo
+2145,*****,82,F,10-Mar-15,22-Mar-15,Western Rural,Waterloo
+2146,*****,65,M,10-Mar-15,30-Mar-15,Western Urban,Freetowm
+2147,*****,10,F,10-Mar-15,30-Mar-15,Western Rural,Waterloo
+2148,*****,15,M,10-Mar-15,13-Mar-15,Western Urban,Freetowm
+2149,*****,6,M,11-Mar-15,12-Mar-15,Western Urban,Freetowm
+2150,*****,45,M,11-Mar-15,14-Mar-15,Western Urban,Freetowm
+2151,*****,,F,11-Mar-15,14-Mar-15,Moyamba,Kargboro
+2152,*****,90,M,11-Mar-15,14-Mar-15,Kambia,Gbinle-Dixing
+2153,*****,10,M,12-Mar-15,13-Mar-15,Bo,Kakua
+2154,*****,76,M,12-Mar-15,13-Mar-15,Bo,Kakua
+2155,*****,,M,12-Mar-15,17-Mar-15,Kailahun,Malema
+2156,*****,34,F,12-Mar-15,14-Mar-15,Western Urban,Freetowm
+2157,*****,26,F,12-Mar-15,17-Mar-15,Western Urban,Freetowm
+2158,*****,30,F,13-Mar-15,14-Mar-15,Western Rural,Waterloo
+2159,*****,22,M,13-Mar-15,14-Mar-15,Western Rural,Waterloo
+2160,*****,18,F,13-Mar-15,14-Mar-15,Kono,Gbense
+2161,*****,1,,13-Mar-15,14-Mar-15,Western Urban,Freetowm
+2162,*****,52,F,13-Mar-15,19-Mar-15,Moyamba,Ribbi
+2163,*****,15,M,14-Mar-15,16-Mar-15,Western Urban,Freetowm
+2164,*****,75,M,14-Mar-15,21-Mar-15,Western Urban,Freetowm
+2165,*****,83,F,14-Mar-15,19-Mar-15,Western Urban,Freetowm
+2166,*****,14,M,14-Mar-15,16-Mar-15,Tonkolili,Kafe Simiria
+2167,*****,24,M,14-Mar-15,16-Mar-15,Port Loko,Tms
+2168,*****,22,M,15-Mar-15,17-Mar-15,Western Urban,Freetowm
+2169,*****,1,F,15-Mar-15,20-Mar-15,Kono,Tankoro
+2170,*****,65,F,15-Mar-15,14-Apr-15,Kambia,Tonko Limba
+2171,*****,6,F,16-Mar-15,17-Mar-15,Western Urban,Freetowm
+2172,*****,19,F,16-Mar-15,20-Mar-15,Western Rural,Waterloo
+2173,*****,69,F,16-Mar-15,26-Mar-15,Western Urban,Freetowm
+2174,*****,60,M,16-Mar-15,3-Apr-15,Western Urban,Freetowm
+2175,*****,1,F,16-Mar-15,25-Mar-15,Port Loko,Masimera
+2176,*****,24,M,16-Mar-15,31-Mar-15,Kambia,Magbema
+2177,*****,40,M,16-Mar-15,20-Mar-15,Port Loko,Koya
+2178,*****,85,F,17-Mar-15,19-Mar-15,Western Urban,Freetowm
+2179,*****,19,M,18-Mar-15,21-Mar-15,Bo,Baoma
+2180,*****,28,F,18-Mar-15,25-Mar-15,Western Rural,Waterloo
+2181,*****,35,M,18-Mar-15,20-Mar-15,Kono,Gbane
+2182,*****,65,M,18-Mar-15,26-Mar-15,Western Rural,Waterloo
+2183,*****,5,M,18-Mar-15,21-Mar-15,Western Urban,Freetowm
+2184,*****,40,F,18-Mar-15,24-Mar-15,Kambia,Magbema
+2185,*****,,F,19-Mar-15,21-Mar-15,Bo,Tikonko
+2186,*****,17,M,19-Mar-15,20-Mar-15,Western Urban,Freetowm
+2187,*****,58,F,19-Mar-15,20-Mar-15,Western Urban,Freetowm
+2188,*****,25,M,19-Mar-15,21-Mar-15,Western Urban,Freetowm
+2189,*****,19,F,19-Mar-15,26-Mar-15,Western Rural,Waterloo
+2190,*****,67,F,19-Mar-15,19-Mar-15,Western Urban,Freetowm
+2191,*****,40,M,20-Mar-15,2-Apr-15,Bonthe,Bum
+2192,*****,38,F,20-Mar-15,2-Apr-15,Kenema,Nongowa
+2193,*****,,F,20-Mar-15,2-Apr-15,Bonthe,Bum
+2194,*****,29,F,20-Mar-15,22-Mar-15,Western Urban,Freetowm
+2195,*****,50,M,20-Mar-15,22-Mar-15,Western Urban,Freetowm
+2196,*****,3,F,20-Mar-15,23-Mar-15,Western Rural,Waterloo
+2197,*****,6,M,20-Mar-15,31-Mar-15,Western Urban,Freetowm
+2198,*****,83,F,20-Mar-15,23-Mar-15,Western Rural,Waterloo
+2199,*****,32,F,20-Mar-15,24-Mar-15,Western Rural,Waterloo
+2200,*****,40,M,20-Mar-15,29-Mar-15,Western Urban,Freetowm
+2201,*****,46,M,20-Mar-15,30-Mar-15,Western Urban,Freetowm
+2202,*****,56,M,20-Mar-15,3-Apr-15,Western Urban,Freetowm
+2203,*****,14,F,20-Mar-15,21-Mar-15,Kambia,Mambolo
+2204,*****,50,F,21-Mar-15,2-Apr-15,Bonthe,Bum
+2205,*****,,F,21-Mar-15,2-Apr-15,Bonthe,Bum
+2206,*****,28,F,21-Mar-15,22-Mar-15,Western Rural,Waterloo
+2207,*****,22,F,21-Mar-15,22-Mar-15,Western Urban,Freetowm
+2208,*****,38,M,21-Mar-15,21-Mar-15,Western Urban,Freetowm
+2209,*****,,F,21-Mar-15,22-Mar-15,Western Rural,Waterloo
+2210,*****,35,M,21-Mar-15,26-Mar-15,Western Rural,Waterloo
+2211,*****,80,F,21-Mar-15,28-Mar-15,Western Urban,Freetowm
+2212,*****,2,M,21-Mar-15,28-Mar-15,Western Rural,Waterloo
+2213,*****,30,F,21-Mar-15,3-Apr-15,Western Urban,Freetowm
+2214,*****,14,M,21-Mar-15,25-Mar-15,Western Urban,Freetowm
+2215,*****,5,M,21-Mar-15,22-Mar-15,Port Loko,Kaffu Bullom
+2216,*****,36,F,21-Mar-15,24-Mar-15,Western Rural,Waterloo
+2217,*****,45,F,22-Mar-15,2-Apr-15,Bonthe,Imperi
+2218,*****,36,F,22-Mar-15,26-Mar-15,Bo,Tikonko
+2219,*****,37,F,22-Mar-15,22-Mar-15,Western Urban,Freetowm
+2220,*****,19,M,22-Mar-15,24-Mar-15,Western Urban,Freetowm
+2221,*****,43,F,22-Mar-15,26-Mar-15,Western Urban,Freetowm
+2222,*****,,F,22-Mar-15,25-Mar-15,Western Urban,Freetowm
+2223,*****,20,M,22-Mar-15,24-Mar-15,Western Rural,Waterloo
+2224,*****,70,M,22-Mar-15,25-Mar-15,Western Urban,Freetowm
+2225,*****,42,F,22-Mar-15,25-Mar-15,Western Rural,Waterloo
+2226,*****,,F,22-Mar-15,25-Mar-15,Western Urban,Freetowm
+2227,*****,46,F,22-Mar-15,24-Mar-15,Kambia,Tonko Limba
+2228,*****,89,F,22-Mar-15,25-Mar-15,Port Loko,Sanda Magbolontor
+2229,*****,,M,23-Mar-15,2-Apr-15,Bonthe,Kpanda Kemo
+2230,*****,4,M,23-Mar-15,2-Apr-15,Bonthe,Nongoba Bullom
+2231,*****,50,M,23-Mar-15,28-Mar-15,Kailahun,Luawa
+2232,*****,40,M,23-Mar-15,28-Mar-15,Kailahun,Njaluahun
+2233,*****,66,M,23-Mar-15,23-Mar-15,Western Urban,Freetowm
+2234,*****,59,F,23-Mar-15,23-Mar-15,Western Urban,Freetowm
+2235,*****,11,F,23-Mar-15,24-Mar-15,Western Urban,Freetowm
+2236,*****,65,M,23-Mar-15,30-Mar-15,Western Urban,Freetowm
+2237,*****,21,F,23-Mar-15,3-Apr-15,Western Urban,Freetowm
+2238,*****,7,M,23-Mar-15,29-Mar-15,Bombali,Bombali Sebora
+2239,*****,10,M,24-Mar-15,2-Apr-15,Bonthe,Imperi
+2240,*****,,F,24-Mar-15,2-Apr-15,Bonthe,Bendu Cha
+2241,*****,23,F,24-Mar-15,26-Mar-15,Western Rural,Waterloo
+2242,*****,45,M,24-Mar-15,24-Mar-15,Western Urban,Freetowm
+2243,*****,30,M,24-Mar-15,25-Mar-15,Western Urban,Freetowm
+2244,*****,38,M,24-Mar-15,25-Mar-15,Western Urban,Freetowm
+2245,*****,37,M,24-Mar-15,25-Mar-15,Western Urban,Freetowm
+2246,*****,35,M,24-Mar-15,28-Mar-15,Western Urban,Freetowm
+2247,*****,50,M,24-Mar-15,28-Mar-15,Western Rural,Waterloo
+2248,*****,,M,24-Mar-15,24-Mar-15,Western Urban,Freetowm
+2249,*****,6,F,24-Mar-15,25-Mar-15,Western Rural,Waterloo
+2250,*****,35,M,24-Mar-15,26-Mar-15,Western Urban,Freetowm
+2251,*****,35,M,24-Mar-15,26-Mar-15,Western Urban,Freetowm
+2252,*****,27,M,24-Mar-15,26-Mar-15,Western Rural,Waterloo
+2253,*****,74,,24-Mar-15,29-Mar-15,Western Urban,Freetowm
+2254,*****,50,F,25-Mar-15,2-Apr-15,Bonthe,Bum
+2255,*****,8,,25-Mar-15,2-Apr-15,Bonthe,Nongoba Bullom
+2256,*****,1,M,25-Mar-15,2-Apr-15,Bonthe,Imperi
+2257,*****,32,F,25-Mar-15,27-Mar-15,Western Urban,Freetowm
+2258,*****,18,M,25-Mar-15,28-Mar-15,Western Rural,Waterloo
+2259,*****,38,F,25-Mar-15,28-Mar-15,Western Urban,Freetowm
+2260,*****,60,M,25-Mar-15,28-Mar-15,Western Urban,Freetowm
+2261,*****,74,M,25-Mar-15,25-Mar-15,Western Urban,Freetowm
+2262,*****,,M,25-Mar-15,25-Mar-15,Western Urban,Freetowm
+2263,*****,4,M,25-Mar-15,26-Mar-15,Western Urban,Freetowm
+2264,*****,65,M,25-Mar-15,28-Mar-15,Western Urban,Freetowm
+2265,*****,60,M,25-Mar-15,29-Mar-15,Western Urban,Freetowm
+2266,*****,18,M,25-Mar-15,3-Apr-15,Western Urban,Freetowm
+2267,*****,29,F,25-Mar-15,30-Mar-15,Western Rural,Waterloo
+2268,*****,1,F,26-Mar-15,2-Apr-15,Bonthe,Nongoba Bullom
+2269,*****,,M,26-Mar-15,2-Apr-15,Bonthe,Jong
+2270,*****,,M,26-Mar-15,2-Apr-15,Bonthe,Jong
+2271,*****,,M,26-Mar-15,2-Apr-15,Bonthe,Sogbini
+2272,*****,,M,26-Mar-15,2-Apr-15,Bonthe,Imperi
+2273,*****,,M,26-Mar-15,2-Apr-15,Bonthe,Imperi
+2274,*****,1,F,26-Mar-15,2-Apr-15,Bonthe,Jong
+2275,*****,2,F,26-Mar-15,2-Apr-15,Bonthe,Bum
+2276,*****,,M,26-Mar-15,2-Apr-15,Kenema,Nongowa
+2277,*****,,F,26-Mar-15,2-Apr-15,Bonthe,Sogbini
+2278,*****,20,F,26-Mar-15,28-Mar-15,Western Rural,Waterloo
+2279,*****,19,M,26-Mar-15,28-Mar-15,Western Urban,Freetowm
+2280,*****,36,M,26-Mar-15,28-Mar-15,Western Urban,Freetowm
+2281,*****,21,M,26-Mar-15,28-Mar-15,Western Rural,Waterloo
+2282,*****,27,F,26-Mar-15,28-Mar-15,Western Urban,Freetowm
+2283,*****,19,F,26-Mar-15,28-Mar-15,Western Urban,Freetowm
+2284,*****,25,M,26-Mar-15,30-Mar-15,Western Rural,Waterloo
+2285,*****,0,M,26-Mar-15,26-Mar-15,Western Urban,Freetowm
+2286,*****,88,F,26-Mar-15,29-Mar-15,Western Urban,Freetowm
+2287,*****,80,M,26-Mar-15,28-Mar-15,Port Loko,Koya
+2288,*****,58,M,26-Mar-15,28-Mar-15,Western Urban,Freetowm
+2289,*****,7,F,26-Mar-15,29-Mar-15,Western Urban,Freetowm
+2290,*****,50,F,26-Mar-15,30-Mar-15,Western Urban,Freetowm
+2291,*****,12,F,26-Mar-15,29-Mar-15,Tonkolili,Kholifa Mabang
+2292,*****,7,F,26-Mar-15,31-Mar-15,Port Loko,Masimera
+2293,*****,65,F,26-Mar-15,31-Mar-15,Port Loko,Lokomasam
+2294,*****,57,M,26-Mar-15,31-Mar-15,Port Loko,Dibia
+2295,*****,32,F,26-Mar-15,31-Mar-15,Port Loko,Kaffu Bullom
+2296,*****,40,M,27-Mar-15,2-Apr-15,Bonthe,Imperi
+2297,*****,1,F,27-Mar-15,2-Apr-15,Bonthe,Jong
+2298,*****,75,M,27-Mar-15,29-Mar-15,Bo,Kakua
+2299,*****,,M,27-Mar-15,2-Apr-15,Bonthe,Jong
+2300,*****,45,M,27-Mar-15,2-Apr-15,Bonthe,Bum
+2301,*****,1,F,27-Mar-15,2-Apr-15,Bonthe,Jong
+2302,*****,1,M,27-Mar-15,2-Apr-15,Bonthe,Nongoba Bullom
+2303,*****,90,M,27-Mar-15,2-Apr-15,Bonthe,Kpanda Kemo
+2304,*****,70,M,27-Mar-15,2-Apr-15,Bonthe,Imperi
+2305,*****,28,M,27-Mar-15,28-Mar-15,Western Urban,Freetowm
+2306,*****,8,M,27-Mar-15,28-Mar-15,Western Urban,Freetowm
+2307,*****,20,F,27-Mar-15,28-Mar-15,Western Urban,Freetowm
+2308,*****,30,M,27-Mar-15,28-Mar-15,Western Urban,Freetowm
+2309,*****,42,M,27-Mar-15,28-Mar-15,Western Urban,Freetowm
+2310,*****,23,M,27-Mar-15,28-Mar-15,Western Rural,Waterloo
+2311,*****,25,M,27-Mar-15,28-Mar-15,Western Rural,Waterloo
+2312,*****,19,M,27-Mar-15,29-Mar-15,Western Urban,Freetowm
+2313,*****,30,F,27-Mar-15,27-Mar-15,Western Urban,Freetowm
+2314,*****,43,M,27-Mar-15,28-Mar-15,Western Urban,Freetowm
+2315,*****,85,F,27-Mar-15,28-Mar-15,Western Rural,Waterloo
+2316,*****,1,M,27-Mar-15,28-Mar-15,Port Loko,Koya
+2317,*****,,M,27-Mar-15,28-Mar-15,Western Rural,Waterloo
+2318,*****,42,M,27-Mar-15,29-Mar-15,Western Urban,Freetowm
+2319,*****,84,M,27-Mar-15,30-Mar-15,Western Urban,Freetowm
+2320,*****,45,M,27-Mar-15,31-Mar-15,Kambia,Magbema
+2321,*****,1,M,27-Mar-15,31-Mar-15,Kambia,Mambolo
+2322,*****,29,M,27-Mar-15,31-Mar-15,Kambia,Tonko Limba
+2323,*****,22,M,27-Mar-15,31-Mar-15,Kambia,Tonko Limba
+2324,*****,,M,28-Mar-15,2-Apr-15,Bonthe,Bum
+2325,*****,86,F,28-Mar-15,2-Apr-15,Bonthe,Bum
+2326,*****,42,,28-Mar-15,2-Apr-15,Bonthe,Dema
+2327,*****,55,M,28-Mar-15,2-Apr-15,Bonthe,Kpanda Kemo
+2328,*****,17,F,28-Mar-15,2-Apr-15,Kenema,Nongowa
+2329,*****,52,M,28-Mar-15,2-Apr-15,Kenema,Nongowa
+2330,*****,73,F,28-Mar-15,2-Apr-15,Kenema,Nongowa
+2331,*****,85,F,28-Mar-15,2-Apr-15,Kailahun,Kissi Tonge
+2332,*****,40,M,28-Mar-15,2-Apr-15,Kailahun,Kissi Tonge
+2333,*****,1,M,28-Mar-15,2-Apr-15,Kailahun,Upper Bambara
+2334,*****,2,M,28-Mar-15,2-Apr-15,Kailahun,Peje Bongre
+2335,*****,60,F,28-Mar-15,2-Apr-15,Kailahun,Peje Bongre
+2336,*****,70,F,28-Mar-15,2-Apr-15,Kailahun,Jawie
+2337,*****,80,M,28-Mar-15,2-Apr-15,Kailahun,Jawie
+2338,*****,,M,28-Mar-15,2-Apr-15,Kailahun,Peje West
+2339,*****,35,M,28-Mar-15,2-Apr-15,Kailahun,Peje West
+2340,*****,32,M,28-Mar-15,29-Mar-15,Western Rural,Waterloo
+2341,*****,3,M,28-Mar-15,12-Apr-15,Kono,Mafindor
+2342,*****,,M,28-Mar-15,28-Mar-15,Western Rural,Waterloo
+2343,*****,,F,28-Mar-15,28-Mar-15,Western Urban,Freetowm
+2344,*****,22,F,28-Mar-15,28-Mar-15,Western Urban,Freetowm
+2345,*****,65,F,28-Mar-15,28-Mar-15,Western Rural,Waterloo
+2346,*****,24,M,28-Mar-15,29-Mar-15,Western Urban,Freetowm
+2347,*****,82,F,28-Mar-15,29-Mar-15,Western Urban,Freetowm
+2348,*****,43,M,28-Mar-15,30-Mar-15,Western Urban,Freetowm
+2349,*****,60,M,28-Mar-15,31-Mar-15,Western Urban,Freetowm
+2350,*****,1,F,28-Mar-15,31-Mar-15,Kambia,Masungbala
+2351,*****,18,M,29-Mar-15,29-Mar-15,Bo,Kakua
+2352,*****,1,F,29-Mar-15,2-Apr-15,Bonthe,Bendu Cha
+2353,*****,24,M,29-Mar-15,2-Apr-15,Bonthe,Jong
+2354,*****,20,M,29-Mar-15,30-Mar-15,Bo,Kakua
+2355,*****,28,F,29-Mar-15,2-Apr-15,Bonthe,Jong
+2356,*****,,F,29-Mar-15,2-Apr-15,Bonthe,Jong
+2357,*****,,F,29-Mar-15,2-Apr-15,Bonthe,Jong
+2358,*****,,M,29-Mar-15,2-Apr-15,Bonthe,Nongoba Bullom
+2359,*****,80,F,29-Mar-15,2-Apr-15,Bonthe,Kpanda Kemo
+2360,*****,70,M,29-Mar-15,2-Apr-15,Bonthe,Jong
+2361,*****,26,M,29-Mar-15,30-Mar-15,Western Urban,Freetowm
+2362,*****,4,F,29-Mar-15,30-Mar-15,Western Urban,Freetowm
+2363,*****,26,M,29-Mar-15,31-Mar-15,Western Urban,Freetowm
+2364,*****,10,M,29-Mar-15,31-Mar-15,Kono,Gbense
+2365,*****,28,F,29-Mar-15,30-Mar-15,Western Rural,Waterloo
+2366,*****,39,F,29-Mar-15,2-Apr-15,Western Urban,Freetowm
+2367,*****,45,M,29-Mar-15,29-Mar-15,Western Urban,Freetowm
+2368,*****,,M,29-Mar-15,29-Mar-15,Western Urban,Freetowm
+2369,*****,8,M,29-Mar-15,30-Mar-15,Western Urban,Freetowm
+2370,*****,80,M,29-Mar-15,30-Mar-15,Western Urban,Freetowm
+2371,*****,56,M,29-Mar-15,3-Apr-15,Western Urban,Freetowm
+2372,*****,40,M,29-Mar-15,31-Mar-15,Port Loko,Maforki
+2373,*****,,F,30-Mar-15,2-Apr-15,Kenema,Kandu Leppiama
+2374,*****,10,M,30-Mar-15,2-Apr-15,Kenema,Nongowa
+2375,*****,10,M,30-Mar-15,2-Apr-15,Kenema,Nongowa
+2376,*****,1,,30-Mar-15,11-Apr-15,Bonthe,Sogbini
+2377,*****,28,F,30-Mar-15,31-Mar-15,Western Urban,Freetowm
+2378,*****,13,F,30-Mar-15,31-Mar-15,Western Urban,Freetowm
+2379,*****,34,M,30-Mar-15,3-Apr-15,Western Urban,Freetowm
+2380,*****,42,M,30-Mar-15,31-Mar-15,Western Urban,Freetowm
+2381,*****,9,F,30-Mar-15,2-Apr-15,Western Urban,Freetowm
+2382,*****,26,M,30-Mar-15,3-Apr-15,Western Urban,Freetowm
+2383,*****,25,M,30-Mar-15,3-Apr-15,Western Urban,Freetowm
+2384,*****,18,F,30-Mar-15,31-Mar-15,Kambia,Magbema
+2385,*****,,F,31-Mar-15,2-Apr-15,Kenema,Kandu Leppiama
+2386,*****,27,M,31-Mar-15,2-Apr-15,Kenema,Nongowa
+2387,*****,50,M,31-Mar-15,2-Apr-15,Bonthe,Bum
+2388,*****,45,M,31-Mar-15,2-Apr-15,Kenema,Nongowa
+2389,*****,,F,31-Mar-15,2-Apr-15,Kenema,Nongowa
+2390,*****,22,M,31-Mar-15,2-Apr-15,Kenema,Nomo
+2391,*****,33,M,31-Mar-15,1-Apr-15,Western Urban,Freetowm
+2392,*****,24,M,31-Mar-15,2-Apr-15,Western Rural,Waterloo
+2393,*****,52,F,31-Mar-15,3-Apr-15,Western Urban,Freetowm
+2394,*****,87,F,31-Mar-15,3-Apr-15,Western Urban,Freetowm
+2395,*****,,M,31-Mar-15,2-Apr-15,Western Urban,Freetowm
+2396,*****,28,F,31-Mar-15,2-Apr-15,Western Rural,Waterloo
+2397,*****,2,F,31-Mar-15,3-Apr-15,Western Urban,Freetowm
+2398,*****,47,F,31-Mar-15,3-Apr-15,Western Urban,Freetowm
+2399,*****,14,F,31-Mar-15,4-Apr-15,Western Urban,Freetowm
+2400,*****,22,F,31-Mar-15,21-Apr-15,Port Loko,Kaffu Bullom
+2401,*****,2,M,1-Apr-15,2-Apr-15,Bonthe,Sogbini
+2402,*****,16,F,1-Apr-15,3-Apr-15,Kenema,Nongowa
+2403,*****,29,F,1-Apr-15,2-Apr-15,Western Rural,Waterloo
+2404,*****,75,F,1-Apr-15,6-Apr-15,Kono,Tankoro
+2405,*****,42,M,1-Apr-15,1-Apr-15,Western Urban,Freetowm
+2406,*****,40,M,1-Apr-15,6-May-15,Western Urban,Freetowm
+2407,*****,80,M,1-Apr-15,9-May-15,Western Urban,Freetowm
+2408,*****,38,F,1-Apr-15,1-Apr-15,Port Loko,Kaffu Bullom
+2409,*****,1,F,1-Apr-15,2-Apr-15,Port Loko,Buya Romende
+2410,*****,15,M,1-Apr-15,4-Apr-15,Kambia,Tonko Limba
+2411,*****,8,F,1-Apr-15,4-Apr-15,Kambia,Tonko Limba
+2412,*****,28,F,1-Apr-15,14-Apr-15,Kambia,Bramaia
+2413,*****,80,M,1-Apr-15,15-Apr-15,Bombali,Bombali Sebora
+2414,*****,17,M,2-Apr-15,3-Apr-15,Kenema,Lower Bambara
+2415,*****,45,F,2-Apr-15,4-Apr-15,Kenema,Nongowa
+2416,*****,30,F,2-Apr-15,5-Apr-15,Kenema,Nongowa
+2417,*****,75,M,2-Apr-15,5-Apr-15,Kenema,Nongowa
+2418,*****,12,M,2-Apr-15,6-Apr-15,Kailahun,Njaluahun
+2419,*****,30,M,2-Apr-15,2-Apr-15,Western Urban,Freetowm
+2420,*****,52,M,2-Apr-15,2-Apr-15,Western Urban,Freetowm
+2421,*****,85,M,2-Apr-15,4-Apr-15,Port Loko,Marampa
+2422,*****,1,F,2-Apr-15,14-Apr-15,Kambia,Tonko Limba
+2423,*****,60,M,3-Apr-15,11-Apr-15,Kailahun,Yawei
+2424,*****,54,M,3-Apr-15,5-Apr-15,Western Rural,Waterloo
+2425,*****,40,M,3-Apr-15,4-Apr-15,Western Rural,Waterloo
+2426,*****,2,F,4-Apr-15,6-Apr-15,Bo,Valunia
+2427,*****,1,M,4-Apr-15,1-May-15,Bo,Badjia
+2428,*****,,M,4-Apr-15,10-Apr-15,Pujehun,Gallinas-Perri
+2429,*****,10,F,4-Apr-15,5-Apr-15,Western Urban,Freetowm
+2430,*****,8,F,4-Apr-15,5-Apr-15,Western Urban,Freetowm
+2431,*****,43,M,4-Apr-15,6-Apr-15,Western Urban,Freetowm
+2432,*****,30,M,4-Apr-15,7-Apr-15,Moyamba,Fakunya
+2433,*****,33,M,4-Apr-15,9-Apr-15,Moyamba,Kaiyamba
+2434,*****,30,F,5-Apr-15,7-Apr-15,Western Urban,Freetowm
+2435,*****,20,M,5-Apr-15,7-Apr-15,Western Urban,Freetowm
+2436,*****,6,F,5-Apr-15,7-Apr-15,Western Rural,Waterloo
+2437,*****,75,F,5-Apr-15,13-Apr-15,Kono,Nimikoro
+2438,*****,72,M,5-Apr-15,2-May-15,Tonkolili,Tane
+2439,*****,70,F,5-Apr-15,11-May-15,Bombali,Biriwa
+2440,*****,23,F,6-Apr-15,7-Apr-15,Kenema,Nongowa
+2441,*****,40,F,6-Apr-15,11-Apr-15,Bo,Kakua
+2442,*****,20,M,6-Apr-15,8-Apr-15,Western Rural,Waterloo
+2443,*****,,F,6-Apr-15,11-Apr-15,Port Loko,Kaffu Bullom
+2444,*****,80,M,7-Apr-15,16-Apr-15,Bonthe,Kpanda Kemo
+2445,*****,41,M,7-Apr-15,9-Apr-15,Western Urban,Freetowm
+2446,*****,25,F,7-Apr-15,1-May-15,Kono,Sandor
+2447,*****,10,F,7-Apr-15,7-Apr-15,Western Rural,Waterloo
+2448,*****,,M,8-Apr-15,10-Apr-15,Bo,Kakua
+2449,*****,60,F,8-Apr-15,14-Apr-15,Bo,Kakua
+2450,*****,27,F,8-Apr-15,10-Apr-15,Western Urban,Freetowm
+2451,*****,17,F,8-Apr-15,10-Apr-15,Western Rural,Waterloo
+2452,*****,10,F,9-Apr-15,11-Apr-15,Western Urban,Freetowm
+2453,*****,,M,9-Apr-15,10-Apr-15,Bombali,Paki Masabong
+2454,*****,25,M,10-Apr-15,11-Apr-15,Western Urban,Freetowm
+2455,*****,35,M,10-Apr-15,12-Apr-15,Western Urban,Freetowm
+2456,*****,6,M,10-Apr-15,17-Apr-15,Koinadugu,Wara Wara Bafodea
+2457,*****,,M,10-Apr-15,11-Apr-15,Port Loko,Kaffu Bullom
+2458,*****,50,F,10-Apr-15,14-Apr-15,Kambia,Tonko Limba
+2459,*****,60,,10-Apr-15,15-Apr-15,Port Loko,Kaffu Bullom
+2460,*****,1,F,10-Apr-15,15-Apr-15,Port Loko,Marampa
+2461,*****,27,M,11-Apr-15,14-Apr-15,Kenema,Dodo
+2462,*****,47,M,11-Apr-15,15-May-15,Western Urban,Freetowm
+2463,*****,1,F,11-Apr-15,24-Apr-15,Port Loko,Marampa
+2464,*****,90,,11-Apr-15,15-Apr-15,Port Loko,Tms
+2465,*****,84,M,12-Apr-15,13-Apr-15,Kenema,Nongowa
+2466,*****,75,M,12-Apr-15,13-Apr-15,Kenema,Lower Bambara
+2467,*****,4,M,12-Apr-15,14-Apr-15,Bo,Bagbo
+2468,*****,65,F,12-Apr-15,15-Apr-15,Moyamba,Kongbora
+2469,*****,,F,12-Apr-15,16-Apr-15,Moyamba,Bumpeh
+2470,*****,3,F,12-Apr-15,14-Apr-15,Moyamba,Bagruwa
+2471,*****,1,F,12-Apr-15,14-Apr-15,Kambia,Tonko Limba
+2472,*****,35,F,12-Apr-15,15-Apr-15,Port Loko,Buya Romende
+2473,*****,50,M,13-Apr-15,13-Apr-15,Pujehun,Kpanga Kabonde
+2474,*****,25,F,13-Apr-15,14-Apr-15,Port Loko,Marampa
+2475,*****,1,M,13-Apr-15,15-Apr-15,Port Loko,Kaffu Bullom
+2476,*****,,F,13-Apr-15,15-Apr-15,Port Loko,Kaffu Bullom
+2477,*****,0,F,13-Apr-15,15-Apr-15,Port Loko,Marampa
+2478,*****,,M,13-Apr-15,15-Apr-15,Port Loko,Marampa
+2479,*****,8,F,13-Apr-15,15-Apr-15,Port Loko,Marampa
+2480,*****,7,M,14-Apr-15,14-Apr-15,Kenema,Nongowa
+2481,*****,,F,14-Apr-15,15-Apr-15,Moyamba,Bumpeh
+2482,*****,20,F,14-Apr-15,18-Apr-15,Kenema,Lower Bambara
+2483,*****,14,M,14-Apr-15,19-Apr-15,Bo,Kakua
+2484,*****,32,F,14-Apr-15,16-Apr-15,Kono,Gbense
+2485,*****,50,M,14-Apr-15,17-May-15,Western Urban,Freetowm
+2486,*****,70,F,14-Apr-15,15-Apr-15,Port Loko,Kaffu Bullom
+2487,*****,,F,14-Apr-15,15-Apr-15,Port Loko,Kaffu Bullom
+2488,*****,,F,14-Apr-15,15-Apr-15,Port Loko,Kaffu Bullom
+2489,*****,,F,14-Apr-15,15-Apr-15,Port Loko,Kaffu Bullom
+2490,*****,51,M,15-Apr-15,16-Apr-15,Kenema,Nongowa
+2491,*****,25,M,15-Apr-15,17-Apr-15,Kono,Gbane
+2492,*****,29,M,15-Apr-15,17-Apr-15,Kono,Gbane
+2493,*****,9,M,15-Apr-15,23-Apr-15,Tonkolili,Kalansongoia
+2494,*****,26,M,15-Apr-15,19-Apr-15,Port Loko,Bkm
+2495,*****,40,M,16-Apr-15,20-Apr-15,Western Urban,Freetowm
+2496,*****,37,M,16-Apr-15,21-Apr-15,Port Loko,Kaffu Bullom
+2497,*****,,F,16-Apr-15,25-Apr-15,Port Loko,Koya
+2498,*****,39,F,17-Apr-15,20-Apr-15,Kenema,Lower Bambara
+2499,*****,,F,17-Apr-15,22-Apr-15,Western Rural,Waterloo
+2500,*****,37,F,17-Apr-15,21-Apr-15,Port Loko,Kaffu Bullom
+2501,*****,,F,18-Apr-15,20-Apr-15,Moyamba,Banta Gbangbatote
+2502,*****,25,F,18-Apr-15,19-Apr-15,Moyamba,Kaiyamba
+2503,*****,,M,18-Apr-15,20-Apr-15,Bo,Baoma
+2504,*****,75,M,18-Apr-15,21-Apr-15,Kenema,Dama
+2505,*****,37,M,18-Apr-15,30-Apr-15,Kenema,Nongowa
+2506,*****,30,M,18-Apr-15,20-Apr-15,Western Rural,Waterloo
+2507,*****,33,F,18-Apr-15,20-Apr-15,Western Rural,Waterloo
+2508,*****,45,M,18-Apr-15,22-Apr-15,Western Urban,Freetowm
+2509,*****,30,F,18-Apr-15,22-Apr-15,Western Urban,Freetowm
+2510,*****,17,M,18-Apr-15,19-Apr-15,Western Urban,Freetowm
+2511,*****,1,F,18-Apr-15,21-Apr-15,Port Loko,Kaffu Bullom
+2512,*****,24,M,19-Apr-15,20-Apr-15,Western Urban,Freetowm
+2513,*****,27,M,19-Apr-15,20-Apr-15,Western Urban,Freetowm
+2514,*****,,M,19-Apr-15,21-Apr-15,Port Loko,Kaffu Bullom
+2515,*****,20,M,19-Apr-15,21-Apr-15,Port Loko,Lokomasam
+2516,*****,1,M,19-Apr-15,25-Apr-15,Port Loko,Koya
+2517,*****,26,F,20-Apr-15,1-May-15,Kenema,Niawa
+2518,*****,42,F,20-Apr-15,6-May-15,Moyamba,Bumpeh
+2519,*****,41,M,20-Apr-15,25-Apr-15,Kailahun,Upper Bambara
+2520,*****,15,M,20-Apr-15,23-Apr-15,Western Urban,Freetowm
+2521,*****,20,F,20-Apr-15,23-Apr-15,Western Urban,Freetowm
+2522,*****,45,M,20-Apr-15,25-Apr-15,Western Urban,Freetowm
+2523,*****,1,F,20-Apr-15,21-Apr-15,Port Loko,Kaffu Bullom
+2524,*****,45,M,21-Apr-15,23-Apr-15,Bo,Selenga
+2525,*****,50,F,21-Apr-15,1-May-15,Bonthe,Kpanda Kemo
+2526,*****,80,F,21-Apr-15,29-Apr-15,Moyamba,Bumpeh
+2527,*****,,M,21-Apr-15,1-May-15,Bonthe,Jong
+2528,*****,23,M,21-Apr-15,23-Apr-15,Western Urban,Freetowm
+2529,*****,1,M,21-Apr-15,25-Apr-15,Western Urban,Freetowm
+2530,*****,,F,21-Apr-15,25-Apr-15,Western Urban,Freetowm
+2531,*****,70,F,22-Apr-15,24-Apr-15,Bo,Lugbu
+2532,*****,20,M,22-Apr-15,24-Apr-15,Western Urban,Freetowm
+2533,*****,61,M,22-Apr-15,24-Apr-15,Western Urban,Freetowm
+2534,*****,64,M,22-Apr-15,26-Apr-15,Western Urban,Freetowm
+2535,*****,2,M,23-Apr-15,28-Apr-15,Pujehun,Makpele
+2536,*****,,F,23-Apr-15,26-Apr-15,Bo,Kakua
+2537,*****,,F,23-Apr-15,26-Apr-15,Kenema,Nongowa
+2538,*****,40,M,23-Apr-15,26-Apr-15,Kenema,Nongowa
+2539,*****,2,F,23-Apr-15,1-May-15,Bonthe,Yawbeco
+2540,*****,32,M,23-Apr-15,25-Apr-15,Western Urban,Freetowm
+2541,*****,8,F,23-Apr-15,26-Apr-15,Western Rural,Waterloo
+2542,*****,41,F,23-Apr-15,27-Apr-15,Western Urban,Freetowm
+2543,*****,,M,23-Apr-15,25-Apr-15,Port Loko,Koya
+2544,*****,,M,24-Apr-15,26-Apr-15,Kenema,Nongowa
+2545,*****,70,M,24-Apr-15,26-Apr-15,Kenema,Nongowa
+2546,*****,4,F,24-Apr-15,28-Apr-15,Pujehun,Kpanga Kabonde
+2547,*****,37,F,24-Apr-15,28-Apr-15,Kenema,Lower Bambara
+2548,*****,30,F,24-Apr-15,29-Apr-15,Moyamba,Bumpeh
+2549,*****,34,M,24-Apr-15,28-Apr-15,Western Urban,Freetowm
+2550,*****,,M,24-Apr-15,28-Apr-15,Tonkolili,Kholifa
+2551,*****,1,F,25-Apr-15,1-May-15,Bonthe,Imperi
+2552,*****,1,M,25-Apr-15,28-Apr-15,Kenema,Nongowa
+2553,*****,20,F,25-Apr-15,26-Apr-15,Western Urban,Freetowm
+2554,*****,18,F,25-Apr-15,1-May-15,Western Urban,Freetowm
+2555,*****,40,F,26-Apr-15,28-Apr-15,Bo,Gbo
+2556,*****,13,M,26-Apr-15,30-Apr-15,Western Urban,Freetowm
+2557,*****,7,M,26-Apr-15,2-May-15,Tonkolili,Kholifa
+2558,*****,45,M,27-Apr-15,29-Apr-15,Bo,Kakua
+2559,*****,40,F,27-Apr-15,29-Apr-15,Moyamba,Bumpeh
+2560,*****,16,F,27-Apr-15,30-Apr-15,Western Rural,Waterloo
+2561,*****,17,M,27-Apr-15,30-Apr-15,Western Urban,Freetowm
+2562,*****,42,F,27-Apr-15,30-Apr-15,Western Urban,Freetowm
+2563,*****,57,M,27-Apr-15,30-Apr-15,Western Urban,Freetowm
+2564,*****,1,M,28-Apr-15,29-Apr-15,Moyamba,Fakunya
+2565,*****,,F,28-Apr-15,1-May-15,Bonthe,Sogbini
+2566,*****,35,F,28-Apr-15,30-Apr-15,Western Rural,Waterloo
+2567,*****,42,M,28-Apr-15,1-May-15,Western Rural,Waterloo
+2568,*****,3,M,28-Apr-15,30-Apr-15,Kono,Lei
+2569,*****,25,M,28-Apr-15,2-May-15,Port Loko,Marampa
+2570,*****,,F,28-Apr-15,2-May-15,Port Loko,Maforki
+2571,*****,92,F,28-Apr-15,2-May-15,Port Loko,Maforki
+2572,*****,48,F,29-Apr-15,1-May-15,Moyamba,Fakunya
+2573,*****,,M,29-Apr-15,1-May-15,Moyamba,Fakunya
+2574,*****,25,M,29-Apr-15,1-May-15,Western Urban,Freetowm
+2575,*****,7,F,29-Apr-15,4-May-15,Western Urban,Freetowm
+2576,*****,28,F,29-Apr-15,6-May-15,Western Rural,Waterloo
+2577,*****,1,M,30-Apr-15,3-May-15,Moyamba,Dasse
+2578,*****,3,M,30-Apr-15,9-May-15,Pujehun,Soro-Gbeima
+2579,*****,40,M,30-Apr-15,5-May-15,Western Rural,Waterloo
+2580,*****,,F,30-Apr-15,4-May-15,Western Urban,Freetowm
+2581,*****,,F,30-Apr-15,4-May-15,Western Urban,Freetowm
+2582,*****,,M,30-Apr-15,1-May-15,Western Rural,Waterloo
+2583,*****,52,F,30-Apr-15,7-May-15,Port Loko,Maforki
+2584,*****,43,M,1-May-15,2-May-15,Western Rural,Waterloo
+2585,*****,37,M,1-May-15,3-May-15,Western Rural,Waterloo
+2586,*****,45,M,1-May-15,4-May-15,Western Urban,Freetowm
+2587,*****,32,F,1-May-15,16-May-15,Western Urban,Freetowm
+2588,*****,30,F,1-May-15,6-Jun-15,Bombali,Bombali Sebora
+2589,*****,,F,1-May-15,7-May-15,Port Loko,Marampa
+2590,*****,70,F,1-May-15,7-May-15,Port Loko,Marampa
+2591,*****,28,M,1-May-15,5-May-15,Port Loko,Marampa
+2592,*****,2,F,2-May-15,5-May-15,Moyamba,Ribbi
+2593,*****,,F,2-May-15,6-May-15,Moyamba,Banta Mokele
+2594,*****,11,M,2-May-15,3-May-15,Western Urban,Freetowm
+2595,*****,7,M,2-May-15,16-May-15,Western Urban,Freetowm
+2596,*****,60,M,2-May-15,4-May-15,Kambia,Magbema
+2597,*****,5,F,2-May-15,7-May-15,Port Loko,Maforki
+2598,*****,23,M,2-May-15,7-May-15,Port Loko,Maforki
+2599,*****,65,M,2-May-15,6-May-15,Port Loko,Lokomasam
+2600,*****,37,M,2-May-15,6-May-15,Port Loko,Lokomasam
+2601,*****,89,F,2-May-15,6-May-15,Port Loko,Lokomasam
+2602,*****,75,F,2-May-15,6-May-15,Port Loko,Koya
+2603,*****,2,M,2-May-15,6-May-15,Port Loko,Koya
+2604,*****,58,M,2-May-15,6-May-15,Port Loko,Koya
+2605,*****,,F,2-May-15,6-May-15,Port Loko,Koya
+2606,*****,,F,2-May-15,6-May-15,Port Loko,Koya
+2607,*****,50,M,2-May-15,6-May-15,Port Loko,Marampa
+2608,*****,,M,3-May-15,4-May-15,Western Rural,Waterloo
+2609,*****,,F,3-May-15,6-May-15,Western Urban,Freetowm
+2610,*****,32,M,3-May-15,6-May-15,Western Urban,Freetowm
+2611,*****,32,M,3-May-15,7-May-15,Western Urban,Freetowm
+2612,*****,43,M,3-May-15,6-May-15,Western Urban,Freetowm
+2613,*****,,F,3-May-15,5-May-15,Kambia,Magbema
+2614,*****,2,F,4-May-15,6-May-15,Moyamba,Fakunya
+2615,*****,65,F,4-May-15,14-May-15,Bonthe,Dema
+2616,*****,25,M,4-May-15,7-May-15,Western Rural,Waterloo
+2617,*****,68,M,4-May-15,7-May-15,Western Urban,Freetowm
+2618,*****,,F,4-May-15,4-May-15,Western Urban,Freetowm
+2619,*****,2,M,4-May-15,6-May-15,Western Urban,Freetowm
+2620,*****,18,M,4-May-15,7-May-15,Western Urban,Freetowm
+2621,*****,33,F,4-May-15,23-May-15,Western Urban,Freetowm
+2622,*****,66,M,4-May-15,5-May-15,Kambia,Magbema
+2623,*****,45,F,4-May-15,7-May-15,Kambia,Gbinle-Dixing
+2624,*****,3,M,5-May-15,14-May-15,Kono,Tankoro
+2625,*****,30,F,5-May-15,19-May-15,Moyamba,Kargboro
+2626,*****,17,F,5-May-15,6-May-15,Western Urban,Freetowm
+2627,*****,16,F,5-May-15,6-May-15,Western Urban,Freetowm
+2628,*****,36,M,5-May-15,7-May-15,Western Urban,Freetowm
+2629,*****,65,,5-May-15,11-May-15,Bombali,Biriwa
+2630,*****,10,M,5-May-15,14-May-15,Bombali,Sella Limba
+2631,*****,,F,5-May-15,7-May-15,Port Loko,Maforki
+2632,*****,34,M,5-May-15,7-May-15,Port Loko,Marampa
+2633,*****,70,M,5-May-15,7-May-15,Port Loko,Maforki
+2634,*****,70,M,5-May-15,7-May-15,Port Loko,Marampa
+2635,*****,,F,5-May-15,7-May-15,Port Loko,Marampa
+2636,*****,80,F,6-May-15,9-May-15,Moyamba,Fakunya
+2637,*****,,M,6-May-15,8-Jun-15,Bo,Bumpe Ngawo
+2638,*****,2,F,6-May-15,6-May-15,Western Urban,Freetowm
+2639,*****,23,M,6-May-15,7-May-15,Western Urban,Freetowm
+2640,*****,79,M,6-May-15,7-May-15,Western Urban,Freetowm
+2641,*****,37,F,6-May-15,7-May-15,Kambia,Magbema
+2642,*****,3,M,6-May-15,11-May-15,Bombali,Tambakka
+2643,*****,54,F,7-May-15,28-May-15,Kenema,Nongowa
+2644,*****,60,M,7-May-15,10-May-15,Moyamba,Banta Gbangbatote
+2645,*****,60,M,7-May-15,9-May-15,Western Urban,Freetowm
+2646,*****,7,F,7-May-15,9-May-15,Western Urban,Freetowm
+2647,*****,3,M,7-May-15,9-May-15,Western Urban,Freetowm
+2648,*****,35,M,8-May-15,14-May-15,Kono,Sandor
+2649,*****,83,M,8-May-15,16-May-15,Bo,Tikonko
+2650,*****,,M,8-May-15,15-May-15,Pujehun,Sowa
+2651,*****,,M,8-May-15,9-May-15,Western Urban,Freetowm
+2652,*****,53,F,9-May-15,10-May-15,Moyamba,Fakunya
+2653,*****,,M,9-May-15,14-May-15,Kono,Gbense
+2654,*****,24,M,9-May-15,9-May-15,Western Urban,Freetowm
+2655,*****,20,F,9-May-15,9-May-15,Western Urban,Freetowm
+2656,*****,27,F,9-May-15,13-May-15,Western Urban,Freetowm
+2657,*****,,F,9-May-15,16-May-15,Western Urban,Freetowm
+2658,*****,70,M,9-May-15,17-May-15,Kambia,Samu
+2659,*****,60,F,9-May-15,15-May-15,Port Loko,Tms
+2660,*****,1,F,10-May-15,11-May-15,Moyamba,Bumpeh
+2661,*****,70,F,10-May-15,17-May-15,Bonthe,Dema
+2662,*****,29,F,10-May-15,19-May-15,Moyamba,Bagruwa
+2663,*****,40,,10-May-15,21-May-15,Kenema,Nongowa
+2664,*****,,M,10-May-15,15-May-15,Moyamba,Bumpeh
+2665,*****,,M,10-May-15,17-May-15,Western Urban,Freetowm
+2666,*****,37,F,10-May-15,13-May-15,Western Urban,Freetowm
+2667,*****,20,F,10-May-15,14-May-15,Western Urban,Freetowm
+2668,*****,28,F,10-May-15,11-May-15,Bombali,Bombali Sebora
+2669,*****,65,M,10-May-15,17-May-15,Bombali,Bombali Sebora
+2670,*****,3,F,10-May-15,17-May-15,Bombali,Bombali Sebora
+2671,*****,,,10-May-15,17-May-15,Bombali,Bombali Sebora
+2672,*****,5,F,10-May-15,14-May-15,Port Loko,Buya Romende
+2673,*****,1,F,10-May-15,14-May-15,Port Loko,Marampa
+2674,*****,60,M,10-May-15,15-May-15,Port Loko,Sanda Magbolontor
+2675,*****,30,M,10-May-15,15-May-15,Port Loko,Sanda Magbolontor
+2676,*****,31,M,10-May-15,14-May-15,Port Loko,Marampa
+2677,*****,,,11-May-15,14-May-15,Kono,Sandor
+2678,*****,90,M,11-May-15,17-May-15,Kambia,Magbema
+2679,*****,35,F,11-May-15,17-May-15,Kambia,Tonko Limba
+2680,*****,25,,11-May-15,13-May-15,Tonkolili,Kafe Simiria
+2681,*****,33,F,12-May-15,19-May-15,Moyamba,Bumpeh
+2682,*****,29,M,12-May-15,16-May-15,Western Urban,Freetowm
+2683,*****,3,F,12-May-15,14-May-15,Port Loko,Marampa
+2684,*****,,,12-May-15,14-May-15,Port Loko,Buya Romende
+2685,*****,47,M,13-May-15,16-May-15,Western Urban,Freetowm
+2686,*****,40,M,13-May-15,19-May-15,Bombali,Bombali Sebora
+2687,*****,40,M,13-May-15,16-May-15,Port Loko,Tms
+2688,*****,40,M,13-May-15,17-May-15,Port Loko,Tms
+2689,*****,,F,13-May-15,19-May-15,Port Loko,Kaffu Bullom
+2690,*****,,M,14-May-15,15-May-15,Moyamba,Kargboro
+2691,*****,0,M,14-May-15,21-May-15,Kono,Gbense
+2692,*****,90,F,14-May-15,21-May-15,Kono,Tankoro
+2693,*****,,F,14-May-15,21-May-15,Kono,Gbense
+2694,*****,,,14-May-15,21-May-15,Kono,Gbense
+2695,*****,,M,14-May-15,21-May-15,Pujehun,Pejeh
+2696,*****,91,M,14-May-15,15-May-15,Western Urban,Freetowm
+2697,*****,45,F,14-May-15,16-May-15,Western Urban,Freetowm
+2698,*****,45,M,14-May-15,22-May-15,Tonkolili,Gbonkolenken
+2699,*****,2,F,14-May-15,15-May-15,Port Loko,Sanda Magbolontor
+2700,*****,92,F,14-May-15,17-May-15,Port Loko,Tms
+2701,*****,,F,14-May-15,19-May-15,Port Loko,Kaffu Bullom
+2702,*****,92,F,14-May-15,16-May-15,Port Loko,Tms
+2703,*****,3,M,15-May-15,21-May-15,Kono,Gbense
+2704,*****,3,F,15-May-15,21-May-15,Pujehun,Sowa
+2705,*****,20,M,15-May-15,17-May-15,Western Urban,Freetowm
+2706,*****,62,M,15-May-15,17-May-15,Western Urban,Freetowm
+2707,*****,5,M,15-May-15,17-May-15,Western Rural,Waterloo
+2708,*****,,F,15-May-15,17-May-15,Western Urban,Freetowm
+2709,*****,1,F,15-May-15,17-May-15,Western Urban,Freetowm
+2710,*****,1,F,15-May-15,17-May-15,Western Urban,Freetowm
+2711,*****,1,M,15-May-15,17-May-15,Western Urban,Freetowm
+2712,*****,,M,15-May-15,17-May-15,Western Urban,Freetowm
+2713,*****,1,F,15-May-15,17-May-15,Western Urban,Freetowm
+2714,*****,25,F,15-May-15,18-May-15,Western Urban,Freetowm
+2715,*****,14,F,15-May-15,23-May-15,Tonkolili,Konike Barina
+2716,*****,30,M,15-May-15,25-May-15,Tonkolili,Kalansongoia
+2717,*****,10,F,15-May-15,16-May-15,Port Loko,Bkm
+2718,*****,,F,15-May-15,19-May-15,Port Loko,Kaffu Bullom
+2719,*****,,,16-May-15,21-May-15,Pujehun,Soro-Gbeima
+2720,*****,60,M,16-May-15,21-May-15,Kono,Sandor
+2721,*****,5,M,16-May-15,21-May-15,Kono,Gbense
+2722,*****,,F,16-May-15,17-May-15,Western Urban,Freetowm
+2723,*****,2,M,16-May-15,17-May-15,Western Rural,Waterloo
+2724,*****,1,F,16-May-15,30-May-15,Western Urban,Freetowm
+2725,*****,75,M,16-May-15,22-May-15,Western Urban,Freetowm
+2726,*****,4,F,16-May-15,21-May-15,Bombali,Bombali Sebora
+2727,*****,,M,16-May-15,28-May-15,Bombali,Tambakka
+2728,*****,,M,16-May-15,16-May-15,Port Loko,Bkm
+2729,*****,1,F,16-May-15,19-May-15,Port Loko,Kaffu Bullom
+2730,*****,40,F,17-May-15,19-May-15,Moyamba,Bumpeh
+2731,*****,1,F,17-May-15,21-May-15,Kono,Nimikoro
+2732,*****,1,M,17-May-15,24-May-15,Pujehun,Mano-Sakrim
+2733,*****,40,F,17-May-15,25-May-15,Kenema,Nongowa
+2734,*****,,M,17-May-15,19-May-15,Port Loko,Kaffu Bullom
+2735,*****,1,,17-May-15,19-May-15,Port Loko,Kaffu Bullom
+2736,*****,,F,18-May-15,2-Jun-15,Pujehun,Sowa
+2737,*****,29,M,18-May-15,27-May-15,Western Rural,Waterloo
+2738,*****,,F,18-May-15,19-May-15,Bombali,Bombali Sebora
+2739,*****,5,M,18-May-15,23-May-15,Bo,Valunia
+2740,*****,13,M,18-May-15,25-May-15,Tonkolili,Kalansongoia
+2741,*****,1,M,18-May-15,19-May-15,Port Loko,Kaffu Bullom
+2742,*****,65,F,18-May-15,19-May-15,Port Loko,Kaffu Bullom
+2743,*****,38,F,19-May-15,22-May-15,Moyamba,Kaiyamba
+2744,*****,85,M,19-May-15,27-May-15,Moyamba,Kowa
+2745,*****,26,F,19-May-15,22-May-15,Moyamba,Kaiyamba
+2746,*****,2,F,19-May-15,2-Jun-15,Pujehun,Gallinas-Perri
+2747,*****,,F,19-May-15,22-May-15,Western Urban,Freetowm
+2748,*****,35,F,19-May-15,17-Jun-15,Western Rural,Waterloo
+2749,*****,2,,20-May-15,27-May-15,Bonthe,Dema
+2750,*****,40,M,20-May-15,4-Jun-15,Moyamba,Timidale
+2751,*****,25,M,20-May-15,6-Jun-15,Moyamba,Bumpeh
+2752,*****,35,F,20-May-15,24-May-15,Western Urban,Freetowm
+2753,*****,,F,20-May-15,25-May-15,Western Urban,Freetowm
+2754,*****,26,F,20-May-15,28-May-15,Western Urban,Freetowm
+2755,*****,5,F,20-May-15,25-May-15,Tonkolili,Kafe Simiria
+2756,*****,35,F,20-May-15,28-May-15,Bombali,Sella Limba
+2757,*****,50,M,20-May-15,24-May-15,Port Loko,Marampa
+2758,*****,58,F,21-May-15,24-May-15,Bo,Komboya
+2759,*****,30,M,21-May-15,23-May-15,Western Urban,Freetowm
+2760,*****,2,M,21-May-15,28-May-15,Western Urban,Freetowm
+2761,*****,,F,21-May-15,25-May-15,Tonkolili,Tane
+2762,*****,,M,21-May-15,25-May-15,Tonkolili,Kholifa
+2763,*****,9,F,21-May-15,25-May-15,Tonkolili,Kholifa
+2764,*****,1,F,21-May-15,28-May-15,Bombali,Tambakka
+2765,*****,14,M,21-May-15,28-May-15,Bombali,Bombali Sebora
+2766,*****,18,M,21-May-15,28-May-15,Bombali,Sella Limba
+2767,*****,3,F,21-May-15,28-May-15,Bombali,Sanda Loko
+2768,*****,1,F,22-May-15,24-May-15,Moyamba,Bumpeh
+2769,*****,45,F,22-May-15,24-May-15,Kenema,Nongowa
+2770,*****,2,M,22-May-15,27-May-15,Kailahun,Luawa
+2771,*****,30,F,22-May-15,29-May-15,Western Urban,Freetowm
+2772,*****,2,F,22-May-15,24-May-15,Tonkolili,Konike Barina
+2773,*****,44,M,22-May-15,25-May-15,Tonkolili,Gbonkolenken
+2774,*****,6,M,22-May-15,25-May-15,Tonkolili,Gbonkolenken
+2775,*****,31,F,22-May-15,28-May-15,Bombali,Bombali Sebora
+2776,*****,,,22-May-15,28-May-15,Bombali,Bombali Sebora
+2777,*****,49,M,23-May-15,23-May-15,Western Urban,Freetowm
+2778,*****,28,F,23-May-15,23-May-15,Western Urban,Freetowm
+2779,*****,2,M,23-May-15,30-May-15,Western Urban,Freetowm
+2780,*****,16,F,23-May-15,30-May-15,Western Urban,Freetowm
+2781,*****,70,F,23-May-15,24-May-15,Western Urban,Freetowm
+2782,*****,,M,23-May-15,25-May-15,Tonkolili,Gbonkolenken
+2783,*****,,M,23-May-15,25-May-15,Tonkolili,Gbonkolenken
+2784,*****,1,F,23-May-15,25-May-15,Port Loko,Tms
+2785,*****,1,M,23-May-15,28-May-15,Port Loko,Buya Romende
+2786,*****,42,M,24-May-15,27-May-15,Kenema,Nongowa
+2787,*****,65,M,24-May-15,24-May-15,Western Urban,Freetowm
+2788,*****,45,F,24-May-15,24-May-15,Western Urban,Freetowm
+2789,*****,1,M,24-May-15,28-May-15,Port Loko,Buya Romende
+2790,*****,,M,25-May-15,1-Jun-15,Bonthe,Dema
+2791,*****,,F,25-May-15,30-May-15,Bonthe,Bum
+2792,*****,,M,25-May-15,29-May-15,Moyamba,Bagruwa
+2793,*****,45,M,25-May-15,1-Jun-15,Kenema,Lower Bambara
+2794,*****,1,F,25-May-15,28-May-15,Western Urban,Freetowm
+2795,*****,10,M,25-May-15,30-May-15,Western Urban,Freetowm
+2796,*****,6,F,25-May-15,30-May-15,Western Urban,Freetowm
+2797,*****,5,M,25-May-15,2-Jun-15,Western Urban,Freetowm
+2798,*****,,M,25-May-15,26-May-15,Western Urban,Freetowm
+2799,*****,42,M,25-May-15,29-May-15,Western Rural,Waterloo
+2800,*****,1,F,25-May-15,28-May-15,Port Loko,Maforki
+2801,*****,,F,26-May-15,2-Jun-15,Pujehun,Sowa
+2802,*****,17,M,26-May-15,29-May-15,Moyamba,Timidale
+2803,*****,,M,26-May-15,30-May-15,Moyamba,Bagruwa
+2804,*****,40,M,26-May-15,28-May-15,Bo,Tikonko
+2805,*****,30,F,26-May-15,30-May-15,Bo,Kakua
+2806,*****,26,F,26-May-15,28-May-15,Western Urban,Freetowm
+2807,*****,1,M,26-May-15,28-May-15,Western Urban,Freetowm
+2808,*****,53,F,26-May-15,28-May-15,Western Urban,Freetowm
+2809,*****,16,F,26-May-15,28-May-15,Western Rural,Waterloo
+2810,*****,85,M,26-May-15,28-May-15,Kambia,Masungbala
+2811,*****,55,F,26-May-15,11-Jun-15,Kambia,Tonko Limba
+2812,*****,1,M,26-May-15,27-May-15,Port Loko,Marampa
+2813,*****,45,F,26-May-15,29-May-15,Port Loko,Kaffu Bullom
+2814,*****,58,F,27-May-15,2-Jun-15,Pujehun,Sowa
+2815,*****,,M,27-May-15,28-May-15,Western Urban,Freetowm
+2816,*****,1,M,27-May-15,30-May-15,Western Urban,Freetowm
+2817,*****,92,M,27-May-15,27-May-15,Western Urban,Freetowm
+2818,*****,,F,27-May-15,29-May-15,Port Loko,Kaffu Bullom
+2819,*****,88,F,27-May-15,29-May-15,Port Loko,Kaffu Bullom
+2820,*****,90,M,27-May-15,29-May-15,Port Loko,Kaffu Bullom
+2821,*****,80,F,27-May-15,6-Jun-15,Port Loko,Masimera
+2822,*****,1,M,28-May-15,2-Jun-15,Pujehun,Gallinas-Perri
+2823,*****,90,F,28-May-15,31-May-15,Moyamba,Kongbora
+2824,*****,2,M,28-May-15,3-Jun-15,Moyamba,Fakunya
+2825,*****,72,F,28-May-15,8-Jun-15,Moyamba,Bumpeh
+2826,*****,50,M,28-May-15,1-Jun-15,Pujehun,Mano-Sakrim
+2827,*****,35,F,28-May-15,29-May-15,Western Urban,Freetowm
+2828,*****,2,F,28-May-15,28-May-15,Western Urban,Freetowm
+2829,*****,2,M,28-May-15,30-May-15,Western Urban,Freetowm
+2830,*****,1,F,28-May-15,30-May-15,Western Urban,Freetowm
+2831,*****,2,F,28-May-15,31-May-15,Western Urban,Freetowm
+2832,*****,2,M,28-May-15,31-May-15,Western Rural,Waterloo
+2833,*****,1,M,28-May-15,4-Jun-15,Western Urban,Freetowm
+2834,*****,,M,28-May-15,29-May-15,Port Loko,Kaffu Bullom
+2835,*****,,M,28-May-15,29-May-15,Port Loko,Kaffu Bullom
+2836,*****,90,M,28-May-15,29-May-15,Port Loko,Kaffu Bullom
+2837,*****,1,M,29-May-15,6-Jun-15,Bonthe,Sogbini
+2838,*****,4,M,29-May-15,3-Jun-15,Kono,Gbense
+2839,*****,1,F,29-May-15,30-May-15,Western Urban,Freetowm
+2840,*****,75,F,30-May-15,31-May-15,Moyamba,Fakunya
+2841,*****,,M,30-May-15,2-Jun-15,Bo,Gbo
+2842,*****,,,30-May-15,30-May-15,Western Urban,Freetowm
+2843,*****,,M,30-May-15,30-May-15,Western Urban,Freetowm
+2844,*****,,M,30-May-15,31-May-15,Western Urban,Freetowm
+2845,*****,,M,30-May-15,31-May-15,Western Urban,Freetowm
+2846,*****,,M,30-May-15,31-May-15,Western Urban,Freetowm
+2847,*****,1,M,30-May-15,2-Jun-15,Western Urban,Freetowm
+2848,*****,,M,31-May-15,31-May-15,Western Urban,Freetowm
+2849,*****,14,F,31-May-15,2-Jun-15,Western Urban,Freetowm
+2850,*****,20,F,31-May-15,4-Jun-15,Port Loko,Marampa
+2851,*****,21,F,1-Jun-15,2-Jun-15,Bo,Kakua
+2852,*****,3,F,1-Jun-15,5-Jun-15,Bo,Valunia
+2853,*****,23,M,1-Jun-15,3-Jun-15,Western Urban,Freetowm
+2854,*****,46,M,1-Jun-15,3-Jun-15,Western Urban,Freetowm
+2855,*****,40,M,1-Jun-15,3-Jun-15,Western Urban,Freetowm
+2856,*****,3,F,1-Jun-15,2-Jun-15,Western Urban,Freetowm
+2857,*****,2,M,1-Jun-15,2-Jun-15,Western Urban,Freetowm
+2858,*****,6,F,1-Jun-15,2-Jun-15,Western Rural,Waterloo
+2859,*****,21,M,1-Jun-15,15-Jul-15,Western Rural,Waterloo
+2860,*****,,F,2-Jun-15,4-Jun-15,Bo,Jaiama Bongor
+2861,*****,65,F,2-Jun-15,1-Jul-15,Bo,Lugbu
+2862,*****,2,M,2-Jun-15,2-Jul-15,Bo,Komboya
+2863,*****,18,F,2-Jun-15,6-Jun-15,Bo,Kakua
+2864,*****,36,F,2-Jun-15,2-Jun-15,Western Urban,Freetowm
+2865,*****,45,M,2-Jun-15,12-Jun-15,Kambia,Masungbala
+2866,*****,72,M,2-Jun-15,29-Jun-15,Tonkolili,Yoni
+2867,*****,57,M,2-Jun-15,6-Jun-15,Port Loko,Maforki
+2868,*****,1,M,3-Jun-15,8-Jul-15,Kenema,Lower Bambara
+2869,*****,54,F,3-Jun-15,17-Jun-15,Western Urban,Freetowm
+2870,*****,6,M,3-Jun-15,17-Jun-15,Western Urban,Freetowm
+2871,*****,24,M,3-Jun-15,17-Jun-15,Western Rural,Waterloo
+2872,*****,32,M,3-Jun-15,6-Jun-15,Bombali,Bombali Sebora
+2873,*****,,F,3-Jun-15,11-Jun-15,Tonkolili,Gbonkolenken
+2874,*****,1,F,3-Jun-15,6-Jun-15,Port Loko,Masimera
+2875,*****,23,M,4-Jun-15,5-Jun-15,Bo,Kakua
+2876,*****,30,F,4-Jun-15,6-Jun-15,Kenema,Nongowa
+2877,*****,5,M,4-Jun-15,6-Jun-15,Moyamba,Bumpeh
+2878,*****,14,F,4-Jun-15,10-Jun-15,Kailahun,Jawie
+2879,*****,30,F,4-Jun-15,6-Jun-15,Port Loko,Masimera
+2880,*****,30,M,4-Jun-15,6-Jun-15,Port Loko,Masimera
+2881,*****,34,M,4-Jun-15,11-Jun-15,Port Loko,Marampa
+2882,*****,35,F,5-Jun-15,6-Jun-15,Kenema,Nongowa
+2883,*****,1,F,5-Jun-15,14-Jun-15,Moyamba,Banta Mokele
+2884,*****,70,M,5-Jun-15,12-Jun-15,Bo,Valunia
+2885,*****,,M,5-Jun-15,9-Jul-15,Kono,Tankoro
+2886,*****,70,F,5-Jun-15,15-Jul-15,Western Rural,Waterloo
+2887,*****,2,M,6-Jun-15,6-Jun-15,Bo,Valunia
+2888,*****,,M,6-Jun-15,10-Jun-15,Moyamba,Kargboro
+2889,*****,37,F,6-Jun-15,18-Jun-15,Bonthe,Jong
+2890,*****,30,F,6-Jun-15,12-Jun-15,Kambia,Samu
+2891,*****,,F,6-Jun-15,8-Jun-15,Port Loko,Tms
+2892,*****,1,M,6-Jun-15,10-Jun-15,Port Loko,Lokomasam
+2893,*****,45,M,6-Jun-15,10-Jun-15,Port Loko,Maforki
+2894,*****,78,M,7-Jun-15,11-Jun-15,Kambia,Tonko Limba
+2895,*****,1,M,7-Jun-15,11-Jun-15,Kambia,Tonko Limba
+2896,*****,35,M,7-Jun-15,11-Jun-15,Port Loko,Marampa
+2897,*****,4,F,8-Jun-15,13-Jun-15,Moyamba,Timidale
+2898,*****,55,F,8-Jun-15,23-Jun-15,Bonthe,Sogbini
+2899,*****,70,M,8-Jun-15,2-Jul-15,Moyamba,Kori
+2900,*****,70,F,8-Jun-15,11-Jun-15,Kambia,Gbinle-Dixing
+2901,*****,45,M,8-Jun-15,12-Jun-15,Kambia,Magbema
+2902,*****,,F,8-Jun-15,10-Jun-15,Port Loko,Maforki
+2903,*****,,M,8-Jun-15,10-Jun-15,Port Loko,Maforki
+2904,*****,2,,8-Jun-15,10-Jun-15,Port Loko,Bkm
+2905,*****,,F,8-Jun-15,11-Jun-15,Port Loko,Marampa
+2906,*****,1,M,8-Jun-15,11-Jun-15,Port Loko,Marampa
+2907,*****,1,F,9-Jun-15,11-Jun-15,Kambia,Bramaia
+2908,*****,70,M,10-Jun-15,15-Jun-15,Moyamba,Fakunya
+2909,*****,32,M,10-Jun-15,11-Jun-15,Bo,Kakua
+2910,*****,,M,10-Jun-15,12-Jun-15,Bo,Kakua
+2911,*****,,,10-Jun-15,15-Jun-15,Moyamba,Ribbi
+2912,*****,26,F,10-Jun-15,12-Jun-15,Kambia,Gbinle-Dixing
+2913,*****,50,F,10-Jun-15,12-Jun-15,Kambia,Gbinle-Dixing
+2914,*****,1,F,10-Jun-15,11-Jun-15,Port Loko,Dibia
+2915,*****,24,M,11-Jun-15,17-Jun-15,Moyamba,Ribbi
+2916,*****,28,M,11-Jun-15,13-Jun-15,Western Urban,Freetowm
+2917,*****,40,F,11-Jun-15,13-Jun-15,Western Urban,Freetowm
+2918,*****,10,M,11-Jun-15,12-Jun-15,Kambia,Gbinle-Dixing
+2919,*****,45,F,12-Jun-15,17-Jun-15,Western Urban,Freetowm
+2920,*****,2,F,13-Jun-15,19-Jun-15,Moyamba,Kargboro
+2921,*****,30,M,13-Jun-15,15-Jun-15,Western Urban,Freetowm
+2922,*****,73,M,13-Jun-15,17-Jun-15,Western Rural,Waterloo
+2923,*****,43,M,13-Jun-15,17-Jun-15,Western Urban,Freetowm
+2924,*****,20,F,14-Jun-15,16-Jun-15,Western Urban,Freetowm
+2925,*****,65,,14-Jun-15,18-Jun-15,Kambia,Gbinle-Dixing
+2926,*****,70,F,15-Jun-15,21-Jun-15,Moyamba,Bagruwa
+2927,*****,2,F,15-Jun-15,18-Jun-15,Kambia,Magbema
+2928,*****,,F,16-Jun-15,17-Jun-15,Western Urban,Freetowm
+2929,*****,,F,16-Jun-15,17-Jun-15,Western Rural,Waterloo
+2930,*****,,F,16-Jun-15,17-Jun-15,Western Urban,Freetowm
+2931,*****,,M,16-Jun-15,17-Jun-15,Western Urban,Freetowm
+2932,*****,,M,16-Jun-15,17-Jun-15,Western Urban,Freetowm
+2933,*****,,M,16-Jun-15,17-Jun-15,Western Urban,Freetowm
+2934,*****,,F,16-Jun-15,17-Jun-15,Western Urban,Freetowm
+2935,*****,,M,16-Jun-15,17-Jun-15,Western Urban,Freetowm
+2936,*****,,M,17-Jun-15,17-Jun-15,Western Urban,Freetowm
+2937,*****,,M,17-Jun-15,17-Jun-15,Western Rural,Waterloo
+2938,*****,,F,19-Jun-15,22-Jun-15,Moyamba,Dasse
+2939,*****,4,M,19-Jun-15,12-Jul-15,Pujehun,Gallinas-Perri
+2940,*****,,M,20-Jun-15,23-Jun-15,Moyamba,Dasse
+2941,*****,48,F,20-Jun-15,28-Jun-15,Moyamba,Fakunya
+2942,*****,75,F,20-Jun-15,9-Jul-15,Bo,Komboya
+2943,*****,40,M,20-Jun-15,20-Jul-15,Moyamba,Bumpeh
+2944,*****,65,F,20-Jun-15,23-Jun-15,Western Urban,Freetowm
+2945,*****,68,F,22-Jun-15,2-Jul-15,Bo,Gbo
+2946,*****,2,F,23-Jun-15,7-Jul-15,Bonthe,Bendu Cha
+2947,*****,21,F,23-Jun-15,9-Jul-15,Kenema,Lower Bambara
+2948,*****,45,M,23-Jun-15,26-Jun-15,Western Urban,Freetowm
+2949,*****,3,,23-Jun-15,10-Aug-15,Western Urban,Freetowm
+2950,*****,63,M,23-Jun-15,24-Jun-15,Western Urban,Freetowm
+2951,*****,65,F,24-Jun-15,26-Jun-15,Kenema,Nongowa
+2952,*****,1,F,24-Jun-15,29-Jun-15,Moyamba,Kori
+2953,*****,65,M,24-Jun-15,29-Jun-15,Bo,Kakua
+2954,*****,15,F,24-Jun-15,28-Jun-15,Western Urban,Freetowm
+2955,*****,38,F,24-Jun-15,28-Jun-15,Western Urban,Freetowm
+2956,*****,85,M,24-Jun-15,27-Jun-15,Kono,Mafindor
+2957,*****,40,F,24-Jun-15,29-Jun-15,Tonkolili,Kalansongoia
+2958,*****,,M,24-Jun-15,29-Jun-15,Tonkolili,Konike Barina
+2959,*****,60,M,24-Jun-15,29-Jun-15,Tonkolili,Kholifa
+2960,*****,,F,24-Jun-15,29-Jun-15,Tonkolili,Konike Barina
+2961,*****,2,F,25-Jun-15,29-Jun-15,Bo,Kakua
+2962,*****,80,M,25-Jun-15,10-Jul-15,Kenema,Lower Bambara
+2963,*****,,,27-Jun-15,30-Jun-15,Bo,Jaiama Bongor
+2964,*****,1,M,27-Jun-15,7-Jul-15,Bonthe,Bum
+2965,*****,75,M,27-Jun-15,5-Jul-15,Kenema,Lower Bambara
+2966,*****,3,M,28-Jun-15,30-Jun-15,Moyamba,Bumpeh
+2967,*****,6,F,28-Jun-15,3-Jul-15,Pujehun,Soro-Gbeima
+2968,*****,65,M,28-Jun-15,30-Jun-15,Kono,Fiama
+2969,*****,27,F,28-Jun-15,30-Jun-15,Western Urban,Freetowm
+2970,*****,35,M,28-Jun-15,1-Jul-15,Western Urban,Freetowm
+2971,*****,22,F,28-Jun-15,14-Jul-15,Kambia,Samu
+2972,*****,50,M,29-Jun-15,1-Jul-15,Bo,Kakua
+2973,*****,1,F,29-Jun-15,2-Jul-15,Moyamba,Bumpeh
+2974,*****,16,F,30-Jun-15,3-Jul-15,Kenema,Simbaru
+2975,*****,,M,1-Jul-15,3-Jul-15,Moyamba,Fakunya
+2976,*****,,M,1-Jul-15,3-Jul-15,Moyamba,Kargboro
+2977,*****,1,M,1-Jul-15,3-Jul-15,Moyamba,Bumpeh
+2978,*****,1,M,1-Jul-15,6-Jul-15,Moyamba,Bagruwa
+2979,*****,,F,1-Jul-15,12-Jul-15,Pujehun,Barri
+2980,*****,40,M,1-Jul-15,12-Jul-15,Pujehun,Soro-Gbeima
+2981,*****,,F,1-Jul-15,3-Jul-15,Kono,Kamara
+2982,*****,33,M,1-Jul-15,5-Jul-15,Western Rural,Waterloo
+2983,*****,7,F,1-Jul-15,15-Jul-15,Western Rural,Waterloo
+2984,*****,1,F,1-Jul-15,15-Jul-15,Western Rural,Waterloo
+2985,*****,3,F,2-Jul-15,4-Jul-15,Kenema,Lower Bambara
+2986,*****,,M,2-Jul-15,8-Jul-15,Bonthe,Sogbini
+2987,*****,,M,2-Jul-15,12-Jul-15,Pujehun,Soro-Gbeima
+2988,*****,35,M,2-Jul-15,24-Jul-15,Kenema,Dodo
+2989,*****,,F,2-Jul-15,4-Jul-15,Kono,Sandor
+2990,*****,,M,2-Jul-15,5-Jul-15,Kono,Soa
+2991,*****,73,F,3-Jul-15,10-Jul-15,Moyamba,Bumpeh
+2992,*****,,F,3-Jul-15,6-Jul-15,Moyamba,Kaiyamba
+2993,*****,24,M,3-Jul-15,29-Jul-15,Kambia,Tonko Limba
+2994,*****,60,M,3-Jul-15,6-Jul-15,Kambia,Tonko Limba
+2995,*****,42,M,3-Jul-15,7-Jul-15,Port Loko,Sanda Magbolontor
+2996,*****,,F,4-Jul-15,6-Jul-15,Moyamba,Bumpeh
+2997,*****,40,M,4-Jul-15,6-Jul-15,Kenema,Lower Bambara
+2998,*****,1,F,4-Jul-15,6-Jul-15,Kenema,Simbaru
+2999,*****,30,M,4-Jul-15,10-Jul-15,Kenema,Dodo
+3000,*****,85,F,4-Jul-15,10-Jul-15,Kenema,Gaura
+3001,*****,,M,5-Jul-15,6-Jul-15,Bo,Kakua
+3002,*****,45,F,5-Jul-15,7-Jul-15,Kenema,Nongowa
+3003,*****,35,F,5-Jul-15,17-Jul-15,Moyamba,Kargboro
+3004,*****,72,M,6-Jul-15,8-Jul-15,Moyamba,Bumpeh
+3005,*****,2,F,6-Jul-15,12-Jul-15,Moyamba,Bagruwa
+3006,*****,65,M,6-Jul-15,8-Jul-15,Kono,Tankoro
+3007,*****,4,F,6-Jul-15,9-Jul-15,Kono,Sandor
+3008,*****,74,F,7-Jul-15,12-Jul-15,Kailahun,Peje Bongre
+3009,*****,45,F,7-Jul-15,12-Jul-15,Kailahun,Peje Bongre
+3010,*****,1,M,7-Jul-15,8-Jul-15,Kenema,Lower Bambara
+3011,*****,,M,7-Jul-15,9-Jul-15,Moyamba,Kaiyamba
+3012,*****,70,M,7-Jul-15,14-Jul-15,Moyamba,Ribbi
+3013,*****,80,F,7-Jul-15,28-Jul-15,Moyamba,Kaiyamba
+3014,*****,,M,8-Jul-15,13-Jul-15,Moyamba,Kargboro
+3015,*****,76,F,8-Jul-15,10-Jul-15,Bo,Kakua
+3016,*****,,F,8-Jul-15,11-Jul-15,Western Urban,Freetowm
+3017,*****,,F,9-Jul-15,18-Jul-15,Bonthe,Imperi
+3018,*****,,M,9-Jul-15,19-Jul-15,Moyamba,Kori
+3019,*****,30,M,9-Jul-15,31-Jul-15,Kenema,Nongowa
+3020,*****,65,F,10-Jul-15,14-Jul-15,Moyamba,Fakunya
+3021,*****,1,F,10-Jul-15,18-Jul-15,Bonthe,Dema
+3022,*****,72,F,10-Jul-15,23-Jul-15,Bonthe,Bum
+3023,*****,82,M,10-Jul-15,23-Jul-15,Bonthe,Jong
+3024,*****,70,F,10-Jul-15,28-Jul-15,Moyamba,Bagruwa
+3025,*****,74,M,10-Jul-15,15-Jul-15,Western Rural,Waterloo
+3026,*****,1,F,10-Jul-15,15-Jul-15,Western Rural,Waterloo
+3027,*****,65,M,11-Jul-15,12-Jul-15,Kenema,Gaura
+3028,*****,90,M,11-Jul-15,20-Jul-15,Kono,Tankoro
+3029,*****,,F,12-Jul-15,14-Jul-15,Kenema,Lower Bambara
+3030,*****,85,M,12-Jul-15,14-Jul-15,Kenema,Dodo
+3031,*****,75,F,12-Jul-15,16-Jul-15,Kenema,Malegohun
+3032,*****,59,F,12-Jul-15,17-Jul-15,Moyamba,Dasse
+3033,*****,85,F,12-Jul-15,19-Jul-15,Moyamba,Dasse
+3034,*****,77,M,12-Jul-15,31-Jul-15,Bo,Bagbo
+3035,*****,59,M,12-Jul-15,3-Aug-15,Moyamba,Kargboro
+3036,*****,3,F,12-Jul-15,15-Jul-15,Western Rural,Waterloo
+3037,*****,27,F,13-Jul-15,14-Jul-15,Kenema,Nongowa
+3038,*****,,F,13-Jul-15,24-Jul-15,Kenema,Dodo
+3039,*****,1,M,13-Jul-15,17-Jul-15,Moyamba,Ribbi
+3040,*****,50,M,13-Jul-15,31-Jul-15,Kenema,Lower Bambara
+3041,*****,6,M,13-Jul-15,15-Jul-15,Western Rural,Waterloo
+3042,*****,0,M,13-Jul-15,15-Jul-15,Western Rural,Waterloo
+3043,*****,1,M,14-Jul-15,15-Jul-15,Bo,Bagbwe
+3044,*****,,F,14-Jul-15,23-Jul-15,Pujehun,Makpele
+3045,*****,2,F,15-Jul-15,31-Jul-15,Kenema,Lower Bambara
+3046,*****,48,M,15-Jul-15,18-Aug-15,Western Urban,Freetowm
+3047,*****,4,F,15-Jul-15,20-Jul-15,Kono,Sandor
+3048,*****,53,M,15-Jul-15,27-Jul-15,Kono,Gorama Kono
+3049,*****,,F,15-Jul-15,19-Jul-15,Port Loko,Maforki
+3050,*****,4,M,15-Jul-15,1-Sep-15,Bombali,Makari Gbanti
+3051,*****,42,M,16-Jul-15,21-Jul-15,Bo,Kakua
+3052,*****,32,F,16-Jul-15,31-Jul-15,Pujehun,Sowa
+3053,*****,,F,16-Jul-15,31-Jul-15,Bo,Tikonko
+3054,*****,30,F,17-Jul-15,19-Jul-15,Western Urban,Freetowm
+3055,*****,1,M,17-Jul-15,23-Jul-15,Bonthe,Kpanda Kemo
+3056,*****,90,F,17-Jul-15,31-Jul-15,Pujehun,Malen
+3057,*****,,,17-Jul-15,23-Jul-15,Pujehun,Gallinas-Perri
+3058,*****,28,F,17-Jul-15,19-Jul-15,Western Urban,Freetowm
+3059,*****,3,M,17-Jul-15,20-Jul-15,Kono,Sandor
+3060,*****,,M,18-Jul-15,20-Jul-15,Moyamba,Bumpeh
+3061,*****,,M,18-Jul-15,23-Jul-15,Moyamba,Kargboro
+3062,*****,1,M,18-Jul-15,24-Jul-15,Moyamba,Bumpeh
+3063,*****,72,F,18-Jul-15,28-Jul-15,Bo,Kakua
+3064,*****,60,M,18-Jul-15,28-Jul-15,Moyamba,Banta Gbangbatote
+3065,*****,17,F,18-Jul-15,21-Jul-15,Western Urban,Freetowm
+3066,*****,,F,19-Jul-15,23-Jul-15,Kenema,Nongowa
+3067,*****,40,F,19-Jul-15,25-Jul-15,Moyamba,Fakunya
+3068,*****,80,F,19-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3069,*****,1,M,19-Jul-15,28-Jul-15,Moyamba,Kargboro
+3070,*****,70,M,19-Jul-15,28-Jul-15,Moyamba,Kamajei
+3071,*****,70,F,19-Jul-15,29-Jul-15,Moyamba,Dasse
+3072,*****,80,M,19-Jul-15,5-Aug-15,Western Urban,Freetowm
+3073,*****,6,M,20-Jul-15,31-Jul-15,Pujehun,Sowa
+3074,*****,35,M,20-Jul-15,28-Jul-15,Moyamba,Bagruwa
+3075,*****,4,M,20-Jul-15,28-Jul-15,Moyamba,Bumpeh
+3076,*****,1,F,20-Jul-15,28-Jul-15,Moyamba,Bumpeh
+3077,*****,30,F,20-Jul-15,28-Jul-15,Moyamba,Bumpeh
+3078,*****,1,F,20-Jul-15,29-Jul-15,Moyamba,Bagruwa
+3079,*****,3,F,20-Jul-15,31-Jul-15,Kenema,Lower Bambara
+3080,*****,1,F,20-Jul-15,31-Jul-15,Kenema,Simbaru
+3081,*****,85,F,20-Jul-15,31-Jul-15,Bo,Wunde
+3082,*****,,M,20-Jul-15,31-Jul-15,Kenema,Nongowa
+3083,*****,75,M,20-Jul-15,1-Aug-15,Bo,Kakua
+3084,*****,70,F,20-Jul-15,8-Aug-15,Bo,Jaiama Bongor
+3085,*****,38,F,20-Jul-15,27-Jul-15,Western Urban,Freetowm
+3086,*****,7,M,20-Jul-15,29-Jul-15,Kono,Tankoro
+3087,*****,,M,20-Jul-15,22-Jul-15,Kambia,Gbinle-Dixing
+3088,*****,32,M,21-Jul-15,23-Jul-15,Moyamba,Kaiyamba
+3089,*****,65,F,21-Jul-15,23-Jul-15,Bo,Kakua
+3090,*****,3,F,21-Jul-15,23-Jul-15,Kenema,Lower Bambara
+3091,*****,21,F,21-Jul-15,24-Jul-15,Moyamba,Kaiyamba
+3092,*****,2,M,21-Jul-15,28-Jul-15,Bo,Valunia
+3093,*****,40,M,21-Jul-15,22-Jul-15,Kono,Tankoro
+3094,*****,62,M,21-Jul-15,26-Jul-15,Bombali,Bombali Sebora
+3095,*****,67,M,22-Jul-15,31-Jul-15,Pujehun,Barri
+3096,*****,25,M,22-Jul-15,26-Jul-15,Moyamba,Bumpeh
+3097,*****,2,M,22-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3098,*****,2,F,22-Jul-15,28-Jul-15,Moyamba,Kargboro
+3099,*****,,F,22-Jul-15,28-Jul-15,Moyamba,Bagruwa
+3100,*****,1,F,22-Jul-15,28-Jul-15,Moyamba,Kaiyamba
+3101,*****,,F,22-Jul-15,31-Jul-15,Bo,Lugbu
+3102,*****,13,M,22-Jul-15,28-Jul-15,Kenema,Malegohun
+3103,*****,3,F,23-Jul-15,28-Jul-15,Bo,Baoma
+3104,*****,85,F,23-Jul-15,28-Jul-15,Bo,Gbo
+3105,*****,70,F,23-Jul-15,28-Jul-15,Bo,Tikonko
+3106,*****,,F,23-Jul-15,27-Jul-15,Moyamba,Kori
+3107,*****,,F,23-Jul-15,31-Jul-15,Pujehun,Barri
+3108,*****,70,M,23-Jul-15,31-Jul-15,Pujehun,Barri
+3109,*****,,,23-Jul-15,31-Jul-15,Pujehun,Malen
+3110,*****,1,M,23-Jul-15,28-Jul-15,Moyamba,Bagruwa
+3111,*****,10,F,23-Jul-15,28-Jul-15,Moyamba,Banta Gbangbatote
+3112,*****,,F,23-Jul-15,28-Jul-15,Moyamba,Kargboro
+3113,*****,30,F,23-Jul-15,28-Jul-15,Moyamba,Bagruwa
+3114,*****,,M,23-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3115,*****,70,M,23-Jul-15,28-Jul-15,Kenema,Nongowa
+3116,*****,16,F,23-Jul-15,31-Jul-15,Moyamba,Kori
+3117,*****,20,F,23-Jul-15,31-Jul-15,Pujehun,Makpele
+3118,*****,1,F,23-Jul-15,31-Jul-15,Bo,Baoma
+3119,*****,1,F,23-Jul-15,28-Jul-15,Kailahun,Njaluahun
+3120,*****,60,M,23-Jul-15,28-Jul-15,Moyamba,Ribbi
+3121,*****,,F,23-Jul-15,31-Jul-15,Pujehun,Sowa
+3122,*****,22,M,23-Jul-15,26-Jul-15,Kono,Sandor
+3123,*****,80,M,24-Jul-15,31-Jul-15,Pujehun,Malen
+3124,*****,35,F,24-Jul-15,31-Jul-15,Pujehun,Sowa
+3125,*****,72,F,24-Jul-15,31-Jul-15,Pujehun,Gallinas-Perri
+3126,*****,55,M,24-Jul-15,31-Jul-15,Pujehun,Pejeh
+3127,*****,57,M,24-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3128,*****,2,M,24-Jul-15,27-Jul-15,Moyamba,Bumpeh
+3129,*****,2,M,24-Jul-15,28-Jul-15,Bo,Gbo
+3130,*****,,F,24-Jul-15,28-Jul-15,Moyamba,Kargboro
+3131,*****,1,M,24-Jul-15,28-Jul-15,Moyamba,Kargboro
+3132,*****,79,,24-Jul-15,28-Jul-15,Moyamba,Kargboro
+3133,*****,73,F,24-Jul-15,31-Jul-15,Kenema,Lower Bambara
+3134,*****,1,M,24-Jul-15,28-Jul-15,Bo,Bumpe Ngawo
+3135,*****,3,M,24-Jul-15,28-Jul-15,Bo,Badjia
+3136,*****,1,F,24-Jul-15,28-Jul-15,Bo,Lugbu
+3137,*****,,M,24-Jul-15,28-Jul-15,Bo,Bumpe Ngawo
+3138,*****,4,M,24-Jul-15,28-Jul-15,Bo,Bumpe Ngawo
+3139,*****,1,F,24-Jul-15,28-Jul-15,Kenema,Lower Bambara
+3140,*****,,M,24-Jul-15,28-Jul-15,Kenema,Malegohun
+3141,*****,2,M,24-Jul-15,28-Jul-15,Moyamba,Banta Mokele
+3142,*****,70,F,24-Jul-15,31-Jul-15,Bo,Valunia
+3143,*****,51,F,24-Jul-15,31-Jul-15,Bo,Kakua
+3144,*****,26,M,24-Jul-15,26-Jul-15,Western Urban,Freetowm
+3145,*****,32,M,24-Jul-15,26-Jul-15,Western Urban,Freetowm
+3146,*****,15,M,25-Jul-15,30-Jul-15,Moyamba,Bumpeh
+3147,*****,25,M,25-Jul-15,31-Jul-15,Kenema,Nongowa
+3148,*****,1,F,25-Jul-15,28-Jul-15,Moyamba,Kargboro
+3149,*****,17,M,25-Jul-15,28-Jul-15,Moyamba,Kargboro
+3150,*****,,F,25-Jul-15,28-Jul-15,Moyamba,Bagruwa
+3151,*****,2,M,25-Jul-15,28-Jul-15,Kailahun,Jawie
+3152,*****,10,M,25-Jul-15,28-Jul-15,Bo,Jaiama Bongor
+3153,*****,,M,25-Jul-15,28-Jul-15,Bo,Bumpe Ngawo
+3154,*****,5,M,25-Jul-15,28-Jul-15,Bo,Gbo
+3155,*****,1,F,25-Jul-15,28-Jul-15,Bo,Tikonko
+3156,*****,2,F,25-Jul-15,28-Jul-15,Bo,Kakua
+3157,*****,45,F,25-Jul-15,28-Jul-15,Bo,Kakua
+3158,*****,17,F,25-Jul-15,28-Jul-15,Bo,Kakua
+3159,*****,45,M,25-Jul-15,28-Jul-15,Kenema,Gaura
+3160,*****,2,M,25-Jul-15,28-Jul-15,Kenema,Nongowa
+3161,*****,2,F,25-Jul-15,28-Jul-15,Kenema,Nongowa
+3162,*****,40,M,25-Jul-15,28-Jul-15,Kenema,Small Bo
+3163,*****,,F,25-Jul-15,28-Jul-15,Moyamba,Kargboro
+3164,*****,49,F,25-Jul-15,28-Jul-15,Moyamba,Bumpeh
+3165,*****,1,M,25-Jul-15,31-Jul-15,Pujehun,Mano-Sakrim
+3166,*****,,F,25-Jul-15,31-Jul-15,Pujehun,Malen
+3167,*****,39,F,25-Jul-15,31-Jul-15,Moyamba,Fakunya
+3168,*****,1,M,25-Jul-15,31-Jul-15,Bo,Lugbu
+3169,*****,72,F,25-Jul-15,31-Jul-15,Bo,Kakua
+3170,*****,6,F,25-Jul-15,31-Jul-15,Kenema,Nongowa
+3171,*****,4,F,25-Jul-15,27-Jul-15,Western Urban,Freetowm
+3172,*****,1,M,25-Jul-15,30-Jul-15,Port Loko,Koya
+3173,*****,45,F,26-Jul-15,31-Jul-15,Bo,Tikonko
+3174,*****,70,F,26-Jul-15,31-Jul-15,Bo,Valunia
+3175,*****,,F,26-Jul-15,31-Jul-15,Pujehun,Sowa
+3176,*****,40,,26-Jul-15,27-Jul-15,Bo,Komboya
+3177,*****,,F,26-Jul-15,28-Jul-15,Kenema,Niawa
+3178,*****,,F,26-Jul-15,31-Jul-15,Pujehun,Malen
+3179,*****,,M,26-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3180,*****,1,M,26-Jul-15,28-Jul-15,Bo,Tikonko
+3181,*****,8,,26-Jul-15,28-Jul-15,Bo,Lugbu
+3182,*****,,M,26-Jul-15,28-Jul-15,Bo,Lugbu
+3183,*****,,F,26-Jul-15,28-Jul-15,Bo,Lugbu
+3184,*****,,F,26-Jul-15,28-Jul-15,Bo,Baoma
+3185,*****,82,M,26-Jul-15,28-Jul-15,Bo,Tikonko
+3186,*****,3,F,26-Jul-15,28-Jul-15,Bo,Gbo
+3187,*****,,F,26-Jul-15,28-Jul-15,Bo,Tikonko
+3188,*****,1,F,26-Jul-15,28-Jul-15,Bo,Kakua
+3189,*****,,F,26-Jul-15,28-Jul-15,Bo,Kakua
+3190,*****,72,F,26-Jul-15,28-Jul-15,Kenema,Nongowa
+3191,*****,1,M,26-Jul-15,28-Jul-15,Kenema,Lower Bambara
+3192,*****,85,M,26-Jul-15,28-Jul-15,Kenema,Lower Bambara
+3193,*****,1,F,26-Jul-15,28-Jul-15,Kenema,Small Bo
+3194,*****,45,M,26-Jul-15,28-Jul-15,Moyamba,Kargboro
+3195,*****,,M,26-Jul-15,28-Jul-15,Moyamba,Bagruwa
+3196,*****,1,F,26-Jul-15,28-Jul-15,Moyamba,Bumpeh
+3197,*****,,M,26-Jul-15,28-Jul-15,Moyamba,Bagruwa
+3198,*****,1,M,26-Jul-15,31-Jul-15,Pujehun,Gallinas-Perri
+3199,*****,,F,26-Jul-15,31-Jul-15,Pujehun,Gallinas-Perri
+3200,*****,2,F,26-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3201,*****,42,M,26-Jul-15,31-Jul-15,Moyamba,Kargboro
+3202,*****,68,M,26-Jul-15,31-Jul-15,Moyamba,Kargboro
+3203,*****,15,M,26-Jul-15,31-Jul-15,Moyamba,Kargboro
+3204,*****,3,,26-Jul-15,31-Jul-15,Moyamba,Kori
+3205,*****,2,M,26-Jul-15,31-Jul-15,Bo,Jaiama Bongor
+3206,*****,27,M,26-Jul-15,31-Jul-15,Kenema,Lower Bambara
+3207,*****,50,M,27-Jul-15,31-Jul-15,Moyamba,Bagruwa
+3208,*****,,M,27-Jul-15,31-Jul-15,Pujehun,Pejeh
+3209,*****,,M,27-Jul-15,28-Jul-15,Bo,Gbo
+3210,*****,1,F,27-Jul-15,28-Jul-15,Bo,Bumpe Ngawo
+3211,*****,,M,27-Jul-15,28-Jul-15,Bo,Gbo
+3212,*****,,F,27-Jul-15,28-Jul-15,Bo,Kakua
+3213,*****,55,M,27-Jul-15,28-Jul-15,Bo,Bumpe Ngawo
+3214,*****,48,M,27-Jul-15,28-Jul-15,Bo,Kakua
+3215,*****,1,F,27-Jul-15,28-Jul-15,Bo,Gbo
+3216,*****,1,,27-Jul-15,28-Jul-15,Kenema,Small Bo
+3217,*****,75,M,27-Jul-15,31-Jul-15,Pujehun,Malen
+3218,*****,18,F,27-Jul-15,31-Jul-15,Pujehun,Sowa
+3219,*****,1,M,27-Jul-15,31-Jul-15,Pujehun,Malen
+3220,*****,60,M,27-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3221,*****,,F,27-Jul-15,31-Jul-15,Bo,Jaiama Bongor
+3222,*****,1,F,27-Jul-15,31-Jul-15,Kenema,Lower Bambara
+3223,*****,1,M,27-Jul-15,3-Aug-15,Kono,Nimikoro
+3224,*****,,M,28-Jul-15,30-Jul-15,Moyamba,Bumpeh
+3225,*****,45,M,28-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3226,*****,,M,28-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3227,*****,,F,28-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3228,*****,75,F,28-Jul-15,31-Jul-15,Pujehun,Kpaka
+3229,*****,,F,28-Jul-15,31-Jul-15,Moyamba,Kargboro
+3230,*****,1,M,28-Jul-15,31-Jul-15,Bo,Baoma
+3231,*****,15,M,28-Jul-15,31-Jul-15,Kenema,Dama
+3232,*****,85,F,28-Jul-15,31-Jul-15,Kenema,Dama
+3233,*****,55,M,28-Jul-15,3-Aug-15,Kono,Gbense
+3234,*****,,F,28-Jul-15,29-Jul-15,Port Loko,Maforki
+3235,*****,50,F,29-Jul-15,5-Aug-15,Kenema,Nongowa
+3236,*****,7,M,29-Jul-15,31-Jul-15,Moyamba,Kori
+3237,*****,72,M,29-Jul-15,31-Jul-15,Moyamba,Kaiyamba
+3238,*****,,M,29-Jul-15,31-Jul-15,Pujehun,Kpanga Kabonde
+3239,*****,,F,29-Jul-15,31-Jul-15,Bo,Jaiama Bongor
+3240,*****,,F,29-Jul-15,31-Jul-15,Bo,Lugbu
+3241,*****,1,M,29-Jul-15,31-Jul-15,Bo,Lugbu
+3242,*****,1,M,29-Jul-15,31-Jul-15,Bo,Baoma
+3243,*****,,M,29-Jul-15,31-Jul-15,Bo,Bumpe Ngawo
+3244,*****,42,M,29-Jul-15,31-Jul-15,Moyamba,Fakunya
+3245,*****,26,F,29-Jul-15,31-Jul-15,Moyamba,Kaiyamba
+3246,*****,31,F,29-Jul-15,31-Jul-15,Kenema,Nongowa
+3247,*****,,,29-Jul-15,3-Aug-15,Kono,Nimikoro
+3248,*****,2,F,29-Jul-15,8-Aug-15,Bo,Baoma
+3249,*****,28,M,29-Jul-15,3-Aug-15,Kono,Gbense
+3250,*****,,M,29-Jul-15,4-Aug-15,Kono,Tankoro
+3251,*****,1,M,29-Jul-15,4-Aug-15,Kono,Tankoro
+3252,*****,31,M,29-Jul-15,1-Sep-15,Bombali,Bombali Sebora
+3253,*****,,M,30-Jul-15,31-Jul-15,Bo,Gbo
+3254,*****,8,F,30-Jul-15,31-Jul-15,Bo,Kakua
+3255,*****,2,M,30-Jul-15,31-Jul-15,Bo,Tikonko
+3256,*****,1,M,30-Jul-15,31-Jul-15,Bo,Kakua
+3257,*****,50,F,30-Jul-15,31-Jul-15,Bo,Bumpe Ngawo
+3258,*****,50,F,30-Jul-15,31-Jul-15,Kailahun,Njaluahun
+3259,*****,1,F,30-Jul-15,31-Jul-15,Kailahun,Njaluahun
+3260,*****,80,F,30-Jul-15,31-Jul-15,Kailahun,Njaluahun
+3261,*****,80,M,30-Jul-15,31-Jul-15,Kenema,Nongowa
+3262,*****,,F,30-Jul-15,1-Aug-15,Moyamba,Kamajei
+3263,*****,50,M,30-Jul-15,3-Aug-15,Bo,Kakua
+3264,*****,,F,30-Jul-15,11-Aug-15,Pujehun,Kpanga Kabonde
+3265,*****,25,M,30-Jul-15,31-Jul-15,Kailahun,Jawie
+3266,*****,2,M,30-Jul-15,3-Aug-15,Kono,Nimikoro
+3267,*****,2,M,30-Jul-15,4-Aug-15,Kono,Tankoro
+3268,*****,41,M,30-Jul-15,2-Aug-15,Western Urban,Freetowm
+3269,*****,9,M,30-Jul-15,2-Aug-15,Western Urban,Freetowm
+3270,*****,,F,31-Jul-15,3-Aug-15,Kono,Nimikoro
+3271,*****,2,F,31-Jul-15,3-Aug-15,Kono,Lei
+3272,*****,55,M,31-Jul-15,3-Aug-15,Bo,Kakua
+3273,*****,65,F,31-Jul-15,8-Aug-15,Kenema,Nongowa
+3274,*****,60,M,31-Jul-15,4-Aug-15,Kono,Nimiyama
+3275,*****,1,F,31-Jul-15,31-Jul-15,Port Loko,Marampa
+3276,*****,54,M,1-Aug-15,3-Aug-15,Kono,Tankoro
+3277,*****,1,M,1-Aug-15,4-Aug-15,Bo,Valunia
+3278,*****,23,M,1-Aug-15,2-Aug-15,Western Urban,Freetowm
+3279,*****,10,M,1-Aug-15,6-Aug-15,Western Urban,Freetowm
+3280,*****,,M,1-Aug-15,25-Aug-15,Bo,Jaiama Bongor
+3281,*****,2,M,2-Aug-15,13-Aug-15,Bonthe,Jong
+3282,*****,80,M,2-Aug-15,6-Aug-15,Kenema,Nongowa
+3283,*****,4,M,2-Aug-15,6-Aug-15,Western Urban,Freetowm
+3284,*****,2,M,3-Aug-15,8-Aug-15,Moyamba,Kori
+3285,*****,60,F,3-Aug-15,7-Aug-15,Moyamba,Kargboro
+3286,*****,5,M,3-Aug-15,8-Aug-15,Bo,Komboya
+3287,*****,1,M,3-Aug-15,11-Aug-15,Moyamba,Bumpeh
+3288,*****,,F,3-Aug-15,8-Aug-15,Kailahun,Njaluahun
+3289,*****,23,F,3-Aug-15,6-Aug-15,Western Urban,Freetowm
+3290,*****,45,F,3-Aug-15,6-Aug-15,Western Urban,Freetowm
+3291,*****,1,M,3-Aug-15,8-Sep-15,Western Urban,Freetowm
+3292,*****,5,F,4-Aug-15,7-Aug-15,Bo,Lugbu
+3293,*****,2,M,4-Aug-15,8-Aug-15,Bonthe,Imperi
+3294,*****,1,M,4-Aug-15,8-Aug-15,Bo,Jaiama Bongor
+3295,*****,1,M,4-Aug-15,8-Aug-15,Bo,Jaiama Bongor
+3296,*****,2,M,4-Aug-15,8-Aug-15,Bo,Komboya
+3297,*****,56,M,4-Aug-15,8-Aug-15,Bo,Komboya
+3298,*****,,M,4-Aug-15,8-Aug-15,Bo,Baoma
+3299,*****,52,,4-Aug-15,8-Aug-15,Bo,Bagbo
+3300,*****,44,F,4-Aug-15,7-Aug-15,Western Urban,Freetowm
+3301,*****,4,M,4-Aug-15,6-Aug-15,Western Rural,Waterloo
+3302,*****,8,F,4-Aug-15,6-Aug-15,Western Urban,Freetowm
+3303,*****,2,F,5-Aug-15,7-Aug-15,Moyamba,Kargboro
+3304,*****,2,M,5-Aug-15,11-Aug-15,Pujehun,Soro-Gbeima
+3305,*****,,F,5-Aug-15,8-Aug-15,Bo,Baoma
+3306,*****,2,M,5-Aug-15,13-Aug-15,Bo,Jaiama Bongor
+3307,*****,17,M,5-Aug-15,9-Aug-15,Western Urban,Freetowm
+3308,*****,6,M,5-Aug-15,6-Aug-15,Western Urban,Freetowm
+3309,*****,2,M,5-Aug-15,6-Aug-15,Western Urban,Freetowm
+3310,*****,,F,5-Aug-15,25-Aug-15,Pujehun,Gallinas-Perri
+3311,*****,2,M,6-Aug-15,8-Aug-15,Bo,Gbo
+3312,*****,1,F,6-Aug-15,8-Aug-15,Bo,Jaiama Bongor
+3313,*****,1,F,6-Aug-15,8-Aug-15,Bo,Lugbu
+3314,*****,50,M,6-Aug-15,8-Aug-15,Bo,Bagbo
+3315,*****,2,M,6-Aug-15,9-Aug-15,Moyamba,Kargboro
+3316,*****,,M,6-Aug-15,13-Aug-15,Moyamba,Kori
+3317,*****,,F,6-Aug-15,8-Aug-15,Bo,Jaiama Bongor
+3318,*****,6,,6-Aug-15,7-Aug-15,Western Urban,Freetowm
+3319,*****,48,M,6-Aug-15,25-Aug-15,Pujehun,Makpele
+3320,*****,3,F,7-Aug-15,8-Aug-15,Bo,Bagbo
+3321,*****,19,F,7-Aug-15,7-Aug-15,Western Urban,Freetowm
+3322,*****,,F,7-Aug-15,10-Aug-15,Western Urban,Freetowm
+3323,*****,50,F,7-Aug-15,1-Sep-15,Koinadugu,Kasonko
+3324,*****,,F,7-Aug-15,12-Sep-15,Bombali,Safroko Limba
+3325,*****,2,F,8-Aug-15,14-Aug-15,Kenema,Lower Bambara
+3326,*****,36,M,8-Aug-15,11-Aug-15,Western Urban,Freetowm
+3327,*****,26,F,8-Aug-15,11-Aug-15,Western Rural,Waterloo
+3328,*****,9,F,9-Aug-15,11-Aug-15,Western Urban,Freetowm
+3329,*****,1,M,9-Aug-15,10-Aug-15,Western Rural,Waterloo
+3330,*****,4,M,9-Aug-15,10-Aug-15,Western Urban,Freetowm
+3331,*****,11,,9-Aug-15,10-Aug-15,Western Urban,Freetowm
+3332,*****,60,F,10-Aug-15,19-Aug-15,Bonthe,Imperi
+3333,*****,20,F,10-Aug-15,22-Aug-15,Bo,Kakua
+3334,*****,6,M,10-Aug-15,25-Aug-15,Pujehun,Pejeh
+3335,*****,,F,11-Aug-15,19-Aug-15,Bonthe,Jong
+3336,*****,,F,11-Aug-15,17-Aug-15,Bombali,Bombali Sebora
+3337,*****,34,F,11-Aug-15,25-Aug-15,Pujehun,Pejeh
+3338,*****,85,F,11-Aug-15,25-Aug-15,Pujehun,Gallinas-Perri
+3339,*****,90,M,12-Aug-15,17-Aug-15,Moyamba,Kargboro
+3340,*****,,M,12-Aug-15,17-Aug-15,Moyamba,Kargboro
+3341,*****,,M,12-Aug-15,21-Aug-15,Pujehun,Kpaka
+3342,*****,1,F,12-Aug-15,12-Aug-15,Western Urban,Freetowm
+3343,*****,,F,13-Aug-15,15-Aug-15,Moyamba,Kargboro
+3344,*****,1,M,13-Aug-15,16-Aug-15,Moyamba,Ribbi
+3345,*****,,F,13-Aug-15,17-Aug-15,Moyamba,Kargboro
+3346,*****,1,M,13-Aug-15,15-Aug-15,Western Urban,Freetowm
+3347,*****,,M,13-Aug-15,17-Aug-15,Bombali,Safroko Limba
+3348,*****,2,F,14-Aug-15,17-Aug-15,Bo,Tikonko
+3349,*****,75,M,14-Aug-15,17-Aug-15,Kenema,Nongowa
+3350,*****,3,F,15-Aug-15,19-Aug-15,Moyamba,Bagruwa
+3351,*****,10,F,15-Aug-15,18-Aug-15,Western Urban,Freetowm
+3352,*****,1,F,15-Aug-15,18-Aug-15,Western Urban,Freetowm
+3353,*****,1,M,15-Aug-15,17-Aug-15,Western Urban,Freetowm
+3354,*****,5,M,15-Aug-15,17-Aug-15,Western Urban,Freetowm
+3355,*****,90,F,15-Aug-15,28-Aug-15,Pujehun,Soro-Gbeima
+3356,*****,28,F,16-Aug-15,17-Aug-15,Western Rural,Waterloo
+3357,*****,52,M,16-Aug-15,18-Aug-15,Western Urban,Freetowm
+3358,*****,0,F,16-Aug-15,18-Aug-15,Western Urban,Freetowm
+3359,*****,0,F,16-Aug-15,18-Aug-15,Western Urban,Freetowm
+3360,*****,0,F,16-Aug-15,18-Aug-15,Western Urban,Freetowm
+3361,*****,1,M,16-Aug-15,18-Aug-15,Western Urban,Freetowm
+3362,*****,8,M,16-Aug-15,18-Aug-15,Western Urban,Freetowm
+3363,*****,1,M,16-Aug-15,18-Aug-15,Western Urban,Freetowm
+3364,*****,1,M,16-Aug-15,18-Aug-15,Western Urban,Freetowm
+3365,*****,1,M,16-Aug-15,18-Aug-15,Western Urban,Freetowm
+3366,*****,1,M,16-Aug-15,18-Aug-15,Western Urban,Freetowm
+3367,*****,7,M,16-Aug-15,19-Aug-15,Western Urban,Freetowm
+3368,*****,1,F,16-Aug-15,21-Aug-15,Western Rural,Waterloo
+3369,*****,3,M,16-Aug-15,19-Aug-15,Western Urban,Freetowm
+3370,*****,32,F,16-Aug-15,19-Aug-15,Western Urban,Freetowm
+3371,*****,,,16-Aug-15,17-Aug-15,Western Urban,Freetowm
+3372,*****,60,M,16-Aug-15,23-Aug-15,Bo,Kakua
+3373,*****,91,F,16-Aug-15,25-Aug-15,Pujehun,Gallinas-Perri
+3374,*****,52,M,17-Aug-15,19-Aug-15,Western Urban,Freetowm
+3375,*****,26,M,17-Aug-15,19-Aug-15,Western Urban,Freetowm
+3376,*****,8,M,17-Aug-15,19-Aug-15,Western Rural,Waterloo
+3377,*****,1,F,17-Aug-15,19-Aug-15,Western Urban,Freetowm
+3378,*****,13,F,17-Aug-15,19-Aug-15,Western Urban,Freetowm
+3379,*****,65,F,17-Aug-15,25-Aug-15,Pujehun,Sowa
+3380,*****,28,F,18-Aug-15,19-Aug-15,Western Urban,Freetowm
+3381,*****,26,M,18-Aug-15,19-Aug-15,Western Urban,Freetowm
+3382,*****,20,F,18-Aug-15,19-Aug-15,Western Urban,Freetowm
+3383,*****,,M,19-Aug-15,20-Aug-15,Bo,Bumpe Ngawo
+3384,*****,0,F,19-Aug-15,22-Aug-15,Bo,Baoma
+3385,*****,2,M,20-Aug-15,23-Aug-15,Bo,Tikonko
+3386,*****,,F,20-Aug-15,23-Aug-15,Bo,Kakua
+3387,*****,45,F,20-Aug-15,24-Aug-15,Kenema,Lower Bambara
+3388,*****,81,F,20-Aug-15,25-Aug-15,Bo,Komboya
+3389,*****,72,F,20-Aug-15,26-Aug-15,Bo,Kakua
+3390,*****,50,F,20-Aug-15,29-Aug-15,Moyamba,Dasse
+3391,*****,35,F,20-Aug-15,30-Aug-15,Bo,Lugbu
+3392,*****,,M,20-Aug-15,3-Sep-15,Kenema,Nongowa
+3393,*****,22,M,21-Aug-15,24-Aug-15,Kenema,Nongowa
+3394,*****,1,M,21-Aug-15,24-Aug-15,Western Urban,Freetowm
+3395,*****,2,M,21-Aug-15,24-Aug-15,Western Urban,Freetowm
+3396,*****,4,M,21-Aug-15,24-Aug-15,Western Urban,Freetowm
+3397,*****,2,M,21-Aug-15,24-Aug-15,Western Urban,Freetowm
+3398,*****,3,F,21-Aug-15,24-Aug-15,Western Urban,Freetowm
+3399,*****,0,F,21-Aug-15,26-Aug-15,Kailahun,Luawa
+3400,*****,0,M,21-Aug-15,27-Aug-15,Kenema,Nongowa
+3401,*****,2,M,21-Aug-15,27-Aug-15,Kenema,Small Bo
+3402,*****,17,F,21-Aug-15,31-Aug-15,Kenema,Lower Bambara
+3403,*****,8,F,22-Aug-15,24-Aug-15,Western Urban,Freetowm
+3404,*****,0,M,22-Aug-15,24-Aug-15,Western Urban,Freetowm
+3405,*****,75,,22-Aug-15,26-Aug-15,Bo,Wunde
+3406,*****,1,M,22-Aug-15,26-Aug-15,Western Rural,Waterloo
+3407,*****,55,M,22-Aug-15,27-Aug-15,Kenema,Nongowa
+3408,*****,28,F,23-Aug-15,24-Aug-15,Western Urban,Freetowm
+3409,*****,75,F,23-Aug-15,25-Aug-15,Kenema,Nongowa
+3410,*****,80,F,23-Aug-15,25-Aug-15,Moyamba,Fakunya
+3411,*****,30,M,23-Aug-15,27-Aug-15,Kenema,Kandu Leppiama
+3412,*****,65,F,23-Aug-15,27-Aug-15,Bo,Jaiama Bongor
+3413,*****,22,M,23-Aug-15,28-Aug-15,Pujehun,Malen
+3414,*****,25,F,23-Aug-15,1-Sep-15,Bombali,Sella Limba
+3415,*****,1,F,24-Aug-15,25-Aug-15,Kenema,Nongowa
+3416,*****,2,M,24-Aug-15,25-Aug-15,Kenema,Nongowa
+3417,*****,2,M,24-Aug-15,27-Aug-15,Bo,Badjia
+3418,*****,3,F,24-Aug-15,28-Aug-15,Kailahun,Luawa
+3419,*****,60,M,24-Aug-15,31-Aug-15,Kenema,Lower Bambara
+3420,*****,35,F,24-Aug-15,3-Sep-15,Kono,Nimiyama
+3421,*****,28,M,24-Aug-15,4-Sep-15,Western Urban,Freetowm
+3422,*****,,M,24-Aug-15,6-Sep-15,Port Loko,Kaffu Bullom
+3423,*****,22,F,25-Aug-15,27-Aug-15,Western Urban,Freetowm
+3424,*****,7,M,25-Aug-15,28-Aug-15,Kenema,Simbaru
+3425,*****,,F,25-Aug-15,29-Aug-15,Moyamba,Kamajei
+3426,*****,2,F,25-Aug-15,30-Aug-15,Kailahun,Njaluahun
+3427,*****,79,M,25-Aug-15,30-Aug-15,Bo,Kakua
+3428,*****,17,F,25-Aug-15,1-Sep-15,Bombali,Bombali Sebora
+3429,*****,23,F,25-Aug-15,3-Sep-15,Kono,Sandor
+3430,*****,,M,26-Aug-15,28-Aug-15,Western Rural,Waterloo
+3431,*****,85,F,26-Aug-15,28-Aug-15,Western Rural,Waterloo
+3432,*****,6,F,26-Aug-15,31-Aug-15,Kailahun,Luawa
+3433,*****,1,F,26-Aug-15,1-Sep-15,Bombali,Sella Limba
+3434,*****,2,M,26-Aug-15,3-Sep-15,Western Urban,Freetowm
+3435,*****,70,M,27-Aug-15,30-Aug-15,Western Urban,Freetowm
+3436,*****,24,F,27-Aug-15,30-Aug-15,Western Urban,Freetowm
+3437,*****,5,M,27-Aug-15,1-Sep-15,Western Urban,Freetowm
+3438,*****,80,M,27-Aug-15,1-Sep-15,Bombali,Bombali Sebora
+3439,*****,29,M,27-Aug-15,1-Sep-15,Bombali,Bombali Sebora
+3440,*****,29,M,27-Aug-15,12-Sep-15,Bombali,Bombali Sebora
+3441,*****,50,F,28-Aug-15,31-Aug-15,Kenema,Nongowa
+3442,*****,19,F,28-Aug-15,1-Sep-15,Bombali,Makari Gbanti
+3443,*****,70,F,28-Aug-15,1-Sep-15,Bombali,Bombali Sebora
+3444,*****,80,M,28-Aug-15,2-Sep-15,Port Loko,Dibia
+3445,*****,4,F,28-Aug-15,4-Sep-15,Western Urban,Freetowm
+3446,*****,6,M,29-Aug-15,31-Aug-15,Western Urban,Freetowm
+3447,*****,1,F,29-Aug-15,31-Aug-15,Western Urban,Freetowm
+3448,*****,2,M,29-Aug-15,31-Aug-15,Western Urban,Freetowm
+3449,*****,25,,29-Aug-15,31-Aug-15,Port Loko,Marampa
+3450,*****,4,F,29-Aug-15,1-Sep-15,Bo,Komboya
+3451,*****,19,M,29-Aug-15,1-Sep-15,Western Urban,Freetowm
+3452,*****,1,F,29-Aug-15,1-Sep-15,Bombali,Bombali Sebora
+3453,*****,50,M,29-Aug-15,1-Sep-15,Bombali,Sella Limba
+3454,*****,,F,29-Aug-15,1-Sep-15,Bombali,Makari Gbanti
+3455,*****,,F,29-Aug-15,3-Sep-15,Western Rural,Waterloo
+3456,*****,85,M,29-Aug-15,3-Sep-15,Kono,Gbane
+3457,*****,75,F,29-Aug-15,3-Sep-15,Tonkolili,Kholifa
+3458,*****,90,F,29-Aug-15,11-Sep-15,Pujehun,Soro-Gbeima
+3459,*****,70,M,30-Aug-15,31-Aug-15,Kenema,Lower Bambara
+3460,*****,28,F,30-Aug-15,1-Sep-15,Western Urban,Freetowm
+3461,*****,,M,30-Aug-15,1-Sep-15,Koinadugu,Kasonko
+3462,*****,,F,30-Aug-15,1-Sep-15,Koinadugu,Neini
+3463,*****,16,F,30-Aug-15,3-Sep-15,Kenema,Nongowa
+3464,*****,18,F,30-Aug-15,3-Sep-15,Kono,Gbane
+3465,*****,1,M,30-Aug-15,3-Sep-15,Kono,Gbense
+3466,*****,62,F,30-Aug-15,6-Sep-15,Port Loko,Kaffu Bullom
+3467,*****,5,,30-Aug-15,8-Sep-15,Bombali,Sanda Loko
+3468,*****,90,M,30-Aug-15,11-Sep-15,Pujehun,Barri
+3469,*****,3,,31-Aug-15,3-Sep-15,Kono,Gbane
+3470,*****,2,F,31-Aug-15,3-Sep-15,Kono,Soa
+3471,*****,70,F,31-Aug-15,3-Sep-15,Kono,Gbane
+3472,*****,45,M,31-Aug-15,3-Sep-15,Kono,Mafindor
+3473,*****,0,F,31-Aug-15,3-Sep-15,Koinadugu,Neya
+3474,*****,,F,31-Aug-15,5-Sep-15,Port Loko,Maforki
+3475,*****,17,F,31-Aug-15,5-Sep-15,Port Loko,Maforki
+3476,*****,,M,31-Aug-15,6-Sep-15,Port Loko,Maforki
+3477,*****,,F,31-Aug-15,6-Sep-15,Port Loko,Kaffu Bullom
+3478,*****,1,M,31-Aug-15,7-Sep-15,Pujehun,Barri
+3479,*****,,M,1-Sep-15,3-Sep-15,Bo,Kakua
+3480,*****,2,F,1-Sep-15,3-Sep-15,Kono,Mafindor
+3481,*****,69,M,1-Sep-15,4-Sep-15,Port Loko,Tms
+3482,*****,3,M,1-Sep-15,5-Sep-15,Port Loko,Dibia
+3483,*****,80,F,1-Sep-15,5-Sep-15,Port Loko,Maforki
+3484,*****,2,F,1-Sep-15,6-Sep-15,Port Loko,Bkm
+3485,*****,22,M,1-Sep-15,6-Sep-15,Port Loko,Bkm
+3486,*****,4,F,2-Sep-15,4-Sep-15,Western Urban,Freetowm
+3487,*****,32,F,2-Sep-15,5-Sep-15,Western Urban,Freetowm
+3488,*****,,M,2-Sep-15,5-Sep-15,Western Urban,Freetowm
+3489,*****,,F,2-Sep-15,6-Sep-15,Port Loko,Kaffu Bullom
+3490,*****,,M,3-Sep-15,4-Sep-15,Kenema,Small Bo
+3491,*****,54,F,3-Sep-15,5-Sep-15,Port Loko,Maforki
+3492,*****,3,F,3-Sep-15,6-Sep-15,Western Urban,Freetowm
+3493,*****,1,M,3-Sep-15,9-Sep-15,Western Urban,Freetowm
+3494,*****,,M,3-Sep-15,10-Sep-15,Moyamba,Kargboro
+3495,*****,24,F,4-Sep-15,6-Sep-15,Western Urban,Freetowm
+3496,*****,,M,4-Sep-15,6-Sep-15,Port Loko,Maforki
+3497,*****,,F,4-Sep-15,6-Sep-15,Port Loko,Maforki
+3498,*****,0,M,4-Sep-15,11-Sep-15,Pujehun,Soro-Gbeima
+3499,*****,0,F,4-Sep-15,11-Sep-15,Western Urban,Freetowm
+3500,*****,,M,5-Sep-15,6-Sep-15,Kenema,Nongowa
+3501,*****,35,M,5-Sep-15,6-Sep-15,Western Rural,Waterloo
+3502,*****,,F,5-Sep-15,6-Sep-15,Western Urban,Freetowm
+3503,*****,0,M,5-Sep-15,8-Sep-15,Western Urban,Freetowm
+3504,*****,3,M,5-Sep-15,8-Sep-15,Western Urban,Freetowm
+3505,*****,26,F,5-Sep-15,8-Sep-15,Western Rural,Waterloo
+3506,*****,,F,5-Sep-15,8-Sep-15,Western Urban,Freetowm
+3507,*****,65,F,5-Sep-15,9-Sep-15,Moyamba,Kargboro
+3508,*****,,M,5-Sep-15,12-Sep-15,Moyamba,Timidale
+3509,*****,30,F,5-Sep-15,12-Sep-15,Moyamba,Ribbi
+3510,*****,11,F,6-Sep-15,8-Sep-15,Western Urban,Freetowm
+3511,*****,45,F,6-Sep-15,12-Sep-15,Moyamba,Kargboro
+3512,*****,33,F,6-Sep-15,12-Sep-15,Moyamba,Kargboro
+3513,*****,15,F,7-Sep-15,10-Sep-15,Western Urban,Freetowm
+3514,*****,0,M,7-Sep-15,10-Sep-15,Western Urban,Freetowm
+3515,*****,3,M,7-Sep-15,11-Sep-15,Bo,Wunde
+3516,*****,22,M,7-Sep-15,11-Sep-15,Western Rural,Waterloo
+3517,*****,2,M,7-Sep-15,11-Sep-15,Bombali,Sanda Tendaren
+3518,*****,3,F,7-Sep-15,12-Sep-15,Moyamba,Ribbi
+3519,*****,33,M,7-Sep-15,12-Sep-15,Moyamba,Kargboro
+3520,*****,21,M,8-Sep-15,10-Sep-15,Western Urban,Freetowm
+3521,*****,4,F,8-Sep-15,10-Sep-15,Western Rural,Waterloo
+3522,*****,5,F,8-Sep-15,10-Sep-15,Western Urban,Freetowm
+3523,*****,1,F,8-Sep-15,10-Sep-15,Western Rural,Waterloo
+3524,*****,1,F,8-Sep-15,11-Sep-15,Western Urban,Freetowm
+3525,*****,10,M,8-Sep-15,11-Sep-15,Western Rural,Waterloo
+3526,*****,79,F,8-Sep-15,12-Sep-15,Moyamba,Kongbora
+3527,*****,32,F,8-Sep-15,13-Sep-15,Port Loko,Maforki
+3528,*****,,M,9-Sep-15,10-Sep-15,Western Urban,Freetowm
+3529,*****,1,F,9-Sep-15,10-Sep-15,Western Urban,Freetowm
+3530,*****,6,F,9-Sep-15,10-Sep-15,Western Urban,Freetowm
+3531,*****,,F,9-Sep-15,11-Sep-15,Western Urban,Freetowm
+3532,*****,4,F,9-Sep-15,11-Sep-15,Western Urban,Freetowm
+3533,*****,4,F,9-Sep-15,11-Sep-15,Western Urban,Freetowm
+3534,*****,70,M,9-Sep-15,12-Sep-15,Bombali,Safroko Limba
+3535,*****,90,M,9-Sep-15,12-Sep-15,Moyamba,Ribbi
+3536,*****,,F,9-Sep-15,12-Sep-15,Moyamba,Bagruwa
+3537,*****,,M,9-Sep-15,12-Sep-15,Moyamba,Timidale
+3538,*****,0,M,9-Sep-15,13-Sep-15,Western Urban,Freetowm
+3539,*****,,M,10-Sep-15,11-Sep-15,Bo,Kakua
+3540,*****,,F,10-Sep-15,12-Sep-15,Kenema,Nongowa
+3541,*****,,F,10-Sep-15,13-Sep-15,Western Rural,Waterloo
+3542,*****,,M,11-Sep-15,12-Sep-15,Bo,Baoma
+3543,*****,0,F,11-Sep-15,13-Sep-15,Bo,Bagbwe
+3544,*****,52,F,11-Sep-15,13-Sep-15,Western Rural,Waterloo
+3545,*****,4,F,12-Sep-15,13-Sep-15,Western Rural,Waterloo
