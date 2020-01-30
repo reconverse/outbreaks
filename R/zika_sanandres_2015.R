@@ -24,7 +24,7 @@
 #'
 #' @author Data from Rojas et al. (2016), provided by Diana P. Rojas
 #' (\email{dprojas@@epi.ufl.edu}).  Transfer to R and documentation by
-#' Finlay Campbell (\email{f.campbell15@@imperial.ac.uk}).
+#' Finlay Campbell (\email{finlaycampbell93@@gmail.com}).
 #'
 #' @source Rojas et al. (2016)
 #'

@@ -44,6 +44,6 @@ e0005173. http://doi.org/10.1371/journal.pntd.0005173
 }
 \author{
 Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
-Transfer to R and documentation by Finlay Campbell (\email{f.campbell15@imperial.ac.uk}).
+Transfer to R and documentation by Finlay Campbell (\email{finlaycampbell93@gmail.com}).
 }
 \keyword{datasets}

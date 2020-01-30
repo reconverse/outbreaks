@@ -98,4 +98,4 @@ We use the lower case throughout, and snake_case (using underscores) to separate
 - [Jakob Schumacher](https://github.com/jakobschumacher)
 - Bertrand Sudre
 
-Maintainer: Finlay Campbell (f.campbell15@imperial.ac.uk)
+Maintainer: Finlay Campbell (finlaycampbell93@gmail.com)

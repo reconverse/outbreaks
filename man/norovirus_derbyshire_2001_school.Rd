@@ -43,6 +43,6 @@ in an outbreak of Norovirus. Statistics in Medicine, 24(13), 2011–24.
 \author{
 Data from O'Neill and Marks (2005), provided by Philip O'Neill.
 Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}
-and Finlay Campbell (\email{f.campbell15@imperial.ac.uk})).
+and Finlay Campbell (\email{finlaycampbell93@gmail.com})).
 }
 \keyword{datasets}
