@@ -4,7 +4,7 @@
 \name{sarscov2_who_2019}
 \alias{sarscov2_who_2019}
 \title{SARS-CoV-2 World Health Organization Situation Reports 2019 Outbreak (COVID-19)}
-\format{A data frame with 25 rows and 80 columns
+\format{A data frame with 26 rows and 80 columns
 \describe{
   \item{situation_report}{WHO Situation Report number}
   \item{date}{Date of Situation Report}
@@ -33,6 +33,7 @@
   \item{cases_gbr}{Number of confirmed cases in United Kingdom}
   \item{cases_bel}{Number of confirmed cases in Belgium}
   \item{cases_are}{Number of confirmed cases in United Arab Emirates}
+  \item{cases_egy}{Number of confirmed cases in Egypt}
   \item{cases_internationconveyance}{Number of confirmed cases in Diamond Princess}
   \item{cases_global}{Number of confirmed cases globally}
   \item{suspected_chn}{Number of suspected cases in China}
