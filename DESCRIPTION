@@ -1,6 +1,6 @@
 Package: outbreaks
 Title: A Collection of Disease Outbreak Data
-Version: 1.7.0
+Version: 1.8.0
 Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", role = "aut"),
 	   person("Simon", "Frost", role = "aut"),
 	   person("Pierre", "Nouvellet", role = "aut"),
@@ -8,7 +8,8 @@ Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", r
 	   person("Bertrand", "Sudre", email = "bertrand.sudre@edc.europa.eu", role="aut"),
 	   person("Sang Woo", "Park", email = "parksw3@mcmaster.ca", role = "ctb"),
 	   person("Juliet R.C.", "Pulliam", email = "pulliam@sun.ac.za", role = "ctb"),
-	   person("Jakob", "Schumacher", email = "jakob.schumacher@web.de", role = "ctb")
+	   person("Jakob", "Schumacher", email = "jakob.schumacher@web.de", role = "ctb"),
+	   person("Eric", "Brown", email = "eb@ericebrown.com", role = "ctb")
 	   )
 Description: Empirical or simulated disease outbreak data, provided either as
     RData or as text files.
@@ -17,7 +18,7 @@ Depends:
 License: GPL (>=2)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2
 Suggests: testthat, covr, ape, incidence
 URL: https://github.com/reconhub/outbreaks
 BugReports: https://github.com/reconhub/outbreaks/issues
