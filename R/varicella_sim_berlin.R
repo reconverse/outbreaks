@@ -45,7 +45,4 @@
 #'
 #' head(varicella_sim_berlin)
 #'
-#'
-#' @rdname varicella_sim_berlin
-#'
 "varicella_sim_berlin"

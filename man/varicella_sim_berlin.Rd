@@ -50,7 +50,6 @@ https://github.com/jakobschumacher/outbreakcreator/.
 
 head(varicella_sim_berlin)
 
-
 }
 \author{
 Data simulated by Jakob Schumacher (\email{jakob.schumacher@web.de}).
