@@ -7,11 +7,11 @@
 #' 
 #' @docType data
 #'
-#' @format A data frame with 26 rows and 80 columns
+#' @format A data frame with 29 rows and 80 columns
 #' \describe{
 #'   \item{situation_report}{WHO Situation Report number}
 #'   \item{date}{Date of Situation Report}
-#'   \item{cases_chn}{Number of confirmed cases in China}
+#'   \item{cases_chn}{Number of confirmed cases in China (including clinically confirmed cases as of SR 28/2020-02-17)}
 #'   \item{cases_jpn}{Number of confirmed cases in Japan}
 #'   \item{cases_kor}{Number of confirmed cases in Republic of Korea}
 #'   \item{cases_vnm}{Number of confirmed cases in Viet Nam}
@@ -42,6 +42,9 @@
 #'   \item{suspected_chn}{Number of suspected cases in China}
 #'   \item{severe_chn}{Number of severe cases in China}
 #'   \item{deaths_chn}{Number of deaths in China}
+#'   \item{deaths_phl}{Number of deaths in Philippines}
+#'   \item{deaths_jpn}{Number of deaths in Japan}
+#'   \item{deaths_fra}{Number of deaths in France}
 #'   \item{critical_chn}{Number of critical cases in China}
 #'   \item{clinical_chn_hubei}{Number of additional only clinically confirmed cases in Hubei, China}
 #'   \item{cases_outside_chn}{Number of confirmed cases outside of China}
