@@ -4,7 +4,7 @@
 \name{sarscov2_who_2019}
 \alias{sarscov2_who_2019}
 \title{SARS-CoV-2 World Health Organization Situation Reports 2019 Outbreak (COVID-19)}
-\format{A data frame with 29 rows and 80 columns
+\format{A data frame with 30 rows and 80 columns
 \describe{
   \item{situation_report}{WHO Situation Report number}
   \item{date}{Date of Situation Report}
