@@ -7,7 +7,7 @@
 #' 
 #' @docType data
 #'
-#' @format A data frame with 31 rows and 80 columns
+#' @format A data frame with 32 rows and 80 columns
 #' \describe{
 #'   \item{situation_report}{WHO Situation Report number}
 #'   \item{date}{Date of Situation Report}
