@@ -7,7 +7,7 @@
 #' 
 #' @docType data
 #'
-#' @format A data frame with 36 rows and 80 columns
+#' @format A data frame with 45 rows and 80 columns
 #' \describe{
 #'   \item{situation_report}{WHO Situation Report number}
 #'   \item{date}{Date of Situation Report}
@@ -19,14 +19,55 @@
 #'   \item{cases_aus}{Number of confirmed cases in Australia}
 #'   \item{cases_mys}{Number of confirmed cases in Malaysia}
 #'   \item{cases_khm}{Number of confirmed cases in Cambodia}
+#'   \item{cases_nzl}{Number of confirmed cases in New Zealand}
 #'   \item{cases_phl}{Number of confirmed cases in Philippines}
 #'   \item{cases_tha}{Number of confirmed cases in Thailand}
 #'   \item{cases_npl}{Number of confirmed cases in Nepal}
 #'   \item{cases_lka}{Number of confirmed cases in Sri Lanka}
 #'   \item{cases_ind}{Number of confirmed cases in India}
+#'   \item{cases_idn}{Number of confirmed cases in Indonesia}
 #'   \item{cases_usa}{Number of confirmed cases in United States of America}
 #'   \item{cases_can}{Number of confirmed cases in Canada}
+#'   \item{cases_bra}{Number of confirmed cases in Brazil}
+#'   \item{cases_mex}{Number of confirmed cases in Mexico}
+#'   \item{cases_ecu}{Number of confirmed cases in Ecuador}
+#'   \item{cases_dom}{Number of confirmed cases in Dominican Republic}
+#'   \item{cases_maf}{Number of confirmed cases in Saint Martin}
+#'   \item{cases_blm}{Number of confirmed cases in Saint Barthelemy}
+#'   \item{cases_arg}{Number of confirmed cases in Argentina}
+#'   \item{cases_chl}{Number of confirmed cases in Chile}
 #'   \item{cases_fin}{Number of confirmed cases in Finland}
+#'   \item{cases_hrv}{Number of confirmed cases in Croatia}
+#'   \item{cases_aut}{Number of confirmed cases in Austria}
+#'   \item{cases_dnk}{Number of confirmed cases in Denmark}
+#'   \item{cases_est}{Number of confirmed cases in Estonia}
+#'   \item{cases_geo}{Number of confirmed cases in Georgia}
+#'   \item{cases_grc}{Number of confirmed cases in Greece}
+#'   \item{cases_mkd}{Number of confirmed cases in North Macedonia}
+#'   \item{cases_nor}{Number of confirmed cases in Norway}
+#'   \item{cases_rou}{Number of confirmed cases in Romania}
+#'   \item{cases_che}{Number of confirmed cases in Switzerland}
+#'   \item{cases_blr}{Number of confirmed cases in Belarus}
+#'   \item{cases_ltu}{Number of confirmed cases in Lithuania}
+#'   \item{cases_nld}{Number of confirmed cases in Netherlands}
+#'   \item{cases_smr}{Number of confirmed cases in San Marino}
+#'   \item{cases_aze}{Number of confirmed cases in Azerbaijan}
+#'   \item{cases_irl}{Number of confirmed cases in Ireland}
+#'   \item{cases_mco}{Number of confirmed cases in Monaco}
+#'   \item{cases_cze}{Number of confirmed cases in Czechia}
+#'   \item{cases_isl}{Number of confirmed cases in Iceland}
+#'   \item{cases_arm}{Number of confirmed cases in Armenia}
+#'   \item{cases_lux}{Number of confirmed cases in Luxembourg}
+#'   \item{cases_prt}{Number of confirmed cases in Portugal}
+#'   \item{cases_and}{Number of confirmed cases in Andorra}
+#'   \item{cases_lva}{Number of confirmed cases in Latvia}
+#'   \item{cases_pol}{Number of confirmed cases in Poland}
+#'   \item{cases_ukr}{Number of confirmed cases in Ukraine}
+#'   \item{cases_lie}{Number of confirmed cases in Liechtenstein}
+#'   \item{cases_bih}{Number of confirmed cases in Bosnia and Herzegovina}
+#'   \item{cases_hun}{Number of confirmed cases in Hungary}
+#'   \item{cases_svn}{Number of confirmed cases in Slovenia}
+#'   \item{cases_gib}{Number of confirmed cases in Gibraltar}
 #'   \item{cases_fra}{Number of confirmed cases in France}
 #'   \item{cases_deu}{Number of confirmed cases in Germany}
 #'   \item{cases_ita}{Number of confirmed cases in Italy}
@@ -45,6 +86,16 @@
 #'   \item{cases_bhr}{Number of confirmed cases in Bahrain}
 #'   \item{cases_irq}{Number of confirmed cases in Iraq}
 #'   \item{cases_omn}{Number of confirmed cases in Oman}
+#'   \item{cases_pak}{Number of confirmed cases in Pakistan}
+#'   \item{cases_qat}{Number of confirmed cases in Qatar}
+#'   \item{cases_jor}{Number of confirmed cases in Jordan}
+#'   \item{cases_mar}{Number of confirmed cases in Morocco}
+#'   \item{cases_sau}{Number of confirmed cases in Saudi Arabia}
+#'   \item{cases_tun}{Number of confirmed cases in Tunisia}
+#'   \item{cases_pse}{Number of confirmed cases in Palestine}
+#'   \item{cases_dza}{Number of confirmed cases in Algeria}
+#'   \item{cases_nga}{Number of confirmed cases in Nigeria}
+#'   \item{cases_sen}{Number of confirmed cases in Senegal}
 #'   \item{cases_internationconveyance}{Number of confirmed cases in Diamond Princess}
 #'   \item{cases_global}{Number of confirmed cases globally}
 #'   \item{suspected_chn}{Number of suspected cases in China}
@@ -56,6 +107,11 @@
 #'   \item{deaths_kor}{Number of deaths in Korea}
 #'   \item{deaths_irn}{Number of deaths in Iran}
 #'   \item{deaths_ita}{Number of deaths in Italy}
+#'   \item{deaths_aus}{Number of confirmed deaths in Australia}
+#'   \item{deaths_tha}{Number of confirmed deaths in Thailand}
+#'   \item{deaths_usa}{Number of confirmed deaths in United States of America}
+#'   \item{deaths_irq}{Number of confirmed deaths in Iraq}
+#'   \item{deaths_esp}{Number of confirmed deaths in Spain}
 #'   \item{deaths_internationalconveyance}{Number of deaths on Diamond Princess}
 #'   \item{critical_chn}{Number of critical cases in China}
 #'   \item{clinical_chn_hubei}{Number of additional only clinically confirmed cases in Hubei, China}
@@ -105,6 +161,40 @@
 #'   \item{cases_chn_jilin}{Number of confirmed cases in Jilin, China}
 #'   \item{cases_chn_qinghai}{Number of confirmed cases in Qinghai, China}
 #'   \item{cases_chn_xizang}{Number of confirmed cases in Xizang, China}
+#'   \item{deaths_chn_hubei}{Number of confirmed deaths in Hubei, China}
+#'   \item{deaths_chn_guangdong}{Number of confirmed deaths in Guangdong, China}
+#'   \item{deaths_chn_beijing}{Number of confirmed deaths in Beijing, China}
+#'   \item{deaths_chn_shanghai}{Number of confirmed deaths in Shanghai, China}
+#'   \item{deaths_chn_chongqing}{Number of confirmed deaths in Chongqing, China}
+#'   \item{deaths_chn_zhejiang}{Number of confirmed deaths in Zhejiang, China}
+#'   \item{deaths_chn_jiangxi}{Number of confirmed deaths in Jiangxi, China}
+#'   \item{deaths_chn_sichuan}{Number of confirmed deaths in Sichuan, China}
+#'   \item{deaths_chn_tianjin}{Number of confirmed deaths in Tianjin, China}
+#'   \item{deaths_chn_henan}{Number of confirmed deaths in Henan, China}
+#'   \item{deaths_chn_hunan}{Number of confirmed deaths in Hunan, China}
+#'   \item{deaths_chn_shandong}{Number of confirmed deaths in Shandong, China}
+#'   \item{deaths_chn_yunnan}{Number of confirmed deaths in Yunnan, China}
+#'   \item{deaths_chn_taipei}{Number of confirmed deaths in Taipei, China}
+#'   \item{deaths_chn_hkg}{Number of confirmed deaths in Hong Kong}
+#'   \item{deaths_chn_mac}{Number of confirmed deaths in Macao}
+#'   \item{deaths_chn_anhui}{Number of confirmed deaths in Anhui, China}
+#'   \item{deaths_chn_jiangsu}{Number of confirmed deaths in Jiangsu, China}
+#'   \item{deaths_chn_fujian}{Number of confirmed deaths in Fujian, China}
+#'   \item{deaths_chn_shaanxi}{Number of confirmed deaths in Shaanxi, China}
+#'   \item{deaths_chn_guangxi}{Number of confirmed deaths in Guangxi, China}
+#'   \item{deaths_chn_hebei}{Number of confirmed deaths in Hebei, China}
+#'   \item{deaths_chn_heilongjiang}{Number of confirmed deaths in Heilongjiang, China}
+#'   \item{deaths_chn_liaoning}{Number of confirmed deaths in Liaoning, China}
+#'   \item{deaths_chn_hainan}{Number of confirmed deaths in Hainan, China}
+#'   \item{deaths_chn_shanxi}{Number of confirmed deaths in Shanxi, China}
+#'   \item{deaths_chn_gansu}{Number of confirmed deaths in Gansu, China}
+#'   \item{deaths_chn_guizhou}{Number of confirmed deaths in Guizhou, China}
+#'   \item{deaths_chn_ningxia}{Number of confirmed deaths in Ningxia, China}
+#'   \item{deaths_chn_mng}{Number of confirmed deaths in Inner Mongolia}
+#'   \item{deaths_chn_xinjiang}{Number of confirmed deaths in Xinjiang, China}
+#'   \item{deaths_chn_jilin}{Number of confirmed deaths in Jilin, China}
+#'   \item{deaths_chn_qinghai}{Number of confirmed deaths in Qinghai, China}
+#'   \item{deaths_chn_xizang}{Number of confirmed deaths in Xizang, China}
 #' }
 #'
 #' @rdname sarscov2_who_2019
