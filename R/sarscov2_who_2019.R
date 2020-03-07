@@ -7,7 +7,7 @@
 #' 
 #' @docType data
 #'
-#' @format A data frame with 45 rows and 80 columns
+#' @format A data frame with 47 rows and 80 columns
 #' \describe{
 #'   \item{situation_report}{WHO Situation Report number}
 #'   \item{date}{Date of Situation Report}
@@ -26,6 +26,7 @@
 #'   \item{cases_lka}{Number of confirmed cases in Sri Lanka}
 #'   \item{cases_ind}{Number of confirmed cases in India}
 #'   \item{cases_idn}{Number of confirmed cases in Indonesia}
+#'   \item{cases_btn}{Number of confirmed cases in Bhutan}
 #'   \item{cases_usa}{Number of confirmed cases in United States of America}
 #'   \item{cases_can}{Number of confirmed cases in Canada}
 #'   \item{cases_bra}{Number of confirmed cases in Brazil}
@@ -36,6 +37,8 @@
 #'   \item{cases_blm}{Number of confirmed cases in Saint Barthelemy}
 #'   \item{cases_arg}{Number of confirmed cases in Argentina}
 #'   \item{cases_chl}{Number of confirmed cases in Chile}
+#'   \item{cases_col}{Number of confirmed cases in Colombia}
+#'   \item{cases_per}{Number of confirmed cases in Peru}
 #'   \item{cases_fin}{Number of confirmed cases in Finland}
 #'   \item{cases_hrv}{Number of confirmed cases in Croatia}
 #'   \item{cases_aut}{Number of confirmed cases in Austria}
@@ -76,6 +79,9 @@
 #'   \item{cases_swe}{Number of confirmed cases in Sweden}
 #'   \item{cases_gbr}{Number of confirmed cases in United Kingdom}
 #'   \item{cases_bel}{Number of confirmed cases in Belgium}
+#'   \item{cases_srb}{Number of confirmed cases in Serbia}
+#'   \item{cases_svk}{Number of confirmed cases in Slovakia}
+#'   \item{cases_vat}{Number of confirmed cases in Holy See} 
 #'   \item{cases_are}{Number of confirmed cases in United Arab Emirates}
 #'   \item{cases_egy}{Number of confirmed cases in Egypt}
 #'   \item{cases_irn}{Number of confirmed cases in Iran}
@@ -96,6 +102,9 @@
 #'   \item{cases_dza}{Number of confirmed cases in Algeria}
 #'   \item{cases_nga}{Number of confirmed cases in Nigeria}
 #'   \item{cases_sen}{Number of confirmed cases in Senegal}
+#'   \item{cases_cmr}{Number of confirmed cases in Cameroon}
+#'   \item{cases_zaf}{Number of confirmed cases in South Africa}
+#'   \item{cases_tgo}{Number of confirmed cases in Togo}
 #'   \item{cases_internationconveyance}{Number of confirmed cases in Diamond Princess}
 #'   \item{cases_global}{Number of confirmed cases globally}
 #'   \item{suspected_chn}{Number of suspected cases in China}
@@ -112,6 +121,9 @@
 #'   \item{deaths_usa}{Number of confirmed deaths in United States of America}
 #'   \item{deaths_irq}{Number of confirmed deaths in Iraq}
 #'   \item{deaths_esp}{Number of confirmed deaths in Spain}
+#'   \item{deaths_che}{Number of confirmed deaths in Switzerland}
+#'   \item{deaths_gbr}{Number of confirmed deaths in United Kingdom}
+#'   \item{deaths_nld}{Number of confirmed deaths in Netherlands}
 #'   \item{deaths_internationalconveyance}{Number of deaths on Diamond Princess}
 #'   \item{critical_chn}{Number of critical cases in China}
 #'   \item{clinical_chn_hubei}{Number of additional only clinically confirmed cases in Hubei, China}
