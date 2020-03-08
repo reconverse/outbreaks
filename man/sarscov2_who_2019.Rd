@@ -4,7 +4,7 @@
 \name{sarscov2_who_2019}
 \alias{sarscov2_who_2019}
 \title{SARS-CoV-2 World Health Organization Situation Reports 2019 Outbreak (COVID-19)}
-\format{A data frame with 47 rows and 80 columns
+\format{A data frame where each row represents a new Situation Report
 \describe{
   \item{situation_report}{WHO Situation Report number}
   \item{date}{Date of Situation Report}
@@ -24,6 +24,7 @@
   \item{cases_ind}{Number of confirmed cases in India}
   \item{cases_idn}{Number of confirmed cases in Indonesia}
   \item{cases_btn}{Number of confirmed cases in Bhutan}
+  \item{cases_mdv}{Number of confirmed cases in Maldives}
   \item{cases_usa}{Number of confirmed cases in United States of America}
   \item{cases_can}{Number of confirmed cases in Canada}
   \item{cases_bra}{Number of confirmed cases in Brazil}
@@ -36,6 +37,9 @@
   \item{cases_chl}{Number of confirmed cases in Chile}
   \item{cases_col}{Number of confirmed cases in Colombia}
   \item{cases_per}{Number of confirmed cases in Peru}
+  \item{cases_cri}{Number of confirmed cases in Costa Rica}
+  \item{cases_guf}{Number of confirmed cases in French Guiana}
+  \item{cases_mtq}{Number of confirmed cases in Martinique}
   \item{cases_fin}{Number of confirmed cases in Finland}
   \item{cases_hrv}{Number of confirmed cases in Croatia}
   \item{cases_aut}{Number of confirmed cases in Austria}
@@ -79,6 +83,10 @@
   \item{cases_srb}{Number of confirmed cases in Serbia}
   \item{cases_svk}{Number of confirmed cases in Slovakia}
   \item{cases_vat}{Number of confirmed cases in Holy See} 
+  \item{cases_mlt}{Number of confirmed cases in Malta} 
+  \item{cases_bgr}{Number of confirmed cases in Bulgaria} 
+  \item{cases_mda}{Number of confirmed cases in Republic of Moldova} 
+  \item{cases_fro}{Number of confirmed cases in Faroe Islands} 
   \item{cases_are}{Number of confirmed cases in United Arab Emirates}
   \item{cases_egy}{Number of confirmed cases in Egypt}
   \item{cases_irn}{Number of confirmed cases in Iran}
@@ -106,13 +114,13 @@
   \item{cases_global}{Number of confirmed cases globally}
   \item{suspected_chn}{Number of suspected cases in China}
   \item{severe_chn}{Number of severe cases in China}
-  \item{deaths_chn}{Number of deaths in China}
-  \item{deaths_phl}{Number of deaths in Philippines}
-  \item{deaths_jpn}{Number of deaths in Japan}
-  \item{deaths_fra}{Number of deaths in France}
-  \item{deaths_kor}{Number of deaths in Korea}
-  \item{deaths_irn}{Number of deaths in Iran}
-  \item{deaths_ita}{Number of deaths in Italy}
+  \item{deaths_chn}{Number of confirmed deaths in China}
+  \item{deaths_phl}{Number of confirmed deaths in Philippines}
+  \item{deaths_jpn}{Number of confirmed deaths in Japan}
+  \item{deaths_fra}{Number of confirmed deaths in France}
+  \item{deaths_kor}{Number of confirmed deaths in Korea}
+  \item{deaths_irn}{Number of confirmed deaths in Iran}
+  \item{deaths_ita}{Number of confirmed deaths in Italy}
   \item{deaths_aus}{Number of confirmed deaths in Australia}
   \item{deaths_tha}{Number of confirmed deaths in Thailand}
   \item{deaths_usa}{Number of confirmed deaths in United States of America}
@@ -121,11 +129,13 @@
   \item{deaths_che}{Number of confirmed deaths in Switzerland}
   \item{deaths_gbr}{Number of confirmed deaths in United Kingdom}
   \item{deaths_nld}{Number of confirmed deaths in Netherlands}
+  \item{deaths_smr}{Number of confirmed deaths in San Marino}
+  \item{deaths_arg}{Number of confirmed deaths in Argentina}
   \item{deaths_internationalconveyance}{Number of deaths on Diamond Princess}
   \item{critical_chn}{Number of critical cases in China}
   \item{clinical_chn_hubei}{Number of additional only clinically confirmed cases in Hubei, China}
   \item{cases_outside_chn}{Number of confirmed cases outside of China}
-  \item{countries_outside_chn}{Number of confirmed countries excluding China}
+  \item{countries_outside_chn}{Number of countries, territories, or areas with confirmed cases (excluding China)}
   \item{deaths_outside_chn}{Number of deaths outside China}
   \item{cases_outside_chn_wuhan_travel_history}{Number of cases outside China with a travel history to Wuhan}
   \item{cases_outside_chn_chn_travel_history}{Number of cases outside China with a travel history to China}
