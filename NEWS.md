@@ -1,3 +1,12 @@
+outbreaks 1.8.0 (2020-02-13)
+==================
+
+### NEW FEATURES
+
+One new dataset added:<br>
+
+* `sarscov2_who_2019`: a dataset of the compiled World Health Organization SItuation Reports for the COVID-19/SARS-CoV-2 outbreak including worldwide confirmed cases and deaths. 
+
 outbreaks 1.7.0 (2019-12-16)
 ==================
 
