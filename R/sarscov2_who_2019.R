@@ -20,6 +20,8 @@
 #'   \item{cases_mys}{Number of confirmed cases in Malaysia}
 #'   \item{cases_khm}{Number of confirmed cases in Cambodia}
 #'   \item{cases_nzl}{Number of confirmed cases in New Zealand}
+#'   \item{cases_brn}{Number of confirmed cases in Brunei Darussalam}
+#'   \item{cases_mng}{Number of confirmed cases in Mongolia}
 #'   \item{cases_phl}{Number of confirmed cases in Philippines}
 #'   \item{cases_tha}{Number of confirmed cases in Thailand}
 #'   \item{cases_npl}{Number of confirmed cases in Nepal}
@@ -45,6 +47,7 @@
 #'   \item{cases_guf}{Number of confirmed cases in French Guiana}
 #'   \item{cases_mtq}{Number of confirmed cases in Martinique}
 #'   \item{cases_pry}{Number of confirmed cases in Paraguay}
+#'   \item{cases_pan}{Number of confirmed cases in Panama}
 #'   \item{cases_fin}{Number of confirmed cases in Finland}
 #'   \item{cases_hrv}{Number of confirmed cases in Croatia}
 #'   \item{cases_aut}{Number of confirmed cases in Austria}
@@ -93,6 +96,8 @@
 #'   \item{cases_mda}{Number of confirmed cases in Republic of Moldova} 
 #'   \item{cases_fro}{Number of confirmed cases in Faroe Islands} 
 #'   \item{cases_alb}{Number of confirmed cases in Albania}
+#'   \item{cases_cyp}{Number of confirmed cases in Cyprus}
+#'   \item{cases_ggy}{Number of confirmed cases in Guernsey}
 #'   \item{cases_are}{Number of confirmed cases in United Arab Emirates}
 #'   \item{cases_egy}{Number of confirmed cases in Egypt}
 #'   \item{cases_irn}{Number of confirmed cases in Iran}
@@ -138,6 +143,7 @@
 #'   \item{deaths_smr}{Number of confirmed deaths in San Marino}
 #'   \item{deaths_arg}{Number of confirmed deaths in Argentina}
 #'   \item{deaths_egy}{Number of confirmed deaths in Egypt}
+#'   \item{deaths_deu}{Number of confirmed deaths in Germany}
 #'   \item{deaths_internationalconveyance}{Number of deaths on Diamond Princess}
 #'   \item{critical_chn}{Number of critical cases in China}
 #'   \item{clinical_chn_hubei}{Number of additional only clinically confirmed cases in Hubei, China}
