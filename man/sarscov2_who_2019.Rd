@@ -45,6 +45,8 @@
   \item{cases_mtq}{Number of confirmed cases in Martinique}
   \item{cases_pry}{Number of confirmed cases in Paraguay}
   \item{cases_pan}{Number of confirmed cases in Panama}
+  \item{cases_bol}{Number of confirmed cases in Bolivia}
+  \item{cases_jam}{Number of confirmed cases in Jamaica}
   \item{cases_fin}{Number of confirmed cases in Finland}
   \item{cases_hrv}{Number of confirmed cases in Croatia}
   \item{cases_aut}{Number of confirmed cases in Austria}
@@ -118,6 +120,8 @@
   \item{cases_cmr}{Number of confirmed cases in Cameroon}
   \item{cases_zaf}{Number of confirmed cases in South Africa}
   \item{cases_tgo}{Number of confirmed cases in Togo}
+  \item{cases_bfa}{Number of confirmed cases in Burkina Faso}
+  \item{cases_cod}{Number of confirmed cases in Democratic Republic of the Congo}
   \item{cases_internationconveyance}{Number of confirmed cases in Diamond Princess}
   \item{cases_global}{Number of confirmed cases globally}
   \item{suspected_chn}{Number of suspected cases in China}
@@ -141,6 +145,11 @@
   \item{deaths_arg}{Number of confirmed deaths in Argentina}
   \item{deaths_egy}{Number of confirmed deaths in Egypt}
   \item{deaths_deu}{Number of confirmed deaths in Germany}
+  \item{deaths_idn}{Number of confirmed deaths in Indonesia}
+  \item{deaths_lbn}{Number of confirmed deaths in Lebanon}
+  \item{deaths_mar}{Number of confirmed deaths in Morocco}
+  \item{deaths_pan}{Number of confirmed deaths in Panama}
+  \item{deaths_can}{Number of confirmed deaths in Canada}
   \item{deaths_internationalconveyance}{Number of deaths on Diamond Princess}
   \item{critical_chn}{Number of critical cases in China}
   \item{clinical_chn_hubei}{Number of additional only clinically confirmed cases in Hubei, China}
