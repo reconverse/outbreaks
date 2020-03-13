@@ -19,6 +19,7 @@
   \item{cases_nzl}{Number of confirmed cases in New Zealand}
   \item{cases_brn}{Number of confirmed cases in Brunei Darussalam}
   \item{cases_mng}{Number of confirmed cases in Mongolia}
+  \item{cases_pyf}{Number of confirmed cases in French Polynesia}
   \item{cases_phl}{Number of confirmed cases in Philippines}
   \item{cases_tha}{Number of confirmed cases in Thailand}
   \item{cases_npl}{Number of confirmed cases in Nepal}
@@ -47,6 +48,7 @@
   \item{cases_pan}{Number of confirmed cases in Panama}
   \item{cases_bol}{Number of confirmed cases in Bolivia}
   \item{cases_jam}{Number of confirmed cases in Jamaica}
+  \item{cases_hnd}{Number of confirmed cases in Honduras}
   \item{cases_fin}{Number of confirmed cases in Finland}
   \item{cases_hrv}{Number of confirmed cases in Croatia}
   \item{cases_aut}{Number of confirmed cases in Austria}
@@ -97,6 +99,7 @@
   \item{cases_alb}{Number of confirmed cases in Albania}
   \item{cases_cyp}{Number of confirmed cases in Cyprus}
   \item{cases_ggy}{Number of confirmed cases in Guernsey}
+  \item{cases_tur}{Number of confirmed cases in Turkey}
   \item{cases_are}{Number of confirmed cases in United Arab Emirates}
   \item{cases_egy}{Number of confirmed cases in Egypt}
   \item{cases_irn}{Number of confirmed cases in Iran}
@@ -122,7 +125,8 @@
   \item{cases_tgo}{Number of confirmed cases in Togo}
   \item{cases_bfa}{Number of confirmed cases in Burkina Faso}
   \item{cases_cod}{Number of confirmed cases in Democratic Republic of the Congo}
-  \item{cases_internationconveyance}{Number of confirmed cases in Diamond Princess}
+  \item{cases_civ}{Number of confirmed cases in Cote d'Ivoire}
+  \item{cases_internationalconveyance}{Number of confirmed cases in Diamond Princess}
   \item{cases_global}{Number of confirmed cases globally}
   \item{suspected_chn}{Number of suspected cases in China}
   \item{severe_chn}{Number of severe cases in China}
@@ -150,6 +154,10 @@
   \item{deaths_mar}{Number of confirmed deaths in Morocco}
   \item{deaths_pan}{Number of confirmed deaths in Panama}
   \item{deaths_can}{Number of confirmed deaths in Canada}
+  \item{deaths_dza}{Number of confirmed deaths in Algeria}
+  \item{deaths_bgr}{Number of confirmed deaths in Bulgaria}
+  \item{deaths_irl}{Number of confirmed deaths in Ireland}
+  \item{deaths_grc}{Number of confirmed deaths in Greece}
   \item{deaths_internationalconveyance}{Number of deaths on Diamond Princess}
   \item{critical_chn}{Number of critical cases in China}
   \item{clinical_chn_hubei}{Number of additional only clinically confirmed cases in Hubei, China}
