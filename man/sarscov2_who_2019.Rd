@@ -5,7 +5,7 @@
 \alias{sarscov2_who_2019}
 \title{SARS-CoV-2 World Health Organization Situation Reports 2019 Outbreak (COVID-19)}
 \format{A data frame where each row represents a new Situation Report
-\describe{
+ \describe{
   \item{situation_report}{WHO Situation Report number}
   \item{date}{Date of Situation Report}
   \item{cases_chn}{Number of confirmed cases in China (including clinically confirmed cases as of SR 28/2020-02-17)}
@@ -29,6 +29,7 @@
   \item{cases_btn}{Number of confirmed cases in Bhutan}
   \item{cases_mdv}{Number of confirmed cases in Maldives}
   \item{cases_bgd}{Number of confirmed cases in Bangladesh}
+  \item{cases_reu}{Number of confirmed cases in Reunion}
   \item{cases_usa}{Number of confirmed cases in United States of America}
   \item{cases_can}{Number of confirmed cases in Canada}
   \item{cases_bra}{Number of confirmed cases in Brazil}
@@ -49,6 +50,10 @@
   \item{cases_bol}{Number of confirmed cases in Bolivia}
   \item{cases_jam}{Number of confirmed cases in Jamaica}
   \item{cases_hnd}{Number of confirmed cases in Honduras}
+  \item{cases_guy}{Number of confirmed cases in Guyana}
+  \item{cases_vct}{Number of confirmed cases in Saint Vincent and the Grenadines}
+  \item{cases_cub}{Number of confirmed cases in Cuba}
+  \item{cases_jey}{Number of confirmed cases in Jersey}
   \item{cases_fin}{Number of confirmed cases in Finland}
   \item{cases_hrv}{Number of confirmed cases in Croatia}
   \item{cases_aut}{Number of confirmed cases in Austria}
@@ -158,6 +163,10 @@
   \item{deaths_bgr}{Number of confirmed deaths in Bulgaria}
   \item{deaths_irl}{Number of confirmed deaths in Ireland}
   \item{deaths_grc}{Number of confirmed deaths in Greece}
+  \item{deaths_aut}{Number of confirmed deaths in Austria}
+  \item{deaths_pol}{Number of confirmed deaths in Poland}
+  \item{deaths_ind}{Number of confirmed deaths in India}
+  \item{deaths_guy}{Number of confirmed deaths in Guyana}
   \item{deaths_internationalconveyance}{Number of deaths on Diamond Princess}
   \item{critical_chn}{Number of critical cases in China}
   \item{clinical_chn_hubei}{Number of additional only clinically confirmed cases in Hubei, China}
