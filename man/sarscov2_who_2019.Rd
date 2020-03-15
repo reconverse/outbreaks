@@ -60,6 +60,7 @@
   \item{cases_tto}{Number of confirmed cases in Trinidad and Tobago}
   \item{cases_pri}{Number of confirmed cases in Puerto Rico}
   \item{cases_cym}{Number of confirmed cases in CaymanIslands}
+  \item{cases_cuw}{Number of confirmed cases in Curacao}
   \item{cases_fin}{Number of confirmed cases in Finland}
   \item{cases_hrv}{Number of confirmed cases in Croatia}
   \item{cases_aut}{Number of confirmed cases in Austria}
@@ -81,6 +82,7 @@
   \item{cases_cze}{Number of confirmed cases in Czechia}
   \item{cases_isl}{Number of confirmed cases in Iceland}
   \item{cases_arm}{Number of confirmed cases in Armenia}
+  \item{cases_kaz}{Number of confirmed cases in Kazakhstan}
   \item{cases_lux}{Number of confirmed cases in Luxembourg}
   \item{cases_prt}{Number of confirmed cases in Portugal}
   \item{cases_and}{Number of confirmed cases in Andorra}
@@ -143,6 +145,13 @@
   \item{cases_gha}{Number of confirmed cases in Ghana}
   \item{cases_gin}{Number of confirmed cases in Guinea}
   \item{cases_ken}{Number of confirmed cases in Kenya}
+  \item{cases_nam}{Number of confirmed cases in Namibia}
+  \item{cases_caf}{Number of confirmed cases in CentralAfricanRepublic}
+  \item{cases_cog}{Number of confirmed cases in Congo}
+  \item{cases_gnq}{Number of confirmed cases in EquatorialGuinea}
+  \item{cases_swz}{Number of confirmed cases in Eswatini}
+  \item{cases_mrt}{Number of confirmed cases in Mauritania}
+  \item{cases_myt}{Number of confirmed cases in Mayotte}
   \item{cases_internationalconveyance}{Number of confirmed cases in Diamond Princess}
   \item{cases_global}{Number of confirmed cases globally}
   \item{suspected_chn}{Number of suspected cases in China}
