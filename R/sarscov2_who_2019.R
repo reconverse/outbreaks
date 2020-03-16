@@ -6,9 +6,8 @@
 #' by WHO. Data were manually transcribed and errors are possible.
 #' 
 #' @docType data
-#'
 #' @format A data frame where each row represents a new Situation Report
-#' \describe{
+#'  \describe{
 #'   \item{situation_report}{WHO Situation Report number}
 #'   \item{date}{Date of Situation Report}
 #'   \item{cases_chn}{Number of confirmed cases in China (including clinically confirmed cases as of SR 28/2020-02-17)}
@@ -32,6 +31,7 @@
 #'   \item{cases_btn}{Number of confirmed cases in Bhutan}
 #'   \item{cases_mdv}{Number of confirmed cases in Maldives}
 #'   \item{cases_bgd}{Number of confirmed cases in Bangladesh}
+#'   \item{cases_reu}{Number of confirmed cases in Reunion}
 #'   \item{cases_usa}{Number of confirmed cases in United States of America}
 #'   \item{cases_can}{Number of confirmed cases in Canada}
 #'   \item{cases_bra}{Number of confirmed cases in Brazil}
@@ -52,6 +52,17 @@
 #'   \item{cases_bol}{Number of confirmed cases in Bolivia}
 #'   \item{cases_jam}{Number of confirmed cases in Jamaica}
 #'   \item{cases_hnd}{Number of confirmed cases in Honduras}
+#'   \item{cases_guy}{Number of confirmed cases in Guyana}
+#'   \item{cases_vct}{Number of confirmed cases in Saint Vincent and the Grenadines}
+#'   \item{cases_cub}{Number of confirmed cases in Cuba}
+#'   \item{cases_jey}{Number of confirmed cases in Jersey}
+#'   \item{cases_ven}{Number of confirmed cases in Venezuela}
+#'   \item{cases_atg}{Number of confirmed cases in Antigua and Barbuda}
+#'   \item{cases_glp}{Number of confirmed cases in Guadeloupe}
+#'   \item{cases_tto}{Number of confirmed cases in Trinidad and Tobago}
+#'   \item{cases_pri}{Number of confirmed cases in Puerto Rico}
+#'   \item{cases_cym}{Number of confirmed cases in CaymanIslands}
+#'   \item{cases_cuw}{Number of confirmed cases in Curacao}
 #'   \item{cases_fin}{Number of confirmed cases in Finland}
 #'   \item{cases_hrv}{Number of confirmed cases in Croatia}
 #'   \item{cases_aut}{Number of confirmed cases in Austria}
@@ -73,6 +84,7 @@
 #'   \item{cases_cze}{Number of confirmed cases in Czechia}
 #'   \item{cases_isl}{Number of confirmed cases in Iceland}
 #'   \item{cases_arm}{Number of confirmed cases in Armenia}
+#'   \item{cases_kaz}{Number of confirmed cases in Kazakhstan}
 #'   \item{cases_lux}{Number of confirmed cases in Luxembourg}
 #'   \item{cases_prt}{Number of confirmed cases in Portugal}
 #'   \item{cases_and}{Number of confirmed cases in Andorra}
@@ -120,6 +132,7 @@
 #'   \item{cases_sau}{Number of confirmed cases in Saudi Arabia}
 #'   \item{cases_tun}{Number of confirmed cases in Tunisia}
 #'   \item{cases_pse}{Number of confirmed cases in Palestine}
+#'   \item{cases_sdn}{Number of confirmed cases in Sudan}
 #'   \item{cases_dza}{Number of confirmed cases in Algeria}
 #'   \item{cases_nga}{Number of confirmed cases in Nigeria}
 #'   \item{cases_sen}{Number of confirmed cases in Senegal}
@@ -129,6 +142,18 @@
 #'   \item{cases_bfa}{Number of confirmed cases in Burkina Faso}
 #'   \item{cases_cod}{Number of confirmed cases in Democratic Republic of the Congo}
 #'   \item{cases_civ}{Number of confirmed cases in Cote d'Ivoire}
+#'   \item{cases_eth}{Number of confirmed cases in Ethiopia}
+#'   \item{cases_gab}{Number of confirmed cases in Gabon}
+#'   \item{cases_gha}{Number of confirmed cases in Ghana}
+#'   \item{cases_gin}{Number of confirmed cases in Guinea}
+#'   \item{cases_ken}{Number of confirmed cases in Kenya}
+#'   \item{cases_nam}{Number of confirmed cases in Namibia}
+#'   \item{cases_caf}{Number of confirmed cases in CentralAfricanRepublic}
+#'   \item{cases_cog}{Number of confirmed cases in Congo}
+#'   \item{cases_gnq}{Number of confirmed cases in EquatorialGuinea}
+#'   \item{cases_swz}{Number of confirmed cases in Eswatini}
+#'   \item{cases_mrt}{Number of confirmed cases in Mauritania}
+#'   \item{cases_myt}{Number of confirmed cases in Mayotte}
 #'   \item{cases_internationalconveyance}{Number of confirmed cases in Diamond Princess}
 #'   \item{cases_global}{Number of confirmed cases globally}
 #'   \item{suspected_chn}{Number of suspected cases in China}
@@ -161,6 +186,14 @@
 #'   \item{deaths_bgr}{Number of confirmed deaths in Bulgaria}
 #'   \item{deaths_irl}{Number of confirmed deaths in Ireland}
 #'   \item{deaths_grc}{Number of confirmed deaths in Greece}
+#'   \item{deaths_aut}{Number of confirmed deaths in Austria}
+#'   \item{deaths_pol}{Number of confirmed deaths in Poland}
+#'   \item{deaths_ind}{Number of confirmed deaths in India}
+#'   \item{deaths_guy}{Number of confirmed deaths in Guyana}
+#'   \item{deaths_nor}{Number of confirmed deaths in Norway}
+#'   \item{deaths_lux}{Number of confirmed deaths in Luxembourg}
+#'   \item{deaths_alb}{Number of confirmed deaths in Albania}
+#'   \item{deaths_ukr}{Number of confirmed deaths in Ukraine}
 #'   \item{deaths_internationalconveyance}{Number of deaths on Diamond Princess}
 #'   \item{critical_chn}{Number of critical cases in China}
 #'   \item{clinical_chn_hubei}{Number of additional only clinically confirmed cases in Hubei, China}
