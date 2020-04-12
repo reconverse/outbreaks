@@ -3,14 +3,14 @@ library(magrittr)
 library(lubridate)
 library(dplyr)
 
-test_that("dengue_fais_2011 columns and their types are OK", {
+test_that("dengue_fais_2011_td format is correct", {
   expect_columns_lowercase(dengue_fais_2011_td)
   expect_that(dengue_fais_2011_td, is_a('data.frame'))
   expect_is(dengue_fais_2011_td$date_of_onset, 'Date')
   expect_is(dengue_fais_2011_td$incidence, 'numeric')
 })
 
-test_that("dengue_fais_2011 data are OK", {
+test_that("dengue_fais_2011_td data are correct", {
   expect_equal(dengue_fais_2011_td %>% dim(), c(57, 2))
   tb_sum <- dengue_fais_2011_td %>%
     summarise(incidence = sum(incidence), min_date = min(date_of_onset), max_date = max(date_of_onset))

@@ -28,7 +28,7 @@
 #' }
 #' @rdname dengue_yap_2011
 #'
-#' @seealso \code{\link{dengue_yap_2011}}
+#' @seealso \code{\link{dengue_yap_2011_td}}
 #'
 #' @author Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
 #' Transfer to R and documentation by Finlay Campbell (\email{finlaycampbell93@@gmail.com}).
@@ -48,7 +48,7 @@
 #'
 "dengue_yap_2011"
 
-#' Dengue on the Yap Main Islands, Micronesia, 2011
+#' Dengue on the Yap Main Islands, Micronesia, 2011 (new version)
 #'
 #' These data describe incidence of clinical cases of Dengue
 #' on the Yap Main Islands, Micronesia.
@@ -64,14 +64,14 @@
 #'
 #' ## Note
 #' This dataset is the new version. If you want to use the old one for compatibility reason,
-#' please use instead \code{\link{dengue_yap_2011_td}}.
+#' please use instead \code{\link{dengue_yap_2011}}.
 #'
 ##' # Licence
 #' [CC BY](https://creativecommons.org/licenses/by/4.0/)
 #'
 #' @docType data
 #'
-#' @format A data frame with 185 rows and 3 columns
+#' @format A data frame with 185 rows and 2 columns
 #' \describe{
 #'   \item{date_of_onset}{First day of the onset week}
 #'   \item{incidence}{Incidence is given as the number of new cases reported in the week beginning at \code{date_of_onset}}
@@ -79,7 +79,7 @@
 #' @rdname dengue_yap_2011_td
 #'
 #' @author
-#' * Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
+#' * Data from Funk et al. (2016), provided by [Sebastian Funk](https://github.com/sbnfunk).
 #' * Transfer to R and documentation by Finlay Campbell (\email{finlaycampbell93@@gmail.com}).
 #' * Refactoring by [Romain](https://github.com/romainx).
 #'

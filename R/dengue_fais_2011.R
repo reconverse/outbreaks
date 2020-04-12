@@ -59,31 +59,34 @@
 #' centre, and is thought to have been immunologically naive at the time of
 #' infection.
 #'
-#' Note: this dataset is the new version. If you want to use the old one for compatibility reason,
+#' ## Note
+#' This dataset is the new version. If you want to use the old one for compatibility reason,
 #' please use instead \code{\link{dengue_fais_2011}}.
+#'
+##' # Licence
+#' [CC BY](https://creativecommons.org/licenses/by/4.0/)
 #'
 #' @docType data
 #'
-#' @format {
-#' A data frame with 57 rows and 3 columns
+#' @format A data frame with 57 rows and 2 columns
 #' \describe{
-#'   \item{date_of_onset}{Date}
-#'   \item{incidence}{Number of cases}
+#'   \item{date_of_onset}{First day of the onset week}
+#'   \item{incidence}{Incidence is given as the number of new cases reported in the week beginning at \code{date_of_onset}}
 #' }
 #'
-#' }
 #' @rdname dengue_fais_2011_td
 #'
 #' @author
-#' Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
-#' Transfer to R and documentation by Finlay Campbell (\email{finlaycampbell93@@gmail.com}).
+#' * Data from Funk et al. (2016), provided by [Sebastian Funk](https://github.com/sbnfunk).
+#' * Transfer to R and documentation by Finlay Campbell (\email{finlaycampbell93@@gmail.com}).
+#' * Refactoring by [Romain](https://github.com/romainx).
 #'
 #' @source Funk et al. (2016)
 #'
 #' @references
 #' S. Funk, et al. 2016. Comparative Analysis of Dengue and Zika Outbreaks Reveals
 #' Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
-#' e0005173. \link{http://doi.org/10.1371/journal.pntd.0005173}
+#' e0005173. <http://doi.org/10.1371/journal.pntd.0005173>
 #'
 #' @examples
 #' ## show first few weeks of Dengue incidence

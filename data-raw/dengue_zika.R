@@ -18,16 +18,14 @@ raw <- readr::read_csv(raw_data,
                        na = "(NA)"
 )
 
-# Performing a global rename that can be applied to all datasets.
-raw <- raw %>%
-  rename(date_of_onset = onset_week)
-
 # Split the dataset ----
 # The dataset is split in several datasets by disease / settting
 # Inspiration:
 # - https://stackoverflow.com/questions/57275613/how-to-name-a-list-of-a-group-split-in-dplyr-when-grouped-by-more-than-one-colum
 
 df_group <- raw %>%
+  rename(date_of_onset = onset_week) %>%
+  arrange(date_of_onset) %>%
   group_by(disease, setting)
 # get group keys
 group_name_df <- group_keys(df_group) %>%
@@ -51,10 +49,3 @@ usethis::use_data(dengue_yap_2011_td, overwrite = TRUE, compress = 'xz')
 zika_yap_2007_td <- df_list$zika_yap
 usethis::use_data(zika_yap_2007_td, overwrite = TRUE, compress = 'xz')
 
-# zika / girardot ----
-zika_girardot_2015_td <- df_list$zika_girardot
-usethis::use_data(zika_girardot_2015_td, overwrite = TRUE, compress = 'xz')
-
-# zika / sanandres ----
-zika_sanandres_2015_td <- df_list$zika_sanandres
-usethis::use_data(zika_sanandres_2015_td, overwrite = TRUE, compress = 'xz')

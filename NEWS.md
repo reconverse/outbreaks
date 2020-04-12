@@ -1,7 +1,26 @@
 outbreaks 2.0.0 (to be released)
 ==================
 
+This version is refactoring of existing datasets.
+Previous datasets have been kept as is for compatibility reason.
+New datasets hold the same name with a suffix `_td` for tidy.
+
+### Global changes
+
 * Import from `tibble` in order to get consistent behaviour regardless of whether or not `tibble` is attached.
+* Turning on markdown support for Roxygen, see [Turning on markdown support](https://roxygen2.r-lib.org/articles/rd-formatting.html#turning-on-markdown-support)
+* Include a `Makefile` for common tasks.
+* Run test in Travis CI.
+* Try to enforce a standardization on column names for example `date_of_onset` everywhere, `gender` instead of `sex`, etc.
+
+### Dengue & Zika datasets Funk et al. (2016)
+
+* Only kept original columns (removed `nr` column that can be computed).
+* Rename columns to try to keep a standard.
+* Include the code used to generate datasets in `data-raw/` as stated in *[R Packages](http://r-pkgs.had.co.nz/data.html)* book.
+* Include datasets tests through [testthat](https://testthat.r-lib.org/).
+* Add licence in the documentation of the datasets.
+* Small refactoring of the Markdown documentation.
 
 outbreaks 1.8.0 (2020-02-13)
 ==================

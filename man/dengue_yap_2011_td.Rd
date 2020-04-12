@@ -3,9 +3,9 @@
 \docType{data}
 \name{dengue_yap_2011_td}
 \alias{dengue_yap_2011_td}
-\title{Dengue on the Yap Main Islands, Micronesia, 2011}
+\title{Dengue on the Yap Main Islands, Micronesia, 2011 (new version)}
 \format{
-A data frame with 185 rows and 3 columns
+A data frame with 185 rows and 2 columns
 \describe{
 \item{date_of_onset}{First day of the onset week}
 \item{incidence}{Incidence is given as the number of new cases reported in the week beginning at \code{date_of_onset}}
@@ -33,7 +33,7 @@ Puerto Rico.
 \subsection{Note}{
 
 This dataset is the new version. If you want to use the old one for compatibility reason,
-please use instead \code{\link{dengue_yap_2011_td}}.
+please use instead \code{\link{dengue_yap_2011}}.
 }
 }
 \section{Licence}{
@@ -52,7 +52,7 @@ e0005173. \url{http://doi.org/10.1371/journal.pntd.0005173}
 }
 \author{
 \itemize{
-\item Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
+\item Data from Funk et al. (2016), provided by \href{https://github.com/sbnfunk}{Sebastian Funk}.
 \item Transfer to R and documentation by Finlay Campbell (\email{finlaycampbell93@gmail.com}).
 \item Refactoring by \href{https://github.com/romainx}{Romain}.
 }

@@ -26,6 +26,7 @@ clean:
 	@rm -rf $(PKGNAME)_$(PKGVERS).tar.gz $(PKGNAME).Rcheck
 
 test:
-	Rscript \
-	-e 'library(devtools)' \
-	-e 'devtools::test()'
+	Rscript -e "devtools::test()"
+
+document:
+	Rscript -e "devtools::document(roclets = c('rd', 'collate', 'namespace'))"

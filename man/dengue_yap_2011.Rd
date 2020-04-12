@@ -49,7 +49,7 @@ Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
 e0005173. http://doi.org/10.1371/journal.pntd.0005173
 }
 \seealso{
-\code{\link{dengue_yap_2011}}
+\code{\link{dengue_yap_2011_td}}
 }
 \author{
 Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).

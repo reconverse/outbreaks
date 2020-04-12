@@ -31,6 +31,10 @@ zika_yap_2007
 These data describe weekly incidence of probable and confirmed cases of Zika virus
 on the Yap Main Islands, Micronesia.
 }
+\details{
+Note: There is a new version of the dataset available.
+Check \code{\link{zika_yap_2007_td}}.
+}
 \examples{
 ## show first few weeks of Zika incidence
 head(zika_yap_2007)
@@ -40,6 +44,9 @@ head(zika_yap_2007)
 S. Funk, et al. 2016. Comparative Analysis of Dengue and Zika Outbreaks Reveals
 Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
 e0005173. http://doi.org/10.1371/journal.pntd.0005173
+}
+\seealso{
+\code{\link{zika_yap_2007_td}}
 }
 \author{
 Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
