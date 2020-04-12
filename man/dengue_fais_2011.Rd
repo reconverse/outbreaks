@@ -4,12 +4,13 @@
 \name{dengue_fais_2011}
 \alias{dengue_fais_2011}
 \title{Dengue on the island of Fais, Micronesia, 2011}
-\format{{
+\format{
+{
 A data frame with 57 rows and 3 columns
 \describe{
-  \item{onset_date}{Date}
-  \item{nr}{Days after starting date}
-  \item{value}{Number of cases}
+\item{onset_date}{Date}
+\item{nr}{Days after starting date}
+\item{value}{Number of cases}
 }
 
 The data on Dengue incidence reported by Funk et al. (2016) cover the period
@@ -19,7 +20,8 @@ the index case. The population of Fais is concentrated in a single population
 centre, and is thought to have been immunologically naive at the time of
 infection.
 
-}}
+}
+}
 \source{
 Funk et al. (2016)
 }
@@ -30,6 +32,10 @@ dengue_fais_2011
 These data describe incidence of clincal cases of Dengue
 on the island of Fais, Micronesia.
 }
+\details{
+Note: There is a new version of the dataset available.
+Check \code{\link{dengue_fais_2011_td}}.
+}
 \examples{
 ## show first few weeks of Dengue incidence
 head(dengue_fais_2011)
@@ -39,6 +45,9 @@ head(dengue_fais_2011)
 S. Funk, et al. 2016. Comparative Analysis of Dengue and Zika Outbreaks Reveals
 Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
 e0005173. http://doi.org/10.1371/journal.pntd.0005173
+}
+\seealso{
+\code{\link{dengue_fais_2011_td}}
 }
 \author{
 Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).

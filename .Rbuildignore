@@ -6,3 +6,5 @@ docs/
 raw/
 ^appveyor\.yml$
 logo/*
+^Makefile$
+^data-raw$

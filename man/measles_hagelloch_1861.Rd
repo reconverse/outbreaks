@@ -4,27 +4,28 @@
 \name{measles_hagelloch_1861}
 \alias{measles_hagelloch_1861}
 \title{Measles in Hagelloch, Germany, 1861}
-\format{{
+\format{
+{
 A data frame with 188 rows and 12 columns
 \describe{
-  \item{case_ID}{Case ID number}
-  \item{infector}{Number of patient who is the putative source of infection}
-  \item{date_of_prodrome}{\code{Date} of onset of prodromal symptoms}
-  \item{date_of_rash}{\code{Date} of onset of rash}
-  \item{date_of_death}{\code{Date} of death (\code{NA} implies recovered)}
-  \item{age}{Age in years (fractions ignored)}
-  \item{gender}{Gender of the individual (factor: f, m)}
-  \item{family_ID}{Family ID number}
-  \item{class}{School class (factor: 0, preschool; 1, 1st class; 2, 2nd class )}
-  \item{complications}{Complications (factor: no, yes)}
-  \item{x_loc}{x coordinate of house (in metres). Scaling in metres
-  is obtained by multiplying the original coordinates by 2.5 (see details
-  in Neal and Roberts (2004))}
-  \item{y_loc}{y coordinate of house (in metres). See \code{x_loc} above.}
+\item{case_ID}{Case ID number}
+\item{infector}{Number of patient who is the putative source of infection}
+\item{date_of_prodrome}{\code{Date} of onset of prodromal symptoms}
+\item{date_of_rash}{\code{Date} of onset of rash}
+\item{date_of_death}{\code{Date} of death (\code{NA} implies recovered)}
+\item{age}{Age in years (fractions ignored)}
+\item{gender}{Gender of the individual (factor: f, m)}
+\item{family_ID}{Family ID number}
+\item{class}{School class (factor: 0, preschool; 1, 1st class; 2, 2nd class )}
+\item{complications}{Complications (factor: no, yes)}
+\item{x_loc}{x coordinate of house (in metres). Scaling in metres
+is obtained by multiplying the original coordinates by 2.5 (see details
+in Neal and Roberts (2004))}
+\item{y_loc}{y coordinate of house (in metres). See \code{x_loc} above.}
 }
 
-
-}}
+}
+}
 \source{
 Pfeilsticker (1863) and Oesterle (1992).
 }

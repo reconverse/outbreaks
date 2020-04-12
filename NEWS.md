@@ -1,3 +1,8 @@
+outbreaks 2.0.0 (to be released)
+==================
+
+* Import from `tibble` in order to get consistent behaviour regardless of whether or not `tibble` is attached.
+
 outbreaks 1.8.0 (2020-02-13)
 ==================
 

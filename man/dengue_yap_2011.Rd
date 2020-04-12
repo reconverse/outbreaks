@@ -4,24 +4,26 @@
 \name{dengue_yap_2011}
 \alias{dengue_yap_2011}
 \title{Dengue on the Yap Main Islands, Micronesia, 2011}
-\format{{
+\format{
+{
 A data frame with 185 rows and 3 columns
 \describe{
-  \item{onset_date}{Date}
-  \item{nr}{Days after starting date}
-  \item{value}{Number of cases}
+\item{onset_date}{Date}
+\item{nr}{Days after starting date}
+\item{value}{Number of cases}
 }
 
 The data on Dengue incidence reported by Funk et al. (2016) cover the period
 from 2011-07-07 to 2012-04-12, over which time a total of 978 cases were
 reported among 7391 residents. Suspected Dengue cases were identified by the
 Yap Department of Health, using the WHO (2009) case definition. A small
-proportion of cases (9%) were reported on outer islands and included in the
+proportion of cases (9\%) were reported on outer islands and included in the
 time series for the Yap Main Islands. Dengue virus serotype 2 was confirmed by
 reverse transcriptase polymerase chain reaction by the CDC Dengue Branch,
 Puerto Rico.
 
-}}
+}
+}
 \source{
 Funk et al. (2016)
 }
@@ -32,6 +34,10 @@ dengue_yap_2011
 These data describe incidence of clincal cases of Dengue
 on the Yap Main Islands, Micronesia.
 }
+\details{
+Note: There is a new version of the dataset available.
+Check \code{\link{dengue_yap_2011}}.
+}
 \examples{
 ## show first few weeks of Dengue incidence
 head(dengue_yap_2011)
@@ -41,6 +47,9 @@ head(dengue_yap_2011)
 S. Funk, et al. 2016. Comparative Analysis of Dengue and Zika Outbreaks Reveals
 Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
 e0005173. http://doi.org/10.1371/journal.pntd.0005173
+}
+\seealso{
+\code{\link{dengue_yap_2011}}
 }
 \author{
 Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).

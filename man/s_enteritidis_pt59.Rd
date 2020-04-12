@@ -4,7 +4,9 @@
 \name{s_enteritidis_pt59}
 \alias{s_enteritidis_pt59}
 \title{Salmonella Enteritidis PT59 outbreak}
-\format{An object of class \code{list} of length 2.}
+\format{
+An object of class \code{list} of length 2.
+}
 \source{
 Multi-agency Salmonella Enteritidis PT59 Outbreak Control Team,
 chaired by Public Health England

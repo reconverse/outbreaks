@@ -18,7 +18,10 @@ Depends:
 License: GPL (>=2)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.0
+Roxygen: list(markdown = TRUE)
 Suggests: testthat, covr, ape, incidence
 URL: https://github.com/reconhub/outbreaks
 BugReports: https://github.com/reconhub/outbreaks/issues
+Imports: 
+    tibble

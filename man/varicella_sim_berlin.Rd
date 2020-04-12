@@ -4,24 +4,26 @@
 \name{varicella_sim_berlin}
 \alias{varicella_sim_berlin}
 \title{Simulated Varicella outbreak}
-\format{{
+\format{
+{
 A data frame with 500 rows and 13 columns
 \describe{
-  \item{sex}{The gender of the simulated persons}
-  \item{ethnicity}{Simulated ethnical origin}
-  \item{firstname}{First names of the simulated persons}
-  \item{lastname}{Last names of the simulated persons}
-  \item{age}{Age of the simulated persons}
-  \item{center1}{Name of the first center where the simulated persons stay}
-  \item{arrival1}{Date of arrival at the first center}
-  \item{leave1}{Date of departure at the first center}
-  \item{center2}{Name of the second center where the simulated persons stay}
-  \item{arrival2}{Date of arrival at the second center}
-  \item{leave2}{Date of departure at the second center}
-  \item{onset}{Date of onset of the disease}
-  \item{disease}{Name of the disease}
+\item{sex}{The gender of the simulated persons}
+\item{ethnicity}{Simulated ethnical origin}
+\item{firstname}{First names of the simulated persons}
+\item{lastname}{Last names of the simulated persons}
+\item{age}{Age of the simulated persons}
+\item{center1}{Name of the first center where the simulated persons stay}
+\item{arrival1}{Date of arrival at the first center}
+\item{leave1}{Date of departure at the first center}
+\item{center2}{Name of the second center where the simulated persons stay}
+\item{arrival2}{Date of arrival at the second center}
+\item{leave2}{Date of departure at the second center}
+\item{onset}{Date of onset of the disease}
+\item{disease}{Name of the disease}
 }
-}}
+}
+}
 \usage{
 varicella_sim_berlin
 }

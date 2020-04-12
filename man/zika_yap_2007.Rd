@@ -4,12 +4,13 @@
 \name{zika_yap_2007}
 \alias{zika_yap_2007}
 \title{Zika on the Yap Main Islands, Micronesia, 2007}
-\format{{
+\format{
+{
 A data frame with 29 rows and 3 columns
 \describe{
-  \item{onset_date}{Date}
-  \item{nr}{Days after starting date}
-  \item{value}{Number of cases per week}
+\item{onset_date}{Date}
+\item{nr}{Days after starting date}
+\item{value}{Number of cases per week}
 }
 
 The data on weekly cases reported by Funk et al. (2016) cover the period from
@@ -18,7 +19,8 @@ classified as probable (59) or confirmed (49) in a population of 7391. Cases
 were identified by a combination of prospective and retrospective
 surveillance at all health centres on Yap.
 
-}}
+}
+}
 \source{
 Funk et al. (2016)
 }

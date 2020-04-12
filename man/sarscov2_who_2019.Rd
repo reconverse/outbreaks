@@ -4,7 +4,9 @@
 \name{sarscov2_who_2019}
 \alias{sarscov2_who_2019}
 \title{SARS-CoV-2 World Health Organization Situation Reports 2019 Outbreak (COVID-19)}
-\format{A data frame where each row represents a new Situation Report}
+\format{
+A data frame where each row represents a new Situation Report
+}
 \source{
 World Health Organization (2020)
 }
@@ -13,8 +15,8 @@ sarscov2_who_2019
 }
 \description{
 These data are transcribed from the WHO Situation Reports on the COVID-19
-outbreak (SARS-CoV-2). Data was not available for all variables in all 
-reports. For full details, see the original Situation Reports as published 
+outbreak (SARS-CoV-2). Data was not available for all variables in all
+reports. For full details, see the original Situation Reports as published
 by WHO. Data were manually transcribed and errors are possible.
 }
 \examples{
@@ -23,7 +25,7 @@ sarscov2_who_2019$cases_global
 
 }
 \references{
-World Health Organization. 2020. <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports>
+World Health Organization. 2020. \url{https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports}
 }
 \author{
 Data from World Health Organization (WHO), published as Sitation
