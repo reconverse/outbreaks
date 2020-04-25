@@ -28,11 +28,6 @@ were reported among 294 residents. The first reported case is thought to be
 the index case. The population of Fais is concentrated in a single population
 centre, and is thought to have been immunologically naive at the time of
 infection.
-\subsection{Note}{
-
-This dataset is the new version. If you want to use the old one for compatibility reason,
-you can load it manually \code{load('data-raw/dep_dengue_fais_2011.rda')} and use it \code{dep_dengue_fais_2011}.
-}
 }
 \section{Licence}{
 \href{https://creativecommons.org/licenses/by/4.0/}{CC BY}

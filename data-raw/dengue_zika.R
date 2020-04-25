@@ -18,18 +18,6 @@ raw <- readr::read_csv(raw_data,
                        na = "(NA)"
 )
 
-# Deprecate previous datasets ----------
-deprecate_previous_datasets <- function() {
-  dep_dengue_fais_2011 <- dengue_fais_2011
-  usethis::use_data(dep_dengue_fais_2011)
-
-  dep_dengue_yap_2011 <- dengue_yap_2011
-  usethis::use_data(dep_dengue_yap_2011)
-
-  dep_zika_yap_2007 <- zika_yap_2007
-  usethis::use_data(dep_zika_yap_2007)
-}
-
 # Split the dataset --------
 # The dataset is split in several datasets by disease / settting
 # Inspiration:
@@ -60,5 +48,3 @@ usethis::use_data(dengue_yap_2011, overwrite = TRUE, compress = 'xz')
 # zika / yap --------
 zika_yap_2007 <- df_list$zika_yap
 usethis::use_data(zika_yap_2007, overwrite = TRUE, compress = 'xz')
-
-

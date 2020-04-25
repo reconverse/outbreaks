@@ -1,9 +1,11 @@
 outbreaks 2.0.0 (to be released)
 ================================
 
-This version is refactoring of existing datasets.
-Previous datasets have been kept as is for compatibility reason.
-New datasets hold the same name with a suffix `_td` for tidy.
+This version is a **refactoring of existing datasets**.
+Previous datasets have been moved in `/data-raw` and prefixed by `leg_` (for legacy).
+
+Note: If for compatibility reason you need to use the previous version of the datasets 
+you can load them by running `legacy_mode()`.
 
 ### Global changes
 
@@ -50,7 +52,7 @@ Datasets: `dengue_fais_2011_td`, `dengue_yap_2011_td`, `zika_yap_2007_td`.
   * The detailed description of the dataset is now included in the "Details"" section
   * Dedicated section "Licence" added to mention clearly the licence
   * Minor improvements to add links
-  * Alias -> #TODO
+  * `@family` tags added
 
 ### Ebola in Kikwit, Democratic Republic of the Congo, 1995
 
@@ -81,6 +83,12 @@ Datasets: `ebola_kikwit_1995`
   * `chiefdom` -> ?
 
 ### Influenza A H7N9 in China, 2013
+
+
+### References
+
+* [Data chapter in the book *R packages*](http://r-pkgs.had.co.nz/data.html)
+* [Taking your data to go with R packages](https://www.davekleinschmidt.com/r-packages/)
 
 outbreaks 1.8.0 (2020-02-13)
 ==================

@@ -27,11 +27,6 @@ The data on weekly cases reported by Funk et al. (2016) cover the period from
 classified as probable (59) or confirmed (49) in a population of 7391. Cases
 were identified by a combination of prospective and retrospective
 surveillance at all health centres on Yap.
-\subsection{Note}{
-
-This dataset is the new version. If you want to use the old one for compatibility reason,
-you can load it manually \code{load('data-raw/dep_zika_yap_2007.rda')} and use it \code{dep_zika_yap_2007}.
-}
 }
 \section{Licence}{
 \href{https://creativecommons.org/licenses/by/4.0/}{CC BY}

@@ -30,11 +30,6 @@ proportion of cases (9\%) were reported on outer islands and included in the
 time series for the Yap Main Islands. Dengue virus serotype 2 was confirmed by
 reverse transcriptase polymerase chain reaction by the CDC Dengue Branch,
 Puerto Rico.
-\subsection{Note}{
-
-This dataset is the new version. If you want to use the old one for compatibility reason,
-you can load it manually \code{load('data-raw/dengue_yap_2011.rda')} and use it \code{dep_dengue_yap_2011}.
-}
 }
 \section{Licence}{
 \href{https://creativecommons.org/licenses/by/4.0/}{CC BY}

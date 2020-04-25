@@ -10,10 +10,6 @@
 #' centre, and is thought to have been immunologically naive at the time of
 #' infection.
 #'
-#' ## Note
-#' This dataset is the new version. If you want to use the old one for compatibility reason,
-#' you can load it manually `load('data-raw/dep_dengue_fais_2011.rda')` and use it `dep_dengue_fais_2011`.
-#'
 ##' # Licence
 #' [CC BY](https://creativecommons.org/licenses/by/4.0/)
 #'

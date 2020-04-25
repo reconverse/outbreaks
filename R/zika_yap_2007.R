@@ -9,10 +9,6 @@
 #' were identified by a combination of prospective and retrospective
 #' surveillance at all health centres on Yap.
 #'
-#' ## Note
-#' This dataset is the new version. If you want to use the old one for compatibility reason,
-#' you can load it manually `load('data-raw/dep_zika_yap_2007.rda')` and use it `dep_zika_yap_2007`.
-#'
 #' # Licence
 #' [CC BY](https://creativecommons.org/licenses/by/4.0/)
 #'
