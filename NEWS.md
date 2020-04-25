@@ -1,5 +1,5 @@
 outbreaks 2.0.0 (to be released)
-==================
+================================
 
 This version is refactoring of existing datasets.
 Previous datasets have been kept as is for compatibility reason.
@@ -7,20 +7,80 @@ New datasets hold the same name with a suffix `_td` for tidy.
 
 ### Global changes
 
-* Import from `tibble` in order to get consistent behaviour regardless of whether or not `tibble` is attached.
-* Turning on markdown support for Roxygen, see [Turning on markdown support](https://roxygen2.r-lib.org/articles/rd-formatting.html#turning-on-markdown-support)
-* Include a `Makefile` for common tasks.
-* Run test in Travis CI.
-* Try to enforce a standardization on column names for example `date_of_onset` everywhere, `gender` instead of `sex`, etc.
+* **Technical changes**
+  * Tibble
+    * Convert each dataset to `tibble`.
+    * Import from `tibble` in order to get consistent behaviour regardless of whether or not `tibble` is attached.
+  * Tests
+    * Include a test for each dataset through [testthat](https://testthat.r-lib.org/).
+    * Run tests in Travis CI.
+  * Include a `Makefile` for common tasks.
+* **Documentation**
+  * Turning on markdown support for Roxygen, see [Turning on markdown support](https://roxygen2.r-lib.org/articles/rd-formatting.html#turning-on-markdown-support).
+  * Detailed description of the dataset is including in the "Details" section (instead of "Format").
+  * Dedicated section "Licence" added to mention clearly the licence if it's known -> [#7](https://github.com/reconhub/outbreaks/issues/7).
+  * Define `@family` with disease name.
+* **Dataset structure**
+  * Variables are in lower case.
+  * Some common variables
+    * `id`: Unique identification
+    * `age`: Age of individual
+    * `date_of_onset`: Date of symptom onset
+    * `date_of_report`: Date of reporting
+    * `gender`: Gender of individual as a factor with two values ("male", "female")
+    * `incidence`: Incidence is given as the number of new cases reported
+    * `age`: Age of individual
+    * `age_group`: Age grouping
+    * `geo`: Geographical coordinates (must be two columns)
+* **Process**
+  * Write a "contributing guide" -> #TODO
 
 ### Dengue & Zika datasets Funk et al. (2016)
 
-* Only kept original columns (removed `nr` column that can be computed).
-* Rename columns to try to keep a standard.
-* Include the code used to generate datasets in `data-raw/` as stated in *[R Packages](http://r-pkgs.had.co.nz/data.html)* book.
-* Include datasets tests through [testthat](https://testthat.r-lib.org/).
-* Add licence in the documentation of the datasets.
-* Small refactoring of the Markdown documentation.
+Datasets: `dengue_fais_2011_td`, `dengue_yap_2011_td`, `zika_yap_2007_td`.
+
+* **Technical changes**
+  * Include the code used to download the source file and 
+  generate datasets in `data-raw/` as stated in *[R Packages](http://r-pkgs.had.co.nz/data.html)* book.
+* **Format**
+  * `onset_date` -> `date_of_onset`(standardization)
+  * `nr` -> Removed since it can be computed (*how to* added in the documentation #TODO)
+  * `value`-> `incidence` (standardization)
+* **Documentation**
+  * The detailed description of the dataset is now included in the "Details"" section
+  * Dedicated section "Licence" added to mention clearly the licence
+  * Minor improvements to add links
+  * Alias -> #TODO
+
+### Ebola in Kikwit, Democratic Republic of the Congo, 1995
+
+Datasets: `ebola_kikwit_1995`
+
+*Source data not available.*
+
+* **Format**
+  * `date` -> `date_of_onset`(standardisation)
+  * `onset`-> `incidence` (standardisation)
+  * `death` -> `nb_death`
+  * `reporting` -> `daily_report`
+
+### Ebola in Sierra Leone, 2014
+
+*Source data not available.*
+
+* **Technical changes**
+  * Convert to `tibble`
+* **Format**
+  * `id``
+  * `age`
+  * `sex` -> `gender`
+  * `status` -> `incidence_status`
+  * `date_of_onset`
+  * `date_of_sample`
+  * `district` -> ?
+  * `chiefdom` -> ?
+
+### Influenza A H7N9 in China, 2013
 
 outbreaks 1.8.0 (2020-02-13)
 ==================

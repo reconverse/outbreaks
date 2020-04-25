@@ -18,7 +18,19 @@ raw <- readr::read_csv(raw_data,
                        na = "(NA)"
 )
 
-# Split the dataset ----
+# Deprecate previous datasets ----------
+deprecate_previous_datasets <- function() {
+  dep_dengue_fais_2011 <- dengue_fais_2011
+  usethis::use_data(dep_dengue_fais_2011)
+
+  dep_dengue_yap_2011 <- dengue_yap_2011
+  usethis::use_data(dep_dengue_yap_2011)
+
+  dep_zika_yap_2007 <- zika_yap_2007
+  usethis::use_data(dep_zika_yap_2007)
+}
+
+# Split the dataset --------
 # The dataset is split in several datasets by disease / settting
 # Inspiration:
 # - https://stackoverflow.com/questions/57275613/how-to-name-a-list-of-a-group-split-in-dplyr-when-grouped-by-more-than-one-colum
@@ -37,15 +49,16 @@ group_name <- group_name_df$group_name
 df_list <- group_split(df_group, keep = FALSE) %>%
   setNames(group_name)
 
-# dengue / fais ----
-dengue_fais_2011_td <- df_list$dengue_fais
-usethis::use_data(dengue_fais_2011_td, overwrite = TRUE, compress = 'xz')
+# dengue / fais --------
+dengue_fais_2011 <- df_list$dengue_fais
+usethis::use_data(dengue_fais_2011, overwrite = TRUE, compress = 'xz')
 
-# dengue / yap ----
-dengue_yap_2011_td <- df_list$dengue_yap
-usethis::use_data(dengue_yap_2011_td, overwrite = TRUE, compress = 'xz')
+# dengue / yap --------
+dengue_yap_2011 <- df_list$dengue_yap
+usethis::use_data(dengue_yap_2011, overwrite = TRUE, compress = 'xz')
 
-# zika / yap ----
-zika_yap_2007_td <- df_list$zika_yap
-usethis::use_data(zika_yap_2007_td, overwrite = TRUE, compress = 'xz')
+# zika / yap --------
+zika_yap_2007 <- df_list$zika_yap
+usethis::use_data(zika_yap_2007, overwrite = TRUE, compress = 'xz')
+
 

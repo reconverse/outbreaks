@@ -1,52 +1,3 @@
-#' Dengue on the island of Fais, Micronesia, 2011
-#'
-#' These data describe incidence of clincal cases of Dengue
-#' on the island of Fais, Micronesia.
-#'
-#' Note: There is a new version of the dataset available.
-#' Check \code{\link{dengue_fais_2011_td}}.
-#'
-#' @docType data
-#'
-#' @format {
-#' A data frame with 57 rows and 3 columns
-#' \describe{
-#'   \item{onset_date}{Date}
-#'   \item{nr}{Days after starting date}
-#'   \item{value}{Number of cases}
-#' }
-#'
-#' The data on Dengue incidence reported by Funk et al. (2016) cover the period
-#' from 2011-09-15 to 2012-02-14, over which time a total of 157 clinical cases
-#' were reported among 294 residents. The first reported case is thought to be
-#' the index case. The population of Fais is concentrated in a single population
-#' centre, and is thought to have been immunologically naive at the time of
-#' infection.
-#'
-#' }
-#' @rdname dengue_fais_2011
-#'
-#' @seealso \code{\link{dengue_fais_2011_td}}
-#'
-#' @author Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
-#' Transfer to R and documentation by Finlay Campbell (\email{finlaycampbell93@@gmail.com}).
-#'
-#' @source Funk et al. (2016)
-#'
-#' @references
-#'
-#' S. Funk, et al. 2016. Comparative Analysis of Dengue and Zika Outbreaks Reveals
-#' Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
-#' e0005173. http://doi.org/10.1371/journal.pntd.0005173
-#'
-#'
-#' @examples
-#' ## show first few weeks of Dengue incidence
-#' head(dengue_fais_2011)
-#'
-"dengue_fais_2011"
-
-
 #' Dengue on the island of Fais, Micronesia, 2011 (new version)
 #'
 #' These data describe incidence of clinical cases of Dengue
@@ -61,7 +12,7 @@
 #'
 #' ## Note
 #' This dataset is the new version. If you want to use the old one for compatibility reason,
-#' please use instead \code{\link{dengue_fais_2011}}.
+#' you can load it manually `load('data-raw/dep_dengue_fais_2011.rda')` and use it `dep_dengue_fais_2011`.
 #'
 ##' # Licence
 #' [CC BY](https://creativecommons.org/licenses/by/4.0/)
@@ -74,7 +25,7 @@
 #'   \item{incidence}{Incidence is given as the number of new cases reported in the week beginning at \code{date_of_onset}}
 #' }
 #'
-#' @rdname dengue_fais_2011_td
+#' @rdname dengue_fais_2011
 #'
 #' @author
 #' * Data from Funk et al. (2016), provided by [Sebastian Funk](https://github.com/sbnfunk).
@@ -88,8 +39,10 @@
 #' Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
 #' e0005173. <http://doi.org/10.1371/journal.pntd.0005173>
 #'
+#' @family dengue
+#'
 #' @examples
 #' ## show first few weeks of Dengue incidence
-#' head(dengue_fais_2011_td)
+#' head(dengue_fais_2011)
 #'
-"dengue_fais_2011_td"
+"dengue_fais_2011"
