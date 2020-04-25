@@ -47,8 +47,7 @@ e0005173. \url{http://doi.org/10.1371/journal.pntd.0005173}
 }
 \seealso{
 Other dengue: 
-\code{\link{dengue_fais_2011}},
-\code{\link{zika_yap_2007}}
+\code{\link{dengue_fais_2011}}
 }
 \author{
 \itemize{

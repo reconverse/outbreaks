@@ -34,7 +34,7 @@
 #' Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
 #' e0005173. <http://doi.org/10.1371/journal.pntd.0005173>
 #'
-#' @family dengue
+#' @family zika
 #'
 #' @examples
 #' ## show first few weeks of Zika incidence

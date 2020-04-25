@@ -21,16 +21,17 @@ you can load them by running `legacy_mode()`.
   * Turning on markdown support for Roxygen, see [Turning on markdown support](https://roxygen2.r-lib.org/articles/rd-formatting.html#turning-on-markdown-support).
   * Detailed description of the dataset is including in the "Details" section (instead of "Format").
   * Dedicated section "Licence" added to mention clearly the licence if it's known -> [#7](https://github.com/reconhub/outbreaks/issues/7).
-  * Define `@family` with disease name.
+  * Define `@family` with disease name in order to find similar datasets easily.
 * **Dataset structure**
   * Variables are in lower case.
+  * Stick to **tidy data** principle
   * Some common variables
     * `id`: Unique identification
     * `age`: Age of individual
-    * `date_of_onset`: Date of symptom onset
-    * `date_of_report`: Date of reporting
+    * `date_of_onset` (`Date`): Date of symptom onset
+    * `date_of_report` (`Date`): Date of reporting
     * `gender`: Gender of individual as a factor with two values ("male", "female")
-    * `incidence`: Incidence is given as the number of new cases reported
+    * `incidence` (`integer`): Incidence is given as the number of new cases reported
     * `age`: Age of individual
     * `age_group`: Age grouping
     * `geo`: Geographical coordinates (must be two columns)
@@ -46,13 +47,10 @@ Datasets: `dengue_fais_2011_td`, `dengue_yap_2011_td`, `zika_yap_2007_td`.
   generate datasets in `data-raw/` as stated in *[R Packages](http://r-pkgs.had.co.nz/data.html)* book.
 * **Format**
   * `onset_date` -> `date_of_onset`(standardization)
-  * `nr` -> Removed since it can be computed (*how to* added in the documentation #TODO)
-  * `value`-> `incidence` (standardization)
+  * `nr` -> Removed since it can be computed
+  * `value`-> `incidence` (`integer`)
 * **Documentation**
-  * The detailed description of the dataset is now included in the "Details"" section
-  * Dedicated section "Licence" added to mention clearly the licence
-  * Minor improvements to add links
-  * `@family` tags added
+  * Apply general documentation rules
 
 ### Ebola in Kikwit, Democratic Republic of the Congo, 1995
 
@@ -60,11 +58,30 @@ Datasets: `ebola_kikwit_1995`
 
 *Source data not available.*
 
+It was a sparse dataset, there is no event when reporting is FALSE so
+* We will filter on reporting TRUE
+* Remove the useless reporting columnt
+
+```R
+leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
+
+# A tibble: 2 x 3
+# reporting onset death
+# <lgl>     <int> <int>
+# 1 FALSE         0     0
+# 2 TRUE        292   236
+```
+
 * **Format**
-  * `date` -> `date_of_onset`(standardisation)
-  * `onset`-> `incidence` (standardisation)
-  * `death` -> `nb_death`
-  * `reporting` -> `daily_report`
+  * Keep only dates with data
+  * `date` -> `date_of_onset`(standardization)
+  * `onset`-> `incidence` (standardization)
+  * `death` -> `death` (no change)
+  * `reporting` -> removed
+
+* **Documentation**
+  * Apply general documentation rules
+  * Fixed the number of incidence is 292 and not 291
 
 ### Ebola in Sierra Leone, 2014
 
@@ -87,6 +104,7 @@ Datasets: `ebola_kikwit_1995`
 
 ### References
 
+* [Tidy Data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 * [Data chapter in the book *R packages*](http://r-pkgs.had.co.nz/data.html)
 * [Taking your data to go with R packages](https://www.davekleinschmidt.com/r-packages/)
 

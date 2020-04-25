@@ -5,21 +5,11 @@
 \alias{ebola_kikwit_1995}
 \title{Ebola in Kikwit, Democratic Republic of the Congo, 1995}
 \format{
-{
-A data frame with 192 rows and 4 columns
+A data frame with 139 rows and 3 columns
 \describe{
-\item{date}{Date}
-\item{onset}{Number of new cases}
-\item{deaths}{Number of deaths per day}
-\item{reporting}{Whether data were reported on a daily basis}
-}
-
-The data on daily cases reported by Khan et al. (1999) cover the period 1995-03-01 to 1995-07-16,
-over which time there were 291 cases and 236 deaths. The first case became ill on
-1995-01-06, which is taken as the first timepoint in this version of the data. Over the entire period,
-there were 316 cases i.e. the onset times are not reported for 24 individuals, and the recovery times
-for the individuals who did not die are not reported.
-
+\item{date_of_onset}{Date of onset}
+\item{incidence}{Number of new cases}
+\item{death}{Number of deaths per day}
 }
 }
 \source{
@@ -32,6 +22,17 @@ ebola_kikwit_1995
 These data comprise of new cases of Ebola haemorrhagic fever in Kikwit,
 Democratic Republic of the Congo.
 }
+\details{
+The data on daily cases reported by Khan et al. (1999) cover the period 1995-03-01 to 1995-07-16,
+over which time there were 292 cases and 236 deaths. The first case became ill on
+1995-01-06, which is taken as the first timepoint in this version of the data. Over the entire period,
+there were 316 cases i.e. the onset times are not reported for 24 individuals, and the recovery times
+for the individuals who did not die are not reported.
+}
+\section{Licence}{
+\strong{Unknown}
+}
+
 \examples{
 ## show first few cases
 head(ebola_kikwit_1995)
@@ -42,7 +43,11 @@ A.S. Khan, et al. 1999. The reemergence of Ebola hemorrhagic fever,
 Democratic Republic of the Congo, 1995. J Infect Dis 179:S76-S86.
 }
 \author{
-Data from Khan et al. (1999), provided by T.J. McKinley.
-Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
+\itemize{
+\item Data from Khan et al. (1999), provided by T.J. McKinley.
+\item Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
+\item Refactoring by \href{https://github.com/romainx}{Romain}.
 }
+}
+\concept{ebola}
 \keyword{datasets}

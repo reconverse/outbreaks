@@ -42,11 +42,6 @@ S. Funk, et al. 2016. Comparative Analysis of Dengue and Zika Outbreaks Reveals
 Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
 e0005173. \url{http://doi.org/10.1371/journal.pntd.0005173}
 }
-\seealso{
-Other dengue: 
-\code{\link{dengue_fais_2011}},
-\code{\link{dengue_yap_2011}}
-}
 \author{
 \itemize{
 \item Data from Funk et al. (2016), provided by \href{https://github.com/sbnfunk}{Sebastian Funk}.
@@ -54,5 +49,5 @@ Other dengue:
 \item Refactoring by \href{https://github.com/romainx}{Romain}.
 }
 }
-\concept{dengue}
+\concept{zika}
 \keyword{datasets}

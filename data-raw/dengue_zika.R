@@ -26,6 +26,7 @@ raw <- readr::read_csv(raw_data,
 df_group <- raw %>%
   rename(date_of_onset = onset_week) %>%
   arrange(date_of_onset) %>%
+  mutate(incidence = as.integer(incidence)) %>%
   group_by(disease, setting)
 # get group keys
 group_name_df <- group_keys(df_group) %>%

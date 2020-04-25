@@ -22,6 +22,7 @@
 #'   \item{date_of_onset}{First day of the onset week}
 #'   \item{incidence}{Incidence is given as the number of new cases reported in the week beginning at \code{date_of_onset}}
 #' }
+#'
 #' @rdname dengue_yap_2011
 #'
 #' @author
