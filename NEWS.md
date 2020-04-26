@@ -10,12 +10,20 @@ you can load them by running `legacy_mode()`.
 ### Global changes
 
 * **Technical changes**
-  * Tibble
+  * tibble
     * Convert each dataset to `tibble`.
     * Import from `tibble` in order to get consistent behaviour regardless of whether or not `tibble` is attached.
+  * tsibble
+    * Optional possibility to use data as `tsibble`
+    * Benefit from Tidy tools for time series, see [tidyverts](https://tidyverts.org/).
   * Tests
     * Include a test for each dataset through [testthat](https://testthat.r-lib.org/).
     * Run tests in Travis CI.
+    * Structure tests: Test if the dataset structure (format) is correct
+    * Data tests: Test if the dataset data (content) is correct
+    * Timeseries tests: Test if the dataset is a valid timeseries (regular, ordered, 
+      no duplication, no gaps)
+    * TODO: Some tests could be factorized see http://r-pkgs.had.co.nz/tests.html
   * Include a `Makefile` for common tasks.
 * **Documentation**
   * Turning on markdown support for Roxygen, see [Turning on markdown support](https://roxygen2.r-lib.org/articles/rd-formatting.html#turning-on-markdown-support).
@@ -59,8 +67,7 @@ Datasets: `ebola_kikwit_1995`
 *Source data not available.*
 
 It was a sparse dataset, there is no event when reporting is FALSE so
-* We will filter on reporting TRUE
-* Remove the useless reporting columnt
+* Replace data when reporting is `FALSE` by `NA`
 
 ```R
 leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
@@ -73,7 +80,7 @@ leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
 ```
 
 * **Format**
-  * Keep only dates with data
+  * Replace missing values (`reporting == FALSE` with `NA`)
   * `date` -> `date_of_onset`(standardization)
   * `onset`-> `incidence` (standardization)
   * `death` -> `death` (no change)
@@ -107,6 +114,8 @@ leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
 * [Tidy Data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 * [Data chapter in the book *R packages*](http://r-pkgs.had.co.nz/data.html)
 * [Taking your data to go with R packages](https://www.davekleinschmidt.com/r-packages/)
+* [tsibble](https://tsibble.tidyverts.org/index.html)
+* [tidyverts](https://tidyverts.org/)
 
 outbreaks 1.8.0 (2020-02-13)
 ==================

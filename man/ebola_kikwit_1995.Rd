@@ -5,7 +5,7 @@
 \alias{ebola_kikwit_1995}
 \title{Ebola in Kikwit, Democratic Republic of the Congo, 1995}
 \format{
-A data frame with 139 rows and 3 columns
+A data frame with 192 rows and 3 columns
 \describe{
 \item{date_of_onset}{Date of onset}
 \item{incidence}{Number of new cases}
@@ -41,6 +41,9 @@ head(ebola_kikwit_1995)
 \references{
 A.S. Khan, et al. 1999. The reemergence of Ebola hemorrhagic fever,
 Democratic Republic of the Congo, 1995. J Infect Dis 179:S76-S86.
+}
+\seealso{
+\code{\link{ebola_kikwit_1995_as_ts}}
 }
 \author{
 \itemize{

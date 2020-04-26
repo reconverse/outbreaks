@@ -44,6 +44,8 @@ Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
 e0005173. \url{http://doi.org/10.1371/journal.pntd.0005173}
 }
 \seealso{
+\code{\link{dengue_fais_2011_as_ts}}
+
 Other dengue: 
 \code{\link{dengue_yap_2011}}
 }

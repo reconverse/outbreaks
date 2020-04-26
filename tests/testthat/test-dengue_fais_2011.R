@@ -21,3 +21,11 @@ test_that("dengue_fais_2011 data are correct", {
   expect_equal(tb_sum %>% pull('max_date'), ymd('2012-02-14'))
 })
 
+test_that("dengue_fais_2011 is a valid time series", {
+  tbl <- dengue_fais_2011_as_ts()
+  expect_true(tsibble::is_tsibble(tbl))
+  expect_false(tsibble::has_gaps(tbl) %>% pull())
+  expect_false(tsibble::is_duplicated(tbl))
+  expect_true(tsibble::is_regular(tbl))
+  expect_true(tsibble::is_ordered(tbl))
+})

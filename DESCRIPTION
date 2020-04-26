@@ -1,6 +1,6 @@
 Package: outbreaks
 Title: A Collection of Disease Outbreak Data
-Version: 1.8.9
+Version: 2.0.0
 Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", role = "aut"),
 	   person("Simon", "Frost", role = "aut"),
 	   person("Pierre", "Nouvellet", role = "aut"),
@@ -20,8 +20,7 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.0
 Roxygen: list(markdown = TRUE)
-Suggests: testthat, covr, ape, incidence, dplyr, lubridate, magrittr, devtools
+Suggests: testthat, covr, ape, incidence, dplyr, lubridate, devtools, tsibble, tidyr
 URL: https://github.com/reconhub/outbreaks
 BugReports: https://github.com/reconhub/outbreaks/issues
-Imports: 
-    tibble
+Imports: tibble, magrittr
