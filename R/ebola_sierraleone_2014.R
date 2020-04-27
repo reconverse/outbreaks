@@ -64,11 +64,11 @@
 #' \dontrun{
 #' ebola_sierraleone_2014_as_ts() %>%
 #' group_by_key() %>%
-#' index_by(year_month = ~ yearmonth(.)) %>%
+#' index_by(date = ~ yearweek(.)) %>%
 #' summarise(incidence = sum(incidence)) %>%
-#' ggplot(aes(x= year_month, y=incidence)) +
-#' geom_line(aes(color=status)) +
-#' geom_point
+#' ggplot(aes(x = date, y = incidence, color = status)) +
+#' geom_line() +
+#' geom_point()
 #' }
 ebola_sierraleone_2014_as_ts <- function() {
   ebola_sierraleone_2014 <- outbreaks::ebola_sierraleone_2014
@@ -76,7 +76,7 @@ ebola_sierraleone_2014_as_ts <- function() {
     ebola_sierraleone_2014 %>%
       dplyr::group_by(.data$date_of_onset, .data$status) %>%
       dplyr::summarise(incidence = dplyr::n()) %>%
-      tsibble::as_tsibble(index = .data$date_of_onset, key = .data$status)
+      tsibble::as_tsibble(index = .data$date_of_onset, key = .data$status) %>%
+      tsibble::fill_gaps()
   }
 }
-

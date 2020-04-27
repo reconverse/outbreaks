@@ -6,6 +6,16 @@
 \title{Influenza A H7N9 in China, 2013}
 \format{
 A data frame with 136 rows and 8 columns
+\describe{
+\item{id}{Case ID}
+\item{date_of_onset}{Date of symptom onset}
+\item{date_of_hospitalisation}{Date of hospitalisation}
+\item{date_of_outcome}{Date of outcome}
+\item{outcome}{Outcome (death, recover)}
+\item{gender}{Gender ("male" or "female")}
+\item{age}{Age}
+\item{province}{Province}
+}
 }
 \source{
 \url{http://datadryad.org/resource/doi:10.5061/dryad.2g43n/1}
@@ -16,6 +26,10 @@ fluH7N9_china_2013
 \description{
 These data comprise of 136 cases of influenza A H7N9 in China, analysed by Kucharski et al. (2014).
 }
+\section{Licence}{
+\href{https://creativecommons.org/publicdomain/zero/1.0/}{CC0 1.0 Universal (CC0 1.0) Public Domain Dedication}
+}
+
 \examples{
 ## show first few cases
 head(fluH7N9_china_2013)
@@ -28,10 +42,17 @@ PLOS Currents Outbreaks. Mar 7, edition 1. doi: 10.1371/currents.outbreaks.e1473
 
 A. Kucharski, H. Mills, A. Pinsent, C. Fraser, M. Van Kerkhove, C. A. Donnelly, and S. Riley. 2014.
 Data from: Distinguishing between reservoir exposure and human-to-human transmission for emerging pathogens using case onset data.
-Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.2g43n.
+\href{http://dx.doi.org/10.5061/dryad.2g43n}{Dryad Digital Repository}.
+}
+\seealso{
+\code{\link{fluH7N9_china_2013_as_ts}}
 }
 \author{
-Data collated by Adam Kucharski et al. from ProMed, WHO, FluTrackers, news reports and research articles.
-Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
+\itemize{
+\item Data collated by Adam Kucharski et al. from ProMed, WHO, FluTrackers, news reports and research articles.
+\item Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}).
+\item Refactoring by \href{https://github.com/romainx}{Romain}.
 }
+}
+\concept{influenza}
 \keyword{datasets}

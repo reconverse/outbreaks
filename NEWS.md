@@ -40,6 +40,7 @@ you can load them by running `legacy_mode()`.
     * `date_of_report` (`Date`): Date of reporting
     * `gender`: Gender of individual as a factor with two values ("male", "female")
     * `incidence` (`integer`): Incidence is given as the number of new cases reported
+    * `outcome`: 
     * `age`: Age of individual
     * `age_group`: Age grouping
     * `geo`: Geographical coordinates (must be two columns)
@@ -95,7 +96,7 @@ leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
 * **Format**
   * `id` (no change)
   * `age` (no change)
-  * `sex` -> `gender`
+  * `sex` -> `gender` and change factors name
   * `status` (no change)
   * `date_of_onset` (no change)
   * `date_of_sample`(no change)
@@ -103,6 +104,18 @@ leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
   * `chiefdom` (no change)
 
 ### Influenza A H7N9 in China, 2013
+
+* **Format**
+
+* `case_id` -> id
+* `date_of_onset` (no change)
+* `date_of_hospitalisation` (no change)
+* `date_of_outcome` (no change)
+* `outcome` (no change)
+* `gender` (hange factors name)
+* `age` (no change)
+* `province` (no change)
+
 
 
 ### References

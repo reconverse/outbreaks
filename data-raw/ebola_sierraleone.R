@@ -12,6 +12,7 @@ load("data-raw/leg_ebola_sierraleone_2014.RData")
 leg_ebola_sierraleone_2014 <- ebola_sierraleone_2014
 
 ebola_sierraleone_2014 <- leg_ebola_sierraleone_2014 %>%
+  mutate(id = as_factor(id)) %>%
   mutate(age = as.integer(age)) %>%
   mutate(gender = fct_recode(sex, "female" = "F", "male" = "M")) %>%
   select(-sex) %>%
