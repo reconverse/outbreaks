@@ -1,6 +1,6 @@
 Package: outbreaks
 Title: A Collection of Disease Outbreak Data
-Version: 1.8.10
+Version: 1.8.11
 Authors@R: c(person("Thibaut", "Jombart", email = "thibaut.jombart@gmail.com", role = "aut"),
 	   person("Simon", "Frost", role = "aut"),
 	   person("Pierre", "Nouvellet", role = "aut"),
