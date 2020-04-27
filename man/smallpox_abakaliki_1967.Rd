@@ -4,17 +4,19 @@
 \name{smallpox_abakaliki_1967}
 \alias{smallpox_abakaliki_1967}
 \title{Smallpox in Abakaliki, Nigeria, 1967}
-\format{A data frame with 32 rows and 8 columns
+\format{
+A data frame with 32 rows and 8 columns
 \describe{
-  \item{case_ID}{Case identification number}
-  \item{date_of_onset}{Date of onset of symptoms}
-  \item{age}{Age in years}
-  \item{gender}{Gender: female (f) or male (m) (factor)}
-  \item{vaccinated}{Previously vaccinated: no (n) or yes (y) (factor)}
-  \item{vaccscar}{Vaccination scar present: no (n) or yes (y) (factor)}
-  \item{ftc}{Member of the Faith Tabernacle: no (n) or yes (y) (factor)}
-  \item{compound}{Compound number (factor)}
-}}
+\item{case_ID}{Case identification number}
+\item{date_of_onset}{Date of onset of symptoms}
+\item{age}{Age in years}
+\item{gender}{Gender: female (f) or male (m) (factor)}
+\item{vaccinated}{Previously vaccinated: no (n) or yes (y) (factor)}
+\item{vaccscar}{Vaccination scar present: no (n) or yes (y) (factor)}
+\item{ftc}{Member of the Faith Tabernacle: no (n) or yes (y) (factor)}
+\item{compound}{Compound number (factor)}
+}
+}
 \source{
 \url{http://apps.who.int/iris/bitstream/10665/67462/1/WHO_SE_68.3.pdf}
 }

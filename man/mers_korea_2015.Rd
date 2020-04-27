@@ -4,48 +4,49 @@
 \name{mers_korea_2015}
 \alias{mers_korea_2015}
 \title{Middle East respiratory syndrome in South Korea, 2015}
-\format{A list of two dataframes:
+\format{
+A list of two dataframes:
 
-  \code{$linelist}: A dataframe of MERS-CoV cases and their attributes
-    \itemize{
-      \item id: Unique identifier
-      \item age: Age
-      \item age_class: Age using 10-year groups
-      \item sex: Sex
-      \item place_infect: Probable region of infection
-      \item reporting_ctry: Country reporting the case
-      \item loc_hosp: Local hospital name where the case was hospitalized
-      \item dt_onset: Date of onset of symptoms
-      \item dt_report: Date of reporting
-      \item week_report: Week number of date of reporting
-      \item dt_start_exp: Date of first probable exposure to another MERS Co-V case
-      \item dt_end_exp: Date of last probable exposure to another MERS Co-V case
-      \item dt_diag: Date of MERS Co-V diagnosis
-      \item outcome: Outcome (alive or dead)
-      \item dt_death: Date of death
-    }
+\code{$linelist}: A dataframe of MERS-CoV cases and their attributes
+\itemize{
+\item id: Unique identifier
+\item age: Age
+\item age_class: Age using 10-year groups
+\item sex: Sex
+\item place_infect: Probable region of infection
+\item reporting_ctry: Country reporting the case
+\item loc_hosp: Local hospital name where the case was hospitalized
+\item dt_onset: Date of onset of symptoms
+\item dt_report: Date of reporting
+\item week_report: Week number of date of reporting
+\item dt_start_exp: Date of first probable exposure to another MERS Co-V case
+\item dt_end_exp: Date of last probable exposure to another MERS Co-V case
+\item dt_diag: Date of MERS Co-V diagnosis
+\item outcome: Outcome (alive or dead)
+\item dt_death: Date of death
+}
 
-
- \code{$contacts}: A dataframe describing the relationship between MERS Co-V cases
-   \itemize{
-     \item from: Unique identifier of the probably source patient
-     \item to: Unique identifier of the secondary case
-     \item exposure: Probable place of exposure
-     \item diff_dt_onset: Time in days between two successive cases
-   }}
+\code{$contacts}: A dataframe describing the relationship between MERS Co-V cases
+\itemize{
+\item from: Unique identifier of the probably source patient
+\item to: Unique identifier of the secondary case
+\item exposure: Probable place of exposure
+\item diff_dt_onset: Time in days between two successive cases
+}
+}
 \usage{
 mers_korea_2015
 }
 \description{
 These datasets correspond to the initial information collected by the Epidemic Intelligence
- group at European Centre for Disease Prevention and Control (ECDC) during the first weeks of the
- outbreak of Middle East respiratory syndrome (MERS-CoV) outbreak (South Korea) in 2015.  The
- data were used to follow the daily evolution of this outbreak using public information
- available.
+group at European Centre for Disease Prevention and Control (ECDC) during the first weeks of the
+outbreak of Middle East respiratory syndrome (MERS-CoV) outbreak (South Korea) in 2015.  The
+data were used to follow the daily evolution of this outbreak using public information
+available.
 }
 \details{
 This dataset is meant for teaching purposes; it  represents neither the final outbreak investigation
- results nor a consolidated and complete description of the transmission chain.
+results nor a consolidated and complete description of the transmission chain.
 }
 \examples{
 ## show the line list describing MERS Co-V cases and their attributes

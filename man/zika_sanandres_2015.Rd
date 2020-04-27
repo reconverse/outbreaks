@@ -4,11 +4,12 @@
 \name{zika_sanandres_2015}
 \alias{zika_sanandres_2015}
 \title{Zika in San Andres, Colombia, 2015}
-\format{{
+\format{
+{
 A data frame with 101 rows and 2 columns
 \describe{
-  \item{date}{Date}
-  \item{cases}{Daily incidence}
+\item{date}{Date}
+\item{cases}{Daily incidence}
 }
 
 The data on Zika virus disease incidence reported by Rojas et al. (2016)
@@ -18,7 +19,8 @@ of 928 cases were reported to health authorities of San Andres (population of
 chain reaction (RT-PCR) in the serum of acute cases within five days of
 symptom onset.
 
-}}
+}
+}
 \source{
 Rojas et al. (2016)
 }

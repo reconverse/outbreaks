@@ -4,11 +4,12 @@
 \name{zika_girardot_2015}
 \alias{zika_girardot_2015}
 \title{Zika in Girardot, Colombia, 2015}
-\format{{
+\format{
+{
 A data frame with 93 rows and 2 columns
 \describe{
-  \item{date}{Date}
-  \item{cases}{Daily incidence}
+\item{date}{Date}
+\item{cases}{Daily incidence}
 }
 
 The data on Zika virus disease incidence reported by Rojas et al. (2016)
@@ -18,7 +19,8 @@ of 1936 cases were reported to health authorities of Girardot (population of
 chain reaction (RT-PCR) in the serum of acute cases within five days of
 symptom onset.
 
-}}
+}
+}
 \source{
 Rojas et al. (2016)
 }

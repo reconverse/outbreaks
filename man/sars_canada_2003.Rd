@@ -4,14 +4,16 @@
 \name{sars_canada_2003}
 \alias{sars_canada_2003}
 \title{Severe Acute Respiratory Syndrome in Canada, 2003}
-\format{A data frame with 110 rows and 5 columns
+\format{
+A data frame with 110 rows and 5 columns
 \describe{
-  \item{date}{Date}
-  \item{cases_travel}{New cases attributed to travel}
-  \item{cases_household}{New cases attributed to household transmission}
-  \item{cases_healthcare}{New cases in a healthcare setting}
-  \item{cases_other}{Other new cases}
-}}
+\item{date}{Date}
+\item{cases_travel}{New cases attributed to travel}
+\item{cases_household}{New cases attributed to household transmission}
+\item{cases_healthcare}{New cases in a healthcare setting}
+\item{cases_other}{Other new cases}
+}
+}
 \source{
 De Vries et al. (2006)
 }

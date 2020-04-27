@@ -4,7 +4,8 @@
 \name{rabies_car_2003}
 \alias{rabies_car_2003}
 \title{Dog Rabies in Central African Republic, 2003-2012}
-\format{{
+\format{
+{
 
 A list comprising a \code{data.frame} (\code{$linelist}) and a \code{DNAbin}
 \code{matrix} (\code{$dna}). \code{$linelist} contains the following
@@ -12,11 +13,11 @@ variables:
 
 \itemize{
 
-\item \code{$index}: numeric identifier of the case 
+\item \code{$index}: numeric identifier of the case
 
 \item \code{$date}: date of case reporting
 
-\item \code{$latitude}: the latitude of the collection point 
+\item \code{$latitude}: the latitude of the collection point
 
 \item \code{$longitude}: the longitude of the collection point
 
@@ -28,12 +29,13 @@ pathogen sequence in \code{$dna}
 \code{$dna} is a \code{DNAbin} \code{matrix} whose labels are to be matched
 against \code{$linelist$index}.
 
-}}
+}
+}
 \source{
 The data were provided by the Institut Pasteur de Bangui, Bangui,
-  République Centrafricaine, and the Institut Pasteur, Unit Lyssavirus
-  Dynamics and Host Adaptation, WHO Collaborating Centre for Reference and
-  Research on Rabies, Paris, France.
+République Centrafricaine, and the Institut Pasteur, Unit Lyssavirus
+Dynamics and Host Adaptation, WHO Collaborating Centre for Reference and
+Research on Rabies, Paris, France.
 }
 \usage{
 rabies_car_2003
@@ -57,7 +59,7 @@ if (require(incidence) && require(ape)) {
 }
 \references{
 Cori et al. (submitted) A graph-based evidence synthesis approach
-  to detecting outbreak clusters: an application to dog rabies.
+to detecting outbreak clusters: an application to dog rabies.
 }
 \author{
 Data from Transfer to R and documentation by Thibaut Jombart.

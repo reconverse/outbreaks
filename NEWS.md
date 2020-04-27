@@ -1,3 +1,126 @@
+outbreaks 2.0.0 (to be released)
+================================
+
+This version is a **refactoring of existing datasets**.
+Previous datasets have been moved in `/data-raw` and prefixed by `leg_` (for legacy).
+
+Note: If for compatibility reason you need to use the previous version of the datasets, 
+you can load them by running `legacy_mode()`.
+
+### Global changes
+
+* **Technical changes**
+  * tibble
+    * Convert each dataset to `tibble`.
+    * Import from `tibble` in order to get consistent behaviour regardless of whether or not `tibble` is attached.
+  * Tests
+    * Include a test for each dataset through [testthat](https://testthat.r-lib.org/).
+    * Run tests in Travis CI.
+    * Structure tests: Test if the dataset structure (format) is correct
+    * Data tests: Test if the dataset data (content) is correct
+    * TODO: Some tests could be factorized see http://r-pkgs.had.co.nz/tests.html
+  * Include a `Makefile` for common tasks.
+* **Documentation**
+  * Turning on markdown support for Roxygen, see [Turning on markdown support](https://roxygen2.r-lib.org/articles/rd-formatting.html#turning-on-markdown-support).
+  * Detailed description of the dataset is including in the "Details" section (instead of "Format").
+  * Dedicated section "Licence" added to mention clearly the licence if it's known -> [#7](https://github.com/reconhub/outbreaks/issues/7).
+  * Define `@family` with disease name in order to find similar datasets easily.
+* **Dataset structure**
+  * Variables are in lower case.
+  * Stick to **tidy data** principle
+  * Some common variables
+    * `id`: Unique identification
+    * `age`: Age of individual
+    * `date_of_onset` (`Date`): Date of symptom onset
+    * `date_of_report` (`Date`): Date of reporting
+    * `gender`: Gender of individual as a factor with two values ("male", "female")
+    * `incidence` (`integer`): Incidence is given as the number of new cases reported
+    * `outcome`: 
+    * `age`: Age of individual
+    * `age_group`: Age grouping
+    * `geo`: Geographical coordinates (must be two columns)
+* **Process**
+  * Write a "contributing guide" -> #TODO
+
+### Dengue & Zika datasets Funk et al. (2016)
+
+Datasets: `dengue_fais_2011`, `dengue_yap_2011`, `zika_yap_2007`.
+
+* **Technical changes**
+  * Include the code used to download the source file and 
+  generate datasets in `data-raw/` as stated in *[R Packages](http://r-pkgs.had.co.nz/data.html)* book.
+* **Format**
+  * `onset_date` -> `date_of_onset`(standardization)
+  * `nr` -> Removed since it can be computed
+  * `value`-> `incidence` (`integer`)
+* **Documentation**
+  * Apply general documentation rules
+
+### Ebola in Kikwit, Democratic Republic of the Congo, 1995
+
+Datasets: `ebola_kikwit_1995`
+
+*Source data not available.*
+
+It was a sparse dataset, there is no event when reporting is FALSE so
+* Replace data when reporting is `FALSE` by `NA`
+
+```R
+leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
+
+# A tibble: 2 x 3
+# reporting onset death
+# <lgl>     <int> <int>
+# 1 FALSE         0     0
+# 2 TRUE        292   236
+```
+
+* **Format**
+  * Replace missing values (`reporting == FALSE` with `NA`)
+  * `date` -> `date_of_onset`(standardization)
+  * `onset`-> `incidence` (standardization)
+  * `death` (no change)
+  * `reporting` -> removed
+
+* **Documentation**
+  * Apply general documentation rules
+  * Fixed the number of incidence is 292 and not 291
+
+### Ebola in Sierra Leone, 2014
+
+Datasets: `ebola_sierraleone_2014`
+
+* **Format**
+  * `id` (no change)
+  * `age` (no change)
+  * `sex` -> `gender` and change factors name
+  * `status` (no change)
+  * `date_of_onset` (no change)
+  * `date_of_sample`(no change)
+  * `district` (no change)
+  * `chiefdom` (no change)
+
+### Influenza A H7N9 in China, 2013
+
+Datasets: `fluH7N9_china_2013`
+
+* **Format**
+
+* `case_id` -> id
+* `date_of_onset` (no change)
+* `date_of_hospitalisation` (no change)
+* `date_of_outcome` (no change)
+* `outcome` (no change)
+* `gender` (hange factors name)
+* `age` (no change)
+* `province` (no change)
+
+### References
+
+* [Tidy Data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
+* [Data chapter in the book *R packages*](http://r-pkgs.had.co.nz/data.html)
+* [Taking your data to go with R packages](https://www.davekleinschmidt.com/r-packages/)
+
 outbreaks 1.8.0 (2020-02-13)
 ==================
 
