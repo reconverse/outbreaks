@@ -52,6 +52,9 @@
 #'
 #' @return The dataset as a `tsibble` if the `tsibble` is installed, else the
 #' dataset
+#'
+#' @importFrom rlang .data
+#'
 #' @export
 #'
 #' @examples
@@ -60,7 +63,7 @@ dengue_fais_2011_as_ts <- function() {
   dengue_fais_2011 <- outbreaks::dengue_fais_2011
   if (requireNamespace("tsibble", quietly = TRUE)) {
       dengue_fais_2011 %>%
-      tsibble::as_tsibble(index = "date_of_onset") %>%
+      tsibble::as_tsibble(index = .data$date_of_onset) %>%
       tsibble::fill_gaps()
   }
 }

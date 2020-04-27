@@ -3,7 +3,6 @@
 library(tidyverse)
 
 load("data-raw/leg_ebola_kikwit_1995.RData")
-
 leg_ebola_kikwit_1995 <- ebola_kikwit_1995
 
 # Analysis -----

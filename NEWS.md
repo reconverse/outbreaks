@@ -4,7 +4,7 @@ outbreaks 2.0.0 (to be released)
 This version is a **refactoring of existing datasets**.
 Previous datasets have been moved in `/data-raw` and prefixed by `leg_` (for legacy).
 
-Note: If for compatibility reason you need to use the previous version of the datasets 
+Note: If for compatibility reason you need to use the previous version of the datasets, 
 you can load them by running `legacy_mode()`.
 
 ### Global changes
@@ -83,7 +83,7 @@ leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
   * Replace missing values (`reporting == FALSE` with `NA`)
   * `date` -> `date_of_onset`(standardization)
   * `onset`-> `incidence` (standardization)
-  * `death` -> `death` (no change)
+  * `death` (no change)
   * `reporting` -> removed
 
 * **Documentation**
@@ -92,19 +92,15 @@ leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
 
 ### Ebola in Sierra Leone, 2014
 
-*Source data not available.*
-
-* **Technical changes**
-  * Convert to `tibble`
 * **Format**
-  * `id``
-  * `age`
+  * `id` (no change)
+  * `age` (no change)
   * `sex` -> `gender`
-  * `status` -> `incidence_status`
-  * `date_of_onset`
-  * `date_of_sample`
-  * `district` -> ?
-  * `chiefdom` -> ?
+  * `status` (no change)
+  * `date_of_onset` (no change)
+  * `date_of_sample`(no change)
+  * `district` (no change)
+  * `chiefdom` (no change)
 
 ### Influenza A H7N9 in China, 2013
 
