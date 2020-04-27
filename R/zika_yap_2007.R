@@ -36,33 +36,8 @@
 #'
 #' @family zika
 #'
-#' @seealso \code{\link{zika_yap_2007_as_ts}}
-#'
 #' @examples
 #' ## show first few weeks of Zika incidence
 #' head(zika_yap_2007)
 #'
 "zika_yap_2007"
-
-#' Coerce the dataset to a `tsibble` object
-#'
-#' Ensure it is a valid timeseries (regular, ordered,
-#' no duplication, no gaps)
-#'
-#' @return The dataset as a `tsibble` if the `tsibble` is installed, else the
-#' dataset
-#'
-#' @importFrom rlang .data
-#'
-#' @export
-#'
-#' @examples
-#' zika_yap_2007_as_ts()
-zika_yap_2007_as_ts <- function() {
-  zika_yap_2007 <- outbreaks::zika_yap_2007
-  if (requireNamespace("tsibble", quietly = TRUE)) {
-    zika_yap_2007 %>%
-      tsibble::as_tsibble(index = .data$date_of_onset) %>%
-      tsibble::fill_gaps()
-  }
-}

@@ -46,37 +46,3 @@
 #' head(ebola_sierraleone_2014)
 #'
 "ebola_sierraleone_2014"
-
-
-#' Coerce the dataset to a `tsibble` object
-#'
-#' Ensure it is a valid timeseries (regular, ordered,
-#' no duplication, no gaps)
-#'
-#' @return The dataset as a `tsibble` if the `tsibble` is installed, else the
-#' dataset
-#'
-#' @importFrom rlang .data
-#'
-#' @export
-#'
-#' @examples
-#' \dontrun{
-#' ebola_sierraleone_2014_as_ts() %>%
-#' group_by_key() %>%
-#' index_by(date = ~ yearweek(.)) %>%
-#' summarise(incidence = sum(incidence)) %>%
-#' ggplot(aes(x = date, y = incidence, color = status)) +
-#' geom_line() +
-#' geom_point()
-#' }
-ebola_sierraleone_2014_as_ts <- function() {
-  ebola_sierraleone_2014 <- outbreaks::ebola_sierraleone_2014
-  if (requireNamespace("tsibble", quietly = TRUE)) {
-    ebola_sierraleone_2014 %>%
-      dplyr::group_by(.data$date_of_onset, .data$status) %>%
-      dplyr::summarise(incidence = dplyr::n()) %>%
-      tsibble::as_tsibble(index = .data$date_of_onset, key = .data$status) %>%
-      tsibble::fill_gaps()
-  }
-}

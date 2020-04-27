@@ -23,12 +23,3 @@ test_that("dengue_fais_2011 data are correct", {
   expect_equal(tb_sum %>% pull('min_date'), ymd('1995-01-06 '))
   expect_equal(tb_sum %>% pull('max_date'), ymd('1995-07-16'))
 })
-
-test_that("ebola_kikwit_1995 is a valid time series", {
-  tbl <- ebola_kikwit_1995_as_ts()
-  expect_true(tsibble::is_tsibble(tbl))
-  expect_false(tsibble::has_gaps(tbl) %>% pull())
-  expect_false(tsibble::is_duplicated(tbl))
-  expect_true(tsibble::is_regular(tbl))
-  expect_true(tsibble::is_ordered(tbl))
-})

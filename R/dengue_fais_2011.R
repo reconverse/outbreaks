@@ -37,33 +37,8 @@
 #'
 #' @family dengue
 #'
-#' @seealso \code{\link{dengue_fais_2011_as_ts}}
-#'
 #' @examples
 #' ## show first few weeks of Dengue incidence
 #' head(dengue_fais_2011)
 #'
 "dengue_fais_2011"
-
-#' Coerce the dataset to a `tsibble` object
-#'
-#' Ensure it is a valid timeseries (regular, ordered,
-#' no duplication, no gaps)
-#'
-#' @return The dataset as a `tsibble` if the `tsibble` is installed, else the
-#' dataset
-#'
-#' @importFrom rlang .data
-#'
-#' @export
-#'
-#' @examples
-#' dengue_fais_2011_as_ts()
-dengue_fais_2011_as_ts <- function() {
-  dengue_fais_2011 <- outbreaks::dengue_fais_2011
-  if (requireNamespace("tsibble", quietly = TRUE)) {
-      dengue_fais_2011 %>%
-      tsibble::as_tsibble(index = .data$date_of_onset) %>%
-      tsibble::fill_gaps()
-  }
-}

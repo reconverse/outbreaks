@@ -19,7 +19,7 @@ test_that("ebola_sierraleone_2014 structure is correct", {
   expect_is(ebola_sierraleone_2014$chiefdom, 'factor')
 })
 
-test_that("dengue_fais_2011 data are correct", {
+test_that("ebola_sierraleone_2014 data are correct", {
   expect_equal(ebola_sierraleone_2014 %>% dim(), c(11903, 8))
   tb_sum <- ebola_sierraleone_2014 %>%
     group_by(status) %>%
@@ -34,11 +34,4 @@ test_that("dengue_fais_2011 data are correct", {
   expect_equal(tb_sum %>% pull('max_date'), ymd('2015-09-12'))
 })
 
-test_that("ebola_sierraleone_2014 is a valid time series", {
-  tbl <- ebola_sierraleone_2014_as_ts()
-  expect_true(tsibble::is_tsibble(tbl))
-  expect_false(tsibble::has_gaps(tbl) %>% pull() %>% all())
-  expect_false(tsibble::is_duplicated(tbl, key = status))
-  expect_true(tsibble::is_regular(tbl))
-  expect_true(tsibble::is_ordered(tbl))
-})
+

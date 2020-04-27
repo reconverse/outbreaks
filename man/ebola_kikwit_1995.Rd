@@ -43,8 +43,6 @@ A.S. Khan, et al. 1999. The reemergence of Ebola hemorrhagic fever,
 Democratic Republic of the Congo, 1995. J Infect Dis 179:S76-S86.
 }
 \seealso{
-\code{\link{ebola_kikwit_1995_as_ts}}
-
 Other ebola: 
 \code{\link{ebola_sierraleone_2014}}
 }

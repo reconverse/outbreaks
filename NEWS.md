@@ -13,16 +13,11 @@ you can load them by running `legacy_mode()`.
   * tibble
     * Convert each dataset to `tibble`.
     * Import from `tibble` in order to get consistent behaviour regardless of whether or not `tibble` is attached.
-  * tsibble
-    * Optional possibility to use data as `tsibble`
-    * Benefit from Tidy tools for time series, see [tidyverts](https://tidyverts.org/).
   * Tests
     * Include a test for each dataset through [testthat](https://testthat.r-lib.org/).
     * Run tests in Travis CI.
     * Structure tests: Test if the dataset structure (format) is correct
     * Data tests: Test if the dataset data (content) is correct
-    * Timeseries tests: Test if the dataset is a valid timeseries (regular, ordered, 
-      no duplication, no gaps)
     * TODO: Some tests could be factorized see http://r-pkgs.had.co.nz/tests.html
   * Include a `Makefile` for common tasks.
 * **Documentation**
@@ -49,7 +44,7 @@ you can load them by running `legacy_mode()`.
 
 ### Dengue & Zika datasets Funk et al. (2016)
 
-Datasets: `dengue_fais_2011_td`, `dengue_yap_2011_td`, `zika_yap_2007_td`.
+Datasets: `dengue_fais_2011`, `dengue_yap_2011`, `zika_yap_2007`.
 
 * **Technical changes**
   * Include the code used to download the source file and 
@@ -93,6 +88,8 @@ leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
 
 ### Ebola in Sierra Leone, 2014
 
+Datasets: `ebola_sierraleone_2014`
+
 * **Format**
   * `id` (no change)
   * `age` (no change)
@@ -105,6 +102,8 @@ leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
 
 ### Influenza A H7N9 in China, 2013
 
+Datasets: `fluH7N9_china_2013`
+
 * **Format**
 
 * `case_id` -> id
@@ -116,15 +115,11 @@ leg_ebola_kikwit_1995 %>% group_by(reporting) %>% summarise_if(is.numeric, sum)
 * `age` (no change)
 * `province` (no change)
 
-
-
 ### References
 
 * [Tidy Data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 * [Data chapter in the book *R packages*](http://r-pkgs.had.co.nz/data.html)
 * [Taking your data to go with R packages](https://www.davekleinschmidt.com/r-packages/)
-* [tsibble](https://tsibble.tidyverts.org/index.html)
-* [tidyverts](https://tidyverts.org/)
 
 outbreaks 1.8.0 (2020-02-13)
 ==================

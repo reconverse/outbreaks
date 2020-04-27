@@ -42,9 +42,6 @@ S. Funk, et al. 2016. Comparative Analysis of Dengue and Zika Outbreaks Reveals
 Differences by Setting and Virus. PLOS Neglected Tropical Diseases, 10(12),
 e0005173. \url{http://doi.org/10.1371/journal.pntd.0005173}
 }
-\seealso{
-\code{\link{zika_yap_2007_as_ts}}
-}
 \author{
 \itemize{
 \item Data from Funk et al. (2016), provided by \href{https://github.com/sbnfunk}{Sebastian Funk}.

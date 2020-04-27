@@ -44,9 +44,6 @@ A. Kucharski, H. Mills, A. Pinsent, C. Fraser, M. Van Kerkhove, C. A. Donnelly, 
 Data from: Distinguishing between reservoir exposure and human-to-human transmission for emerging pathogens using case onset data.
 \href{http://dx.doi.org/10.5061/dryad.2g43n}{Dryad Digital Repository}.
 }
-\seealso{
-\code{\link{fluH7N9_china_2013_as_ts}}
-}
 \author{
 \itemize{
 \item Data collated by Adam Kucharski et al. from ProMed, WHO, FluTrackers, news reports and research articles.

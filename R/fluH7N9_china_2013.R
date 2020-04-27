@@ -39,47 +39,8 @@
 #'
 #' @family influenza
 #'
-#' @seealso \code{\link{fluH7N9_china_2013_as_ts}}
-#'
 #' @examples
 #' ## show first few cases
 #' head(fluH7N9_china_2013)
 #'
 "fluH7N9_china_2013"
-
-
-#' Coerce the dataset to a `tsibble` object
-#'
-#' Ensure it is a valid timeseries (regular, ordered,
-#' no duplication, no gaps)
-#'
-#' @return The dataset as a `tsibble` if the `tsibble` is installed, else the
-#' dataset
-#'
-#' @importFrom rlang .data
-#'
-#' @export
-#'
-#' @examples
-#' \dontrun{
-#' fluH7N9_china_2013_as_ts() %>%
-#' group_by_key() %>%
-#' index_by(date = ~ yearweek(.)) %>%
-#' summarise(incidence = sum(incidence)) %>%
-#' ggplot(aes(x= date, y=incidence, color=outcome)) +
-#' geom_line() +
-#' geom_point()
-#' }
-fluH7N9_china_2013_as_ts <- function() {
-  fluh7n9_china_2013 <- outbreaks::fluH7N9_china_2013
-  if (requireNamespace("tsibble", quietly = TRUE)) {
-    fluh7n9_china_2013 %>%
-      # Index cannot contain NA
-      tidyr::drop_na(.data$date_of_onset) %>%
-      dplyr::mutate(outcome = forcats::fct_explicit_na(.data$outcome, na_level = "(Missing)")) %>%
-      dplyr::group_by(.data$date_of_onset, .data$outcome) %>%
-      dplyr::summarise(incidence = dplyr::n()) %>%
-      tsibble::as_tsibble(index = .data$date_of_onset, key = .data$outcome) %>%
-      tsibble::fill_gaps()
-  }
-}

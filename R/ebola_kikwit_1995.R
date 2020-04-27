@@ -37,31 +37,8 @@
 #'
 #' @family ebola
 #'
-#' @seealso \code{\link{ebola_kikwit_1995_as_ts}}
-#'
 #' @examples
 #' ## show first few cases
 #' head(ebola_kikwit_1995)
 #'
 "ebola_kikwit_1995"
-
-#' Coerce the dataset to a `tsibble` object
-#'
-#' Ensure it is a valid timeseries (regular, ordered,
-#' no duplication, no gaps)
-#'
-#' @return The dataset as a `tsibble` if the `tsibble` is installed, else the
-#' dataset
-#'
-#' @importFrom rlang .data
-#'
-#' @export
-#'
-#' @examples
-#' ebola_kikwit_1995_as_ts()
-ebola_kikwit_1995_as_ts <- function() {
-  ebola_kikwit_1995 <- outbreaks::ebola_kikwit_1995
-  if (requireNamespace("tsibble", quietly = TRUE)) {
-    tsibble::as_tsibble(ebola_kikwit_1995, index = .data$date_of_onset)
-  }
-}

@@ -37,12 +37,3 @@ test_that("fluH7N9_china_2013 data are correct", {
   expect_equal(tb_sum %>% pull('max_date'), ymd('2013-07-27'))
 })
 
-test_that("fluH7N9_china_2013 is a valid time series", {
-  tbl <- fluH7N9_china_2013_as_ts()
-  expect_true(tsibble::is_tsibble(tbl))
-  expect_false(tsibble::has_gaps(tbl) %>% pull() %>% all())
-  expect_false(tsibble::is_duplicated(tbl, key = outcome))
-  expect_true(tsibble::is_regular(tbl))
-  expect_true(tsibble::is_ordered(tbl))
-})
-

@@ -20,12 +20,3 @@ test_that("zika_yap_2007 data are correct", {
   expect_equal(tb_sum %>% pull('min_date'), ymd('2007-02-18'))
   expect_equal(tb_sum %>% pull('max_date'), ymd('2007-09-02 '))
 })
-
-test_that("zika_yap_2007 is a valid time series", {
-  tbl <- zika_yap_2007_as_ts()
-  expect_true(tsibble::is_tsibble(tbl))
-  expect_false(tsibble::has_gaps(tbl) %>% pull())
-  expect_false(tsibble::is_duplicated(tbl))
-  expect_true(tsibble::is_regular(tbl))
-  expect_true(tsibble::is_ordered(tbl))
-})
