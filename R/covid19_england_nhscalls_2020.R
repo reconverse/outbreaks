@@ -60,4 +60,4 @@
 #' head(pathways)
 #' 
 #' }
-"nhs_pathways_covid19"
+"covid19_england_nhscalls_2020"
