@@ -1,3 +1,13 @@
+outbreaks 1.9.0 (2020-09-22)
+==================
+
+### NEW FEATURES
+
+One new dataset added:<br>
+
+* `covid19_england_nhscalls_2020`: a dataset of the daily numbers of reports on
+  potential COVID-19 cases reported in England through the NHS 111 calls, 999 calls, and 111-online systems.
+
 outbreaks 1.8.0 (2020-02-13)
 ==================
 
