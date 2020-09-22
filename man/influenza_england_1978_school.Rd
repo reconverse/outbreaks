@@ -4,12 +4,14 @@
 \name{influenza_england_1978_school}
 \alias{influenza_england_1978_school}
 \title{Influenza in a boarding school in England, 1978}
-\format{A data frame with 14 rows and 3 columns
+\format{
+A data frame with 14 rows and 3 columns
 \describe{
   \item{date}{Date}
   \item{in_bed}{Number in bed}
   \item{convalescent}{Number convalescing}
-}}
+}
+}
 \source{
 \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1603269/pdf/brmedj00115-0064.pdf}
 }

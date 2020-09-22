@@ -4,7 +4,8 @@
 \name{measles_hagelloch_1861}
 \alias{measles_hagelloch_1861}
 \title{Measles in Hagelloch, Germany, 1861}
-\format{{
+\format{
+{
 A data frame with 188 rows and 12 columns
 \describe{
   \item{case_ID}{Case ID number}
@@ -24,7 +25,8 @@ A data frame with 188 rows and 12 columns
 }
 
 
-}}
+}
+}
 \source{
 Pfeilsticker (1863) and Oesterle (1992).
 }

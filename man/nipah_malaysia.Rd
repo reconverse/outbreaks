@@ -4,7 +4,8 @@
 \name{nipah_malaysia}
 \alias{nipah_malaysia}
 \title{Nipah in Malaysia and Sinagapore, 1997-1999}
-\format{{
+\format{
+{
 A data frame with 49 rows and 5 columns
 \describe{
   \item{date}{Onset date (weekly)}
@@ -27,7 +28,8 @@ depopulation of pig farms. Human cases represent zoonotic infections, with littl
 or no human-to-human transmission. Thus, the epidemic curve reflects transmission
 and spatial spread within pigs.
 
-}}
+}
+}
 \source{
 Pulliam et al. (2011)
 }

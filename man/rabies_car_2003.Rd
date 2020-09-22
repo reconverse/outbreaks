@@ -4,7 +4,8 @@
 \name{rabies_car_2003}
 \alias{rabies_car_2003}
 \title{Dog Rabies in Central African Republic, 2003-2012}
-\format{{
+\format{
+{
 
 A list comprising a \code{data.frame} (\code{$linelist}) and a \code{DNAbin}
 \code{matrix} (\code{$dna}). \code{$linelist} contains the following
@@ -28,7 +29,8 @@ pathogen sequence in \code{$dna}
 \code{$dna} is a \code{DNAbin} \code{matrix} whose labels are to be matched
 against \code{$linelist$index}.
 
-}}
+}
+}
 \source{
 The data were provided by the Institut Pasteur de Bangui, Bangui,
   République Centrafricaine, and the Institut Pasteur, Unit Lyssavirus

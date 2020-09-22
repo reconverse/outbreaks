@@ -5,7 +5,11 @@
 \alias{ebola_sim}
 \alias{ebola_sim_clean}
 \title{Simulated Ebola outbreak}
-\format{An object of class \code{list} of length 2.}
+\format{
+An object of class \code{list} of length 2.
+
+An object of class \code{list} of length 2.
+}
 \usage{
 ebola_sim
 

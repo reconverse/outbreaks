@@ -23,30 +23,30 @@ data(package="outbreaks")
 
 Table: Data sets in outbreaks
 
-|Item                             |Title |
-|:--------------------------------|:-----|
-|covid19_england_nhscalls_2020    |      |
-|dengue_fais_2011                 |      |
-|dengue_yap_2011                  |      |
-|ebola_kikwit_1995                |      |
-|ebola_sierraleone_2014           |      |
-|ebola_sim                        |      |
-|ebola_sim_clean                  |      |
-|fluH7N9_china_2013               |      |
-|influenza_england_1978_school    |      |
-|measles_hagelloch_1861           |      |
-|mers_korea_2015                  |      |
-|nipah_malaysia                   |      |
-|norovirus_derbyshire_2001_school |      |
-|rabies_car_2003                  |      |
-|s_enteritidis_pt59               |      |
-|sars_canada_2003                 |      |
-|sarscov2_who_2019                |      |
-|smallpox_abakaliki_1967          |      |
-|varicella_sim_berlin             |      |
-|zika_girardot_2015               |      |
-|zika_sanandres_2015              |      |
-|zika_yap_2007                    |      |
+|Item                             |Title                                                                           |
+|:--------------------------------|:-------------------------------------------------------------------------------|
+|covid19_england_nhscalls_2020    |Potential COVID19 cases reported through NHS pathways                           |
+|dengue_fais_2011                 |Dengue on the island of Fais, Micronesia, 2011                                  |
+|dengue_yap_2011                  |Dengue on the Yap Main Islands, Micronesia, 2011                                |
+|ebola_kikwit_1995                |Ebola in Kikwit, Democratic Republic of the Congo, 1995                         |
+|ebola_sierraleone_2014           |Ebola in Sierra Leone, 2014                                                     |
+|ebola_sim                        |Simulated Ebola outbreak                                                        |
+|ebola_sim_clean                  |Simulated Ebola outbreak                                                        |
+|fluH7N9_china_2013               |Influenza A H7N9 in China, 2013                                                 |
+|influenza_england_1978_school    |Influenza in a boarding school in England, 1978                                 |
+|measles_hagelloch_1861           |Measles in Hagelloch, Germany, 1861                                             |
+|mers_korea_2015                  |Middle East respiratory syndrome in South Korea, 2015                           |
+|nipah_malaysia                   |Nipah in Malaysia and Sinagapore, 1997-1999                                     |
+|norovirus_derbyshire_2001_school |Norovirus in a primary school in Derbyshire, England, 2001                      |
+|rabies_car_2003                  |Dog Rabies in Central African Republic, 2003-2012                               |
+|s_enteritidis_pt59               |Salmonella Enteritidis PT59 outbreak                                            |
+|sars_canada_2003                 |Severe Acute Respiratory Syndrome in Canada, 2003                               |
+|sarscov2_who_2019                |SARS-CoV-2 World Health Organization Situation Reports 2019 Outbreak (COVID-19) |
+|smallpox_abakaliki_1967          |Smallpox in Abakaliki, Nigeria, 1967                                            |
+|varicella_sim_berlin             |Simulated Varicella outbreak                                                    |
+|zika_girardot_2015               |Zika in Girardot, Colombia, 2015                                                |
+|zika_sanandres_2015              |Zika in San Andres, Colombia, 2015                                              |
+|zika_yap_2007                    |Zika on the Yap Main Islands, Micronesia, 2007                                  |
 
 
 <br>

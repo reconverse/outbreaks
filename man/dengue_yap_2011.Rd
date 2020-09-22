@@ -4,7 +4,8 @@
 \name{dengue_yap_2011}
 \alias{dengue_yap_2011}
 \title{Dengue on the Yap Main Islands, Micronesia, 2011}
-\format{{
+\format{
+{
 A data frame with 185 rows and 3 columns
 \describe{
   \item{onset_date}{Date}
@@ -21,7 +22,8 @@ time series for the Yap Main Islands. Dengue virus serotype 2 was confirmed by
 reverse transcriptase polymerase chain reaction by the CDC Dengue Branch,
 Puerto Rico.
 
-}}
+}
+}
 \source{
 Funk et al. (2016)
 }

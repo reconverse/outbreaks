@@ -4,7 +4,8 @@
 \name{ebola_kikwit_1995}
 \alias{ebola_kikwit_1995}
 \title{Ebola in Kikwit, Democratic Republic of the Congo, 1995}
-\format{{
+\format{
+{
 A data frame with 192 rows and 4 columns
 \describe{
   \item{date}{Date}
@@ -19,7 +20,8 @@ over which time there were 291 cases and 236 deaths. The first case became ill o
 there were 316 cases i.e. the onset times are not reported for 24 individuals, and the recovery times
 for the individuals who did not die are not reported.
 
-}}
+}
+}
 \source{
 Khan et al. (1999)
 }

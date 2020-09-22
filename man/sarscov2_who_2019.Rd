@@ -4,7 +4,9 @@
 \name{sarscov2_who_2019}
 \alias{sarscov2_who_2019}
 \title{SARS-CoV-2 World Health Organization Situation Reports 2019 Outbreak (COVID-19)}
-\format{A data frame where each row represents a new Situation Report}
+\format{
+A data frame where each row represents a new Situation Report
+}
 \source{
 World Health Organization (2020)
 }

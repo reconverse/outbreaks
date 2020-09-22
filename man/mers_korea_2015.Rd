@@ -4,7 +4,8 @@
 \name{mers_korea_2015}
 \alias{mers_korea_2015}
 \title{Middle East respiratory syndrome in South Korea, 2015}
-\format{A list of two dataframes:
+\format{
+A list of two dataframes:
 
   \code{$linelist}: A dataframe of MERS-CoV cases and their attributes
     \itemize{
@@ -32,7 +33,8 @@
      \item to: Unique identifier of the secondary case
      \item exposure: Probable place of exposure
      \item diff_dt_onset: Time in days between two successive cases
-   }}
+   }
+}
 \usage{
 mers_korea_2015
 }

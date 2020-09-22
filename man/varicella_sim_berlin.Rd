@@ -4,7 +4,8 @@
 \name{varicella_sim_berlin}
 \alias{varicella_sim_berlin}
 \title{Simulated Varicella outbreak}
-\format{{
+\format{
+{
 A data frame with 500 rows and 13 columns
 \describe{
   \item{sex}{The gender of the simulated persons}
@@ -21,7 +22,8 @@ A data frame with 500 rows and 13 columns
   \item{onset}{Date of onset of the disease}
   \item{disease}{Name of the disease}
 }
-}}
+}
+}
 \usage{
 varicella_sim_berlin
 }
