@@ -8,7 +8,7 @@
 A data frame with 136 rows and 8 columns
 }
 \source{
-\url{https://datadryad.org/resource/doi:10.5061/dryad.2g43n/1/}
+\url{https://datadryad.org/resource/doi:10.5061/dryad.2g43n}
 }
 \usage{
 fluH7N9_china_2013

@@ -44,7 +44,7 @@ virus in Girardot and San Andres island, Colombia, September 2015 to January
 http://doi.org/10.2807/1560-7917.ES.2016.21.28.30283
 
 These data were provided under a Creative Commons Attribution (CC BY 4.0)
-Licence (\url{http://creativecommons.org/licenses/by/4.0/}).
+Licence (\url{https://creativecommons.org/licenses/by/4.0/}).
 }
 \author{
 Data from Rojas et al. (2016), provided by Diana P. Rojas

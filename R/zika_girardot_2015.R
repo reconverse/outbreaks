@@ -34,7 +34,7 @@
 #' Eyrolle-Guignot, D. (2016). The epidemiology and transmissibility of Zika
 #' virus in Girardot and San Andres island, Colombia, September 2015 to January
 #' 2016. Eurosurveillance, 21(28), 30283.
-#' \url{https://doi.org/10.2807/1560-7917.ES.2016.21.28.30283/}
+#' \url{https://doi.org/10.2807/1560-7917.ES.2016.21.28.30283}
 #'
 #' These data were provided under a Creative Commons Attribution (CC BY 4.0)
 #' Licence (\url{https://creativecommons.org/licenses/by/4.0/}).
