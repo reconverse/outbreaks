@@ -11,7 +11,7 @@
 #' @author Data collated by Adam Kucharski et al. from ProMed, WHO, FluTrackers, news reports and research articles.
 #' Transfer to R and documentation by Simon Frost (\email{sdwfrost@@gmail.com}).
 #'
-#' @source \url{http://datadryad.org/resource/doi:10.5061/dryad.2g43n/1}
+#' @source \url{https://datadryad.org/resource/doi:10.5061/dryad.2g43n/1/}
 #'
 #' @references
 #' A. Kucharski, H. Mills, A. Pinsent, C. Fraser, M. Van Kerkhove, C. A. Donnelly, and S. Riley. 2014.

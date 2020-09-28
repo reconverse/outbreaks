@@ -1,8 +1,8 @@
 [![Travis-CI Build Status](https://travis-ci.org/reconhub/outbreaks.svg?branch=master)](https://travis-ci.org/reconhub/outbreaks)
 [![Build status](https://ci.appveyor.com/api/projects/status/62gcky08onmr69x8/branch/master?svg=true)](https://ci.appveyor.com/project/thibautjombart/outbreaks/branch/master)
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/outbreaks)](https://cran.r-project.org/package=outbreaks)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/outbreaks)](https://cran.r-project.org/package=outbreaks)
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/outbreaks)](https://cran.r-project.org/package=outbreaks)
-[![Downloads from Rstudio mirror](https://cranlogs.r-pkg.org/badges/grand-total/outbreaks)](http://www.r-pkg.org/pkg/outbreaks)
+[![Downloads from Rstudio mirror](https://cranlogs.r-pkg.org/badges/grand-total/outbreaks)](https://www.r-pkg.org/pkg/outbreaks)
 
 <br>
 

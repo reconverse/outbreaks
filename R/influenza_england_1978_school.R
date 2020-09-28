@@ -20,7 +20,7 @@
 #' @author Data from De Vries et al. (2006), from the original Anonymous (1978) figure.
 #' Transfer to R and documentation by Simon Frost (\email{sdwfrost@@gmail.com}).
 #'
-#' @source \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1603269/pdf/brmedj00115-0064.pdf}
+#' @source \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1603269/pdf/brmedj00115-0064.pdf}
 #'
 #' @references
 #'
