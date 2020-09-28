@@ -13,7 +13,7 @@ A data frame with 14 rows and 3 columns
 }
 }
 \source{
-\url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1603269/pdf/brmedj00115-0064.pdf}
+\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1603269/pdf/brmedj00115-0064.pdf}
 }
 \usage{
 influenza_england_1978_school
