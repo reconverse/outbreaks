@@ -8,23 +8,29 @@
 
 <title>Simulated Varicella outbreak — varicella_sim_berlin • outbreaks</title>
 
+
 <!-- jquery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <!-- Bootstrap -->
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script>
+
+<!-- bootstrap-toc -->
+<link rel="stylesheet" href="../bootstrap-toc.css">
+<script src="../bootstrap-toc.js"></script>
 
 <!-- Font Awesome icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/all.min.css" integrity="sha256-nAmazAk6vS34Xqo0BSrTb+abbtFlgsFK7NKSi6o7Y78=" crossorigin="anonymous" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/v4-shims.min.css" integrity="sha256-6qHlizsOWFskGlwVOKuns+D1nB6ssZrHQrNj1wGplHc=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/v4-shims.min.css" integrity="sha256-wZjR52fzng1pJHwx4aV2AO3yyTOXrcDW7jBpJtTwVxw=" crossorigin="anonymous" />
 
 <!-- clipboard.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js" integrity="sha256-FiZwavyI2V6+EXO1U+xzLG3IKldpiTFf3153ea9zikQ=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
 
 <!-- headroom.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.4/headroom.min.js" integrity="sha256-DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.4/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/headroom.min.js" integrity="sha256-AsUX4SJE1+yuDu5+mAVzJbuYNPHj/WroHuZ8Ir/CkE0=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script>
 
 <!-- pkgdown -->
 <link href="../pkgdown.css" rel="stylesheet">
@@ -32,10 +38,10 @@
 
 
 
-<meta property="og:title" content="Simulated Varicella outbreak — varicella_sim_berlin" />
 
+<meta property="og:title" content="Simulated Varicella outbreak — varicella_sim_berlin" />
 <meta property="og:description" content="Simulated Varicella outbreak" />
-<meta name="twitter:card" content="summary" />
+
 
 
 
@@ -49,9 +55,10 @@
 <![endif]-->
 
 
+
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target="#toc">
     <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -65,7 +72,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">outbreaks</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.7.0</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.9.0</span>
       </span>
     </div>
 
@@ -84,10 +91,9 @@
   <a href="../news/index.html">Changelog</a>
 </li>
       </ul>
-      
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="https://github.com/reconhub/outbreaks">
+  <a href="https://github.com/reconhub/outbreaks/">
     <span class="fab fa fab fa-github fa-lg"></span>
      
   </a>
@@ -99,6 +105,7 @@
 </div><!--/.navbar -->
 
       
+
       </header>
 
 <div class="row">
@@ -110,17 +117,16 @@
     </div>
 
     <div class="ref-description">
-    
     <p>Simulated Varicella outbreak</p>
-    
     </div>
 
-    <pre class="usage"><span class='no'>varicella_sim_berlin</span></pre>
-        
+    <pre class="usage"><span class='va'>varicella_sim_berlin</span></pre>
+
+
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
     <p>A data frame with 500 rows and 13 columns
-<dl class='dl-horizontal'>
+<dl>
   <dt>sex</dt><dd><p>The gender of the simulated persons</p></dd>
   <dt>ethnicity</dt><dd><p>Simulated ethnical origin</p></dd>
   <dt>firstname</dt><dd><p>First names of the simulated persons</p></dd>
@@ -133,13 +139,12 @@
   <dt>arrival2</dt><dd><p>Date of arrival at the second center</p></dd>
   <dt>leave2</dt><dd><p>Date of departure at the second center</p></dd>
   <dt>onset</dt><dd><p>Date of onset of the disease</p></dd>
-  <dt>disease</dt><dd><p>Name of the disease</p></dd>
-</dl></p>
-    
+  <dt>disease</dt><dd><p>Name of the disease</p></dd></dl></p>
     <h2 class="hasAnchor" id="background"><a class="anchor" href="#background"></a>Background</h2>
 
     
-    <p>This dataset is useful to compute incidence rates.</p>
+
+<p>This dataset is useful to compute incidence rates.</p>
 <p>This dataset simulates an outbreak of varicella in german centers for
 foreigners. It is loosely based on the situation in 2015, when the numbers of
 foreigners seeking asylum exeded the available places in the center for
@@ -150,11 +155,14 @@ time.  comparable with kindergartens and other shelters.</p>
 https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GesundAZ/Content/A/Asylsuchende/Asylsuchende.html</p>
 <p>The dataset was created by the package outbreakcreator
 https://github.com/jakobschumacher/outbreakcreator/.</p>
-    
+    <h2 class="hasAnchor" id="author"><a class="anchor" href="#author"></a>Author</h2>
+
+    <p>Data simulated by Jakob Schumacher (<a href='mailto:jakob.schumacher@web.de'>jakob.schumacher@web.de</a>).</p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'>
-<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span>(<span class='no'>varicella_sim_berlin</span>)</div><div class='output co'>#&gt;      sex ethnicity     firstname  lastname age               center1   arrival1
+<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>varicella_sim_berlin</span><span class='op'>)</span>
+</div><div class='output co'>#&gt;      sex ethnicity     firstname  lastname age               center1   arrival1
 #&gt; 1 female    arabic       Saleema al-Ismael  16     Oranienburger Str 2015-05-06
 #&gt; 2   male  hispanic       Domonic Jaramillo  25 Platz der Luftbruecke 2015-01-19
 #&gt; 3 female    arabic       Haaniya  el-Mitri  34 Platz der Luftbruecke 2015-04-11
@@ -168,24 +176,15 @@ https://github.com/jakobschumacher/outbreakcreator/.</p>
 #&gt; 4 2015-03-30     Oranienburger Str 2015-04-08 2015-07-13 2015-08-20 varicella
 #&gt; 5 2015-08-17 Platz der Luftbruecke 2015-08-22 2015-11-01       &lt;NA&gt;      &lt;NA&gt;
 #&gt; 6 2015-02-03 Platz der Luftbruecke 2015-02-17 2015-04-27       &lt;NA&gt;      &lt;NA&gt;</div><div class='input'>
-
 </div></pre>
   </div>
-  <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
-    <h2>Contents</h2>
-    <ul class="nav nav-pills nav-stacked">
-      
-      <li><a href="#format">Format</a></li>
-
-      <li><a href="#background">Background</a></li>
-      
-      <li><a href="#examples">Examples</a></li>
-    </ul>
-
-    <h2>Author</h2>
-    <p>Data simulated by Jakob Schumacher (<a href='mailto:jakob.schumacher@web.de'>jakob.schumacher@web.de</a>).</p>
+  <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
+    <nav id="toc" data-toggle="toc" class="sticky-top">
+      <h2 data-toc-skip>Contents</h2>
+    </nav>
   </div>
 </div>
+
 
       <footer>
       <div class="copyright">
@@ -193,13 +192,16 @@ https://github.com/jakobschumacher/outbreakcreator/.</p>
 </div>
 
 <div class="pkgdown">
-  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.3.0.9100.</p>
+  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.6.1.</p>
 </div>
+
       </footer>
    </div>
 
   
 
+
   </body>
 </html>
+
 

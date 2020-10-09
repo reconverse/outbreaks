@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Norovirus in a primary school in Derbyshire, England, 2001 — norovirus_derbyshire_2001_school • outbreaks</title>
+<title>Potential COVID19 cases reported through NHS pathways — covid19_england_nhscalls_2020 • outbreaks</title>
 
 
 <!-- jquery -->
@@ -39,9 +39,11 @@
 
 
 
-<meta property="og:title" content="Norovirus in a primary school in Derbyshire, England, 2001 — norovirus_derbyshire_2001_school" />
-<meta property="og:description" content="These data describe an outbreak of norovirus in the summer of 2001 in a primary school and
-nursery in Derbyshire, England." />
+<meta property="og:title" content="Potential COVID19 cases reported through NHS pathways — covid19_england_nhscalls_2020" />
+<meta property="og:description" content="This dataset contains daily numbers of reports on potential COVID-19 cases
+reported in England through the NHS 111 calls, 999 calls, and 111-online
+systems. The present dataset was last updated on 21 September 2020. See
+example for a command line allowing to download the latest version." />
 
 
 
@@ -112,55 +114,79 @@ nursery in Derbyshire, England." />
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Norovirus in a primary school in Derbyshire, England, 2001</h1>
-    <small class="dont-index">Source: <a href='https://github.com/reconhub/outbreaks/blob/master/R/norovirus_derbyshire_2001_school.R'><code>R/norovirus_derbyshire_2001_school.R</code></a></small>
-    <div class="hidden name"><code>norovirus_derbyshire_2001_school.Rd</code></div>
+    <h1>Potential COVID19 cases reported through NHS pathways</h1>
+    <small class="dont-index">Source: <a href='https://github.com/reconhub/outbreaks/blob/master/R/covid19_england_nhscalls_2020.R'><code>R/covid19_england_nhscalls_2020.R</code></a></small>
+    <div class="hidden name"><code>covid19_england_nhscalls_2020.Rd</code></div>
     </div>
 
     <div class="ref-description">
-    <p>These data describe an outbreak of norovirus in the summer of 2001 in a primary school and
-nursery in Derbyshire, England.</p>
+    <p>This dataset contains daily numbers of reports on potential COVID-19 cases
+reported in England through the NHS 111 calls, 999 calls, and 111-online
+systems. The present dataset was last updated on 21 September 2020. See
+example for a command line allowing to download the latest version.</p>
     </div>
 
-    <pre class="usage"><span class='va'>norovirus_derbyshire_2001_school</span></pre>
+    <pre class="usage"><span class='va'>covid19_england_nhscalls_2020</span></pre>
 
 
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
-    <p>A data frame with 492 rows and 5 columns
-<dl>
-  <dt>class</dt><dd><p>School class of the child</p></dd>
-  <dt>day_absent</dt><dd><p>First day of absence from school</p></dd>
-  <dt>start_illness</dt><dd><p>First day of illness</p></dd>
-  <dt>end_illness</dt><dd><p>Last day of illnes</p></dd>
-  <dt>day_vomiting</dt><dd><p>Day of vomiting in school</p></dd></dl>The data on norovirus cases were analysed by O'Neill and Marks (2005). As described in the paper, out of a
-total of 492 children in the school, 186 were absent from school with gastrointestinal symptoms.
-The school was cleaned on days 13 and 14, and on days 20 and 21, both of which were weekends,
-and the school was shut on days 18 and 19. Following the second cleaning, there were no further
-absences, although three children reported symptoms on day 22, the last day of the outbreak.</p>
+    <p>A `data.frame` containing:</p><dl>
+  <dt>site_type</dt><dd><p>the system through which data were reported: 111/999 calls, or 111-online</p></dd>
+
+  <dt>date</dt><dd><p>the data of reporting</p></dd>
+
+  <dt>sex</dt><dd><p>the gender of the patient</p></dd>
+
+  <dt>age</dt><dd><p>the age of the patient, in years</p></dd>
+
+  <dt>ccg_code</dt><dd><p>NHS code for the Clinical Commissioning Groups (CCGs)
+  (finer geographic unit)</p></dd>
+
+  <dt>ccg_name</dt><dd><p>name of the Clinical Commissioning Groups (CCGs) (smaller
+  spatial unit)</p></dd>
+
+  <dt>count</dt><dd><p>number of potential COVID-19 cases reported</p></dd>
+
+  <dt>postcode</dt><dd><p>the postcode of the CCG</p></dd>
+
+  <dt>nhs_region</dt><dd><p>the NHS region (larger geographic unit)</p></dd>
+
+  <dt>day</dt><dd><p>the date as the number of days since the first reporting day</p></dd>
+
+  <dt>weekday</dt><dd><p>the day of the week, broken down into: weekend, Monday, and
+  the rest of the week; this is used for modelling reporting effects</p></dd>
+
+
+</dl>
+
     <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
 
-    <p>O'Neill and Marks (2005)</p>
-    <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
-
-    <p>O’Neill, P. D., &amp; Marks, P. J. (2005). Bayesian model choice and infection route modelling
-in an outbreak of Norovirus. Statistics in Medicine, 24(13), 2011–24.</p>
+    <p>Data is available at
+  <a href='https://digital.nhs.uk/dashboards/nhs-pathways'>https://digital.nhs.uk/dashboards/nhs-pathways</a>; this precise dataset
+  adds some cleaning and additional informaion (on NHS regions) and is taken
+  from Quentin Leclerc's github repository:
+  <a href='https://github.com/qleclerc/nhs_pathways_report'>https://github.com/qleclerc/nhs_pathways_report</a></p>
     <h2 class="hasAnchor" id="author"><a class="anchor" href="#author"></a>Author</h2>
 
-    <p>Data from O'Neill and Marks (2005), provided by Philip O'Neill.
-Transfer to R and documentation by Simon Frost (<a href='mailto:sdwfrost@gmail.com'>sdwfrost@gmail.com</a>
-and Finlay Campbell (<a href='mailto:finlaycampbell93@gmail.com'>finlaycampbell93@gmail.com</a>)).</p>
+    <p>National Health Services (NHS) for England. Additional data and
+  cleaning by Quentin Leclerc.</p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='co'>## show first few cases</span>
-<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>norovirus_derbyshire_2001_school</span><span class='op'>)</span>
-</div><div class='output co'>#&gt;   class day_absent start_illness end_illness day_vomiting
-#&gt; 1     1         23             0           0            0
-#&gt; 2     1          0             0           0            0
-#&gt; 3     1          0             0           0            0
-#&gt; 4     1          0             0           0            0
-#&gt; 5     1          0             0           0            0
-#&gt; 6     1          0             0           0            0</div><div class='input'>
+    <pre class="examples"><div class='input'>
+<span class='kw'>if</span> <span class='op'>(</span><span class='cn'>FALSE</span><span class='op'>)</span> <span class='op'>{</span>
+<span class='co'># These commands will download the latest version of the data:</span>
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='http://tidyverse.tidyverse.org'>tidyverse</a></span><span class='op'>)</span>
+
+<span class='co'># download data</span>
+<span class='va'>pathways</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/tempfile.html'>tempfile</a></span><span class='op'>(</span><span class='op'>)</span>
+<span class='va'>url</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/paste.html'>paste0</a></span><span class='op'>(</span><span class='st'>"https://github.com/qleclerc/nhs_pathways_report/"</span>,
+              <span class='st'>"raw/master/data/rds/pathways_latest.rds"</span><span class='op'>)</span>
+<span class='fu'><a href='https://rdrr.io/r/utils/download.file.html'>download.file</a></span><span class='op'>(</span><span class='va'>url</span>, <span class='va'>pathways</span><span class='op'>)</span>
+<span class='va'>pathways</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/readRDS.html'>readRDS</a></span><span class='op'>(</span><span class='va'>pathways</span><span class='op'>)</span>
+<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>pathways</span><span class='op'>)</span>
+
+<span class='op'>}</span>
 </div></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">

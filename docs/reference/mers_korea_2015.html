@@ -8,23 +8,29 @@
 
 <title>Middle East respiratory syndrome in South Korea, 2015 — mers_korea_2015 • outbreaks</title>
 
+
 <!-- jquery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <!-- Bootstrap -->
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script>
+
+<!-- bootstrap-toc -->
+<link rel="stylesheet" href="../bootstrap-toc.css">
+<script src="../bootstrap-toc.js"></script>
 
 <!-- Font Awesome icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/all.min.css" integrity="sha256-nAmazAk6vS34Xqo0BSrTb+abbtFlgsFK7NKSi6o7Y78=" crossorigin="anonymous" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/v4-shims.min.css" integrity="sha256-6qHlizsOWFskGlwVOKuns+D1nB6ssZrHQrNj1wGplHc=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/v4-shims.min.css" integrity="sha256-wZjR52fzng1pJHwx4aV2AO3yyTOXrcDW7jBpJtTwVxw=" crossorigin="anonymous" />
 
 <!-- clipboard.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js" integrity="sha256-FiZwavyI2V6+EXO1U+xzLG3IKldpiTFf3153ea9zikQ=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
 
 <!-- headroom.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.4/headroom.min.js" integrity="sha256-DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.4/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/headroom.min.js" integrity="sha256-AsUX4SJE1+yuDu5+mAVzJbuYNPHj/WroHuZ8Ir/CkE0=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script>
 
 <!-- pkgdown -->
 <link href="../pkgdown.css" rel="stylesheet">
@@ -32,14 +38,14 @@
 
 
 
-<meta property="og:title" content="Middle East respiratory syndrome in South Korea, 2015 — mers_korea_2015" />
 
+<meta property="og:title" content="Middle East respiratory syndrome in South Korea, 2015 — mers_korea_2015" />
 <meta property="og:description" content="These datasets correspond to the initial information collected by the Epidemic Intelligence
  group at European Centre for Disease Prevention and Control (ECDC) during the first weeks of the
  outbreak of Middle East respiratory syndrome (MERS-CoV) outbreak (South Korea) in 2015.  The
  data were used to follow the daily evolution of this outbreak using public information
  available." />
-<meta name="twitter:card" content="summary" />
+
 
 
 
@@ -53,9 +59,10 @@
 <![endif]-->
 
 
+
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target="#toc">
     <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -69,7 +76,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">outbreaks</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.7.0</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.9.0</span>
       </span>
     </div>
 
@@ -88,10 +95,9 @@
   <a href="../news/index.html">Changelog</a>
 </li>
       </ul>
-      
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="https://github.com/reconhub/outbreaks">
+  <a href="https://github.com/reconhub/outbreaks/">
     <span class="fab fa fab fa-github fa-lg"></span>
      
   </a>
@@ -103,6 +109,7 @@
 </div><!--/.navbar -->
 
       
+
       </header>
 
 <div class="row">
@@ -114,17 +121,16 @@
     </div>
 
     <div class="ref-description">
-    
     <p>These datasets correspond to the initial information collected by the Epidemic Intelligence
  group at European Centre for Disease Prevention and Control (ECDC) during the first weeks of the
  outbreak of Middle East respiratory syndrome (MERS-CoV) outbreak (South Korea) in 2015.  The
  data were used to follow the daily evolution of this outbreak using public information
  available.</p>
-    
     </div>
 
-    <pre class="usage"><span class='no'>mers_korea_2015</span></pre>
-        
+    <pre class="usage"><span class='va'>mers_korea_2015</span></pre>
+
+
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
     <p>A list of two dataframes:</p>
@@ -145,29 +151,37 @@
 <li><p>outcome: Outcome (alive or dead)</p></li>
 <li><p>dt_death: Date of death</p></li>
 </ul>
-    <p><code>$contacts</code>: A dataframe describing the relationship between MERS Co-V cases</p><ul>
+
+
+<p><code>$contacts</code>: A dataframe describing the relationship between MERS Co-V cases</p><ul>
 <li><p>from: Unique identifier of the probably source patient</p></li>
 <li><p>to: Unique identifier of the secondary case</p></li>
 <li><p>exposure: Probable place of exposure</p></li>
 <li><p>diff_dt_onset: Time in days between two successive cases</p></li>
 </ul>
-    
+
     <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
     <p>This dataset is meant for teaching purposes; it  represents neither the final outbreak investigation
  results nor a consolidated and complete description of the transmission chain.</p>
-    
     <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
 
     <p>More information on the intial stage of the outbreak in the following reference:
 Penttinen PM, Kaasik-Aaslav K, Friaux A, Donachie A, Sudre B, Amato-Gauci AJ, Memish ZA,
 Coulombier D. Taking stock of the first 133 MERS coronavirus cases globally--Is the epidemic
 changing?  Euro Surveill. 2013 Sep 26;18(39). pii: 20596. PubMed PMID: 24094061.</p>
-    
+    <h2 class="hasAnchor" id="author"><a class="anchor" href="#author"></a>Author</h2>
+
+    <p>Data collected by the European Centre for Disease Prevention and Control (Epidemic
+Intelligence and Response section, contact: Bertrand Sudre (<a href='mailto:
+'>
+</a>) and Kaja Kaasik Aaslav(<a href='mailto:Kaja.KaasikAaslav@ecdc.europa.eu'>Kaja.KaasikAaslav@ecdc.europa.eu</a>).
+Transfer to R and documentation by Bertrand Sudre (<a href='mailto: bertrand.sudre@ecdc.europa.eu'> bertrand.sudre@ecdc.europa.eu</a>).</p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'><span class='co'>## show the line list describing MERS Co-V cases and their attributes</span>
-<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span>(<span class='no'>mers_korea_2015</span>$<span class='no'>linelist</span>)</div><div class='output co'>#&gt;     id age age_class sex        place_infect reporting_ctry
+<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>mers_korea_2015</span><span class='op'>$</span><span class='va'>linelist</span><span class='op'>)</span>
+</div><div class='output co'>#&gt;     id age age_class sex        place_infect reporting_ctry
 #&gt; 1 SK_1  68     60-69   M         Middle East    South Korea
 #&gt; 2 SK_2  63     60-69   F Outside Middle East    South Korea
 #&gt; 3 SK_3  76     70-79   M Outside Middle East    South Korea
@@ -189,7 +203,8 @@ changing?  Euro Surveill. 2013 Sep 26;18(39). pii: 20596. PubMed PMID: 24094061.
 #&gt; 5     2015_22   2015-05-17 2015-05-17 2015-05-26   Alive       &lt;NA&gt;
 #&gt; 6     2015_22   2015-05-15 2015-05-17 2015-05-28    Dead 2015-06-01</div><div class='input'>
 <span class='co'>## show the relationships between MERS Co-V cases</span>
-<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span>(<span class='no'>mers_korea_2015</span>$<span class='no'>contacts</span>)</div><div class='output co'>#&gt;    from     to       exposure diff_dt_onset
+<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>mers_korea_2015</span><span class='op'>$</span><span class='va'>contacts</span><span class='op'>)</span>
+</div><div class='output co'>#&gt;    from     to       exposure diff_dt_onset
 #&gt; 1 SK_14 SK_113 Emergency room            10
 #&gt; 2 SK_14 SK_116 Emergency room            13
 #&gt; 3 SK_14  SK_41 Emergency room            14
@@ -198,26 +213,13 @@ changing?  Euro Surveill. 2013 Sep 26;18(39). pii: 20596. PubMed PMID: 24094061.
 #&gt; 6 SK_14 SK_114 Emergency room            15</div><div class='input'>
 </div></pre>
   </div>
-  <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
-    <h2>Contents</h2>
-    <ul class="nav nav-pills nav-stacked">
-      
-      <li><a href="#format">Format</a></li>
-
-      <li><a href="#details">Details</a></li>
-
-      <li><a href="#references">References</a></li>
-      
-      <li><a href="#examples">Examples</a></li>
-    </ul>
-
-    <h2>Author</h2>
-    <p>Data collected by the European Centre for Disease Prevention and Control (Epidemic
-Intelligence and Response section, contact: Bertrand Sudre (<a href='mailto:
-'>bertrand.sudre@ecdc.europa.eu</a>) and Kaja Kaasik Aaslav(<a href='mailto:Kaja.KaasikAaslav@ecdc.europa.eu'>Kaja.KaasikAaslav@ecdc.europa.eu</a>).
-Transfer to R and documentation by Bertrand Sudre (<a href='mailto: bertrand.sudre@ecdc.europa.eu'> bertrand.sudre@ecdc.europa.eu</a>).</p>
+  <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
+    <nav id="toc" data-toggle="toc" class="sticky-top">
+      <h2 data-toc-skip>Contents</h2>
+    </nav>
   </div>
 </div>
+
 
       <footer>
       <div class="copyright">
@@ -225,13 +227,16 @@ Transfer to R and documentation by Bertrand Sudre (<a href='mailto: bertrand.sud
 </div>
 
 <div class="pkgdown">
-  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.3.0.9100.</p>
+  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.6.1.</p>
 </div>
+
       </footer>
    </div>
 
   
 
+
   </body>
 </html>
+
 

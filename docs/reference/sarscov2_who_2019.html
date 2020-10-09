@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Norovirus in a primary school in Derbyshire, England, 2001 — norovirus_derbyshire_2001_school • outbreaks</title>
+<title>SARS-CoV-2 World Health Organization Situation Reports 2019 Outbreak (COVID-19) — sarscov2_who_2019 • outbreaks</title>
 
 
 <!-- jquery -->
@@ -39,9 +39,11 @@
 
 
 
-<meta property="og:title" content="Norovirus in a primary school in Derbyshire, England, 2001 — norovirus_derbyshire_2001_school" />
-<meta property="og:description" content="These data describe an outbreak of norovirus in the summer of 2001 in a primary school and
-nursery in Derbyshire, England." />
+<meta property="og:title" content="SARS-CoV-2 World Health Organization Situation Reports 2019 Outbreak (COVID-19) — sarscov2_who_2019" />
+<meta property="og:description" content="These data are transcribed from the WHO Situation Reports on the COVID-19
+outbreak (SARS-CoV-2). Data was not available for all variables in all 
+reports. For full details, see the original Situation Reports as published 
+by WHO. Data were manually transcribed and errors are possible." />
 
 
 
@@ -112,55 +114,49 @@ nursery in Derbyshire, England." />
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Norovirus in a primary school in Derbyshire, England, 2001</h1>
-    <small class="dont-index">Source: <a href='https://github.com/reconhub/outbreaks/blob/master/R/norovirus_derbyshire_2001_school.R'><code>R/norovirus_derbyshire_2001_school.R</code></a></small>
-    <div class="hidden name"><code>norovirus_derbyshire_2001_school.Rd</code></div>
+    <h1>SARS-CoV-2 World Health Organization Situation Reports 2019 Outbreak (COVID-19)</h1>
+    <small class="dont-index">Source: <a href='https://github.com/reconhub/outbreaks/blob/master/R/sarscov2_who_2019.R'><code>R/sarscov2_who_2019.R</code></a></small>
+    <div class="hidden name"><code>sarscov2_who_2019.Rd</code></div>
     </div>
 
     <div class="ref-description">
-    <p>These data describe an outbreak of norovirus in the summer of 2001 in a primary school and
-nursery in Derbyshire, England.</p>
+    <p>These data are transcribed from the WHO Situation Reports on the COVID-19
+outbreak (SARS-CoV-2). Data was not available for all variables in all 
+reports. For full details, see the original Situation Reports as published 
+by WHO. Data were manually transcribed and errors are possible.</p>
     </div>
 
-    <pre class="usage"><span class='va'>norovirus_derbyshire_2001_school</span></pre>
+    <pre class="usage"><span class='va'>sarscov2_who_2019</span></pre>
 
 
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
-    <p>A data frame with 492 rows and 5 columns
-<dl>
-  <dt>class</dt><dd><p>School class of the child</p></dd>
-  <dt>day_absent</dt><dd><p>First day of absence from school</p></dd>
-  <dt>start_illness</dt><dd><p>First day of illness</p></dd>
-  <dt>end_illness</dt><dd><p>Last day of illnes</p></dd>
-  <dt>day_vomiting</dt><dd><p>Day of vomiting in school</p></dd></dl>The data on norovirus cases were analysed by O'Neill and Marks (2005). As described in the paper, out of a
-total of 492 children in the school, 186 were absent from school with gastrointestinal symptoms.
-The school was cleaned on days 13 and 14, and on days 20 and 21, both of which were weekends,
-and the school was shut on days 18 and 19. Following the second cleaning, there were no further
-absences, although three children reported symptoms on day 22, the last day of the outbreak.</p>
+    <p>A data frame where each row represents a new Situation Report</p>
     <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
 
-    <p>O'Neill and Marks (2005)</p>
+    <p>World Health Organization (2020)</p>
     <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
 
-    <p>O’Neill, P. D., &amp; Marks, P. J. (2005). Bayesian model choice and infection route modelling
-in an outbreak of Norovirus. Statistics in Medicine, 24(13), 2011–24.</p>
+    <p>World Health Organization. 2020. &lt;https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports&gt;</p>
     <h2 class="hasAnchor" id="author"><a class="anchor" href="#author"></a>Author</h2>
 
-    <p>Data from O'Neill and Marks (2005), provided by Philip O'Neill.
-Transfer to R and documentation by Simon Frost (<a href='mailto:sdwfrost@gmail.com'>sdwfrost@gmail.com</a>
-and Finlay Campbell (<a href='mailto:finlaycampbell93@gmail.com'>finlaycampbell93@gmail.com</a>)).</p>
+    <p>Data from World Health Organization (WHO), published as Sitation
+Reports. Transfer to R and documentation by Eric Brown.</p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='co'>## show first few cases</span>
-<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>norovirus_derbyshire_2001_school</span><span class='op'>)</span>
-</div><div class='output co'>#&gt;   class day_absent start_illness end_illness day_vomiting
-#&gt; 1     1         23             0           0            0
-#&gt; 2     1          0             0           0            0
-#&gt; 3     1          0             0           0            0
-#&gt; 4     1          0             0           0            0
-#&gt; 5     1          0             0           0            0
-#&gt; 6     1          0             0           0            0</div><div class='input'>
+    <pre class="examples"><div class='input'><span class='co'>## show global cases</span>
+<span class='va'>sarscov2_who_2019</span><span class='op'>$</span><span class='va'>cases_global</span>
+</div><div class='output co'>#&gt;  [1]     282     314     581     846    1320    2014    2798    4593    6065
+#&gt; [10]    7818    9826   11953   14557   17391   20630   24554   28276   31481
+#&gt; [19]   34886   37558   40554   43103   45171   46997   49053   50580   51857
+#&gt; [28]   71429   73332   75204   75748   76769   77794   78811   79331   80239
+#&gt; [37]   81109   82294   83652   85403   87137   88948   90870   93090   95333
+#&gt; [46]   98192  101927  105586  109578  113702  118326  125048  132758  142539
+#&gt; [55]  153517  167511  179112  191127  209839  234073  266073  292142  332930
+#&gt; [64]  372757  414179  462684  509164  571678  634835  693224  750890  823626
+#&gt; [73]  896450  972303 1051635 1133758 1210956 1279722 1353361 1436198 1521252
+#&gt; [82] 1610909 1696588 1773084 1844863 1914916 1991562 2074529 2160207 2241778
+#&gt; [91] 2314621 2397216</div><div class='input'>
 </div></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">

@@ -8,23 +8,29 @@
 
 <title>Simulated Ebola outbreak — ebola_sim • outbreaks</title>
 
+
 <!-- jquery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <!-- Bootstrap -->
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script>
+
+<!-- bootstrap-toc -->
+<link rel="stylesheet" href="../bootstrap-toc.css">
+<script src="../bootstrap-toc.js"></script>
 
 <!-- Font Awesome icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/all.min.css" integrity="sha256-nAmazAk6vS34Xqo0BSrTb+abbtFlgsFK7NKSi6o7Y78=" crossorigin="anonymous" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/v4-shims.min.css" integrity="sha256-6qHlizsOWFskGlwVOKuns+D1nB6ssZrHQrNj1wGplHc=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/v4-shims.min.css" integrity="sha256-wZjR52fzng1pJHwx4aV2AO3yyTOXrcDW7jBpJtTwVxw=" crossorigin="anonymous" />
 
 <!-- clipboard.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js" integrity="sha256-FiZwavyI2V6+EXO1U+xzLG3IKldpiTFf3153ea9zikQ=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
 
 <!-- headroom.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.4/headroom.min.js" integrity="sha256-DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.4/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/headroom.min.js" integrity="sha256-AsUX4SJE1+yuDu5+mAVzJbuYNPHj/WroHuZ8Ir/CkE0=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script>
 
 <!-- pkgdown -->
 <link href="../pkgdown.css" rel="stylesheet">
@@ -32,12 +38,12 @@
 
 
 
-<meta property="og:title" content="Simulated Ebola outbreak — ebola_sim" />
 
+<meta property="og:title" content="Simulated Ebola outbreak — ebola_sim" />
 <meta property="og:description" content="This simulated outbreak of Ebola Virus Disease matches some key properties of the West African
 Ebola outbreak of 2014-2015. Specifically, care was taken to use realistic delays (incubation
 period, serial interval, time to hospitalisation, etc.) and reproduction number (see references)." />
-<meta name="twitter:card" content="summary" />
+
 
 
 
@@ -51,9 +57,10 @@ period, serial interval, time to hospitalisation, etc.) and reproduction number 
 <![endif]-->
 
 
+
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target="#toc">
     <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -67,7 +74,7 @@ period, serial interval, time to hospitalisation, etc.) and reproduction number 
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">outbreaks</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.7.0</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.9.0</span>
       </span>
     </div>
 
@@ -86,10 +93,9 @@ period, serial interval, time to hospitalisation, etc.) and reproduction number 
   <a href="../news/index.html">Changelog</a>
 </li>
       </ul>
-      
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="https://github.com/reconhub/outbreaks">
+  <a href="https://github.com/reconhub/outbreaks/">
     <span class="fab fa fab fa-github fa-lg"></span>
      
   </a>
@@ -101,6 +107,7 @@ period, serial interval, time to hospitalisation, etc.) and reproduction number 
 </div><!--/.navbar -->
 
       
+
       </header>
 
 <div class="row">
@@ -112,21 +119,20 @@ period, serial interval, time to hospitalisation, etc.) and reproduction number 
     </div>
 
     <div class="ref-description">
-    
     <p>This simulated outbreak of Ebola Virus Disease matches some key properties of the West African
 Ebola outbreak of 2014-2015. Specifically, care was taken to use realistic delays (incubation
 period, serial interval, time to hospitalisation, etc.) and reproduction number (see references).</p>
-    
     </div>
 
-    <pre class="usage"><span class='no'>ebola_sim</span>
+    <pre class="usage"><span class='va'>ebola_sim</span>
 
-<span class='no'>ebola_sim_clean</span></pre>
-        
+<span class='va'>ebola_sim_clean</span></pre>
+
+
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
     <p>An object of class <code>list</code> of length 2.</p>
-    
+<p>An object of class <code>list</code> of length 2.</p>
     <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
     <p>This dataset is used for teaching purposes during Imperial College's short course on infectious
@@ -136,7 +142,6 @@ in a single large city, and evaluate the impact of an intervention (increased be
 identified as negative incubation periods (delay from infection to onset of symptoms). See
 example for a simple way to identify these cases. The dataset <code>ebola_sim_clean</code> is the same
 dataset, only dates of infection and onset have been set to 'NA'.</p>
-    
     <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
 
     <p>WHO Ebola Response Team. 2014. Ebola virus disease in West Africa--the first 9 months
@@ -148,15 +153,20 @@ R. Krishnan, S. Meijers, H. L. Mills, Y. Mohamed, G. Nedjati-Gilani, E. Newton, 
 L. Pelletier, D. Perkins, S. Riley, M. Sagrado, J. Schnitzler, D. Schumacher, A. Shah, M. D. Van
 Kerkhove, O. Varsaneux, and N. Wijekoon Kannangarage. 2015. West African Ebola epidemic after one
 year--slowing but not yet under control. The New England journal of medicine 372:584–587.</p>
-    
+    <h2 class="hasAnchor" id="author"><a class="anchor" href="#author"></a>Author</h2>
+
+    <p>Data simulated by Pierre Nouvellet (<a href='mailto:p.nouvellet@imperial.ac.uk'>p.nouvellet@imperial.ac.uk</a>). Transfer to R
+and documentation by Thibaut Jombart (<a href='mailto:thibautjombart@gmail.com'>thibautjombart@gmail.com</a>).</p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'><span class='co'>## identify mistakes in data entry (negative incubation period)</span>
-<span class='no'>mistakes</span> <span class='kw'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/which.html'>which</a></span>(<span class='no'>ebola_sim</span>$<span class='no'>linelist</span>$<span class='no'>date_of_onset</span> <span class='kw'>&lt;=</span> <span class='no'>ebola_sim</span>$<span class='no'>linelist</span>$<span class='no'>date_of_infection</span>)
-<span class='no'>mistakes</span></div><div class='output co'>#&gt;  [1]   46   63  110  219  326  364  385  469  694  708  721  728  748  769  919
+<span class='va'>mistakes</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/which.html'>which</a></span><span class='op'>(</span><span class='va'>ebola_sim</span><span class='op'>$</span><span class='va'>linelist</span><span class='op'>$</span><span class='va'>date_of_onset</span> <span class='op'>&lt;=</span> <span class='va'>ebola_sim</span><span class='op'>$</span><span class='va'>linelist</span><span class='op'>$</span><span class='va'>date_of_infection</span><span class='op'>)</span>
+<span class='va'>mistakes</span>
+</div><div class='output co'>#&gt;  [1]   46   63  110  219  326  364  385  469  694  708  721  728  748  769  919
 #&gt; [16]  998 1097 1119 1216 1267 1305 1395 1469 1514 1597 1663 1692 1744 1766 1808
 #&gt; [31] 1959 2133 2241 2315 2855 2859 2941 3306 3642 3659 3699 3704 3730 3754 3787
-#&gt; [46] 3946 3994 4203 4262 4273 4686 4772 4881 4916 4993 5031 5097 5311 5815</div><div class='input'><span class='no'>ebola_sim</span>$<span class='no'>linelist</span>[<span class='no'>mistakes</span>, ]</div><div class='output co'>#&gt;      case_id generation date_of_infection date_of_onset date_of_hospitalisation
+#&gt; [46] 3946 3994 4203 4262 4273 4686 4772 4881 4916 4993 5031 5097 5311 5815</div><div class='input'><span class='va'>ebola_sim</span><span class='op'>$</span><span class='va'>linelist</span><span class='op'>[</span><span class='va'>mistakes</span>, <span class='op'>]</span>
+</div><div class='output co'>#&gt;      case_id generation date_of_infection date_of_onset date_of_hospitalisation
 #&gt; 46    3f1aaf          4        2014-05-18    2014-05-18              2014-05-25
 #&gt; 63    ce9c02          5        2014-05-27    2014-05-27              2014-05-29
 #&gt; 110   700e84          6        2014-06-10    2014-06-10              2014-06-16
@@ -337,27 +347,17 @@ year--slowing but not yet under control. The New England journal of medicine 372
 #&gt; 5312                           Connaught Hospital -13.26148 8.465018
 #&gt; 5816                                        other -13.21062 8.451409</div><div class='input'>
 <span class='co'>## check that ebola_sim_clean is identical after removing mistakes</span>
-<span class='fu'><a href='https://rdrr.io/r/base/identical.html'>identical</a></span>(<span class='no'>ebola_sim_clean</span>$<span class='no'>linelist</span>, <span class='no'>ebola_sim</span>$<span class='no'>linelist</span>[-<span class='no'>mistakes</span>, ])</div><div class='output co'>#&gt; [1] FALSE</div><div class='input'>
+<span class='fu'><a href='https://rdrr.io/r/base/identical.html'>identical</a></span><span class='op'>(</span><span class='va'>ebola_sim_clean</span><span class='op'>$</span><span class='va'>linelist</span>, <span class='va'>ebola_sim</span><span class='op'>$</span><span class='va'>linelist</span><span class='op'>[</span><span class='op'>-</span><span class='va'>mistakes</span>, <span class='op'>]</span><span class='op'>)</span>
+</div><div class='output co'>#&gt; [1] FALSE</div><div class='input'>
 </div></pre>
   </div>
-  <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
-    <h2>Contents</h2>
-    <ul class="nav nav-pills nav-stacked">
-      
-      <li><a href="#format">Format</a></li>
-
-      <li><a href="#details">Details</a></li>
-
-      <li><a href="#references">References</a></li>
-      
-      <li><a href="#examples">Examples</a></li>
-    </ul>
-
-    <h2>Author</h2>
-    <p>Data simulated by Pierre Nouvellet (<a href='mailto:p.nouvellet@imperial.ac.uk'>p.nouvellet@imperial.ac.uk</a>). Transfer to R
-and documentation by Thibaut Jombart (<a href='mailto:thibautjombart@gmail.com'>thibautjombart@gmail.com</a>).</p>
+  <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
+    <nav id="toc" data-toggle="toc" class="sticky-top">
+      <h2 data-toc-skip>Contents</h2>
+    </nav>
   </div>
 </div>
+
 
       <footer>
       <div class="copyright">
@@ -365,13 +365,16 @@ and documentation by Thibaut Jombart (<a href='mailto:thibautjombart@gmail.com'>
 </div>
 
 <div class="pkgdown">
-  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.3.0.9100.</p>
+  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.6.1.</p>
 </div>
+
       </footer>
    </div>
 
   
 
+
   </body>
 </html>
+
 

@@ -8,23 +8,29 @@
 
 <title>Ebola in Sierra Leone, 2014 — ebola_sierraleone_2014 • outbreaks</title>
 
+
 <!-- jquery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <!-- Bootstrap -->
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script>
+
+<!-- bootstrap-toc -->
+<link rel="stylesheet" href="../bootstrap-toc.css">
+<script src="../bootstrap-toc.js"></script>
 
 <!-- Font Awesome icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/all.min.css" integrity="sha256-nAmazAk6vS34Xqo0BSrTb+abbtFlgsFK7NKSi6o7Y78=" crossorigin="anonymous" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/v4-shims.min.css" integrity="sha256-6qHlizsOWFskGlwVOKuns+D1nB6ssZrHQrNj1wGplHc=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/v4-shims.min.css" integrity="sha256-wZjR52fzng1pJHwx4aV2AO3yyTOXrcDW7jBpJtTwVxw=" crossorigin="anonymous" />
 
 <!-- clipboard.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js" integrity="sha256-FiZwavyI2V6+EXO1U+xzLG3IKldpiTFf3153ea9zikQ=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
 
 <!-- headroom.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.4/headroom.min.js" integrity="sha256-DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.4/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/headroom.min.js" integrity="sha256-AsUX4SJE1+yuDu5+mAVzJbuYNPHj/WroHuZ8Ir/CkE0=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script>
 
 <!-- pkgdown -->
 <link href="../pkgdown.css" rel="stylesheet">
@@ -32,11 +38,11 @@
 
 
 
-<meta property="og:title" content="Ebola in Sierra Leone, 2014 — ebola_sierraleone_2014" />
 
+<meta property="og:title" content="Ebola in Sierra Leone, 2014 — ebola_sierraleone_2014" />
 <meta property="og:description" content="These data consist of confirmed and suspected cases of Ebola haemorrhagic
 fever in Sierra Leone from 2014 to 2015." />
-<meta name="twitter:card" content="summary" />
+
 
 
 
@@ -50,9 +56,10 @@ fever in Sierra Leone from 2014 to 2015." />
 <![endif]-->
 
 
+
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target="#toc">
     <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -66,7 +73,7 @@ fever in Sierra Leone from 2014 to 2015." />
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">outbreaks</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.7.0</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.9.0</span>
       </span>
     </div>
 
@@ -85,10 +92,9 @@ fever in Sierra Leone from 2014 to 2015." />
   <a href="../news/index.html">Changelog</a>
 </li>
       </ul>
-      
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="https://github.com/reconhub/outbreaks">
+  <a href="https://github.com/reconhub/outbreaks/">
     <span class="fab fa fab fa-github fa-lg"></span>
      
   </a>
@@ -100,6 +106,7 @@ fever in Sierra Leone from 2014 to 2015." />
 </div><!--/.navbar -->
 
       
+
       </header>
 
 <div class="row">
@@ -111,18 +118,17 @@ fever in Sierra Leone from 2014 to 2015." />
     </div>
 
     <div class="ref-description">
-    
     <p>These data consist of confirmed and suspected cases of Ebola haemorrhagic
 fever in Sierra Leone from 2014 to 2015.</p>
-    
     </div>
 
-    <pre class="usage"><span class='no'>ebola_sierraleone_2014</span></pre>
-        
+    <pre class="usage"><span class='va'>ebola_sierraleone_2014</span></pre>
+
+
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
     <p>A data frame with 11,903 rows and 8 columns
-<dl class='dl-horizontal'>
+<dl>
   <dt>id</dt><dd><p>Case ID</p></dd>
   <dt>age</dt><dd><p>Age</p></dd>
   <dt>sex</dt><dd><p>Sex</p></dd>
@@ -130,26 +136,26 @@ fever in Sierra Leone from 2014 to 2015.</p>
   <dt>date_of_onset</dt><dd><p>Date of symptom onset</p></dd>
   <dt>date_of_sample</dt><dd><p>Date of sample testing</p></dd>
   <dt>district</dt><dd><p>District</p></dd>
-  <dt>chiefdom</dt><dd><p>Chiefdom</p></dd>
-</dl>
-    The linelist data reported by Fang et al. (2016) cover the period 2014-05-18
+  <dt>chiefdom</dt><dd><p>Chiefdom</p></dd></dl>The linelist data reported by Fang et al. (2016) cover the period 2014-05-18
 to 2015-09-13, over which time there were 8538 confirmed cases and 3545
 suspected cases.</p>
-    
     <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
 
     <p>Fang et al. (2016)</p>
-    
     <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
 
     <p>L. Fang, et al. 2016. Ebola virus disease in Sierra Leone. Proceedings of the
 National Academy of Sciences, 113 (16) 4488-4493; DOI:
 10.1073/pnas.1518587113</p>
-    
+    <h2 class="hasAnchor" id="author"><a class="anchor" href="#author"></a>Author</h2>
+
+    <p>Data from Fang et al. (2016) Transfer to R and documentation by Finlay
+  Campbell (<a href='mailto:finlaycampbell93@gmail.com'>finlaycampbell93@gmail.com</a>).</p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'><span class='co'>## show first few cases</span>
-<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span>(<span class='no'>ebola_sierraleone_2014</span>)</div><div class='output co'>#&gt;   id age sex    status date_of_onset date_of_sample district    chiefdom
+<span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>ebola_sierraleone_2014</span><span class='op'>)</span>
+</div><div class='output co'>#&gt;   id age sex    status date_of_onset date_of_sample district    chiefdom
 #&gt; 1  1  20   F confirmed    2014-05-18     2014-05-23 Kailahun  Kissi Teng
 #&gt; 2  2  42   F confirmed    2014-05-20     2014-05-25 Kailahun  Kissi Teng
 #&gt; 3  3  45   F confirmed    2014-05-20     2014-05-25 Kailahun Kissi Tonge
@@ -158,24 +164,13 @@ National Academy of Sciences, 113 (16) 4488-4493; DOI:
 #&gt; 6  6  55   F confirmed    2014-05-21     2014-05-26 Kailahun  Kissi Teng</div><div class='input'>
 </div></pre>
   </div>
-  <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
-    <h2>Contents</h2>
-    <ul class="nav nav-pills nav-stacked">
-      
-      <li><a href="#format">Format</a></li>
-
-      <li><a href="#source">Source</a></li>
-
-      <li><a href="#references">References</a></li>
-      
-      <li><a href="#examples">Examples</a></li>
-    </ul>
-
-    <h2>Author</h2>
-    <p>Data from Fang et al. (2016) Transfer to R and documentation by Finlay
-  Campbell (<a href='mailto:finlaycampbell93@gmail.com'>finlaycampbell93@gmail.com</a>).</p>
+  <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
+    <nav id="toc" data-toggle="toc" class="sticky-top">
+      <h2 data-toc-skip>Contents</h2>
+    </nav>
   </div>
 </div>
+
 
       <footer>
       <div class="copyright">
@@ -183,13 +178,16 @@ National Academy of Sciences, 113 (16) 4488-4493; DOI:
 </div>
 
 <div class="pkgdown">
-  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.3.0.9100.</p>
+  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.6.1.</p>
 </div>
+
       </footer>
    </div>
 
   
 
+
   </body>
 </html>
+
 
