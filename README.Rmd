@@ -38,7 +38,6 @@ if(!require(printr)) warning("printr is not installed; displaying the content of
 data(package="outbreaks")
 ```
 
-
 <br>
 
 # Installing the package
