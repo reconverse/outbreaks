@@ -15,7 +15,7 @@ Description: Empirical or simulated disease outbreak data, provided either as
     RData or as text files.
 Depends:
     R (>= 3.0.0)
-License: GPL (>=2)
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
